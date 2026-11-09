@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 64 ч / 46 ч |
 | Время на 100% по гайду | 110-140 (est.: 60-80 SP + Undead Nightmare per PowerPyx remaster, plus MP rank 50, co-op and DLC MP) ч |
 | Сложность по гайду | 5/10 (est.; PowerPyx rates the offline-only remaster 4/10) |
-| Онлайн-сервера | 🟢 работают No shutdown of RDR PS3 multiplayer has been announced as of Nov 2026 (Rockstar kept it running after the 2014 GameSpy shutdown); PSNProfiles shows PS3 trophy activity in 2025-2026. Low population - boosting group needed. Not officially confirmed. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Мультиплеер RDR на PS3 работает: на Stratege платины (для неё нужны MP-трофеи) получали ещё 29.07, 07.09, 16.09, 03.10 и 06.10.2026, есть и видео онлайн-игры на PS3 от 10.05.2026. Rockstar о закрытии ничего не объявляла. Игроков мало, кооп и Free Roam проще делать со своей бустинг-группой. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |

@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 34 ч / 3.6 ч |
 | Время на 100% по гайду | 30-40 (PlatPrices); Stratege average 56 ч |
 | Сложность по гайду | 4/10 |
-| Онлайн-сервера | 🟢 работают Online ranked trophies already earned; Stratege shows PS4 platinums earned through Oct 2026, so online appears functional. Not formally verified. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Объявлений Bandai Namco о закрытии онлайна PS4-версии нет; платины PS4 на Stratege (требуют рейтинговых побед, а «Which name shall I use?» — титулов за 50 рейтинговых побед и 20 поражений) получены 16.08–07.10.2026. Онлайн почти пуст — нужен напарник для бустинга. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |

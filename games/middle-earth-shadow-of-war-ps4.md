@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 58 ч / 1 ч |
 | Время на 100% по гайду | 40-50 base (PowerPyx) + ~15-18 both story DLCs ч |
 | Сложность по гайду | 3.5/10 |
-| Онлайн-сервера | 🟢 работают No Shadow of War shutdown found (only Shadow of Mordor servers closed Jan 2021); PowerPyx comments 2021-2025 report online rank trophy still obtainable; unverified for late 2026 |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Онлайн-завоевания и вендетты работают: в сентябре 2026 игроки (в т.ч. на PS5 с PS4-версией) встречают чужие крепости в онлайне, совет на Stratege от 17.10.2025 про «Such Great Heights» через сетевые завоевания, платины PS4 до 31.10.2026. Monolith закрыта в 2025, но серверы WB работают; «Elven Conquest» требует DLC «Blade of Galadriel». |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |

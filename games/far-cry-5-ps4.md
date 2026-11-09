@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 54 ч / 1 ч |
 | Время на 100% по гайду | 48-60 ч |
 | Сложность по гайду | 2/10 (DLC 2-5/10) |
-| Онлайн-сервера | 🟢 работают Far Cry 5 online (co-op/Arcade) not known to be decommissioned as of late 2026 (not verified on Ubisoft's JS-only decommission page). Arcade trophies already earned; only online co-op 'Hitting it Off' remains. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Признаков отключения кооператива Far Cry 5 нет: в новостях о списаниях Ubisoft FC5 не фигурирует, а платины PS4 (требуют кооп-трофей «Hitting it Off») на Stratege получают вплоть до 07.11.2026. Официальный список Ubisoft проверить не удалось (сайт недоступен из этой сети); случайных напарников мало — нужен друг с игрой. |
 | Наиграно (PSN) | 6.5 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | high |

@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 34 ч / 21 ч |
 | Время на 100% по гайду | 60-70 ч |
 | Сложность по гайду | 8/10 (PlatPrices lists 10/10) |
-| Онлайн-сервера | 🟢 работают No Capcom shutdown announced for UMvC3 online (PS3/PS4) as of Nov 2026; P2P matchmaking via PSN still works but population is tiny (community moved to PC/Parsec) - arrange a boosting partner. Unconfirmed by official status page. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Официального закрытия нет, матчи идут P2P через PSN. Последняя платина на Stratege (нужны 100 побед в ранкеде) получена 21.03.2025, а на PC онлайн-матчи работали в мае 2026. Игроков на PS4 почти нет, нужен партнёр для буста. |
 | Наиграно (PSN) | 45 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |

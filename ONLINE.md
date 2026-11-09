@@ -2,17 +2,16 @@
 
 Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-09) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
 
-**Итого:** 103 трофея в 18 играх, ~233 ч.
+**Итого:** 146 трофеев в 18 играх, ~274 ч.
 
 | Игра | Платформа | Не выбито онлайн | ~ч | Сервера |
 |---|---|---|---:|---|
 | [HITMAN 2](games/hitman-2-ps4.md) | PS4 | **1**: Top of the Class | 0.2 | 🟡 частично |
-| [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps4.md) | PS4 | **1**: Intruder | 0.5 | 🟢 работают |
-| [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) | PS4 | **1**: Exorcist | 0.5 | ⚪ неизвестно |
+| [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps4.md) | PS4 | **1**: Intruder | 0.5 | 🟡 частично |
+| [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) | PS4 | **1**: Exorcist | 0.5 | 🟢 работают |
 | [Titanfall 2](games/titanfall-2-ps4.md) | PS4 | **1**: Free Association | 0.5 | 🟢 работают |
 | [Far Cry 5](games/far-cry-5-ps4.md) | PS4 | **1**: Hitting it Off | 1 | 🟢 работают |
 | [Middle-earth: Shadow of War](games/middle-earth-shadow-of-war-ps4.md) | PS4 | **2**: Such Great Heights, Elven Conquest | 1 | 🟢 работают |
-| [Need for Speed](games/need-for-speed-ps4.md) | PS4 | **1**: Speed Master | 1 | 🟢 работают |
 | [Sniper Elite V2 Remastered](games/sniper-elite-v2-remastered-ps4.md) | PS4 | **2**: Target Eliminated!, Can Do! | 2.1 | 🟢 работают |
 | [Journey](games/journey-ps4.md) | PS4 | **3**: Crossing, Companion, Wonder | 2.5 | 🟢 работают |
 | [Uncharted 4: A Thief’s End](games/uncharted-4-a-thiefs-end-ps4.md) | PS4 | **1**: Trials by Fire | 3 | 🟢 работают |
@@ -22,12 +21,13 @@
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | **8**: Seductive Embrace, Rivals Welcome, Hellbent, Dreaded Opponent, Forged From Steel, Mega Good и ещё 2 | 21 | 🟢 работают |
 | [F1 2017](games/f1-2017-ps4.md) | PS4 | **2**: Competitive Streak, Another lap? | 30 | 🟢 работают |
 | [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | **17**: Knowing the Basics, Populace, Firefly, Hunter, Wharf, Capitol и ещё 11 | 39 | 🟢 работают |
+| [Need for Speed](games/need-for-speed-ps4.md) | PS4 | **44**: Platinum Trophy, Early Days, Getting Noticed, Can I Get Your Autograph?, Guidance From Amy, RWB и ещё 38 | 42 | 🟢 работают |
 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) | PS3 | **35**: Have Gun Will Travel, Slow on the Draw, Hit the Trail, The Quick and Everyone Else..., How the West Was Won, Go Team! и ещё 29 | 46 | 🟢 работают |
 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) | PS4 | **17**: Breakout, Series Major, Gun For Hire, Eventful, Buckle Up, The Real Deal и ещё 11 | 67 | 🟢 работают |
 
 ## HITMAN 2 · PS4 — 1 трофей
 
-Сервера: 🟡 частично Main HITMAN 2 servers (progression, contracts, escalations) still online - no shutdown announced as of 2026 (unverified); Ghost Mode closed 2020-08-31, Sniper Assassin co-op closed before HITMAN 3 (Jan 2021); co-op trophies already earned. Game + DLC delisted Jan 2023
+Сервера: 🟡 частично Проверено 09.11.2026: Закрыты Ghost Mode (31.08.2020) и онлайн-кооп Sniper Assassin (до выхода HITMAN 3). Основной сервер HITMAN 2 для PS4 (ps42-service.hitman.io) отвечал 09.11.2026, а все базовые трофеи, включая контракты, на Stratege собирали до 30.08.2026. Значит, контракты и их таблицы рекордов работают. (на 2020-08-31) ([источник](https://hitmanstat.us/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -37,7 +37,7 @@
 
 ## METAL GEAR SOLID V: THE PHANTOM PAIN · PS4 — 1 трофей
 
-Сервера: 🟢 работают PS4 FOB/online still running (only PS3/X360 closed 31 May 2022 per Konami/GameSpot); no PS4 shutdown found, not re-verified for late 2026.
+Сервера: 🟡 частично Проверено 09.11.2026: Официальная страница статуса Konami (проверено 09.11.2026) показывает серверы TPP+FOB для PS4 как «работают», платины PS4 на Stratege идут до 25.10.2026 — FOB в мире жив. НО с 15.06.2026 Konami отключила онлайн MGSV для России и Беларуси на всех платформах (блок по IP; сообщают и о банах аккаунтов) — из РФ/РБ «Intruder» без смены сети не получить. (на 2026-06-15) ([источник](https://www.konami.com/mg/mgs5/tpp/jp/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -47,7 +47,7 @@
 
 ## PROJECT CARS PERFECT EDITION · PS4 — 1 трофей
 
-Сервера: ⚪ неизвестно Game delisted in 2022; Project CARS 3 servers closed 24 Feb 2026; no confirmation found for PC1 PS4 leaderboards. Other online trophies already earned; only Exorcist depends on it.
+Сервера: 🟢 работают Проверено 09.11.2026: О закрытии онлайна Project CARS 1 не объявлялось: закрыт только Project CARS 3 (24.02.2026), а EA лишь убрала PC1 из EA Play в 2022. По данным PSNProfiles из поиска, Exorcist открывали в 2026 году (последний — около 29.09.2026), последняя платина на Stratege — 23.12.2025. Прямого подтверждения, что лидерборды PS4 грузятся, нет, уверенность средняя. ([источник](https://psnprofiles.com/trophy/3543-project-cars/43-exorcist))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -57,7 +57,7 @@
 
 ## Titanfall 2 · PS4 — 1 трофей
 
-Сервера: 🟢 работают No shutdown announced for Titanfall 2 (only Titanfall 1 was shut down, Mar 2022); Respawn patched TF2 exploits; a Feb 2026 article says no shutdown planned. Medium confidence.
+Сервера: 🟢 работают Проверено 09.11.2026: Официальные серверы Titanfall 2 работают: в актуальном списке закрытий EA (с записями до декабря 2026) TF2 нет, в октябре 2026 к 10-летию писали, что игра по-прежнему на своих серверах, а на Stratege платины PS4 (требуют «Free Association») получают в окт. 2026. Закрыт только первый Titanfall (2022). ([источник](https://vgtimes.com/gaming-news/172638-titanfall-2-turns-10-but-its-anniversary-rewards-are-in-apex-legends.html))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -67,7 +67,7 @@
 
 ## Far Cry 5 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Far Cry 5 online (co-op/Arcade) not known to be decommissioned as of late 2026 (not verified on Ubisoft's JS-only decommission page). Arcade trophies already earned; only online co-op 'Hitting it Off' remains.
+Сервера: 🟢 работают Проверено 09.11.2026: Признаков отключения кооператива Far Cry 5 нет: в новостях о списаниях Ubisoft FC5 не фигурирует, а платины PS4 (требуют кооп-трофей «Hitting it Off») на Stratege получают вплоть до 07.11.2026. Официальный список Ubisoft проверить не удалось (сайт недоступен из этой сети); случайных напарников мало — нужен друг с игрой. ([источник](https://stratege.ru/ps4/games/far_cry_5/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -77,7 +77,7 @@
 
 ## Middle-earth: Shadow of War · PS4 — 2 трофея
 
-Сервера: 🟢 работают No Shadow of War shutdown found (only Shadow of Mordor servers closed Jan 2021); PowerPyx comments 2021-2025 report online rank trophy still obtainable; unverified for late 2026
+Сервера: 🟢 работают Проверено 09.11.2026: Онлайн-завоевания и вендетты работают: в сентябре 2026 игроки (в т.ч. на PS5 с PS4-версией) встречают чужие крепости в онлайне, совет на Stratege от 17.10.2025 про «Such Great Heights» через сетевые завоевания, платины PS4 до 31.10.2026. Monolith закрыта в 2025, но серверы WB работают; «Elven Conquest» требует DLC «Blade of Galadriel». ([источник](https://steamcommunity.com/app/356190/discussions/0/567045939002777415/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -86,19 +86,9 @@
 
 [Страница игры →](games/middle-earth-shadow-of-war-ps4.md)
 
-## Need for Speed · PS4 — 1 трофей
-
-Сервера: 🟢 работают Official EA servers still running as of Oct 2026 (ixbt.games, 17 Oct 2026: fans built a server emulator for a future shutdown; no EA date announced). Risky: EA closed NFS Rivals PS4 in Oct 2025. The game is always-online.
-
-| | Трофей | Описание | Вид | ~ч |
-|---|---|---|---|---:|
-| 🥉 | Speed Master | Win all the events in a Speedlist | MP | 1 |
-
-[Страница игры →](games/need-for-speed-ps4.md)
-
 ## Sniper Elite V2 Remastered · PS4 — 2 трофея
 
-Сервера: 🟢 работают No shutdown announcement found for Rebellion's V2 Remastered co-op (not verified for 2026). Co-op is online-only on PS4 per Co-Optimus.
+Сервера: 🟢 работают Проверено 09.11.2026: Объявлений о закрытии онлайна V2 Remastered нет; кооп идёт через матчмейкинг PSN, а платины PS4 (требуют кооп-трофеи «Can Do!» и «Target Eliminated!») на Stratege получают в сент.–окт. 2026. Прямых свежих отчётов «кооп работает» не найдено — уверенность средняя, нужен напарник. ([источник](https://stratege.ru/ps4/games/sniper_elite_v2_remastered/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -109,7 +99,7 @@
 
 ## Journey · PS4 — 3 трофея
 
-Сервера: 🟢 работают No shutdown of Journey PS4 matchmaking announced by Sony/thatgamecompany (searches Nov 2026); PlatPursuit lists no known trophy issues. PS Plus may be required for online.
+Сервера: 🟢 работают Проверено 09.11.2026: Journey нет в официальном списке Sony закрытых серверов (там есть flOw, но не Journey), а на Stratege 100% (требуют трофеи с компаньонами) получают 06–07.11.2026. Игроков мало: по отчёту ноября 2024 «Wonder» потребовал ~20 ч ожидания. ([источник](https://www.playstation.com/en-us/legal/gameservers/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -121,7 +111,7 @@
 
 ## Uncharted 4: A Thief’s End · PS4 — 1 трофей
 
-Сервера: 🟢 работают No UC4 PS4 MP shutdown announced as of late 2026 (only PS3 UC2/UC3/TLoU servers closed 2019-09-03); P2P MP. PS5/PC Legacy of Thieves has no MP.
+Сервера: 🟢 работают Проверено 09.11.2026: Мультиплеер UC4 на PS4 не закрыт: его нет в официальном списке Sony закрытых серверов (там только PS3-версии UC2/UC3/TLoU), а совет на Stratege от 04.05.2026 описывает прохождение испытаний. Испытания (Trials) — соло против ИИ, но через меню мультиплеера (нужны онлайн и PS Plus). ([источник](https://www.playstation.com/en-us/legal/gameservers/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -131,7 +121,7 @@
 
 ## F1 2019 · PS4 — 1 трофей
 
-Сервера: 🟢 работают No F1 2019 shutdown on EA closure lists found (EA closed F1 2011-2014 on 21 Mar 2024 only); not directly verified. Online-race/league trophies already earned.
+Сервера: 🟢 работают Проверено 09.11.2026: F1 2019 нет в списке закрытий EA (актуален по декабрь 2026), онлайн у F1 2015+ работает. Платину на PS4, куда входит Around the World (time trial на всех трассах), получали ещё 09.06.2025, а PC-гайд, обновлённый в марте 2026, описывает работающие лиги и ранкед. ([источник](https://www.ea.com/legal/service-updates/a-h))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -141,7 +131,7 @@
 
 ## NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Online ranked trophies already earned; Stratege shows PS4 platinums earned through Oct 2026, so online appears functional. Not formally verified.
+Сервера: 🟢 работают Проверено 09.11.2026: Объявлений Bandai Namco о закрытии онлайна PS4-версии нет; платины PS4 на Stratege (требуют рейтинговых побед, а «Which name shall I use?» — титулов за 50 рейтинговых побед и 20 поражений) получены 16.08–07.10.2026. Онлайн почти пуст — нужен напарник для бустинга. ([источник](https://stratege.ru/ps4/games/naruto_shippuden_ultimate_ninja_storm_2/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -151,7 +141,7 @@
 
 ## ULTIMATE MARVEL VS. CAPCOM 3 · PS3 — 8 трофеев
 
-Сервера: 🟢 работают No Capcom shutdown announced for UMvC3 online (PS3/PS4) as of Nov 2026; P2P matchmaking via PSN still works but population is tiny (community moved to PC/Parsec) - arrange a boosting partner. Unconfirmed by official status page.
+Сервера: 🟢 работают Проверено 09.11.2026: На PS3 ранкед до сих пор работает: платины (нужны 100 побед в Ranked Match и 30 часов онлайна) получали 01.05.2025, 17.09.2025 и 30.04.2026 (Stratege). Capcom закрытие не объявляла, но игроков почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps3/games/ultimate_marvel_vs_capcom_3/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -168,7 +158,7 @@
 
 ## ULTIMATE MARVEL VS. CAPCOM 3 · PS4 — 8 трофеев
 
-Сервера: 🟢 работают No Capcom shutdown announced for UMvC3 online (PS3/PS4) as of Nov 2026; P2P matchmaking via PSN still works but population is tiny (community moved to PC/Parsec) - arrange a boosting partner. Unconfirmed by official status page.
+Сервера: 🟢 работают Проверено 09.11.2026: Официального закрытия нет, матчи идут P2P через PSN. Последняя платина на Stratege (нужны 100 побед в ранкеде) получена 21.03.2025, а на PC онлайн-матчи работали в мае 2026. Игроков на PS4 почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps4/games/ultimate_marvel_vs_capcom_3/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -185,7 +175,7 @@
 
 ## F1 2017 · PS4 — 2 трофея
 
-Сервера: 🟢 работают F1 2017 is not on EA's Online Services Shutdown list (ea.com/legal/service-updates, checked Nov 2026; only F1 2011-2014 closed 21 Mar 2024). Online population very low.
+Сервера: 🟢 работают Проверено 09.11.2026: F1 2017 нет в официальном списке закрытий EA: он актуален по декабрь 2026, а из F1 в нём закрыты только 2011–2014 (21.03.2024). По Википедии, самая старая F1 с работающими серверами — F1 2015. Платины с онлайн-рангом 25 и Champion Star получали до 10.09.2025. Живых лобби почти нет, нужен буст. ([источник](https://www.ea.com/legal/service-updates/a-h))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -196,7 +186,7 @@
 
 ## The Last of Us Remastered · PS4 — 17 трофеев
 
-Сервера: 🟢 работают PS4 Factions still online in 2026 (no shutdown announced; PS3 servers closed 3 Sep 2019 only). Low population; DLC map/Interrogation playlists may be slow.
+Сервера: 🟢 работают Проверено 09.11.2026: Factions в TLOU Remastered (PS4) работает: в статье GameGPU от 29.04.2026 пишут, что серверы полностью работают и матчи находятся быстро. Naughty Dog закрытие не анонсировала, в обзорах отключений за август–декабрь 2026 игры нет. Закрыт был только PS3 (03.09.2019). Нужен PS Plus. ([источник](https://en.gamegpu.com/news/igry/multipleernyj-rezhim-the-last-of-us-sokhranyaet-onlajn-spustya-13-let))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -220,9 +210,62 @@
 
 [Страница игры →](games/the-last-of-us-remastered-ps4.md)
 
+## Need for Speed · PS4 — 44 трофея
+
+Сервера: 🟢 работают Проверено 09.11.2026: Серверы NFS (2015) работают: платину на PS4 получали 19.10, 22.10, 26.10 и 06.11.2026 (Stratege), а без серверов игра даже не запускается. Игры нет в списке закрытий EA, TechTimes (17.10.2026) пишет, что даты закрытия нет. Риск остаётся: Rivals EA закрыла 07.10.2025, так что платину лучше не откладывать. ([источник](https://www.stratege.ru/ps4/games/need_for_speed/trophies))
+
+| | Трофей | Описание | Вид | ~ч |
+|---|---|---|---|---:|
+| 🏆 | Platinum Trophy | Earn all Need for Speed™ Trophies | always-online |  |
+| 🥈 | Early Days | Reach REP Level 10 | always-online |  |
+| 🥈 | Getting Noticed | Reach REP Level 25 | always-online |  |
+| 🥇 | Can I Get Your Autograph? | Reach REP Level 50 | always-online |  |
+| 🥉 | Guidance From Amy | Compete against Amy's high horsepower contacts | always-online | 1 |
+| 🥈 | RWB | Meet the legendary builder Nakai-San | always-online | 1.5 |
+| 🥈 | Iconic Builder | Become a Build Icon | always-online | 2 |
+| 🥉 | I Am Speed | Beat Magnus' record time | always-online | 1 |
+| 🥈 | Urban Outlaw | Beat Magnus' personal challenge | always-online | 1.5 |
+| 🥈 | Fulfilling The Need | Become a Speed Icon | always-online | 1.5 |
+| 🥈 | The Hoonigan | Become a Style Icon | always-online | 1.5 |
+| 🥈 | Single Take Star | Complete a single-take of Ken's Gymkhana | always-online | 1 |
+| 🥉 | Unstoppable | Beat the Outlaw's "2 roadblocks in a pursuit" challenge | always-online | 0.5 |
+| 🥈 | Surprised? Me Neither | Uncover the truth about the Outlaw | always-online | 1 |
+| 🥈 | Above The Law | Become an Outlaw Icon | always-online | 1 |
+| 🥉 | One For All... | Find yourself a crew | always-online | 0.5 |
+| 🥈 | Choo Choo! | Complete the drift train mission with the Risky Devil crew | always-online | 0.5 |
+| 🥈 | ... And All For One | Reach the top with your crew | always-online | 1 |
+| 🥇 | The Ultimate Icon | Become the Ultimate Icon | always-online | 0.5 |
+| 🥉 | Tuned For Excellence | Win any event with a tuned car | always-online |  |
+| 🥈 | Beyond Extreme | Tune a car to max drift or grip settings | always-online | 0.1 |
+| 🥈 | Triple Crown | Win three events in a row | always-online |  |
+| 🥈 | Social Scene | Get called out by other racers 50 times for your skills | always-online |  |
+| 🥈 | Full House | Fill each spot in your garage | always-online | 1 |
+| 🥈 | Building Your stable | Purchase another car for your garage | always-online |  |
+| 🥇 | Serious Fun | Complete 15 daily challenges | always-online | 3 |
+| 🥉 | No Filter | Take your first snapshot | always-online |  |
+| 🥈 | That Perfect Moment | Max out all 5 scoring styles in a single moment | always-online |  |
+| 🥈 | Full Power | Equip top end performance parts to each category of a car | always-online | 0.5 |
+| 🥉 | Training Wheels Off | Learn to drive with style | always-online |  |
+| 🥉 | Fanboi | Put Ken's or Morohoshi's car in your garage | always-online | 0.5 |
+| 🥉 | Iconoclast | Win events driving Ken's and Morohoshi's cars | always-online | 1 |
+| 🥉 | Mental Unblock | Get a 350000 Drift Score in Mental Block with Ken's car | always-online | 1.5 |
+| 🥉 | Hit The Ceiling | Reach REP Level 70 | always-online | 5 |
+| 🥉 | Eddie Is Back | Complete Eddie's Challenge | always-online | 0.5 |
+| 🥉 | Zero To Hero | Win an event in Eddie's Car | always-online | 0.3 |
+| 🥉 | Wrap Artist | Share a Wrap with the Need for Speed™ Community | always-online | 0.3 |
+| 🥉 | Climbing the Ranks | Reach Monthly Rank 10 by Completing Daily Challenges | always-online | 1 |
+| 🥉 | Filter Addict | Take a Snapshot with a Filter in Snapshot Pro Mode | always-online | 0.1 |
+| 🥉 | Kustom Kar | Buy your first Hot Rod | always-online | 0.2 |
+| 🥉 | Drag Queen | Win five Drag Race events | always-online | 0.5 |
+| 🥉 | Basic Bronze | Win all the Prestige events | always-online | 3 |
+| 🥉 | Gold Plated | Win Gold on all Prestige events | always-online | 6 |
+| 🥉 | Speed Master | Win all the events in a Speedlist | MP | 1 |
+
+[Страница игры →](games/need-for-speed-ps4.md)
+
 ## Red Dead Redemption · PS3 — 35 трофеев
 
-Сервера: 🟢 работают No shutdown of RDR PS3 multiplayer has been announced as of Nov 2026 (Rockstar kept it running after the 2014 GameSpy shutdown); PSNProfiles shows PS3 trophy activity in 2025-2026. Low population - boosting group needed. Not officially confirmed.
+Сервера: 🟢 работают Проверено 09.11.2026: Мультиплеер RDR на PS3 работает: на Stratege платины (для неё нужны MP-трофеи) получали ещё 29.07, 07.09, 16.09, 03.10 и 06.10.2026, есть и видео онлайн-игры на PS3 от 10.05.2026. Rockstar о закрытии ничего не объявляла. Игроков мало, кооп и Free Roam проще делать со своей бустинг-группой. ([источник](https://www.stratege.ru/ps3/games/red_dead_redemption/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -266,7 +309,7 @@
 
 ## Red Dead Redemption 2 · PS4 — 17 трофеев
 
-Сервера: 🟢 работают Red Dead Online (PS4) still running in 2026: monthly events through Aug 2026 (Rockstar Intel); no shutdown announced. Needs PS Plus.
+Сервера: 🟢 работают Проверено 09.11.2026: Red Dead Online на PS4 работает: Rockstar продолжает ежемесячные события, текущее (Thanksgiving) идёт с 3 по 30 ноября 2026 (статья RockstarINTEL от 04.11.2026); о закрытии ничего не объявлено. Нужен PS Plus. ([источник](https://rockstarintel.com/?p=44013))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|

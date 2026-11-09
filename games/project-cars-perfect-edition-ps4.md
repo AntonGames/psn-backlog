@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 123 ч / 0.5 ч |
 | Время на 100% по гайду | ~200 (Stratege avg platinum 203 h) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | ⚪ неизвестно Game delisted in 2022; Project CARS 3 servers closed 24 Feb 2026; no confirmation found for PC1 PS4 leaderboards. Other online trophies already earned; only Exorcist depends on it. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: О закрытии онлайна Project CARS 1 не объявлялось: закрыт только Project CARS 3 (24.02.2026), а EA лишь убрала PC1 из EA Play в 2022. По данным PSNProfiles из поиска, Exorcist открывали в 2026 году (последний — около 29.09.2026), последняя платина на Stratege — 23.12.2025. Прямого подтверждения, что лидерборды PS4 грузятся, нет, уверенность средняя. |
 | Наиграно (PSN) | 14 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | low |

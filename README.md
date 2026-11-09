@@ -8,8 +8,8 @@
 
 | | Трофеев | Время (оценка) |
 |---|---:|---:|
-| Можно выбить офлайн | 4758 | ~4643 ч |
-| [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 103 | ~233 ч |
+| Можно выбить офлайн | 4715 | ~4602 ч |
+| [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 146 | ~274 ч |
 | **Всего выбиваемо** | **4861** | **~4876 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
 | [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
@@ -167,7 +167,7 @@
 | 89 | [Deus Ex: Mankind Divided](games/deus-ex-mankind-divided-ps4.md) | PS4 | 18/82 (16%) | ❌ | **40 ч** | 40 | 0 |  | 19 ч | 4.5/10 |
 | 90 | [F1 2019](games/f1-2019-ps4.md) ⚠ | PS4 | 20/51 (38%) | ❌ | **41 ч** | 38 | 3.1 |  | 50 ч |  |
 | 91 | [SOULCALIBURⅥ](games/soulcaliburvi-ps4.md) | PS4 | 7/49 (14%) | ❌ | **41 ч** | 41 | 0 |  |  | 5-6/10 |
-| 92 | [Need for Speed](games/need-for-speed-ps4.md) ⚠ | PS4 | 2/46 (2%) | ❌ | **42 ч** | 41 | 1 |  | 0.6 ч | 4/10 |
+| 92 | [Need for Speed](games/need-for-speed-ps4.md) ⚠ | PS4 | 2/46 (2%) | ❌ | **42 ч** | 0 | 42 |  | 0.6 ч | 4/10 |
 | 93 | [Assassin's Creed Chronicles](games/assassins-creed-chronicles-psvita.md) | PSVITA | 1/55 (1%) | ❌ | **42 ч** | 42 | 0 |  |  | 6/10 |
 | 94 | [Tom Clancy's Splinter Cell Blacklist](games/tom-clancys-splinter-cell-blacklist-ps3.md) | PS3 | 15/48 (34%) | ❌ | **43 ч** | 43 | 0 |  |  |  |
 | 95 | [Assassin's Creed IV Black Flag](games/assassins-creed-iv-black-flag-ps4.md) | PS4 | 27/61 (34%) | ❌ | **43 ч** | 43 | 0 |  | 95 ч | 4/10 |

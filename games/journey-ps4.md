@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 3.9 ч / 2.5 ч |
 | Время на 100% по гайду | 5-8 ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | 🟢 работают No shutdown of Journey PS4 matchmaking announced by Sony/thatgamecompany (searches Nov 2026); PlatPursuit lists no known trophy issues. PS Plus may be required for online. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Journey нет в официальном списке Sony закрытых серверов (там есть flOw, но не Journey), а на Stratege 100% (требуют трофеи с компаньонами) получают 06–07.11.2026. Игроков мало: по отчёту ноября 2024 «Wonder» потребовал ~20 ч ожидания. |
 | Наиграно (PSN) | 3.9 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |

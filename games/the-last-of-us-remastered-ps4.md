@@ -10,7 +10,7 @@
 | Из них офлайн / онлайн | 34 ч / 39 ч |
 | Время на 100% по гайду | 60-90 (own estimate: 2 story runs + Left Behind + ~168 Factions matches) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | 🟢 работают PS4 Factions still online in 2026 (no shutdown announced; PS3 servers closed 3 Sep 2019 only). Low population; DLC map/Interrogation playlists may be slow. |
+| Онлайн-сервера | 🟢 работают Проверено 09.11.2026: Factions в TLOU Remastered (PS4) работает: в статье GameGPU от 29.04.2026 пишут, что серверы полностью работают и матчи находятся быстро. Naughty Dog закрытие не анонсировала, в обзорах отключений за август–декабрь 2026 игры нет. Закрыт был только PS3 (03.09.2019). Нужен PS Plus. |
 | Наиграно (PSN) | 19 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |
