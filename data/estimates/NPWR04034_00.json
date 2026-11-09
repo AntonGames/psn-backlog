@@ -1,0 +1,126 @@
+{
+ "npCommunicationId": "NPWR04034_00",
+ "game": "Injustice: Gods Among Us",
+ "platform": "PS3",
+ "guide_urls": [],
+ "difficulty": "6/10 (remaining offline part)",
+ "time_to_100_hours": "40-60 (estimate, orig. incl. online)",
+ "remaining_hours": {
+  "min": 22,
+  "max": 45,
+  "best": 30
+ },
+ "offline_hours": 30,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 5,
+   "note": "Classic Battle with every (base) character"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 14,
+   "note": "3 stars on all 240 S.T.A.R. Labs missions (I Conquered All along)"
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": ""
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": ""
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "unknown",
+  "detail": "No official PS3 shutdown notice found (Nov 2026); irrelevant - all online trophies already earned."
+ },
+ "missed_missables": "",
+ "notes_ru": "Онлайн уже закрыт — осталось офлайн: все миссии S.T.A.R. Labs на 3 звезды, Classic Battle за всех, а также чек-листы по приёмам/суперам/взаимодействиям — их удобно делать в тренировке.",
+ "confidence": "medium"
+}

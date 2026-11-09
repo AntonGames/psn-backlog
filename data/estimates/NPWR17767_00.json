@@ -1,0 +1,159 @@
+{
+ "npCommunicationId": "NPWR17767_00",
+ "game": "DOOM II (2019)",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platpursuit.com/games/NPWR17767_00/",
+  "https://platprices.com/game/4746-doom-ii-classic"
+ ],
+ "difficulty": "10/10 per PlatPrices (Nightmare co-op)",
+ "time_to_100_hours": "20-25 (PlatPrices)",
+ "remaining_hours": {
+  "min": 16,
+  "max": 32,
+  "best": 23
+ },
+ "offline_hours": 23,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Finish city maps MAP12-20"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Finish hell maps MAP21-30"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 5,
+   "note": "All 21 Master Levels"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Full DOOM II run under 2 hours (plan a route, any difficulty)"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Deathmatch kills - same session as Glorious"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "100 deathmatch kills: local split-screen with a 2nd controller (online also possible)"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 10,
+   "note": "Every level on Nightmare in co-op: local co-op with 2nd controller (respawns in co-op help) - hardest trophy"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "100 chainsaw kills - cumulative"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "12 kills with one BFG shot - big crowd e.g. MAP20/MAP30"
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Natural (MAP15 exit to MAP31)"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Both secret levels MAP31/MAP32 (+ Master Levels secret if counted)"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "One of every enemy incl. Wolfenstein SS in MAP31"
+  }
+ ],
+ "servers": {
+  "status": "unknown",
+  "detail": "Not needed: deathmatch and co-op trophies are doable in local split-screen with a second controller (PSNProfiles notes the old lists required local co-op). Online status of the 2019 Unity port after the 2024 DOOM + DOOM II release is unverified."
+ },
+ "missed_missables": "",
+ "notes_ru": "Сначала соло: допройти City/Hell, секретные уровни, Master Levels, BFG/бензопила/все враги, затем спидран <2 ч. Потом со вторым геймпадом: дезматч на 100 убийств и вся игра на Nightmare в локальном кооперативе (самое тяжёлое). Это отдельный список от DOOM + DOOM II (2024).",
+ "confidence": "low"
+}

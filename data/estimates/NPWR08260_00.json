@@ -1,0 +1,229 @@
+{
+ "npCommunicationId": "NPWR08260_00",
+ "game": "PlayStation VR Worlds",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platprices.com/en-us/game/7593-playstation-vr-worlds",
+  "https://platpursuit.com/games/NPWR08260_00/"
+ ],
+ "difficulty": "6/10",
+ "time_to_100_hours": "37.5-50 (PlatPrices)",
+ "remaining_hours": {
+  "min": 24,
+  "max": 50,
+  "best": 32
+ },
+ "offline_hours": 32,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": "All VR Luge challenges"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4.0,
+   "note": "All London Heist challenges"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": "All Shooting Gallery challenges"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3.0,
+   "note": "All Scavengers Odyssey challenges"
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Gold statues from challenge medals"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies"
+ },
+ "missed_missables": "",
+ "notes_ru": "Остались все «закрыть все испытания» в VR Luge, London Heist, Scavengers Odyssey и Danger Ball (платина 0.1%, много повторов на время/счёт). Нужен PS VR (на PS5 - с адаптером камеры); начать с сюжетных частей Scavengers Odyssey, потом гриндить испытания по одной игре.",
+ "confidence": "low"
+}

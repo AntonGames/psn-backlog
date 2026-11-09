@@ -1,0 +1,329 @@
+{
+ "npCommunicationId": "NPWR02333_00",
+ "game": "WipEout 2048",
+ "platform": "PSVITA",
+ "guide_urls": [
+  "https://www.timeextension.com/news/2026/07/remember-wipeout-2048-on-the-ps-vita-its-online-campaign-is-now-fully-revived",
+  "https://www.psu.com/news/three-wipeout-servers-wiped-march-2018/"
+ ],
+ "difficulty": "7/10 (estimate; Omega Collection is rated 9/10)",
+ "time_to_100_hours": "40-60 (estimate)",
+ "remaining_hours": {
+  "min": 25,
+  "max": 55,
+  "best": 34
+ },
+ "offline_hours": 34,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 10,
+   "note": "Elite Pass every SP campaign event (Completist + 2049/2050 elites along)"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Pir-hana C-class speed lap under 52.00s"
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Zone 65"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD pack for 2048 (owned - trophies already earned)",
+   "hours": 8,
+   "note": "All HD campaign events gold (champion trophies along)"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 51,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 52,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "WipEout HD Fury pack for 2048 (owned - trophies already earned)",
+   "hours": 9,
+   "note": "All HD Fury events gold incl. Zone/Eliminator"
+  }
+ ],
+ "servers": {
+  "status": "shut_down",
+  "detail": "Official Sony servers closed 2018-03-29; fan-run AG Racing Foundation revival restored the online campaign in Jul 2026. No unearned online trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Онлайн-трофеи уже получены — осталось только офлайн: Elite Pass во всей кампании 2048, Zico, Zone 65, затем золото во всех событиях HD и HD Fury.",
+ "confidence": "low"
+}

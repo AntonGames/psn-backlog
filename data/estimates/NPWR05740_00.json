@@ -1,0 +1,329 @@
+{
+ "npCommunicationId": "NPWR05740_00",
+ "game": "inFAMOUS Second Son",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.pushsquare.com/news/2014/03/guide_infamous_second_son_ps4_trophy_guide_and_road_map",
+  "https://platprices.com/game/7540-infamous-second-son"
+ ],
+ "difficulty": "3/10",
+ "time_to_100_hours": "15-20",
+ "remaining_hours": {
+  "min": 11,
+  "max": 24,
+  "best": 16
+ },
+ "offline_hours": 16,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 7,
+   "note": "Evil-karma run on Expert covers 1,3,5,7,9,11,13,24."
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Good-karma act; do on good save."
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Needs good-karma save; else extra good run."
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.2,
+   "note": "All blast shards; districts cleared during evil run."
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "Good-karma story run appears done (good-choice trophies earned) but True Hero (Good Karma level 5) is still missing - finish it on the good save post-game; if that save is gone, another good-karma run is needed (+6-8h).",
+ "notes_ru": "Хорошее прохождение уже есть. Осталось злое прохождение на Expert (все злые выборы + Rebellion + Unstoppable) с зачисткой всех районов и коллекционки; True Hero (5 уровень доброй кармы) и спасение 10 проводников добить на сейве доброго прохождения.",
+ "confidence": "medium"
+}

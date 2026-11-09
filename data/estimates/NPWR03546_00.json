@@ -1,0 +1,369 @@
+{
+ "npCommunicationId": "NPWR03546_00",
+ "game": "Assassin's Creed III",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://www.powerpyx.com/?p=48657",
+  "https://platpursuit.com/games/NPWR03546_00/metrx/"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": "50-65",
+ "remaining_hours": {
+  "min": 28,
+  "max": 48,
+  "best": 37
+ },
+ "offline_hours": 37,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "platinum"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "glitch-prone on PS3: do last, back up save"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4.0,
+   "note": "all Homestead missions"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "board games vs AI"
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": "Captain Kidd missions"
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": ""
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "crafting/convoys"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6.0,
+   "note": "all progress tracker entries"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "recruit missions"
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.1 (paid / Season Pass)",
+   "hours": 0,
+   "note": "story"
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.1 (paid / Season Pass)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.1 (paid / Season Pass)",
+   "hours": 3.0,
+   "note": "Ep.1 + 100% sync"
+  },
+  {
+   "id": 58,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.1 (paid / Season Pass)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 59,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.2 (paid / Season Pass)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 60,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.2 (paid / Season Pass)",
+   "hours": 3.0,
+   "note": "Ep.2 + 100% sync"
+  },
+  {
+   "id": 61,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.2 (paid / Season Pass)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 62,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.3 (paid / Season Pass)",
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 63,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.3 (paid / Season Pass)",
+   "hours": 3.0,
+   "note": "Ep.3 + 100% sync"
+  },
+  {
+   "id": 64,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "The Tyranny of King Washington Ep.3 (paid / Season Pass)",
+   "hours": 0.3,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "shut_down",
+  "detail": "Ubisoft decommissioned AC III (2012) online services Oct 1, 2022 (likely incl. PS3). Irrelevant: all MP and Battle Hardened Pack trophies already earned; console DLC unaffected (Ubisoft)."
+ },
+ "missed_missables": "",
+ "notes_ru": "Сюжет пройден; остались поместье (все жители, изобретения, настольные игры), морские миссии и каперские контракты, клубы, конвои, альманахи и 'Completionist', плюс 3 эпизода Tyranny of King Washington на 100%. 'An Extraordinary Man' на PS3 может глючить — делать последним, предварительно сделав бэкап сохранения.",
+ "confidence": "medium"
+}

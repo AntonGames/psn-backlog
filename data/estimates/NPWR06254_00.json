@@ -1,0 +1,249 @@
+{
+ "npCommunicationId": "NPWR06254_00",
+ "game": "Hotline Miami 2: Wrong Number",
+ "platform": "PS3/PSVITA/PS4",
+ "guide_urls": [
+  "https://www.powerpyx.com/guides/hotline_miami_2_wrong_number.html",
+  "https://platprices.com/game/6356-hotline-miami-2-wrong-number"
+ ],
+ "difficulty": "7/10",
+ "time_to_100_hours": "25-30",
+ "remaining_hours": {
+  "min": 20,
+  "max": 36,
+  "best": 28
+ },
+ "offline_hours": 27.8,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "story"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 5,
+   "note": "hard mode playthrough"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "A+ on every level (normal)"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "secret newspapers"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "50,000 kills: cumulative grind on a farm level"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "Fully offline."
+ },
+ "missed_missables": "",
+ "notes_ru": "Один общий список на PS3/Vita/PS4 — играть на любой платформе. Сначала пройти сюжет (собирая газеты и выполняя ситуативные трофеи), затем хард и A+ на всех уровнях. Гринд 50 000 убийств — на фарм-уровне в конце.",
+ "confidence": "medium"
+}

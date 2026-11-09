@@ -1,0 +1,98 @@
+{
+ "npCommunicationId": "NPWR31778_00",
+ "game": "Resident Evil 4 (2023) - Separate Ways",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.powerpyx.com/resident-evil-4-remake-separate-ways-dlc-trophy-guide-roadmap/"
+ ],
+ "difficulty": "4/10 (Separate Ways)",
+ "time_to_100_hours": "10-15 (Separate Ways DLC; base plat done)",
+ "remaining_hours": {
+  "min": 9,
+  "max": 16,
+  "best": 12
+ },
+ "offline_hours": 12,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 5,
+   "note": "run 1: all requests/treasures, Standard"
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 3,
+   "note": "run 2: NG+ under 4h to unlock Chicago Sweeper; difficulties stack"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": "pops with the S+ Professional run"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 4,
+   "note": "NEW game Professional, <2h30m, <=10 saves; Chicago Sweeper + infinite ticket"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталось только DLC Separate Ways (платное, кроссбай): 3 прохождения — Standard со всеми заданиями, NG+ быстрее 4 ч ради Chicago Sweeper, затем новая игра на Professional на S+ (до 2:30, не более 10 сохранений). Делайте на PS4-версии первой — перенос сейва на PS5 автопопнет трофеи DLC там.",
+ "confidence": "high"
+}

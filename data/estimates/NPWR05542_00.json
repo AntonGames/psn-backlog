@@ -1,0 +1,989 @@
+{
+ "npCommunicationId": "NPWR05542_00",
+ "game": "Batman: Arkham Knight",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.powerpyx.com/batman-arkham-knight-trophy-guide/",
+  "https://platprices.com/en-us/game/21818-batman-arkham-knight-premium-edition"
+ ],
+ "difficulty": "5/10 (base); DLC AR/Community challenges ~7/10",
+ "time_to_100_hours": "70-90",
+ "remaining_hours": {
+  "min": 58,
+  "max": 95,
+  "best": 73
+ },
+ "offline_hours": 73,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "69 stars in base AR challenges (26/47 along the way)"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 13,
+   "note": "Main story incl. most side content along the way"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Known to register badly - redo moves in Predator Fundamentals"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Full Knightfall ending: 100% Most Wanted + Riddler"
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 8,
+   "note": "All Riddler trophies/riddles/breakables (243) + trials"
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 51,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 52,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 54,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 8,
+   "note": "New Game+ story completion"
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 58,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 59,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 61,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 63,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 65,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 66,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 67,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 68,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 2,
+   "note": "A Matter of Family story"
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 70,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 71,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 72,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1,
+   "note": "30 DLC collectibles, free roam after story"
+  },
+  {
+   "id": 73,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 74,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 75,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 76,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 77,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 78,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 79,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 80,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 81,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 82,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 83,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 84,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 85,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 86,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 87,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 88,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 89,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition (character packs)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 90,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 91,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 92,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1.5,
+   "note": "Season of Infamy: Ra's"
+  },
+  {
+   "id": 93,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 94,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 95,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1,
+   "note": "Mad Hatter"
+  },
+  {
+   "id": 96,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 97,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1,
+   "note": "Mr. Freeze"
+  },
+  {
+   "id": 98,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 99,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 100,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 101,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Season Pass / Premium Edition",
+   "hours": 1,
+   "note": "Killer Croc"
+  },
+  {
+   "id": 102,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 103,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 104,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 105,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 106,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 107,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 108,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 1.5,
+   "note": "Hardest DLC challenge (0.1%)"
+  },
+  {
+   "id": 109,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free DLC (believed)",
+   "hours": 0.5,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Почти всё впереди: пройти сюжет с побочками и загадками Риддлера, затем NG+ (The Long Halloween) и Knightfall. DLC (сезонный пропуск: 'Семейное дело', Season of Infamy, AR-испытания за всех персонажей и бэтмобили, Community Challenge) — ещё ~30 ч; проверь, что DLC куплены, т.к. в RU-сторе купить сейчас нельзя.",
+ "confidence": "medium"
+}

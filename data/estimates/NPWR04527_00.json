@@ -1,0 +1,449 @@
+{
+ "npCommunicationId": "NPWR04527_00",
+ "game": "Watch Dogs",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://ps4trophiesgaming.com/?p=1372",
+  "https://www.playstationlifestyle.net/2014/10/01/watch-dogs-bad-blood-trophy-guide/"
+ ],
+ "difficulty": "4/10",
+ "time_to_100_hours": "50-70",
+ "remaining_hours": {
+  "min": 44,
+  "max": 66,
+  "best": 54
+ },
+ "offline_hours": 54,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "40 Fixer contracts"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "All gang hideouts"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Pops with the investigation trophies below"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All privacy invasions"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All criminal convoys"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "20 crime detection takedowns"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Story"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4.5,
+   "note": "Story"
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Story"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Story"
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Story"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "5 City Games (offline minigames)"
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Human Traffic investigation"
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Weapons Trade investigation"
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "8 burner phones"
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "QR codes investigation"
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Missing Persons investigation"
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All hotspot check-ins"
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All SongSneak songs"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Drinking game lvl 10 vs all 3"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "All ctOS breaches"
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "All 52 skills; needs high level + prerequisites (no online notoriety skills needed)"
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "All 13 ctOS towers"
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "T-Bone story"
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "T-Bone story"
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "T-Bone story"
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 2,
+   "note": "20 Militia contracts; solo OK"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 2,
+   "note": "20 Fixer contracts; solo OK"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 2,
+   "note": "29 driving missions, solo only; worst grind of DLC"
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "All side investigations"
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Bad Blood (paid DLC / Season Pass; already owned - 2/10 earned)",
+   "hours": 0.2,
+   "note": "Needs RC car detonator (15 Militia contracts)"
+  }
+ ],
+ "servers": {
+  "status": "unknown",
+  "detail": "No shutdown found for PS3 online (only the Companion app was decommissioned in Ubisoft's Sept 2022 list); not verified. Irrelevant: all 6 online trophies already earned."
+ },
+ "missed_missables": "",
+ "notes_ru": "Все 6 онлайн-трофеев уже получены, осталась только одиночная часть: сюжет (5 актов), побочки (40 контрактов фиксера, расследования, вторжения, конвои, укрытия), коллекционки, навыки и DLC Bad Blood (~10 ч). Начните с вышек ctOS и сюжета, попутно закрывая активности; версии PS3 и PS4 — отдельные списки без переноса прогресса.",
+ "confidence": "medium"
+}

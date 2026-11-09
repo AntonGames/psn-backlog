@@ -1,0 +1,338 @@
+{
+ "npCommunicationId": "NPWR17018_00",
+ "game": "F1 2019",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://gtplanet.net/heres-how-to-earn-every-f1-2019-trophy-and-achievement"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": "60-94 (PlatPrices)",
+ "remaining_hours": {
+  "min": 32,
+  "max": 58,
+  "best": 41
+ },
+ "offline_hours": 38,
+ "online_hours": 3,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Career prologue (F2)"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "F2 feeder series in career"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Race with all assists off"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.05,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.05,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.05,
+   "note": ""
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Comes with full season"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Wet time trial"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 14,
+   "note": "Full F1 career season at short race distance incl. practice programmes"
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.05,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "leaderboard",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Register a Time Trial entry on every track (online leaderboard upload); no F1 2019 shutdown found"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Contract offer from McLaren/Alfa"
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Win 25% race vs Ultimate AI"
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Full 2018 F2 championship in Championships mode"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Max sportsman rating via career interviews"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Max showman rating via interviews (maybe separate career save)"
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "All upgrades in one R&D department; long resource grind"
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "No F1 2019 shutdown on EA closure lists found (EA closed F1 2011-2014 on 21 Mar 2024 only); not directly verified. Online-race/league trophies already earned."
+ },
+ "missed_missables": "",
+ "notes_ru": "Онлайн-трофеи (гонки/лиги) уже получены; осталась карьера (полный сезон с чемпионством, прокачка одного отдела), рейтинги шоумена и спортсмена через интервью, победа против Ultimate AI, чемпионат F2 2018 и Time Trial на всех трассах. Начните карьеру на коротких гонках, Time Trial сделайте, пока работают таблицы лидеров.",
+ "confidence": "medium"
+}

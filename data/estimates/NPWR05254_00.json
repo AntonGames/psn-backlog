@@ -1,0 +1,1041 @@
+{
+ "npCommunicationId": "NPWR05254_00",
+ "game": "DRIVECLUB",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platpursuit.com/games/NPWR05254_00/",
+  "https://www.gtplanet.net/driveclub-servers-to-shut-down-in-march-2020/",
+  "https://pushsquare.com/news/2015/12/free_driveclub_update_adds_easy_mode_and_mercedes-amg_tour_pack",
+  "https://gamingbolt.com/to-make-up-for-the-driveclub-debacle-evolution-will-give-you-free-dlc/amp"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": "~54 base plat (PlatPursuit est.); 90-110 incl. all DLC (est.)",
+ "remaining_hours": {
+  "min": 25,
+  "max": 50,
+  "best": 36
+ },
+ "offline_hours": 36,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum - base group only; all online base trophies already earned, so still obtainable"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Win a race in each car class (single events/Tour)"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Cumulative 1M drift points; drift events / long drift sections"
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "Driver Level 50 - grind fame offline; DLC tours give a lot of fame (residual hours shown)"
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free (DRIVECLUB Tour)",
+   "hours": 0.5,
+   "note": "Tour championship on gold star difficulty (hard AI)"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free (DRIVECLUB Tour)",
+   "hours": 1.5,
+   "note": "Tour championship on gold star difficulty (hard AI)"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Ignition Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Ignition Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Ignition Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Ignition Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Ignition Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Photo-Finish Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Photo-Finish Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Photo-Finish Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Photo-Finish Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Photo-Finish Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Redline Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Redline Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Redline Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Redline Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Redline Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Elements Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Elements Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Elements Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Elements Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 51,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Elements Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 52,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Apex Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 53,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Apex Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 54,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Apex Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Apex Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Apex Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Sakura Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 58,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Sakura Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 59,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Sakura Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 60,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Sakura Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 61,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Sakura Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 62,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Downforce Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 63,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Downforce Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 64,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Downforce Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 65,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Downforce Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 66,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Downforce Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 67,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Midnight Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 68,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Midnight Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Midnight Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 70,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Midnight Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 71,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Midnight Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 73,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Lamborghini Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 74,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Lamborghini Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 75,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Lamborghini Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 76,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Lamborghini Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 77,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Pacesetter Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 78,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Pacesetter Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 79,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Pacesetter Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 80,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Pacesetter Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 81,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Pacesetter Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 82,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Turbocharged Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 83,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Turbocharged Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 84,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Turbocharged Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 85,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Turbocharged Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 86,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Turbocharged Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 87,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Evolution Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 88,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Evolution Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 89,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Evolution Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 90,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Evolution Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 91,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Evolution Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 92,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Lamborghini Icons Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 93,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Lamborghini Icons Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 94,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Lamborghini Icons Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 95,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Lamborghini Icons Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 96,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Lamborghini Icons Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 97,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Torque Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 98,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Torque Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 99,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Torque Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 100,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Torque Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 101,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Torque Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 102,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "RPM Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 103,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "RPM Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 104,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "RPM Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 105,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "RPM Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 106,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "RPM Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 107,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Velocity Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 108,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Velocity Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 109,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Velocity Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 110,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Velocity Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 111,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Velocity Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 112,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Horsepower Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 113,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Horsepower Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 114,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Horsepower Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 115,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Horsepower Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 116,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Horsepower Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 117,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Unite In Speed Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 118,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Unite In Speed Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 119,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0,
+   "note": "Unite In Speed Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 120,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 0.3,
+   "note": "Unite In Speed Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 121,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library)",
+   "hours": 1.0,
+   "note": "Unite In Speed Tour: all 11 events' stars (offline)"
+  },
+  {
+   "id": 122,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (likely, unverified)",
+   "hours": 0,
+   "note": "All Stars tour"
+  },
+  {
+   "id": 123,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (likely, unverified)",
+   "hours": 0.3,
+   "note": "All Stars tour"
+  },
+  {
+   "id": 124,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (likely, unverified)",
+   "hours": 0.7,
+   "note": "All Stars tour"
+  },
+  {
+   "id": 125,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (AMG pack came free with patch 1.25, Dec 2015)",
+   "hours": 0,
+   "note": "AMG (Mercedes-AMG Tour Pack) tour"
+  },
+  {
+   "id": 126,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (AMG pack came free with patch 1.25, Dec 2015)",
+   "hours": 0.3,
+   "note": "AMG (Mercedes-AMG Tour Pack) tour"
+  },
+  {
+   "id": 127,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (AMG pack came free with patch 1.25, Dec 2015)",
+   "hours": 0.7,
+   "note": "AMG (Mercedes-AMG Tour Pack) tour"
+  }
+ ],
+ "servers": {
+  "status": "shut_down",
+  "detail": "Sony shut down DRIVECLUB / DRIVECLUB VR / DRIVECLUB Bikes servers on 31 Mar 2020 (announced Mar 2019; store delisting of games + all DLC/season passes on 31 Aug 2019). Offline/single-player and trophies for offline modes still work (gtplanet, pushsquare, gamesradar). User already has all base online trophies (23/27 base), remaining ones are offline."
+ },
+ "missed_missables": "",
+ "notes_ru": "Платина реальна: онлайн-трофеи базы уже есть, осталось Full House, 1 млн очков дрифта и 50-й уровень водителя (оффлайн гринд). Сначала проверь, есть ли в библиотеке DLC-паки (Season Pass, Lamborghini и т.д.) — с 31.08.2019 они сняты с продажи; если их нет, 18 паков (~23 ч) недоступны, а остаются база + Tour + бесплатные All Stars/AMG (~13 ч).",
+ "confidence": "low"
+}

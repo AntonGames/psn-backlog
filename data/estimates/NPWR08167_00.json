@@ -1,0 +1,329 @@
+{
+ "npCommunicationId": "NPWR08167_00",
+ "game": "Metal Gear Solid V: The Phantom Pain",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://www.powerpyx.com/guides/metal-gear-solid-v-the-phantom-pain-trophy-guide.html",
+  "https://gamespot.com/articles/metal-gear-solid-v-servers-are-shutting-down-for-older-systems-in-may-2022/1100-6495790/"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": "100-150",
+ "remaining_hours": {
+  "min": 60,
+  "max": 110,
+  "best": 79
+ },
+ "offline_hours": 79,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "unobtainable_servers",
+   "missable": false,
+   "online_kind": null,
+   "server_status": "shut_down",
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum impossible: needs Deterrence + Disarmament"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Story"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Story (end of Chapter 1)"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "Story: Mission 45, needs Quiet bond and many side ops"
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Story: Mission 46"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "All 50 missions incl. Extreme/Subsistence/Total Stealth"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 12,
+   "note": "All mission tasks, use a guide"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 15,
+   "note": "S-rank all missions (hardest part)"
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Comes with all side ops"
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 12,
+   "note": "All 157 side ops incl. 7 Target Practice ops"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Key dispatch missions"
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "All units Lv50: staff grind (FOB staff helps); offline only now, may take longer (no FOB staff/resources)"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "300 dev items: GMP/resource grind; offline only now, may take longer (no FOB staff/resources)"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All Mother Base platforms (not FOB)"
+  },
+  {
+   "id": 36,
+   "cat": "unobtainable_servers",
+   "missable": false,
+   "online_kind": "online event",
+   "server_status": "shut_down",
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Nuke development/disposal requires server login; PS3 servers closed 31 May 2022"
+  },
+  {
+   "id": 37,
+   "cat": "unobtainable_servers",
+   "missable": false,
+   "online_kind": "online event",
+   "server_status": "shut_down",
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Nuke development/disposal requires server login; PS3 servers closed 31 May 2022"
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "All 47 wild animal species"
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All blueprints + key items"
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "All memento photos"
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Hero rank"
+  }
+ ],
+ "servers": {
+  "status": "shut_down",
+  "detail": "Konami ended PS3/X360 online services on 31 May 2022 (GameSpot, VGC). Nuclear weapons need server login, so Deterrence/Disarmament and the Platinum are unobtainable on PS3."
+ },
+ "missed_missables": "Not missable, but Deterrence/Disarmament (and Platinum) are now unobtainable because PS3 servers are closed.",
+ "notes_ru": "Платина на PS3 невозможна: «Deterrence»/«Disarmament» требуют серверов, закрытых 31.05.2022. Оставшиеся 27 трофеев оффлайн (~80 ч: сюжет, S-ранги, все задачи и побочки, гринд). Если нужна платина, лучше заниматься PS4-версией (отдельный список, прогресс не переносится).",
+ "confidence": "medium"
+}

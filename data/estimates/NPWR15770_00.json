@@ -1,0 +1,210 @@
+{
+ "npCommunicationId": "NPWR15770_00",
+ "game": "Sniper Elite V2 Remastered",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platprices.com/game/6933-sniper-elite-v2-remastered",
+  "https://www.co-optimus.com/game/5619/playstation-4/sniper-elite-v2-remastered.html",
+  "https://stratege.ru/ps4/games/sniper_elite_v2_remastered/trophies"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": "12-19",
+ "remaining_hours": {
+  "min": 10,
+  "max": 22,
+  "best": 15
+ },
+ "offline_hours": 13,
+ "online_hours": 2,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "All hidden bottles, use a guide on Cadet"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Pick a short mission"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Pick a short mission"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "All gold bars, combine with bottles run"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 6,
+   "note": "All missions on Sniper Elite difficulty"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Overwatch co-op as sniper: 50 partner-tagged kills; online only (no split-screen on PS4)"
+  },
+  {
+   "id": 41,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "All Overwatch missions in online co-op"
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Neudorf Outpost (former DLC mission, included)"
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Neudorf Outpost"
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Landwehr Canal"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Landwehr Canal"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Saint Pierre"
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Saint Pierre"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "No shutdown announcement found for Rebellion's V2 Remastered co-op (not verified for 2026). Co-op is online-only on PS4 per Co-Optimus."
+ },
+ "missed_missables": "",
+ "notes_ru": "Пройдите все миссии на Sniper Elite, затем на лёгкой собирайте бутылки и золото и делайте ситуативные трофеи (Neudorf, Landwehr, Saint Pierre, 100% точность, без попаданий по себе). Для Overwatch нужен напарник онлайн: все миссии плюс 50 убийств помеченных им целей.",
+ "confidence": "medium"
+}

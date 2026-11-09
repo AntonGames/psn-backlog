@@ -1,0 +1,109 @@
+{
+ "npCommunicationId": "NPWR01741_00",
+ "game": "Back to the Future: The Game - Episode 1: It's About Time",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://trophieshunter.com/games/back-to-the-future-the-game-ps3/achievements/fuelamaster",
+  "https://platpursuit.com/games/NPWR01741_00/"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": "2-3 (estimate)",
+ "remaining_hours": {
+  "min": 1.5,
+  "max": 3,
+  "best": 2
+ },
+ "offline_hours": 2,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "End of episode"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Missable: mix rocket fuel flawlessly (subtitles on); replay episode if missed"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies"
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталось 8 сюжетных трофеев, ~2 часа: допройти эпизод. Перед смешиванием ракетного топлива включить субтитры и сделать без ошибок (Fuelmaster).",
+ "confidence": "medium"
+}

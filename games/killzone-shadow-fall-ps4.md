@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
+| Осталось (оценка) | **~27 ч** (разброс 18–36 ч) |
+| Из них офлайн / онлайн | 27 ч / 0 ч |
+| Время на 100% по гайду | 100-200 (PlatPrices, incl. MP) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Онлайн-сервера | 🔴 закрыты Online MP and Intercept co-op shut down 12 Aug 2022 (Guerrilla, VGC). All online trophies already earned, remaining list is single-player only. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | medium |
+
+> **План:** Серверы закрыты 12.08.2022, но все сетевые трофеи у вас уже есть — платина достижима. Осталась кампания: прохождение на Hard с коллекционками и без убийства гражданских, режим Elite (Like a Boss) и прохождение без смертей на лёгком + ситуационные трофеи через выбор главы.
+
+**Гайды:** [playstationlifestyle.net](https://www.playstationlifestyle.net/?p=285357) · [videogameschronicle.com](https://www.videogameschronicle.com/news/sony-is-closing-online-servers-for-killzone-shadow-fall-and-killzone-mercenary)
 
 ## Невыбитые трофеи
 
@@ -21,34 +25,34 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | Hero | Obtain all Killzone Shadow Fall trophies | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | The Father | Complete level 'The Father' | ❔ нет оценки |  | 86.8% |  |
-| 🥉 | The Shadow | Complete level 'The Shadow' | ❔ нет оценки |  | 46.9% |  |
-| 🥉 | Deniable | In 'The Shadow', operate without raising an alarm or disabling the security mainframe | ❔ нет оценки |  | 0.7% |  |
-| 🥉 | The Doctor | Complete level 'The Doctor' | ❔ нет оценки |  | 40.2% |  |
-| 🥉 | The Patriot | Complete level 'The Patriot' | ❔ нет оценки |  | 35.8% |  |
-| 🥉 | The Helghast | Complete level 'The Helghast' | ❔ нет оценки |  | 32.8% |  |
-| 🥉 | The Agent | Complete level 'The Agent' | ❔ нет оценки |  | 29.3% |  |
-| 🥉 | The Handler | Complete level 'The Handler' | ❔ нет оценки |  | 23.7% |  |
-| 🥈 | The Dead | Complete level 'The Dead' | ❔ нет оценки |  | 21.3% |  |
-| 🥈 | The Destroyer | Complete level 'The Destroyer' | ❔ нет оценки |  | 18% |  |
-| 🥉 | New Shadow | In 'The Savior', complete the mission without being spotted | ❔ нет оценки |  | 5.3% |  |
-| 🥉 | Violence is the answer? | In 'The Savior', kill 20 soldiers and still complete the mission | ❔ нет оценки |  | 0.8% |  |
-| 🥇 | The Savior | Complete level 'The Savior' and prevent the escalation of a new war | ❔ нет оценки |  | 15.6% |  |
-| 🥉 | Outsmarted | In singleplayer, get a quadruple kill with a single Frag Grenade | ❔ нет оценки |  | 4.4% |  |
-| 🥈 | Outgunned | In singleplayer, kill 6 Helghast with headshots within a single adrenaline rush | ❔ нет оценки |  | 0.5% |  |
-| 🥉 | Outmaneuvered | In singleplayer, kill 5 Helghast with gunfire while ziplining | ❔ нет оценки |  | 0.5% |  |
-| 🥇 | Elite Shadow Marshal | Complete all missions on Hard difficulty | ❔ нет оценки |  | 1.6% |  |
-| 🥉 | Conscientious Killer | Complete the campaign on any difficulty without shooting any civilians | ❔ нет оценки |  | 2.5% |  |
-| 🥈 | Shadows Cannot Be Killed | Complete the campaign on any difficulty without dying | ❔ нет оценки |  | 0.3% |  |
-| 🥉 | Gatherer | Find 50% of the collectibles in the campaign | ❔ нет оценки |  | 3% |  |
-| 🥈 | The Knowledge | Find all collectibles in the campaign | ❔ нет оценки |  | 0.4% |  |
+| 🏆 | Hero | Obtain all Killzone Shadow Fall trophies | офлайн |  | 0.1% | Platinum obtainable: all MP trophies already earned |
+| 🥉 | The Father | Complete level 'The Father' | офлайн |  | 86.8% | Campaign chapter; comes with Hard run |
+| 🥉 | The Shadow | Complete level 'The Shadow' | офлайн |  | 46.9% | Campaign chapter; comes with Hard run |
+| 🥉 | Deniable | In 'The Shadow', operate without raising an alarm or disabling the security mainframe | офлайн | 0.3 | 0.7% | Chapter select |
+| 🥉 | The Doctor | Complete level 'The Doctor' | офлайн |  | 40.2% | Campaign chapter; comes with Hard run |
+| 🥉 | The Patriot | Complete level 'The Patriot' | офлайн |  | 35.8% | Campaign chapter; comes with Hard run |
+| 🥉 | The Helghast | Complete level 'The Helghast' | офлайн |  | 32.8% | Campaign chapter; comes with Hard run |
+| 🥉 | The Agent | Complete level 'The Agent' | офлайн |  | 29.3% | Campaign chapter; comes with Hard run |
+| 🥉 | The Handler | Complete level 'The Handler' | офлайн |  | 23.7% | Campaign chapter; comes with Hard run |
+| 🥈 | The Dead | Complete level 'The Dead' | офлайн |  | 21.3% | Campaign chapter; comes with Hard run |
+| 🥈 | The Destroyer | Complete level 'The Destroyer' | офлайн |  | 18% | Campaign chapter; comes with Hard run |
+| 🥉 | New Shadow | In 'The Savior', complete the mission without being spotted | офлайн | 0.3 | 5.3% | Chapter select |
+| 🥉 | Violence is the answer? | In 'The Savior', kill 20 soldiers and still complete the mission | офлайн | 0.3 | 0.8% | Chapter select |
+| 🥇 | The Savior | Complete level 'The Savior' and prevent the escalation of a new war | офлайн |  | 15.6% | Campaign chapter; comes with Hard run |
+| 🥉 | Outsmarted | In singleplayer, get a quadruple kill with a single Frag Grenade | офлайн | 0.2 | 4.4% |  |
+| 🥈 | Outgunned | In singleplayer, kill 6 Helghast with headshots within a single adrenaline rush | офлайн | 0.3 | 0.5% |  |
+| 🥉 | Outmaneuvered | In singleplayer, kill 5 Helghast with gunfire while ziplining | офлайн | 0.3 | 0.5% |  |
+| 🥇 | Elite Shadow Marshal | Complete all missions on Hard difficulty | офлайн | 12 | 1.6% | Run 1: Hard + collectibles + no civilians |
+| 🥉 | Conscientious Killer | Complete the campaign on any difficulty without shooting any civilians | офлайн |  | 2.5% | Combine with Hard run |
+| 🥈 | Shadows Cannot Be Killed | Complete the campaign on any difficulty without dying | офлайн | 4 | 0.3% | No-death run on Easy (restart checkpoint before dying) |
+| 🥉 | Gatherer | Find 50% of the collectibles in the campaign | офлайн |  | 3% |  |
+| 🥈 | The Knowledge | Find all collectibles in the campaign | офлайн | 0.5 | 0.4% | All collectibles |
 
 ### DLC: Insurgent Expansion trophies — 6/7
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥇 | Like a Boss | Finish the campaign in Elite mode | ❔ нет оценки |  | 0.1% |  |
+| 🥇 | Like a Boss | Finish the campaign in Elite mode | офлайн | 9 | 0.1% | DLC: Insurgent Expansion (already installed, 6/7 earned). Campaign in Elite mode; offline. Might also count for Hard (unverified) -> could merge runs |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

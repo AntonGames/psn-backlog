@@ -1,0 +1,48 @@
+{
+ "npCommunicationId": "NPWR15873_00",
+ "game": "Zombie Army 4: Dead War",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://knoef.info/trophy-guides/ps4-guides/zombie-army-4-dead-war-trophy-guide/"
+ ],
+ "difficulty": "3/10",
+ "time_to_100_hours": "30+",
+ "remaining_hours": {
+  "min": 0.2,
+  "max": 0.5,
+  "best": 0.3
+ },
+ "offline_hours": 0.3,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Default Blade melee perk: fill melee meter, press R3 next to a zombie (any mode, solo OK)"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "Rebellion servers online; remaining trophy is solo."
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталась одна лёгкая бронза: экипировать стандартный перк Blade melee, накопить шкалу ближнего боя и нажать R3 рядом с зомби — и платина.",
+ "confidence": "high"
+}

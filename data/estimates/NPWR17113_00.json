@@ -1,0 +1,229 @@
+{
+ "npCommunicationId": "NPWR17113_00",
+ "game": "HITMAN 2 Expansion",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.gamepressure.com/hitman-2/trophyachievement-guide/zdb9a1",
+  "https://www.pushsquare.com/news/2020/08/hitman_3_scrapping_ghost_mode_hitman_2_servers_to_close"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": null,
+ "remaining_hours": {
+  "min": 12,
+  "max": 22,
+  "best": 16
+ },
+ "offline_hours": 16,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": true,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 1.2,
+   "note": "Feat/secret trophies come along with mission stories"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 1.5,
+   "note": "Mastery 15: grind location challenges"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 1.0,
+   "note": "Score 1,000,000 in Sniper Assassin solo"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "All Siberia Sniper Assassin challenges; co-op servers closed, assumed solo-completable (unverified)"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20: grind location challenges"
+  }
+ ],
+ "servers": {
+  "status": "partial",
+  "detail": "HITMAN 2 progression servers still up (no shutdown announced as of 2026, unverified); Sniper Assassin co-op servers closed before HITMAN 3 (Jan 2021) - co-op trophy already earned"
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталось 20 трофеев: Нью-Йорк (Mastery 15), остров Хейвен (Mastery 20) и снайперская карта Сибирь (1 млн очков и все испытания). Нужен Expansion Pass (снят с продажи в янв. 2023) и онлайн-подключение; начать с Сибири (короткая), затем добивать Mastery на двух локациях.",
+ "confidence": "low"
+}

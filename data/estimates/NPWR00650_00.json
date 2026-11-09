@@ -1,0 +1,48 @@
+{
+ "npCommunicationId": "NPWR00650_00",
+ "game": "L.A. Noire",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://www.powerpyx.com/guides/la_noire.html"
+ ],
+ "difficulty": "3/10",
+ "time_to_100_hours": "30-40",
+ "remaining_hours": {
+  "min": 0.2,
+  "max": 1,
+  "best": 0.3
+ },
+ "offline_hours": 0.3,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "platinum"
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "fast hidden car + long straight road (6th Street, PowerPyx)"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "Offline game."
+ },
+ "missed_missables": "",
+ "notes_ru": "Остался один трофей 'Lead Foot': на очень быстрой машине держать скорость выше 80 миль/ч 10 секунд по длинной прямой (6th Street по гайду PowerPyx). Минут 15–20.",
+ "confidence": "high"
+}

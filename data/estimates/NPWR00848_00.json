@@ -1,0 +1,99 @@
+{
+ "npCommunicationId": "NPWR00848_00",
+ "game": "Tom Clancy's Ghost Recon Future Soldier",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://www.powerpyx.com/guides/ghost_recon_future_soldier.html",
+  "https://mp1st.com/news/ghost-recon-future-soldier-raven-strike-dlc-achievements-challenges"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": null,
+ "remaining_hours": {
+  "min": 7,
+  "max": 18,
+  "best": 11
+ },
+ "offline_hours": 11,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "1000 kills in Guerrilla mode - solo offline OK"
+  },
+  {
+   "id": 53,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Raven Strike Pack (paid; check ownership - cannot be bought on RU account/delisted PS3 store)",
+   "hours": 0,
+   "note": "Raven Strike mission"
+  },
+  {
+   "id": 54,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Raven Strike Pack (paid; check ownership - cannot be bought on RU account/delisted PS3 store)",
+   "hours": 0,
+   "note": "Raven Strike mission"
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Raven Strike Pack (paid; check ownership - cannot be bought on RU account/delisted PS3 store)",
+   "hours": 0,
+   "note": "Raven Strike mission"
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Raven Strike Pack (paid; check ownership - cannot be bought on RU account/delisted PS3 store)",
+   "hours": 5,
+   "note": "All 3 Raven Strike maps on Elite; solo with AI squad"
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Raven Strike Pack (paid; check ownership - cannot be bought on RU account/delisted PS3 store)",
+   "hours": 2,
+   "note": "All tactical challenges in Raven Strike (any difficulty, saved per challenge)"
+  }
+ ],
+ "servers": {
+  "status": "shut_down",
+  "detail": "Ubisoft decommissioned PS3/X360 online services in its 2022 legacy wave (Sept 2022); solo campaign/Guerrilla require console offline mode. Remaining trophies are all solo-doable, so not affected."
+ },
+ "missed_missables": "",
+ "notes_ru": "Всё оставшееся делается соло оффлайн (на PS3 играть в оффлайн-режиме консоли): 1000 убийств в Guerrilla и DLC Raven Strike — 3 миссии на Elite и все тактические испытания. Проверить, куплено ли DLC Raven Strike: с RU-аккаунта его не купить.",
+ "confidence": "medium"
+}

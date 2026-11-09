@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
+| Осталось (оценка) | **~20 ч** (разброс 14–28 ч) |
+| Из них офлайн / онлайн | 20 ч / 0 ч |
+| Время на 100% по гайду | 25-35 (rough) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Онлайн-сервера | — All multiplayer trophies already earned; remaining ones are Single Player/offline. EA Vita server status not verified. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | low |
+
+> **План:** Всё оставшееся офлайн: коллекционки (билборды, ворота, Jack Spot, камеры) и главный гринд 'Second is Nothing' — первое место во всех гонках на каждой машине. Начать с гонок, коллекционки добирать по карте.
+
+**Гайды:** [platpursuit.com](https://platpursuit.com/games/NPWR03602_00/metrx/)
 
 ## Невыбитые трофеи
 
@@ -21,19 +25,19 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | None More Wanted | Awarded for successfully collecting all Most Wanted trophies | ❔ нет оценки |  | 2.2% |  |
-| 🥉 | Got to Smash Them All | Smash every Billboard | ❔ нет оценки |  | 3% |  |
-| 🥉 | The Gatecrasher | Break through every Security Gate | ❔ нет оценки |  | 3.2% |  |
-| 🥉 | Love Them and Leave Them | Drive every Car | ❔ нет оценки |  | 14% |  |
-| 🥉 | Networking | Find every Jack Spot | ❔ нет оценки |  | 4.1% |  |
-| 🥉 | Cameraman | Trigger every Speed Camera | ❔ нет оценки |  | 19.1% |  |
-| 🥉 | Go Pro or Go Home | Unlock all the Pro mods on a car (Single Player) | ❔ нет оценки |  | 4.6% |  |
-| 🥈 | The Heat is Off | Escape successfully from all Heat levels | ❔ нет оценки |  | 25.3% |  |
-| 🥇 | Second is Nothing | Finish first in every race, in every car (Single Player) | ❔ нет оценки |  | 3.4% |  |
-| 🥈 | Rim Shot | Escape the cops with at least one blown tire | ❔ нет оценки |  | 33.4% |  |
-| 🥈 | Troublemaker | Takedown 50 Cops | ❔ нет оценки |  | 38.9% |  |
-| 🥈 | Mauled | Wreck 10 cops in a single pursuit in the Ford F-150 SVT Raptor | ❔ нет оценки |  | 10.8% |  |
-| 🥉 | Iron Boots | Drive over 5 spike strips with re-inflates equipped | ❔ нет оценки |  | 10.8% |  |
+| 🏆 | None More Wanted | Awarded for successfully collecting all Most Wanted trophies | офлайн |  | 2.2% | platinum |
+| 🥉 | Got to Smash Them All | Smash every Billboard | офлайн | 2 | 3% | all billboards |
+| 🥉 | The Gatecrasher | Break through every Security Gate | офлайн | 2 | 3.2% | all security gates |
+| 🥉 | Love Them and Leave Them | Drive every Car | офлайн | 1 | 14% | via Jack Spots |
+| 🥉 | Networking | Find every Jack Spot | офлайн | 1.5 | 4.1% |  |
+| 🥉 | Cameraman | Trigger every Speed Camera | офлайн | 0.5 | 19.1% |  |
+| 🥉 | Go Pro or Go Home | Unlock all the Pro mods on a car (Single Player) | офлайн | 0.5 | 4.6% | Single Player |
+| 🥈 | The Heat is Off | Escape successfully from all Heat levels | офлайн | 0.5 | 25.3% |  |
+| 🥇 | Second is Nothing | Finish first in every race, in every car (Single Player) | офлайн | 10 | 3.4% | win all 5 events with every car; main grind |
+| 🥈 | Rim Shot | Escape the cops with at least one blown tire | офлайн | 0.2 | 33.4% |  |
+| 🥈 | Troublemaker | Takedown 50 Cops | офлайн | 0.5 | 38.9% |  |
+| 🥈 | Mauled | Wreck 10 cops in a single pursuit in the Ford F-150 SVT Raptor | офлайн | 0.5 | 10.8% |  |
+| 🥉 | Iron Boots | Drive over 5 spike strips with re-inflates equipped | офлайн | 0.3 | 10.8% |  |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

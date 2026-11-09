@@ -1,0 +1,79 @@
+{
+ "npCommunicationId": "NPWR20188_00",
+ "game": "ASTRO's PLAYROOM",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.pushsquare.com/guides/astros-playroom-all-special-bots-locations",
+  "https://www.videogameschronicle.com/news/astros-playroom-has-received-new-content-and-trophies-ahead-of-astro-bots-release"
+ ],
+ "difficulty": "1/10",
+ "time_to_100_hours": "6-8 (platinum done; Special Bots add-on ~1h)",
+ "remaining_hours": {
+  "min": 0,
+  "max": 0,
+  "best": 0
+ },
+ "offline_hours": 0,
+ "online_hours": 0,
+ "unobtainable_hours": 1,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 46,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (Special Bots, Jun-Aug 2024)",
+   "hours": 0.1,
+   "note": "auto after the 4 bots"
+  },
+  {
+   "id": 47,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (Special Bots, Jun-Aug 2024)",
+   "hours": 0.25,
+   "note": "GPU Jungle/Renderforest: clock riddle, date 24 Nov 2015"
+  },
+  {
+   "id": 48,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (Special Bots, Jun-Aug 2024)",
+   "hours": 0.25,
+   "note": "Memory Meadow riddle"
+  },
+  {
+   "id": 49,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (Special Bots, Jun-Aug 2024)",
+   "hours": 0.25,
+   "note": "SSD Speedway/Deep Dataspace: Selene riddle"
+  },
+  {
+   "id": 50,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "free update (Special Bots, Jun-Aug 2024)",
+   "hours": 0.25,
+   "note": "Cooling Springs riddle"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Платина есть; группа 002 — это 4 «Special Bots» (Lady Maria, Selene и др.), добавленные БЕСПЛАТНЫМ обновлением (июнь–август 2024) перед ASTRO BOT. Если игра обновится до последней версии и ботов получится активировать — ~1 час по гайду Push Square; пока отмечено как недоступное по словам пользователя.",
+ "confidence": "high"
+}

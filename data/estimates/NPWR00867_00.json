@@ -1,0 +1,899 @@
+{
+ "npCommunicationId": "NPWR00867_00",
+ "game": "Red Dead Redemption",
+ "platform": "PS3",
+ "guide_urls": [
+  "https://www.powerpyx.com/red-dead-redemption-1-ps5-ps4-trophy-guide-roadmap/",
+  "https://www.playstationlifestyle.net/2010/06/29/red-dead-redemption-trophy-guide/"
+ ],
+ "difficulty": "5/10 (est.; PowerPyx rates the offline-only remaster 4/10)",
+ "time_to_100_hours": "110-140 (est.: 60-80 SP + Undead Nightmare per PowerPyx remaster, plus MP rank 50, co-op and DLC MP)",
+ "remaining_hours": {
+  "min": 90,
+  "max": 145,
+  "best": 109
+ },
+ "offline_hours": 63.6,
+ "online_hours": 45.8,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Story (epilogue)"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 16,
+   "note": "Full main story (57 missions)"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Poker"
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Liar's Dice, offline vs AI"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Horseshoes"
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "SP hideouts"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "SP hideouts"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "SP hideouts"
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Melee KO in every saloon"
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "15 Stranger tasks"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Break 3 rare horses"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "18 grizzly bears"
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Elegant Suit outfit"
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Legendary rank in any ambient challenge"
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Max Fame + Honor"
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Whole map"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 10,
+   "note": "100% Single Player completion (challenges, bounties, minigames, strangers)"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Missable during story: 20 story missions without switching horses at hitching posts; story not finished yet so not missed"
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "500 mounted-weapon kills; much faster in Undead Nightmare"
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Any mode"
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Any mode, comes naturally"
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Any mode"
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Every animal species, any mode"
+  },
+  {
+   "id": 40,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "All hideouts in one public Free Roam session; posse helps"
+  },
+  {
+   "id": 41,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Needs other players in hideout"
+  },
+  {
+   "id": 42,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Public Free Roam"
+  },
+  {
+   "id": 44,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Top score in 3 consecutive public FFA games; boosting group needed"
+  },
+  {
+   "id": 45,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 18,
+   "note": "Multiplayer rank 50 - long XP grind (hideout farming in Free Roam)"
+  },
+  {
+   "id": 46,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "4 consecutive team wins in public matches; boosting"
+  },
+  {
+   "id": 47,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Public Enemy 10 min in Free Roam"
+  },
+  {
+   "id": 48,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Kill a player who has this trophy (viral)"
+  },
+  {
+   "id": 49,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0,
+   "note": "Co-op missions need 2-4 players online"
+  },
+  {
+   "id": 50,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 3,
+   "note": "All 6 co-op missions"
+  },
+  {
+   "id": 51,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0,
+   "note": "Exactly 2 players"
+  },
+  {
+   "id": 52,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 53,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 3,
+   "note": "Gold medal all co-op missions"
+  },
+  {
+   "id": 54,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 55,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 2,
+   "note": "All Advanced co-op missions"
+  },
+  {
+   "id": 56,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 2,
+   "note": "Gold all Advanced co-op missions"
+  },
+  {
+   "id": 57,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 58,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Outlaws to the End Co-Op Pack (free DLC)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 59,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.5,
+   "note": "Hold Your Own comeback; boost"
+  },
+  {
+   "id": 60,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 61,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 62,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.5,
+   "note": "Gold Rush double captures; boost"
+  },
+  {
+   "id": 63,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 64,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 1,
+   "note": "Level 50 + pass into Legend; shares the rank grind with How the West Was Won"
+  },
+  {
+   "id": 65,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 66,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 1.5,
+   "note": "SP Tomahawk challenges (DLC weapon)"
+  },
+  {
+   "id": 67,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 1,
+   "note": "25 Deadeye kills as character Red"
+  },
+  {
+   "id": 68,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Legends and Killers Pack (paid; included in GOTY Edition)",
+   "hours": 1,
+   "note": "25 dynamite kills as Pig Josh"
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "SP Explosive Rifle challenge"
+  },
+  {
+   "id": 72,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 0.3,
+   "note": "MP Liar's Dice"
+  },
+  {
+   "id": 73,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 0.3,
+   "note": "MP Liar's Dice"
+  },
+  {
+   "id": 74,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "Win all races of a Grand Prix; boosting group"
+  },
+  {
+   "id": 75,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 76,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "Stronghold defense; boosting group"
+  },
+  {
+   "id": 77,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 0.5,
+   "note": "Stronghold triple kill"
+  },
+  {
+   "id": 78,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Liars and Cheats Pack (paid; already owned - 2/10 earned)",
+   "hours": 1,
+   "note": "50,000 posse points in one Free Roam session"
+  },
+  {
+   "id": 79,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0,
+   "note": "Undead Nightmare story"
+  },
+  {
+   "id": 80,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0,
+   "note": "Undead Nightmare story"
+  },
+  {
+   "id": 81,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0,
+   "note": "Undead Nightmare story"
+  },
+  {
+   "id": 82,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 6,
+   "note": "Finish Undead Nightmare story"
+  },
+  {
+   "id": 83,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 84,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 4,
+   "note": "100% Undead Nightmare completion"
+  },
+  {
+   "id": 85,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 2,
+   "note": "Rank 5 in all UN challenges"
+  },
+  {
+   "id": 86,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0.3,
+   "note": "Unicorn"
+  },
+  {
+   "id": 87,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0.3,
+   "note": "Chupacabra"
+  },
+  {
+   "id": 88,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 0.5,
+   "note": "Sasquatch"
+  },
+  {
+   "id": 89,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": "Undead Nightmare (paid; already owned - 1/12 earned)",
+   "hours": 1.5,
+   "note": "Undead Overrun wave 15 (MP mode, can be attempted solo or with partners)"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "No shutdown of RDR PS3 multiplayer has been announced as of Nov 2026 (Rockstar kept it running after the 2014 GameSpy shutdown); PSNProfiles shows PS3 trophy activity in 2025-2026. Low population - boosting group needed. Not officially confirmed."
+ },
+ "missed_missables": "",
+ "notes_ru": "Почти вся игра впереди: сначала сюжет + 100% одиночки и Undead Nightmare (~64 ч оффлайн, 500 убийств из стационарного оружия проще в UN). Онлайн (~48 ч: 50 ранг MP, кооп-миссии на золото, DLC-мультиплеер) делать с бустинг-группой, пока серверы PS3 работают; Legends and Killers нужно иметь (входит в GOTY).",
+ "confidence": "medium"
+}

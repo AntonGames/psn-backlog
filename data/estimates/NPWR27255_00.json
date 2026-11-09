@@ -1,0 +1,188 @@
+{
+ "npCommunicationId": "NPWR27255_00",
+ "game": "The Quarry",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/the-quarry-trophy-guide-roadmap/"
+ ],
+ "difficulty": "2/10",
+ "time_to_100_hours": "30-40",
+ "remaining_hours": {
+  "min": 18,
+  "max": 30,
+  "best": 25
+ },
+ "offline_hours": 25,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 9,
+   "note": "New full run: everyone survives + kill all Hacketts + collectibles (collectibles reset on New Game)"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 5,
+   "note": "Chapter select ch.4-10: everyone dies"
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Chapter select ch.10: only Kaitlyn survives"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Combine with survive-all run"
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Chapter select ch.9-10: Motel ending"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "In everyone-dies run"
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Chapter select ch.9-10: only Ryan survives"
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Combine with survive-all run"
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Chapter select ch.2-10: infect everyone + missing clues"
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Never miss a shot in combat in a run"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": "Refuse Eliza's help (was bugged, fixed in 1.04)"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "All Tarot cards"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "All clues"
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "All evidence"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "First run done; ending/choice/collectible trophies were missed - need a new full run plus chapter-select partial runs. No PS4/PS5 autopop.",
+ "notes_ru": "Сюжет пройден, выбор глав открыт. Нужно новое полное прохождение «все выжили + убить всех Хакеттов + коллекционки» по гайду, затем частичные прогоны через выбор глав: мотель, «все погибли», только Кейтлин, только Райан, все заражены + недостающие улики.",
+ "confidence": "high"
+}

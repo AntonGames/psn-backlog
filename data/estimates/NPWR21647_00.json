@@ -1,0 +1,419 @@
+{
+ "npCommunicationId": "NPWR21647_00",
+ "game": "Grand Theft Auto V",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/gta-v-trophy-guide-roadmap/",
+  "https://www.pushsquare.com/guides/gta-5-how-to-transfer-ps4-save-data-progress-to-ps5"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": "150+ (50-60 Story Mode, 100+ GTA Online) - online part already done",
+ "remaining_hours": {
+  "min": 2,
+  "max": 20,
+  "best": 4
+ },
+ "offline_hours": 4.4,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game); re-trigger if it does not pop on load"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 16,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game) ; Missable before final mission (choose Option C / keep a save)"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Autopop on PS5 after loading the 100% Story save migrated from PS4 (upload via PS4 pause menu > Game > Upload Save Game)"
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "15h first-person stat may or may not carry over with the migrated save; else AFK in first-person"
+  },
+  {
+   "id": 62,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.3,
+   "note": "Enter Director Mode on PS5 once characters are unlocked by the migrated save"
+  },
+  {
+   "id": 63,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 64,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 65,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 66,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Rockstar Editor (free update)",
+   "hours": 0.5,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "All GTA Online trophies (Heists, Doomsday and online base trophies) already earned; remaining are Story Mode + Rockstar Editor only. GTA Online PS4/PS5 still running in 2026."
+ },
+ "missed_missables": "",
+ "notes_ru": "Онлайн-трофеи уже есть. Оптимально: закрыть 100% сюжета на PS4, загрузить сейв через «Загрузить сохранение» и скачать его на PS5 (Social Club) — сюжетные трофеи выпадут автоматически; затем зайти в режим режиссёра ради трофеев Rockstar Editor. Без переноса — снова ~55 ч одиночки.",
+ "confidence": "medium"
+}

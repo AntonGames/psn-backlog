@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~12 ч** (разброс 9–15 ч) |
+| Из них офлайн / онлайн | 12 ч / 0 ч |
+| Время на 100% по гайду | 6-12 (PlatPrices / HLTB completionist 11.5) ч |
+| Сложность по гайду | 2/10 |
+| Онлайн-сервера | — No online trophies |
 | Наиграно (PSN) | 0.8 ч |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | medium |
+
+> **План:** Игра только начата: остались весь сюжет, коллекционки (артефакты, истории, граффити, призрачные истории) и побочные дела. Пройти за один заход строго по гайду коллекционок - часть локаций (Дом суда и др.) повторно не посетить.
+
+**Гайды:** [platprices.com](https://platprices.com/game/9116-murdered-soul-suspect) · [platpursuit.com](https://platpursuit.com/reviews/murdered-soul-suspect/)
 
 ## Невыбитые трофеи
 
@@ -21,51 +25,51 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | Moving On | Collected every trophy in the game | ❔ нет оценки |  | 8.1% |  |
-| 🥉 | One of Us | Revisited the scene of your murder and discovered there was a witness | ❔ нет оценки |  | 69.4% |  |
-| 🥉 | Makeshift Sanctuary | Found the witness and learned what she knew | ❔ нет оценки |  | 57.8% |  |
-| 🥉 | Half-Truths and Whole Lies | Helped the witness escape the police station and gained an ally | ❔ нет оценки |  | 51.7% |  |
-| 🥉 | Ashland | Discovered what happened to Sophia | ❔ нет оценки |  | 46.7% |  |
-| 🥉 | Lost Causes | Learned the fate of Rose and helped Iris escape the asylum | ❔ нет оценки |  | 43.1% |  |
-| 🥉 | Wicked Tempers | Discovered links between the witch trials and the Bell Killer murders | ❔ нет оценки |  | 41.6% |  |
-| 🥉 | Ghosts Never Die | Investigated the murder of Iris | ❔ нет оценки |  | 39.9% |  |
-| 🥉 | Judgement | Discovered the Bell Killer's secrets | ❔ нет оценки |  | 38% |  |
-| 🥇 | Tightening the Noose | Stopped Abigail and saved Rex and Joy | ❔ нет оценки |  | 37.4% |  |
-| 🥉 | Collector 1 | Collected an artifact | ❔ нет оценки |  | 84.6% |  |
-| 🥉 | Collector 10 | Collected 10 artifacts | ❔ нет оценки |  | 69.9% |  |
-| 🥉 | Collector 25 | Collected 25 artifacts | ❔ нет оценки |  | 61.5% |  |
-| 🥉 | Collector 50 | Collected 50 artifacts | ❔ нет оценки |  | 54.1% |  |
-| 🥉 | Collector 75 | Collected 75 artifacts | ❔ нет оценки |  | 48.7% |  |
-| 🥉 | Collector 100 | Collected 100 artifacts | ❔ нет оценки |  | 43.3% |  |
-| 🥉 | Collector 150 | Collected 150 artifacts | ❔ нет оценки |  | 30.1% |  |
-| 🥇 | Collector All | Collected all of the artifacts | ❔ нет оценки |  | 8.2% |  |
-| 🥉 | Ronan's Story | Learned about Ronan's Life | ❔ нет оценки |  | 18.9% |  |
-| 🥉 | Baxter's Story | Learned about Baxter's Life | ❔ нет оценки |  | 45.6% |  |
-| 🥉 | Rex's Story | Learned about Rex's Life | ❔ нет оценки |  | 46% |  |
-| 🥉 | Cassandra's Story | Learned about Cassandra's Life | ❔ нет оценки |  | 15.5% |  |
-| 🥉 | Julia's Story | Learned about Julia's Life | ❔ нет оценки |  | 9.1% |  |
-| 🥉 | The Bell Killer's Story | Learned about the Bell Killer | ❔ нет оценки |  | 9.2% |  |
-| 🥉 | Salem's History | Discovered Salem's history | ❔ нет оценки |  | 10.2% |  |
-| 🥉 | The Witch Trials | Discovered information about the witch trials | ❔ нет оценки |  | 12.9% |  |
-| 🥈 | Codex | Discovered the meaning of the supernatural graffiti | ❔ нет оценки |  | 8.4% |  |
-| 🥉 | A Watery Grave | Uncovered the Watery Grave ghost story | ❔ нет оценки |  | 37.7% |  |
-| 🥉 | The Bell Tower Banshee | Uncovered The Bell Tower Banshee ghost story | ❔ нет оценки |  | 27.7% |  |
-| 🥉 | The Stalwart Specter | Uncovered The Stalwart Specter ghost story | ❔ нет оценки |  | 22.9% |  |
-| 🥉 | The Heirloom | Uncovered The Heirloom ghost story | ❔ нет оценки |  | 15% |  |
-| 🥉 | Man in the Box | Uncovered the Man in the Box ghost story | ❔ нет оценки |  | 20.1% |  |
-| 🥉 | Terror on the Tracks | Uncovered The Terror on the Tracks ghost story | ❔ нет оценки |  | 15.2% |  |
-| 🥉 | Ashes to Ashes | Uncovered the Ashes to Ashes ghost story | ❔ нет оценки |  | 12% |  |
-| 🥉 | Eternal Flame | Uncovered the Eternal Flame ghost story | ❔ нет оценки |  | 13.8% |  |
-| 🥉 | Discover Reveal | Used Reveal for the first time | ❔ нет оценки |  | 84.2% |  |
-| 🥉 | Possess the Cat | Possessed the cat | ❔ нет оценки |  | 63.1% |  |
-| 🥉 | Poltergeist | Used Poltergeist for the first time | ❔ нет оценки |  | 73.4% |  |
-| 🥉 | Interrogator | Interrogated a ghost for the first time | ❔ нет оценки |  | 77.1% |  |
-| 🥇 | Exorcist | Defeated a demon | ❔ нет оценки |  | 81.6% |  |
-| 🥉 | Teleporter | Teleported for the first time | ❔ нет оценки |  | 48.7% |  |
-| 🥉 | The Missing Body | Helped Ingrid find peace | ❔ нет оценки |  | 50.3% |  |
-| 🥉 | Amnesia | Helped Julie find peace | ❔ нет оценки |  | 56% |  |
-| 🥉 | Carnage | Helped Brad find peace | ❔ нет оценки |  | 34.2% |  |
-| 🥉 | Scorned | Helped Katy find peace | ❔ нет оценки |  | 42.4% |  |
+| 🏆 | Moving On | Collected every trophy in the game | офлайн |  | 8.1% |  |
+| 🥉 | One of Us | Revisited the scene of your murder and discovered there was a witness | офлайн | 0.6 | 69.4% | Story |
+| 🥉 | Makeshift Sanctuary | Found the witness and learned what she knew | офлайн | 0.6 | 57.8% | Story |
+| 🥉 | Half-Truths and Whole Lies | Helped the witness escape the police station and gained an ally | офлайн | 0.6 | 51.7% | Story |
+| 🥉 | Ashland | Discovered what happened to Sophia | офлайн | 0.6 | 46.7% | Story |
+| 🥉 | Lost Causes | Learned the fate of Rose and helped Iris escape the asylum | офлайн | 0.6 | 43.1% | Story |
+| 🥉 | Wicked Tempers | Discovered links between the witch trials and the Bell Killer murders | офлайн | 0.6 | 41.6% | Story |
+| 🥉 | Ghosts Never Die | Investigated the murder of Iris | офлайн | 0.6 | 39.9% | Story |
+| 🥉 | Judgement | Discovered the Bell Killer's secrets | офлайн | 0.6 | 38% | Story |
+| 🥇 | Tightening the Noose | Stopped Abigail and saved Rex and Joy | офлайн | 0.6 | 37.4% | Story |
+| 🥉 | Collector 1 | Collected an artifact | офлайн |  | 84.6% |  |
+| 🥉 | Collector 10 | Collected 10 artifacts | офлайн |  | 69.9% |  |
+| 🥉 | Collector 25 | Collected 25 artifacts | офлайн |  | 61.5% |  |
+| 🥉 | Collector 50 | Collected 50 artifacts | офлайн |  | 54.1% |  |
+| 🥉 | Collector 75 | Collected 75 artifacts | офлайн |  | 48.7% |  |
+| 🥉 | Collector 100 | Collected 100 artifacts | офлайн |  | 43.3% |  |
+| 🥉 | Collector 150 | Collected 150 artifacts | офлайн |  | 30.1% |  |
+| 🥇 | Collector All | Collected all of the artifacts | офлайн | 2 | 8.2% | ⚠️ упускаемый. All artifacts; some locations cannot be revisited - follow a collectible guide |
+| 🥉 | Ronan's Story | Learned about Ronan's Life | офлайн | 0.2 | 18.9% | Collectible set |
+| 🥉 | Baxter's Story | Learned about Baxter's Life | офлайн | 0.2 | 45.6% | Collectible set |
+| 🥉 | Rex's Story | Learned about Rex's Life | офлайн | 0.2 | 46% | Collectible set |
+| 🥉 | Cassandra's Story | Learned about Cassandra's Life | офлайн | 0.2 | 15.5% | Collectible set |
+| 🥉 | Julia's Story | Learned about Julia's Life | офлайн | 0.2 | 9.1% | Collectible set |
+| 🥉 | The Bell Killer's Story | Learned about the Bell Killer | офлайн | 0.2 | 9.2% | Collectible set |
+| 🥉 | Salem's History | Discovered Salem's history | офлайн | 0.2 | 10.2% | Collectible set |
+| 🥉 | The Witch Trials | Discovered information about the witch trials | офлайн | 0.2 | 12.9% | Collectible set |
+| 🥈 | Codex | Discovered the meaning of the supernatural graffiti | офлайн | 0.5 | 8.4% | All supernatural graffiti |
+| 🥉 | A Watery Grave | Uncovered the Watery Grave ghost story | офлайн | 0.2 | 37.7% | Ghost story collectibles |
+| 🥉 | The Bell Tower Banshee | Uncovered The Bell Tower Banshee ghost story | офлайн | 0.2 | 27.7% | Ghost story collectibles |
+| 🥉 | The Stalwart Specter | Uncovered The Stalwart Specter ghost story | офлайн | 0.2 | 22.9% | Ghost story collectibles |
+| 🥉 | The Heirloom | Uncovered The Heirloom ghost story | офлайн | 0.2 | 15% | Ghost story collectibles |
+| 🥉 | Man in the Box | Uncovered the Man in the Box ghost story | офлайн | 0.2 | 20.1% | Ghost story collectibles |
+| 🥉 | Terror on the Tracks | Uncovered The Terror on the Tracks ghost story | офлайн | 0.2 | 15.2% | Ghost story collectibles |
+| 🥉 | Ashes to Ashes | Uncovered the Ashes to Ashes ghost story | офлайн | 0.2 | 12% | ⚠️ упускаемый. Judgement House ghost story clues - location is one-time only |
+| 🥉 | Eternal Flame | Uncovered the Eternal Flame ghost story | офлайн | 0.2 | 13.8% | Ghost story collectibles |
+| 🥉 | Discover Reveal | Used Reveal for the first time | офлайн |  | 84.2% |  |
+| 🥉 | Possess the Cat | Possessed the cat | офлайн |  | 63.1% |  |
+| 🥉 | Poltergeist | Used Poltergeist for the first time | офлайн |  | 73.4% |  |
+| 🥉 | Interrogator | Interrogated a ghost for the first time | офлайн |  | 77.1% |  |
+| 🥇 | Exorcist | Defeated a demon | офлайн |  | 81.6% |  |
+| 🥉 | Teleporter | Teleported for the first time | офлайн |  | 48.7% |  |
+| 🥉 | The Missing Body | Helped Ingrid find peace | офлайн | 0.3 | 50.3% | Side case |
+| 🥉 | Amnesia | Helped Julie find peace | офлайн | 0.3 | 56% | Side case |
+| 🥉 | Carnage | Helped Brad find peace | офлайн | 0.3 | 34.2% | Side case |
+| 🥉 | Scorned | Helped Katy find peace | офлайн | 0.3 | 42.4% | Side case |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

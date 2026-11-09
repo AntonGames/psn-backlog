@@ -6,7 +6,7 @@
 
 **Причина:** DLC Battle for Brooklyn и Echoes of Central Park: игра на русском PSN-аккаунте, DLC можно купить только туда, а покупки там недоступны.  
 **Когда станет доступно:** если суммарная цена обоих DLC опустится до 492 ₽ или ниже.  
-**Трофеев:** 18 · **время:** ~0 ч
+**Трофеев:** 18 · **время:** ~20 ч
 
 | | Трофей | Описание | DLC | Редкость |
 |---|---|---|---|---:|
@@ -33,8 +33,8 @@
 
 ### ASTRO’s PLAYROOM · PS5
 
-**Причина:** Последнее дополнение ASTRO's PLAYROOM [ADD-ON] сейчас недоступно.  
-**Трофеев:** 5 · **время:** ~0 ч
+**Причина:** Последнее дополнение ASTRO's PLAYROOM [ADD-ON] (4 особых бота, бесплатное обновление 2024 года): игра на русском аккаунте, обновление там не вышло / не работает, предзаказа основной игры нет.  
+**Трофеев:** 5 · **время:** ~1 ч
 
 | | Трофей | Описание | DLC | Редкость |
 |---|---|---|---|---:|
@@ -50,7 +50,13 @@
 
 По данным гайдов и новостей онлайн у этих трофеев отключён. Если найдёте способ (например, сервер на самом деле жив), поменяйте категорию в `data/overrides.json` → `trophy_overrides`.
 
-Нет.
+### METAL GEAR SOLID V: THE PHANTOM PAIN · PS3 — 3
+
+🔴 закрыты Konami ended PS3/X360 online services on 31 May 2022 (GameSpot, VGC). Nuclear weapons need server login, so Deterrence/Disarmament and the Platinum are unobtainable on PS3.
+
+- 🏆 **Legend** — Obtain all trophies.
+- 🥉 **Deterrence** — Develop a nuclear weapon.
+- 🥉 **Disarmament** — Dispose of a nuclear weapon.
 
 ## Глючные трофеи
 

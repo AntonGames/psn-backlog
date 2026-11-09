@@ -87,6 +87,22 @@ def find_playtime(name, platform):
     return best
 
 
+def plural(n, one="трофей", few="трофея", many="трофеев"):
+    n = abs(int(n))
+    if n % 10 == 1 and n % 100 != 11:
+        return f"{n} {one}"
+    if 2 <= n % 10 <= 4 and not 12 <= n % 100 <= 14:
+        return f"{n} {few}"
+    return f"{n} {many}"
+
+
+def is_paid(dlc):
+    s = str(dlc or "").lower()
+    if not s or any(k in s for k in ("free", "included in", "already owned", "owned -", "paid game")):
+        return False
+    return any(k in s for k in ("paid", "season pass", "expansion pass", "legacy pack", "delisted"))
+
+
 def bar(pct, width=10):
     full = round(pct / 100 * width)
     return "█" * full + "░" * (width - full)
@@ -156,11 +172,14 @@ for f in sorted(glob.glob(f"{D}/trophies/*.json")):
         "plat": "✅" if any(x["type"] == "platinum" and x["earned"] for x in tr["trophies"]) else ("❌" if has_plat else "—"),
         "rem": rem, "off": off_h or 0, "on": on_h or 0, "unob": unob_h,
         "rem_min": rh.get("min"), "rem_max": rh.get("max"),
+        "transfer": bool(rh.get("best") and rh.get("max") and rh["max"] >= 3 * rh["best"]
+                         and re.search(r"автопоп|перенос|sync|подтянут", est.get("notes_ru", ""), re.I)),
         "played": find_playtime(t["name"], t["platform"]),
         "n": {c: sum(1 for u in unearned if u["cat"] == c) for c in CAT},
     })
 
-games.sort(key=lambda g: (g["rem"] is None, g["rem"] if g["rem"] is not None else 0, -g["t"]["progress"]))
+games.sort(key=lambda g: (not g["rem"] and any(u["cat"] not in OBTAINABLE for u in g["unearned"]),
+                          g["rem"] is None, g["rem"] if g["rem"] is not None else 0, -g["t"]["progress"]))
 today = datetime.date.today().isoformat()
 fetched = (profile.get("fetchedAt") or "")[:10]
 link = lambda g, prefix="": f"[{esc(g['t']['name'])}]({prefix}games/{g['slug']}.md)"
@@ -219,6 +238,8 @@ for g in games:
                 note = ("⚠️ упускаемый. " + note).strip()
             if u["cat"] in ("online", "unobtainable_servers") and u.get("online_kind"):
                 note = (f"[{u['online_kind']}] " + note).strip()
+            if u.get("dlc_required") and u["cat"] != "unobtainable_user":
+                note = (("💲 " if is_paid(u["dlc_required"]) else "") + f"DLC: {esc(u['dlc_required'])}. " + note).strip()
             L.append(f"| {TYPE_ICON.get(u['type'], '')} | {esc(u['name'])} | {esc(u['detail'])} | {CAT.get(u['cat'], u['cat'])} | "
                      f"{hours_fmt(u['hours']) if u['hours'] else ''} | {u['rarity'] if u['rarity'] is not None else ''}% | {note} |")
         L.append("")
@@ -259,19 +280,53 @@ R += [f"| Всего невыбитых | {n_unearned} | |", ""]
 quick = [g for g in games if g["rem"] is not None and 0 < g["rem"] <= 3]
 if quick:
     R += ["## ⚡ Быстрые победы (≤ 3 ч)", ""]
-    R += [f"- {link(g)} · {g['t']['platform']} — ~{hours_fmt(g['rem'])} ч, осталось {len([u for u in g['unearned'] if u['cat'] in OBTAINABLE])} трофеев" for g in quick]
+    R += [f"- {link(g)} · {g['t']['platform']} — ~{hours_fmt(g['rem'])} ч, осталось {plural(len([u for u in g['unearned'] if u['cat'] in OBTAINABLE]))}"
+          + (f" 🔁 при переносе сейва/автопопе, иначе до {g['rem_max']} ч" if g["transfer"] else "") for g in quick]
     R.append("")
 
-R += ["## Все игры бэклога", "", "Отсортировано по оценке оставшегося времени. ⚠ — в остатке есть онлайн.", "",
+paid = []
+for g in games:
+    items = [u for u in g["unearned"] if u["cat"] in OBTAINABLE and is_paid(u.get("dlc_required"))]
+    if items:
+        names = sorted({re.sub(r"\s*\(.*$", "", str(u["dlc_required"])) for u in items})
+        paid.append((g, len(items), sum(u["hours"] for u in items), names))
+if paid:
+    R += ["<details><summary>💲 Платные DLC в остатке: проверьте, что они куплены "
+          f"({plural(len(paid), 'игра', 'игры', 'игр')}, {plural(sum(p[1] for p in paid))}, ~{sum(p[2] for p in paid):.0f} ч)</summary>", "",
+          "| Игра | Платформа | Трофеев | ~ч | DLC |", "|---|---|---:|---:|---|"]
+    for g, n, h, names in sorted(paid, key=lambda p: -p[2]):
+        R.append(f"| {link(g)} | {g['t']['platform']} | {n} | {hours_fmt(h)} | {esc(', '.join(names))} |")
+    R += ["", "Если DLC нет и купить нельзя, отметьте его группу в `data/overrides.json` → `unobtainable_groups`.", "", "</details>", ""]
+
+# по платформам
+plat = {}
+for g in games:
+    key = "PS Vita" if "VITA" in g["t"]["platform"] else g["t"]["platform"].split(",")[0]
+    p = plat.setdefault(key, [0, 0, 0.0])
+    p[0] += 1; p[1] += len([u for u in g["unearned"] if u["cat"] in OBTAINABLE]); p[2] += g["rem"] or 0
+R += ["## По платформам", "", "| Платформа | Игр в бэклоге | Выбиваемых трофеев | ~ч |", "|---|---:|---:|---:|"]
+R += [f"| {k} | {v[0]} | {v[1]} | {v[2]:.0f} |" for k, v in sorted(plat.items(), key=lambda kv: -kv[1][2])]
+R.append("")
+
+R += ["## Все игры бэклога", "", "Отсортировано по оценке оставшегося времени. ⚠ — в остатке есть онлайн, "
+      "🔁 — оценка при переносе сейва/автопопе с другой версии, ⛔ — остались только недоступные трофеи.", "",
       "| # | Игра | Платформа | Прогресс | Платина | Осталось | Офлайн | Онлайн | Недоступно | Наиграно | Сложность |",
       "|---:|---|---|---|:---:|---:|---:|---:|---:|---:|---|"]
 for i, g in enumerate(games, 1):
     blocked = g["n"]["unobtainable_user"] + g["n"]["unobtainable_servers"] + g["n"]["glitched"]
     R.append(
         f"| {i} | {link(g)}{' ⚠' if g['n']['online'] else ''} | {g['t']['platform']} | {g['earned']}/{g['total']} ({g['t']['progress']}%) | {g['plat']} | "
-        f"**{hours_fmt(g['rem'])} ч** | {hours_fmt(g['off'])} | {hours_fmt(g['on'])} | {blocked or ''} | "
+        f"**{'⛔' if not g['rem'] and blocked else hours_fmt(g['rem']) + ' ч'}**{' 🔁' if g['transfer'] else ''} | {hours_fmt(g['off'])} | {hours_fmt(g['on'])} | {blocked or ''} | "
         f"{hours_fmt(g['played']) + ' ч' if g['played'] is not None else ''} | {esc(g['est'].get('difficulty'))} |")
 R += ["",
+      "## Откуда цифры",
+      "",
+      "- Выбитые/невыбитые трофеи — официальный API PlayStation Network (публичный профиль).",
+      "- Время, онлайн, упускаемые, статус серверов — гайды PowerPyx, Knoef, Stratege, PlatPrices/PlatPursuit и новости о закрытии серверов (ноябрь 2026). "
+      "Оценка дана для опытного охотника и считается только по оставшимся трофеям. У каждой игры указана уверенность (high/medium/low); "
+      "там, где гайда нет, оценка экспертная.",
+      "- «Наиграно» — данные PSN, есть только для PS4/PS5 и сопоставлены по названию, поэтому приблизительны.",
+      "",
       "## Как обновить",
       "",
       "1. Получить токен NPSSO: войти на playstation.com и открыть https://ca.account.sony.com/api/v1/ssocookie",
@@ -290,8 +345,9 @@ O = ["# 🌐 Невыбитый онлайн", "",
 on_games = [g for g in games if g["n"]["online"] or g["n"]["unobtainable_servers"]]
 alive = sorted([g for g in on_games if g["n"]["online"]], key=lambda g: g["on"])
 dead = [g for g in on_games if not g["n"]["online"]]
-O += [f"**Живой онлайн:** {tot['online']} трофеев в {len(alive)} играх, ~{h_on:.0f} ч. "
-      f"**Закрытые сервера:** {tot['unobtainable_servers']} трофеев в {len([g for g in on_games if g['n']['unobtainable_servers']])} играх.", "",
+n_dead_games = len([g for g in on_games if g['n']['unobtainable_servers']])
+O += [f"**Живой онлайн:** {plural(tot['online'])} в {plural(len(alive), 'игре', 'играх', 'играх')}, ~{h_on:.0f} ч. "
+      f"**Закрытые сервера:** {plural(tot['unobtainable_servers'])} в {plural(n_dead_games, 'игре', 'играх', 'играх')}.", "",
       "| Игра | Платформа | Онлайн-трофеев | ~ч | Сервера |", "|---|---|---:|---:|---|"]
 for g in alive + dead:
     s = g["est"].get("servers") or {}

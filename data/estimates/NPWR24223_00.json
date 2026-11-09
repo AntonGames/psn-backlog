@@ -1,0 +1,269 @@
+{
+ "npCommunicationId": "NPWR24223_00",
+ "game": "Call of Duty: Modern Warfare II / COD HQ (BO6 + MW4 groups)",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/call-of-duty-black-ops-6-trophy-guide-roadmap/",
+  "https://www.powerpyx.com/?p=366974"
+ ],
+ "difficulty": "5/10 (BO6 campaign part); MW4 6/10",
+ "time_to_100_hours": "BO6 60-80 (whole BO6 list); MW4 15+",
+ "remaining_hours": {
+  "min": 14,
+  "max": 28,
+  "best": 20
+ },
+ "offline_hours": 20,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": true,
+ "trophies": [
+  {
+   "id": 64,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Comes with Veteran run"
+  },
+  {
+   "id": 65,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 7,
+   "note": "BO6 campaign on Veteran (hardest trophy of BO6 campaign)"
+  },
+  {
+   "id": 67,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 68,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 70,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 71,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 72,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 73,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 74,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 75,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 76,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 77,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 78,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.5,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 79,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 80,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Ground Control: crush 25 with tank"
+  },
+  {
+   "id": 81,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Checkmate: APC with RC-XD"
+  },
+  {
+   "id": 82,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 1.5,
+   "note": "Buy all safehouse upgrades ($14,650; 9 safes + mission replays to farm cash)"
+  },
+  {
+   "id": 83,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 1.0,
+   "note": "All safehouse puzzles (follow guide)"
+  },
+  {
+   "id": 84,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "Remote throwing knife double kill 50m+"
+  },
+  {
+   "id": 85,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0.3,
+   "note": "5 headshots during one Adrenaline Stim"
+  },
+  {
+   "id": 86,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 87,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Black Ops 6 (paid game, PS5 via COD HQ)",
+   "hours": 0,
+   "note": "Mission-specific / natural during Veteran run"
+  },
+  {
+   "id": 159,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Call of Duty: Modern Warfare 4 (paid game)",
+   "hours": 8,
+   "note": "MW4 (2026) campaign on Realism (Veteran with no HUD, friendly fire); mission select OK"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "Activision servers online; BO6 campaign is online-only (can't launch offline), MW4 needs online on first launch (PowerPyx). No multiplayer needed for remaining trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталась только кампания BO6 (ничего не начато): сразу на Veteran с миссионными трофеями, сейфы и сбор денег на все апгрейды, головоломки убежища. Плюс MW4 на Realism (кампания уже пройдена, Realism открыт) — ~8 ч аккуратной игры из укрытий.",
+ "confidence": "high"
+}

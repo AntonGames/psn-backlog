@@ -1,0 +1,119 @@
+{
+ "npCommunicationId": "NPWR05889_00",
+ "game": "Outlast",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.powerpyx.com/?p=795",
+  "https://ps4trophiesgaming.com/?p=1161"
+ ],
+ "difficulty": "3/10",
+ "time_to_100_hours": "8-16 (base 5-10 + Whistleblower 3-6)",
+ "remaining_hours": {
+  "min": 9,
+  "max": 17,
+  "best": 12
+ },
+ "offline_hours": 11.6,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "comes with PULITZER run"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3.5,
+   "note": "all documents+recordings, collectible run on Normal"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "Insane: no checkpoints, includes retries"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 2,
+   "note": "DLC run with collectibles"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 2.5,
+   "note": "DLC on Insane"
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Outlast: Whistleblower (paid DLC; in Bundle of Terror)",
+   "hours": 0.3,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies left in this list."
+ },
+ "missed_missables": "Base-game documents/recordings were not collected in the finished run: EDUCATED/PULITZER need a new playthrough.",
+ "notes_ru": "Основа пройдена, но без записок — нужен новый забег на Normal со всеми документами и записями, затем забег на Insane (без чекпоинтов). Whistleblower (платное DLC): сначала прохождение с коллекционками, потом Insane.",
+ "confidence": "high"
+}

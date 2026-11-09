@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
+| Осталось (оценка) | **~36 ч** (разброс 25–50 ч) |
+| Из них офлайн / онлайн | 36 ч / 0 ч |
+| Время на 100% по гайду | ~54 base plat (PlatPursuit est.); 90-110 incl. all DLC (est.) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Онлайн-сервера | 🔴 закрыты Sony shut down DRIVECLUB / DRIVECLUB VR / DRIVECLUB Bikes servers on 31 Mar 2020 (announced Mar 2019; store delisting of games + all DLC/season passes on 31 Aug 2019). Offline/single-player and trophies for offline modes still work (gtplanet, pushsquare, gamesradar). User already has all base online trophies (23/27 base), remaining ones are offline. |
 | Наиграно (PSN) | 67 ч |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | low |
+
+> **План:** Платина реальна: онлайн-трофеи базы уже есть, осталось Full House, 1 млн очков дрифта и 50-й уровень водителя (оффлайн гринд). Сначала проверь, есть ли в библиотеке DLC-паки (Season Pass, Lamborghini и т.д.) — с 31.08.2019 они сняты с продажи; если их нет, 18 паков (~23 ч) недоступны, а остаются база + Tour + бесплатные All Stars/AMG (~13 ч).
+
+**Гайды:** [platpursuit.com](https://platpursuit.com/games/NPWR05254_00/) · [gtplanet.net](https://www.gtplanet.net/driveclub-servers-to-shut-down-in-march-2020/) · [pushsquare.com](https://pushsquare.com/news/2015/12/free_driveclub_update_adds_easy_mode_and_mercedes-amg_tour_pack) · [gamingbolt.com](https://gamingbolt.com/to-make-up-for-the-driveclub-debacle-evolution-will-give-you-free-dlc/amp)
 
 ## Невыбитые трофеи
 
@@ -21,212 +25,212 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | #UniteInSpeed | Collect all of the other trophies. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Full House | Win a Race in each class of vehicle: Hot Hatch, Performance, Sports, Super and Hyper. | ❔ нет оценки |  | 9.3% |  |
-| 🥇 | Hoon-a-tic | Rack up 1 million drift points in total. | ❔ нет оценки |  | 3.4% |  |
-| 🥇 | Welcome To The Limit | Reach Driver Level 50 | ❔ нет оценки |  | 2% |  |
+| 🏆 | #UniteInSpeed | Collect all of the other trophies. | офлайн |  | 0.4% | Platinum - base group only; all online base trophies already earned, so still obtainable |
+| 🥈 | Full House | Win a Race in each class of vehicle: Hot Hatch, Performance, Sports, Super and Hyper. | офлайн | 0.5 | 9.3% | Win a race in each car class (single events/Tour) |
+| 🥇 | Hoon-a-tic | Rack up 1 million drift points in total. | офлайн | 2 | 3.4% | Cumulative 1M drift points; drift events / long drift sections |
+| 🥇 | Welcome To The Limit | Reach Driver Level 50 | офлайн | 6 | 2% | Driver Level 50 - grind fame offline; DLC tours give a lot of fame (residual hours shown) |
 
 ### DLC: DRIVECLUB™ Tour — 3/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥈 | The Professional Trophy | Win 'The Professional Trophy' event in Tour on gold star difficulty. | ❔ нет оценки |  | 3.9% |  |
-| 🥇 | The Legend Trophy | Win 'The Legend Trophy' event in Tour on gold star difficulty. | ❔ нет оценки |  | 2.8% |  |
+| 🥈 | The Professional Trophy | Win 'The Professional Trophy' event in Tour on gold star difficulty. | офлайн | 0.5 | 3.9% | DLC: free (DRIVECLUB Tour). Tour championship on gold star difficulty (hard AI) |
+| 🥇 | The Legend Trophy | Win 'The Legend Trophy' event in Tour on gold star difficulty. | офлайн | 1.5 | 2.8% | DLC: free (DRIVECLUB Tour). Tour championship on gold star difficulty (hard AI) |
 
 ### DLC: Ignition — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Ignition Beginner | Gain a star in any event of 'Ignition' | ❔ нет оценки |  | 4.7% |  |
-| 🥉 | Ignition Rising Star | Unlock additional events in 'Ignition' | ❔ нет оценки |  | 2.3% |  |
-| 🥈 | Ignition Contender | Unlock the 'Ignition' Trophy event | ❔ нет оценки |  | 1.5% |  |
-| 🥈 | Ignition Champion | Win the 'Ignition' Trophy event on gold star difficulty. | ❔ нет оценки |  | 1.1% |  |
-| 🥇 | Ignition Completionist | Gain all stars in 'Ignition' | ❔ нет оценки |  | 0.5% |  |
+| 🥉 | Ignition Beginner | Gain a star in any event of 'Ignition' | офлайн |  | 4.7% | DLC: Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Ignition Tour: all 11 events' stars (offline) |
+| 🥉 | Ignition Rising Star | Unlock additional events in 'Ignition' | офлайн |  | 2.3% | DLC: Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Ignition Tour: all 11 events' stars (offline) |
+| 🥈 | Ignition Contender | Unlock the 'Ignition' Trophy event | офлайн |  | 1.5% | DLC: Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Ignition Tour: all 11 events' stars (offline) |
+| 🥈 | Ignition Champion | Win the 'Ignition' Trophy event on gold star difficulty. | офлайн | 0.3 | 1.1% | DLC: Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Ignition Tour: all 11 events' stars (offline) |
+| 🥇 | Ignition Completionist | Gain all stars in 'Ignition' | офлайн | 1 | 0.5% | DLC: Ignition pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Ignition Tour: all 11 events' stars (offline) |
 
 ### DLC: Photo-Finish — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Photo-Finish Beginner | Gain a star in any event of 'Photo-Finish' | ❔ нет оценки |  | 3.4% |  |
-| 🥉 | Photo-Finish Rising Star | Unlock additional events in 'Photo-Finish' | ❔ нет оценки |  | 1.9% |  |
-| 🥈 | Photo-Finish Contender | Unlock the 'Photo-Finish' Trophy event | ❔ нет оценки |  | 1.3% |  |
-| 🥈 | Photo-Finish Champion | Win the 'Photo-Finish' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.9% |  |
-| 🥇 | Photo-Finish Completionist | Gain all stars in 'Photo-Finish' | ❔ нет оценки |  | 0.4% |  |
+| 🥉 | Photo-Finish Beginner | Gain a star in any event of 'Photo-Finish' | офлайн |  | 3.4% | DLC: Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Photo-Finish Tour: all 11 events' stars (offline) |
+| 🥉 | Photo-Finish Rising Star | Unlock additional events in 'Photo-Finish' | офлайн |  | 1.9% | DLC: Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Photo-Finish Tour: all 11 events' stars (offline) |
+| 🥈 | Photo-Finish Contender | Unlock the 'Photo-Finish' Trophy event | офлайн |  | 1.3% | DLC: Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Photo-Finish Tour: all 11 events' stars (offline) |
+| 🥈 | Photo-Finish Champion | Win the 'Photo-Finish' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.9% | DLC: Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Photo-Finish Tour: all 11 events' stars (offline) |
+| 🥇 | Photo-Finish Completionist | Gain all stars in 'Photo-Finish' | офлайн | 1 | 0.4% | DLC: Photo-Finish pack (paid/Season Pass (Ignition & Photo-Finish were given free to owners in Nov 2014); DELISTED 31 Aug 2019 - only if already in library). Photo-Finish Tour: all 11 events' stars (offline) |
 
 ### DLC: Redline — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Redline Beginner | Gain a star in any event of 'Redline' | ❔ нет оценки |  | 1.1% |  |
-| 🥉 | Redline Rising Star | Unlock additional events in 'Redline' | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Redline Contender | Unlock the 'Redline' Trophy event | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Redline Champion | Win the 'Redline' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.4% |  |
-| 🥇 | Redline Completionist | Gain all stars in 'Redline' | ❔ нет оценки |  | 0.3% |  |
+| 🥉 | Redline Beginner | Gain a star in any event of 'Redline' | офлайн |  | 1.1% | 💲 DLC: Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Redline Tour: all 11 events' stars (offline) |
+| 🥉 | Redline Rising Star | Unlock additional events in 'Redline' | офлайн |  | 0.6% | 💲 DLC: Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Redline Tour: all 11 events' stars (offline) |
+| 🥈 | Redline Contender | Unlock the 'Redline' Trophy event | офлайн |  | 0.5% | 💲 DLC: Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Redline Tour: all 11 events' stars (offline) |
+| 🥈 | Redline Champion | Win the 'Redline' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.4% | 💲 DLC: Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Redline Tour: all 11 events' stars (offline) |
+| 🥇 | Redline Completionist | Gain all stars in 'Redline' | офлайн | 1 | 0.3% | 💲 DLC: Redline pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Redline Tour: all 11 events' stars (offline) |
 
 ### DLC: Elements — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Elements Beginner | Gain a star in any event of 'Elements'. | ❔ нет оценки |  | 1% |  |
-| 🥉 | Elements Rising Star | Unlock additional events in 'Elements'. | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Elements Contender | Unlock the 'Elements' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Elements Champion | Win the 'Elements' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Elements Completionist | Gain all stars in 'Elements'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Elements Beginner | Gain a star in any event of 'Elements'. | офлайн |  | 1% | 💲 DLC: Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Elements Tour: all 11 events' stars (offline) |
+| 🥉 | Elements Rising Star | Unlock additional events in 'Elements'. | офлайн |  | 0.6% | 💲 DLC: Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Elements Tour: all 11 events' stars (offline) |
+| 🥈 | Elements Contender | Unlock the 'Elements' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Elements Tour: all 11 events' stars (offline) |
+| 🥈 | Elements Champion | Win the 'Elements' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Elements Tour: all 11 events' stars (offline) |
+| 🥇 | Elements Completionist | Gain all stars in 'Elements'. | офлайн | 1 | 0.2% | 💲 DLC: Elements pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Elements Tour: all 11 events' stars (offline) |
 
 ### DLC: Apex — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Apex Beginner | Gain a star in any event of 'Apex'. | ❔ нет оценки |  | 1% |  |
-| 🥉 | Apex Rising Star | Unlock additional events in 'Apex'. | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Apex Contender | Unlock the 'Apex' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Apex Champion | Win the 'Apex' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.4% |  |
-| 🥇 | Apex Completionist | Gain all stars in 'Apex' | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Apex Beginner | Gain a star in any event of 'Apex'. | офлайн |  | 1% | 💲 DLC: Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Apex Tour: all 11 events' stars (offline) |
+| 🥉 | Apex Rising Star | Unlock additional events in 'Apex'. | офлайн |  | 0.6% | 💲 DLC: Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Apex Tour: all 11 events' stars (offline) |
+| 🥈 | Apex Contender | Unlock the 'Apex' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Apex Tour: all 11 events' stars (offline) |
+| 🥈 | Apex Champion | Win the 'Apex' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.4% | 💲 DLC: Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Apex Tour: all 11 events' stars (offline) |
+| 🥇 | Apex Completionist | Gain all stars in 'Apex' | офлайн | 1 | 0.2% | 💲 DLC: Apex pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Apex Tour: all 11 events' stars (offline) |
 
 ### DLC: Sakura — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Sakura Beginner | Gain a star in any event of 'Sakura'. | ❔ нет оценки |  | 1% |  |
-| 🥉 | Sakura Rising Star | Unlock additional events in 'Sakura'. | ❔ нет оценки |  | 0.7% |  |
-| 🥈 | Sakura Contender | Unlock the 'Sakura' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Sakura Champion | Win the 'Sakura' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Sakura Completionist | Gain all stars in 'Sakura'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Sakura Beginner | Gain a star in any event of 'Sakura'. | офлайн |  | 1% | 💲 DLC: Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Sakura Tour: all 11 events' stars (offline) |
+| 🥉 | Sakura Rising Star | Unlock additional events in 'Sakura'. | офлайн |  | 0.7% | 💲 DLC: Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Sakura Tour: all 11 events' stars (offline) |
+| 🥈 | Sakura Contender | Unlock the 'Sakura' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Sakura Tour: all 11 events' stars (offline) |
+| 🥈 | Sakura Champion | Win the 'Sakura' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Sakura Tour: all 11 events' stars (offline) |
+| 🥇 | Sakura Completionist | Gain all stars in 'Sakura'. | офлайн | 1 | 0.2% | 💲 DLC: Sakura pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Sakura Tour: all 11 events' stars (offline) |
 
 ### DLC: Downforce — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Downforce Beginner | Gain a star in any event of 'Downforce'. | ❔ нет оценки |  | 0.9% |  |
-| 🥉 | Downforce Rising Star | Unlock additional events in 'Downforce'. | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Downforce Contender | Unlock the 'Downforce' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Downforce Champion | Win the 'Downforce' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Downforce Completionist | Gain all stars in 'Downforce'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Downforce Beginner | Gain a star in any event of 'Downforce'. | офлайн |  | 0.9% | 💲 DLC: Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Downforce Tour: all 11 events' stars (offline) |
+| 🥉 | Downforce Rising Star | Unlock additional events in 'Downforce'. | офлайн |  | 0.6% | 💲 DLC: Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Downforce Tour: all 11 events' stars (offline) |
+| 🥈 | Downforce Contender | Unlock the 'Downforce' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Downforce Tour: all 11 events' stars (offline) |
+| 🥈 | Downforce Champion | Win the 'Downforce' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Downforce Tour: all 11 events' stars (offline) |
+| 🥇 | Downforce Completionist | Gain all stars in 'Downforce'. | офлайн | 1 | 0.2% | 💲 DLC: Downforce pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Downforce Tour: all 11 events' stars (offline) |
 
 ### DLC: Midnight — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Midnight Beginner | Gain a star in any event of 'Midnight'. | ❔ нет оценки |  | 0.8% |  |
-| 🥉 | Midnight Rising Star | Unlock additional events in 'Midnight'. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Midnight Contender | Unlock the 'Midnight' Trophy event. | ❔ нет оценки |  | 0.3% |  |
-| 🥈 | Midnight Champion | Win the 'Midnight' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Midnight Completionist | Gain all stars in 'Midnight'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Midnight Beginner | Gain a star in any event of 'Midnight'. | офлайн |  | 0.8% | 💲 DLC: Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Midnight Tour: all 11 events' stars (offline) |
+| 🥉 | Midnight Rising Star | Unlock additional events in 'Midnight'. | офлайн |  | 0.5% | 💲 DLC: Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Midnight Tour: all 11 events' stars (offline) |
+| 🥈 | Midnight Contender | Unlock the 'Midnight' Trophy event. | офлайн |  | 0.3% | 💲 DLC: Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Midnight Tour: all 11 events' stars (offline) |
+| 🥈 | Midnight Champion | Win the 'Midnight' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Midnight Tour: all 11 events' stars (offline) |
+| 🥇 | Midnight Completionist | Gain all stars in 'Midnight'. | офлайн | 1 | 0.2% | 💲 DLC: Midnight pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Midnight Tour: all 11 events' stars (offline) |
 
 ### DLC: Lamborghini — 1/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Lamborghini Rising Star | Unlock additional events in 'Lamborghini'. | ❔ нет оценки |  | 0.7% |  |
-| 🥈 | Lamborghini Contender | Unlock the 'Lamborghini' Trophy event. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Lamborghini Champion | Win the 'Lamborghini' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.4% |  |
-| 🥇 | Lamborghini Completionist | Gain all stars in 'Lamborghini'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Lamborghini Rising Star | Unlock additional events in 'Lamborghini'. | офлайн |  | 0.7% | 💲 DLC: Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Tour: all 11 events' stars (offline) |
+| 🥈 | Lamborghini Contender | Unlock the 'Lamborghini' Trophy event. | офлайн |  | 0.5% | 💲 DLC: Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Tour: all 11 events' stars (offline) |
+| 🥈 | Lamborghini Champion | Win the 'Lamborghini' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.4% | 💲 DLC: Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Tour: all 11 events' stars (offline) |
+| 🥇 | Lamborghini Completionist | Gain all stars in 'Lamborghini'. | офлайн | 1 | 0.2% | 💲 DLC: Lamborghini pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Tour: all 11 events' stars (offline) |
 
 ### DLC: Pacesetter — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Pacesetter Beginner | Gain a star in any event of 'Pacesetter'. | ❔ нет оценки |  | 0.8% |  |
-| 🥉 | Pacesetter Rising Star | Unlock additional events in 'Pacesetter'. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Pacesetter Contender | Unlock the 'Pacesetter' Trophy event. | ❔ нет оценки |  | 0.3% |  |
-| 🥈 | Pacesetter Champion | Win the 'Pacesetter' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.2% |  |
-| 🥇 | Pacesetter Completionist | Gain all stars in 'Pacesetter'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Pacesetter Beginner | Gain a star in any event of 'Pacesetter'. | офлайн |  | 0.8% | 💲 DLC: Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Pacesetter Tour: all 11 events' stars (offline) |
+| 🥉 | Pacesetter Rising Star | Unlock additional events in 'Pacesetter'. | офлайн |  | 0.4% | 💲 DLC: Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Pacesetter Tour: all 11 events' stars (offline) |
+| 🥈 | Pacesetter Contender | Unlock the 'Pacesetter' Trophy event. | офлайн |  | 0.3% | 💲 DLC: Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Pacesetter Tour: all 11 events' stars (offline) |
+| 🥈 | Pacesetter Champion | Win the 'Pacesetter' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.2% | 💲 DLC: Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Pacesetter Tour: all 11 events' stars (offline) |
+| 🥇 | Pacesetter Completionist | Gain all stars in 'Pacesetter'. | офлайн | 1 | 0.2% | 💲 DLC: Pacesetter pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Pacesetter Tour: all 11 events' stars (offline) |
 
 ### DLC: Turbocharged — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Turbocharged Beginner | Gain a star in any event of 'Turbocharged'. | ❔ нет оценки |  | 1% |  |
-| 🥉 | Turbocharged Rising Star | Unlock additional events in 'Turbocharged'. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Turbocharged Contender | Unlock the 'Turbocharged' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Turbocharged Champion | Win the 'Turbocharged' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Turbocharged Completionist | Gain all the stars in 'Turbocharged'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Turbocharged Beginner | Gain a star in any event of 'Turbocharged'. | офлайн |  | 1% | 💲 DLC: Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Turbocharged Tour: all 11 events' stars (offline) |
+| 🥉 | Turbocharged Rising Star | Unlock additional events in 'Turbocharged'. | офлайн |  | 0.5% | 💲 DLC: Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Turbocharged Tour: all 11 events' stars (offline) |
+| 🥈 | Turbocharged Contender | Unlock the 'Turbocharged' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Turbocharged Tour: all 11 events' stars (offline) |
+| 🥈 | Turbocharged Champion | Win the 'Turbocharged' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Turbocharged Tour: all 11 events' stars (offline) |
+| 🥇 | Turbocharged Completionist | Gain all the stars in 'Turbocharged'. | офлайн | 1 | 0.2% | 💲 DLC: Turbocharged pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Turbocharged Tour: all 11 events' stars (offline) |
 
 ### DLC: Evolution — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Evolution Beginner | Gain a star in any event of 'Evolution'. | ❔ нет оценки |  | 0.8% |  |
-| 🥉 | Evolution Rising Star | Unlock additional event in 'Evolution'. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Evolution Contender | Unlock the 'Evolution' Trophy event. | ❔ нет оценки |  | 0.3% |  |
-| 🥈 | Evolution Champion | Win the 'Evolution' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Evolution Completionist | Gain all stars in 'Evolution'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Evolution Beginner | Gain a star in any event of 'Evolution'. | офлайн |  | 0.8% | 💲 DLC: Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Evolution Tour: all 11 events' stars (offline) |
+| 🥉 | Evolution Rising Star | Unlock additional event in 'Evolution'. | офлайн |  | 0.5% | 💲 DLC: Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Evolution Tour: all 11 events' stars (offline) |
+| 🥈 | Evolution Contender | Unlock the 'Evolution' Trophy event. | офлайн |  | 0.3% | 💲 DLC: Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Evolution Tour: all 11 events' stars (offline) |
+| 🥈 | Evolution Champion | Win the 'Evolution' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Evolution Tour: all 11 events' stars (offline) |
+| 🥇 | Evolution Completionist | Gain all stars in 'Evolution'. | офлайн | 1 | 0.2% | 💲 DLC: Evolution pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Evolution Tour: all 11 events' stars (offline) |
 
 ### DLC: Lamborghini Icons — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Lamborghini Icons Beginner | Gain a star in any event of 'Lamborghini Icons'. | ❔ нет оценки |  | 1.1% |  |
-| 🥉 | Lamborghini Icons Rising Star | Unlock additional events in 'Lamborghini Icons'. | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Lamborghini Icons Contender | Unlock the 'Lamborghini Icons' Trophy event. | ❔ нет оценки |  | 0.4% |  |
-| 🥈 | Lamborghini Icons Champion | Win the 'Lamborghini Icons' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Lamborghini Icons Completionist | Gain all the stars in 'Lamborghini Icons'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Lamborghini Icons Beginner | Gain a star in any event of 'Lamborghini Icons'. | офлайн |  | 1.1% | 💲 DLC: Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Icons Tour: all 11 events' stars (offline) |
+| 🥉 | Lamborghini Icons Rising Star | Unlock additional events in 'Lamborghini Icons'. | офлайн |  | 0.6% | 💲 DLC: Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Icons Tour: all 11 events' stars (offline) |
+| 🥈 | Lamborghini Icons Contender | Unlock the 'Lamborghini Icons' Trophy event. | офлайн |  | 0.4% | 💲 DLC: Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Icons Tour: all 11 events' stars (offline) |
+| 🥈 | Lamborghini Icons Champion | Win the 'Lamborghini Icons' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Icons Tour: all 11 events' stars (offline) |
+| 🥇 | Lamborghini Icons Completionist | Gain all the stars in 'Lamborghini Icons'. | офлайн | 1 | 0.2% | 💲 DLC: Lamborghini Icons pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Lamborghini Icons Tour: all 11 events' stars (offline) |
 
 ### DLC: Torque — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Torque Beginner | Gain a star in any event of 'Torque'. | ❔ нет оценки |  | 0.8% |  |
-| 🥉 | Torque Rising Star | Unlock additional events in 'Torque'. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Torque Contender | Unlock the 'Torque' Trophy event. | ❔ нет оценки |  | 0.3% |  |
-| 🥈 | Torque Champion | Win the 'Torque' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Torque Completionist | Gain all stars in 'Torque'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Torque Beginner | Gain a star in any event of 'Torque'. | офлайн |  | 0.8% | 💲 DLC: Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Torque Tour: all 11 events' stars (offline) |
+| 🥉 | Torque Rising Star | Unlock additional events in 'Torque'. | офлайн |  | 0.5% | 💲 DLC: Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Torque Tour: all 11 events' stars (offline) |
+| 🥈 | Torque Contender | Unlock the 'Torque' Trophy event. | офлайн |  | 0.3% | 💲 DLC: Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Torque Tour: all 11 events' stars (offline) |
+| 🥈 | Torque Champion | Win the 'Torque' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Torque Tour: all 11 events' stars (offline) |
+| 🥇 | Torque Completionist | Gain all stars in 'Torque'. | офлайн | 1 | 0.2% | 💲 DLC: Torque pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Torque Tour: all 11 events' stars (offline) |
 
 ### DLC: RPM — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | RPM Beginner | Gain a star in any event of 'RPM'. | ❔ нет оценки |  | 1.1% |  |
-| 🥉 | RPM Rising Star | Unlock additional events in 'RPM'. | ❔ нет оценки |  | 0.7% |  |
-| 🥈 | RPM Contender | Unlock the 'RPM' Trophy event. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | RPM Champion | Win the 'RPM' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.4% |  |
-| 🥇 | RPM Completionist | Gain all stars in 'RPM'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | RPM Beginner | Gain a star in any event of 'RPM'. | офлайн |  | 1.1% | 💲 DLC: RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). RPM Tour: all 11 events' stars (offline) |
+| 🥉 | RPM Rising Star | Unlock additional events in 'RPM'. | офлайн |  | 0.7% | 💲 DLC: RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). RPM Tour: all 11 events' stars (offline) |
+| 🥈 | RPM Contender | Unlock the 'RPM' Trophy event. | офлайн |  | 0.5% | 💲 DLC: RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). RPM Tour: all 11 events' stars (offline) |
+| 🥈 | RPM Champion | Win the 'RPM' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.4% | 💲 DLC: RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). RPM Tour: all 11 events' stars (offline) |
+| 🥇 | RPM Completionist | Gain all stars in 'RPM'. | офлайн | 1 | 0.2% | 💲 DLC: RPM pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). RPM Tour: all 11 events' stars (offline) |
 
 ### DLC: Velocity — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Velocity Beginner | Gain a star in any event of 'Velocity'. | ❔ нет оценки |  | 0.8% |  |
-| 🥉 | Velocity Rising Star | Unlock additional events in 'Velocity'. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Velocity Contender | Unlock the 'Velocity' Trophy event. | ❔ нет оценки |  | 0.3% |  |
-| 🥈 | Velocity Champion | Win the 'Velocity' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Velocity Completionist | Gain all stars in 'Velocity'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Velocity Beginner | Gain a star in any event of 'Velocity'. | офлайн |  | 0.8% | 💲 DLC: Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Velocity Tour: all 11 events' stars (offline) |
+| 🥉 | Velocity Rising Star | Unlock additional events in 'Velocity'. | офлайн |  | 0.5% | 💲 DLC: Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Velocity Tour: all 11 events' stars (offline) |
+| 🥈 | Velocity Contender | Unlock the 'Velocity' Trophy event. | офлайн |  | 0.3% | 💲 DLC: Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Velocity Tour: all 11 events' stars (offline) |
+| 🥈 | Velocity Champion | Win the 'Velocity' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Velocity Tour: all 11 events' stars (offline) |
+| 🥇 | Velocity Completionist | Gain all stars in 'Velocity'. | офлайн | 1 | 0.2% | 💲 DLC: Velocity pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Velocity Tour: all 11 events' stars (offline) |
 
 ### DLC: Horsepower — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Horsepower Beginner | Gain a star in any event of 'Horsepower'. | ❔ нет оценки |  | 1.4% |  |
-| 🥉 | Horsepower Rising Star | Unlock additional events in 'Horsepower'. | ❔ нет оценки |  | 0.9% |  |
-| 🥈 | Horsepower Contender | Unlock the 'Horsepower' Trophy event. | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Horsepower Champion | Win the 'Horsepower' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.4% |  |
-| 🥇 | Horsepower Completionist | Gain all stars in 'Horsepower'. | ❔ нет оценки |  | 0.3% |  |
+| 🥉 | Horsepower Beginner | Gain a star in any event of 'Horsepower'. | офлайн |  | 1.4% | 💲 DLC: Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Horsepower Tour: all 11 events' stars (offline) |
+| 🥉 | Horsepower Rising Star | Unlock additional events in 'Horsepower'. | офлайн |  | 0.9% | 💲 DLC: Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Horsepower Tour: all 11 events' stars (offline) |
+| 🥈 | Horsepower Contender | Unlock the 'Horsepower' Trophy event. | офлайн |  | 0.6% | 💲 DLC: Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Horsepower Tour: all 11 events' stars (offline) |
+| 🥈 | Horsepower Champion | Win the 'Horsepower' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.4% | 💲 DLC: Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Horsepower Tour: all 11 events' stars (offline) |
+| 🥇 | Horsepower Completionist | Gain all stars in 'Horsepower'. | офлайн | 1 | 0.3% | 💲 DLC: Horsepower pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Horsepower Tour: all 11 events' stars (offline) |
 
 ### DLC: Unite In Speed — 0/5
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | Unite In Speed Beginner | Gain a star in any event of 'Unite In Speed'. | ❔ нет оценки |  | 1.2% |  |
-| 🥉 | Unite In Speed Rising Star | Unlock additional events in 'Unite In Speed'. | ❔ нет оценки |  | 0.7% |  |
-| 🥈 | Unite In Speed Contender | Unlock the 'Unite In Speed' Trophy event. | ❔ нет оценки |  | 0.5% |  |
-| 🥈 | Unite In Speed Champion | Win the 'Unite In Speed' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.3% |  |
-| 🥇 | Unite In Speed Completionist | Gain all stars in 'Unite In Speed'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | Unite In Speed Beginner | Gain a star in any event of 'Unite In Speed'. | офлайн |  | 1.2% | 💲 DLC: Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Unite In Speed Tour: all 11 events' stars (offline) |
+| 🥉 | Unite In Speed Rising Star | Unlock additional events in 'Unite In Speed'. | офлайн |  | 0.7% | 💲 DLC: Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Unite In Speed Tour: all 11 events' stars (offline) |
+| 🥈 | Unite In Speed Contender | Unlock the 'Unite In Speed' Trophy event. | офлайн |  | 0.5% | 💲 DLC: Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Unite In Speed Tour: all 11 events' stars (offline) |
+| 🥈 | Unite In Speed Champion | Win the 'Unite In Speed' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.3% | 💲 DLC: Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Unite In Speed Tour: all 11 events' stars (offline) |
+| 🥇 | Unite In Speed Completionist | Gain all stars in 'Unite In Speed'. | офлайн | 1 | 0.2% | 💲 DLC: Unite In Speed pack (paid/Season Pass; DELISTED 31 Aug 2019 - only if already in library). Unite In Speed Tour: all 11 events' stars (offline) |
 
 ### DLC: All Stars — 0/3
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | All Stars Beginner | Gain a star in any event of 'All Stars'. | ❔ нет оценки |  | 3.9% |  |
-| 🥉 | All Stars Champion | Win the 'All Stars' Trophy event on gold star difficulty. | ❔ нет оценки |  | 1.7% |  |
-| 🥉 | All Stars Completionist | Gain all stars in 'All Stars'. | ❔ нет оценки |  | 0.6% |  |
+| 🥉 | All Stars Beginner | Gain a star in any event of 'All Stars'. | офлайн |  | 3.9% | DLC: free update (likely, unverified). All Stars tour |
+| 🥉 | All Stars Champion | Win the 'All Stars' Trophy event on gold star difficulty. | офлайн | 0.3 | 1.7% | DLC: free update (likely, unverified). All Stars tour |
+| 🥉 | All Stars Completionist | Gain all stars in 'All Stars'. | офлайн | 0.7 | 0.6% | DLC: free update (likely, unverified). All Stars tour |
 
 ### DLC: AMG — 0/3
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥉 | AMG Beginner | Gain a star in any event of 'AMG'. | ❔ нет оценки |  | 3.8% |  |
-| 🥉 | AMG Champion | Win the 'AMG' Trophy event on gold star difficulty. | ❔ нет оценки |  | 0.6% |  |
-| 🥉 | AMG Completionist | Gain all stars in 'AMG'. | ❔ нет оценки |  | 0.2% |  |
+| 🥉 | AMG Beginner | Gain a star in any event of 'AMG'. | офлайн |  | 3.8% | DLC: free update (AMG pack came free with patch 1.25, Dec 2015). AMG (Mercedes-AMG Tour Pack) tour |
+| 🥉 | AMG Champion | Win the 'AMG' Trophy event on gold star difficulty. | офлайн | 0.3 | 0.6% | DLC: free update (AMG pack came free with patch 1.25, Dec 2015). AMG (Mercedes-AMG Tour Pack) tour |
+| 🥉 | AMG Completionist | Gain all stars in 'AMG'. | офлайн | 0.7 | 0.2% | DLC: free update (AMG pack came free with patch 1.25, Dec 2015). AMG (Mercedes-AMG Tour Pack) tour |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

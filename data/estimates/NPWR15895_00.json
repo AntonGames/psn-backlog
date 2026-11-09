@@ -1,0 +1,210 @@
+{
+ "npCommunicationId": "NPWR15895_00",
+ "game": "Tom Clancy's The Division 2",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.sportskeeda.com/mmo/the-division-2-how-much-content-battle-brooklyn-dlc-have",
+  "https://www.techradar.com/gaming/the-division-2-battle-for-brooklyn-interview",
+  "https://news.ubisoft.com/en-us/article/3UQdqDZmy274BVsIJrK2VX/the-division-2-echoes-of-central-park-coming-on-november-3"
+ ],
+ "difficulty": "3/10 (DLC groups)",
+ "time_to_100_hours": "Brooklyn 6-12 + Echoes of Central Park ~10-15 (platinum already earned)",
+ "remaining_hours": {
+  "min": 0,
+  "max": 0,
+  "best": 0
+ },
+ "offline_hours": 0,
+ "online_hours": 0,
+ "unobtainable_hours": 20,
+ "needs_connection": true,
+ "trophies": [
+  {
+   "id": 61,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 62,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 63,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 1.5,
+   "note": "bounty from each Brooklyn safe house"
+  },
+  {
+   "id": 64,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 65,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 0.2,
+   "note": "call for backup (matchmaking feature)"
+  },
+  {
+   "id": 66,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 0.5,
+   "note": "answer another player's backup call and revive them"
+  },
+  {
+   "id": 67,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Battle for Brooklyn (paid DLC, 2025)",
+   "hours": 5,
+   "note": "liberate all Brooklyn main+secondary locations"
+  },
+  {
+   "id": 68,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 69,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 5,
+   "note": "all UWS main missions"
+  },
+  {
+   "id": 70,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 3,
+   "note": "all UWS side missions"
+  },
+  {
+   "id": 71,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 72,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.1,
+   "note": "call for backup"
+  },
+  {
+   "id": 73,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 74,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.5,
+   "note": "no armor kits vs Cerberus"
+  },
+  {
+   "id": 75,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 76,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 77,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 1.5,
+   "note": "companion signature ability max tier"
+  },
+  {
+   "id": 78,
+   "cat": "unobtainable_user",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Echoes of Central Park (paid DLC, Nov 2026)",
+   "hours": 1,
+   "note": "all talents for one companion"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "Division 2 is always-online and still live in 2026 (Echoes of Central Park DLC released 3 Nov 2026)."
+ },
+ "missed_missables": "",
+ "notes_ru": "Платина есть; остались только 2 платных DLC (Battle for Brooklyn и Echoes of Central Park, вышел 03.11.2026) — недоступны с RU-аккаунта, по оценке ~20 ч вместе (~8 + ~12). Покупать, когда оба вместе будут стоить ≤ 492 RUB; 'Brooklyn Backup' требует ответить на вызов подкрепления другого игрока (онлайн).",
+ "confidence": "medium"
+}

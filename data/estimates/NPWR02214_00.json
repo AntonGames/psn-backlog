@@ -1,0 +1,49 @@
+{
+ "npCommunicationId": "NPWR02214_00",
+ "game": "Ultimate Marvel vs. Capcom 3",
+ "platform": "PSVITA",
+ "guide_urls": [
+  "https://platprices.com/game/20065-ultimate-marvel-vs-capcom-3",
+  "https://www.playstationlifestyle.net/?p=160189"
+ ],
+ "difficulty": "8/10 (PlatPrices lists 10/10)",
+ "time_to_100_hours": "60-70",
+ "remaining_hours": {
+  "min": 8,
+  "max": 30,
+  "best": 15
+ },
+ "offline_hours": 15,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 15,
+   "note": "Remaining of 480 missions (240 already done); hardest combo trials left, Vita controls make them harder"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "All online trophies already earned; only Mission mode left (offline)."
+ },
+ "missed_missables": "",
+ "notes_ru": "Осталась только «Master of Tasks» — добить все 480 миссий (240 уже есть). Чисто оффлайн; начать с персонажей с простыми комбо, сложные трайлы оставить на конец.",
+ "confidence": "medium"
+}

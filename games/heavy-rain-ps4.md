@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~16 ч** (разброс 11–19 ч) |
+| Из них офлайн / онлайн | 16 ч / 0 ч |
+| Время на 100% по гайду | 15-20 ч |
+| Сложность по гайду | 3/10 |
+| Онлайн-сервера | — No online trophies left in this list. |
 | Наиграно (PSN) | 4.4 ч |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | medium |
+
+> **План:** Почти всё впереди (2/57): первое прохождение с гайдом (~7 ч), затем Chapter Select для взаимоисключающих выборов и всех концовок. Пропустить навсегда ничего нельзя — главы переигрываются.
+
+**Гайды:** [gamepressure.com](https://www.gamepressure.com/heavyrain/list-of-achievements-trophies/zac51a) · [playstationlifestyle.net](https://www.playstationlifestyle.net/2010/02/23/heavy-rain-trophy-guide/) · [platprices.com](https://platprices.com/game/30956-heavy-rain)
 
 ## Невыбитые трофеи
 
@@ -21,61 +25,61 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | HEAVY RAIN™ Master | Unlock all trophies | ❔ нет оценки |  | 1.1% |  |
-| 🥉 | Happy Birthday | Prologue - Complete the drawing + Set the table + Play with kids | ❔ нет оценки |  | 12.1% |  |
-| 🥉 | Good Father | Father and Son - Follow the schedule with Shaun and put him to bed in a good mood | ❔ нет оценки |  | 18.3% |  |
-| 🥉 | Private Eye | Sleazy Place - Lead Lauren to talk about her son | ❔ нет оценки |  | 33.1% |  |
-| 🥉 | FBI Investigator | Crime Scene - Find all clues related to the Origami Killer in the scene | ❔ нет оценки |  | 25.9% |  |
-| 🥉 | Good Friends | The Park - Play two games with Shaun successfully and buy him candy | ❔ нет оценки |  | 16.3% |  |
-| 🥉 | Got To Remember! | Welcome, Norman! - Remember the time it was at the park and what Shaun was wearing | ❔ нет оценки |  | 5.6% |  |
-| 🥉 | Negotiator | Hassan's Shop - Persuade the Robber to leave | ❔ нет оценки |  | 11.1% |  |
-| 🥉 | VIP | Paparazzi - Leave home without being spotted by the journalists | ❔ нет оценки |  | 23.7% |  |
-| 🥉 | Agoraphobia | Lexington Station - Knock down at least 50 passers-by | ❔ нет оценки |  | 4.1% |  |
-| 🥉 | Lucky Locker | Lexington Station - Find the correct locker on first try | ❔ нет оценки |  | 30% |  |
-| 🥉 | Blunder | Nathaniel - Shoot Nathaniel | ❔ нет оценки |  | 24.6% |  |
-| 🥉 | Self Control | Nathaniel - Do not shoot Nathaniel | ❔ нет оценки |  | 15.7% |  |
-| 🥉 | Baby Master | Suicide Baby - Make no mistakes taking care of the baby | ❔ нет оценки |  | 5.9% |  |
-| 🥉 | Kamikaze | The Bear - Take the best route on the highway | ❔ нет оценки |  | 1.7% |  |
-| 🥉 | Good Driver | The Bear - Complete the Bear Trial successfully | ❔ нет оценки |  | 27.5% |  |
-| 🥉 | Cat & Mouse | Covered Market - Beat Korda in the cold storage | ❔ нет оценки |  | 30.2% |  |
-| 🥉 | Tough Guy | Kramer's Party - Defeat Gordi's bodyguards | ❔ нет оценки |  | 28.5% |  |
-| 🥉 | Coward! | The Butterfly - Give up or fail the Butterfly Trial | ❔ нет оценки |  | 14.6% |  |
-| 🥉 | Electrified | The Butterfly - Complete the Butterfly Trial successfully | ❔ нет оценки |  | 21.7% |  |
-| 🥉 | Good Cop | Shrink and Punches - Stop Blake from hitting Dupré | ❔ нет оценки |  | 30.3% |  |
-| 🥉 | Bad Cop | Shrink and Punches - Do not stop Blake from hitting Dupré | ❔ нет оценки |  | 2.4% |  |
-| 🥉 | Gold Finger | The Lizard - Cut your finger using axe, knife or pliers + disinfect or cauterize the wound | ❔ нет оценки |  | 11.6% |  |
-| 🥉 | Butcher | The Lizard - Cut your finger using saw or scissors | ❔ нет оценки |  | 4.9% |  |
-| 🥉 | Fugitive | Fugitive - Manage to escape Blake in the subway station | ❔ нет оценки |  | 19.2% |  |
-| 🥉 | Hands Up! | Fugitive or On the Loose - Get arrested by Blake | ❔ нет оценки |  | 16.9% |  |
-| 🥉 | Ludwig Von | Jayden Blues - Play the piano without a wrong note | ❔ нет оценки |  | 14.6% |  |
-| 🥉 | Detox | Jayden Blues - Resist Triptocaine | ❔ нет оценки |  | 14.3% |  |
-| 🥉 | Wise Guy | Under Arrest - Switch the camera off in the surveillance room before saving Ethan | ❔ нет оценки |  | 14.3% |  |
-| 🥉 | I'm a Killer... | The Shark - Kill the Drug Dealer | ❔ нет оценки |  | 15.5% |  |
-| 🥉 | I'm not a Killer! | The Shark - Do not kill the Drug Dealer | ❔ нет оценки |  | 14.7% |  |
-| 🥉 | Smart Girl | The Doc - Do not drink the Doc's beverage | ❔ нет оценки |  | 18.1% |  |
-| 🥉 | Queen of Ropes | The Doc - Escape before the Doc returns | ❔ нет оценки |  | 24.2% |  |
-| 🥉 | Goodbye Mad Jack | Mad Jack - Survive the fights against Mad Jack | ❔ нет оценки |  | 13.7% |  |
-| 🥉 | The Chef | Eureka - Prepare a good omelette on time | ❔ нет оценки |  | 20.4% |  |
-| 🥉 | I'm not Scared! | Twins - Follow your brother without making any mistakes | ❔ нет оценки |  | 1.7% |  |
-| 🥉 | Pride Saved | Sexy Girl - Take off no more than one item of clothing during the strip-tease | ❔ нет оценки |  | 14.3% |  |
-| 🥉 | Unforgivable | On the Loose - Do not forgive Madison | ❔ нет оценки |  | 3.3% |  |
-| 🥉 | Lover Boy | On the Loose - Forgive Madison | ❔ нет оценки |  | 21% |  |
-| 🥉 | Escape Master | On the Loose - Escape the police at the motel | ❔ нет оценки |  | 22.5% |  |
-| 🥉 | Swimming Instructor | Trapped - Save Lauren underwater | ❔ нет оценки |  | 16.3% |  |
-| 🥉 | Invincible Scott | Face to Face - Do not get shot in Kramer's villa | ❔ нет оценки |  | 11.6% |  |
-| 🥉 | Kind Hearted | Face to Face - Give Kramer his medicine | ❔ нет оценки |  | 18% |  |
-| 🥉 | Sacrifice | The Rat - Drink the poison | ❔ нет оценки |  | 19.7% |  |
-| 🥉 | Clever Dad | The Rat - Work out where Shaun is held | ❔ нет оценки |  | 12.5% |  |
-| 🥉 | Cold as Ice | Killer's Place - Survive the explosion by hiding in the fridge | ❔ нет оценки |  | 18.6% |  |
-| 🥉 | Simple Mind | The Old Warehouse - Save the Origami Killer before he falls, with Jayden or Madison | ❔ нет оценки |  | 10.1% |  |
-| 🥉 | So Close... | The Old Warehouse - Reach the end with all characters... and fail | ❔ нет оценки |  | 3.1% |  |
-| 🥉 | HEAVY RAIN™ Hero | Finish HEAVY RAIN™ | ❔ нет оценки |  | 25.9% |  |
-| 🥈 | Four Heroes | Complete the story with four characters alive | ❔ нет оценки |  | 12% |  |
-| 🥈 | Trial Master | Succeeded in all Ethan's trials | ❔ нет оценки |  | 7.7% |  |
-| 🥈 | Nerd | Find all clues using ARI (Crime scene + Mad Jack + Fish tank) and find the Origami Killer | ❔ нет оценки |  | 10.5% |  |
-| 🥈 | Saved the Kid | Save Shaun | ❔ нет оценки |  | 23.3% |  |
-| 🥇 | Perfect Crime | Clean Manfred's shop of evidence + Let Lauren, Hassan and Kramer die + Kill Madison and Jayden + Origami Killer free | ❔ нет оценки |  | 1.3% |  |
-| 🥇 | All Endings | See all endings | ❔ нет оценки |  | 1.1% |  |
+| 🏆 | HEAVY RAIN™ Master | Unlock all trophies | офлайн |  | 1.1% | platinum |
+| 🥉 | Happy Birthday | Prologue - Complete the drawing + Set the table + Play with kids | офлайн | 0.1 | 12.1% | chapter-specific choice; chapter select |
+| 🥉 | Good Father | Father and Son - Follow the schedule with Shaun and put him to bed in a good mood | офлайн | 0.1 | 18.3% | chapter-specific choice; chapter select |
+| 🥉 | Private Eye | Sleazy Place - Lead Lauren to talk about her son | офлайн | 0.1 | 33.1% | chapter-specific choice; chapter select |
+| 🥉 | FBI Investigator | Crime Scene - Find all clues related to the Origami Killer in the scene | офлайн | 0.1 | 25.9% | chapter-specific choice; chapter select |
+| 🥉 | Good Friends | The Park - Play two games with Shaun successfully and buy him candy | офлайн | 0.1 | 16.3% | chapter-specific choice; chapter select |
+| 🥉 | Got To Remember! | Welcome, Norman! - Remember the time it was at the park and what Shaun was wearing | офлайн | 0.1 | 5.6% | chapter-specific choice; chapter select |
+| 🥉 | Negotiator | Hassan's Shop - Persuade the Robber to leave | офлайн | 0.1 | 11.1% | chapter-specific choice; chapter select |
+| 🥉 | VIP | Paparazzi - Leave home without being spotted by the journalists | офлайн | 0.1 | 23.7% | chapter-specific choice; chapter select |
+| 🥉 | Agoraphobia | Lexington Station - Knock down at least 50 passers-by | офлайн | 0.2 | 4.1% |  |
+| 🥉 | Lucky Locker | Lexington Station - Find the correct locker on first try | офлайн | 0.1 | 30% | chapter-specific choice; chapter select |
+| 🥉 | Blunder | Nathaniel - Shoot Nathaniel | офлайн | 0.1 | 24.6% | chapter-specific choice; chapter select |
+| 🥉 | Self Control | Nathaniel - Do not shoot Nathaniel | офлайн | 0.1 | 15.7% | chapter-specific choice; chapter select |
+| 🥉 | Baby Master | Suicide Baby - Make no mistakes taking care of the baby | офлайн | 0.1 | 5.9% | chapter-specific choice; chapter select |
+| 🥉 | Kamikaze | The Bear - Take the best route on the highway | офлайн | 0.2 | 1.7% | hard QTE driving |
+| 🥉 | Good Driver | The Bear - Complete the Bear Trial successfully | офлайн | 0.1 | 27.5% | chapter-specific choice; chapter select |
+| 🥉 | Cat & Mouse | Covered Market - Beat Korda in the cold storage | офлайн | 0.1 | 30.2% | chapter-specific choice; chapter select |
+| 🥉 | Tough Guy | Kramer's Party - Defeat Gordi's bodyguards | офлайн | 0.1 | 28.5% | chapter-specific choice; chapter select |
+| 🥉 | Coward! | The Butterfly - Give up or fail the Butterfly Trial | офлайн | 0.1 | 14.6% | chapter-specific choice; chapter select |
+| 🥉 | Electrified | The Butterfly - Complete the Butterfly Trial successfully | офлайн | 0.1 | 21.7% | chapter-specific choice; chapter select |
+| 🥉 | Good Cop | Shrink and Punches - Stop Blake from hitting Dupré | офлайн | 0.1 | 30.3% | chapter-specific choice; chapter select |
+| 🥉 | Bad Cop | Shrink and Punches - Do not stop Blake from hitting Dupré | офлайн | 0.1 | 2.4% | chapter-specific choice; chapter select |
+| 🥉 | Gold Finger | The Lizard - Cut your finger using axe, knife or pliers + disinfect or cauterize the wound | офлайн | 0.1 | 11.6% | chapter-specific choice; chapter select |
+| 🥉 | Butcher | The Lizard - Cut your finger using saw or scissors | офлайн | 0.1 | 4.9% | chapter-specific choice; chapter select |
+| 🥉 | Fugitive | Fugitive - Manage to escape Blake in the subway station | офлайн | 0.1 | 19.2% | chapter-specific choice; chapter select |
+| 🥉 | Hands Up! | Fugitive or On the Loose - Get arrested by Blake | офлайн | 0.1 | 16.9% | chapter-specific choice; chapter select |
+| 🥉 | Ludwig Von | Jayden Blues - Play the piano without a wrong note | офлайн | 0.1 | 14.6% | chapter-specific choice; chapter select |
+| 🥉 | Detox | Jayden Blues - Resist Triptocaine | офлайн | 0.1 | 14.3% | chapter-specific choice; chapter select |
+| 🥉 | Wise Guy | Under Arrest - Switch the camera off in the surveillance room before saving Ethan | офлайн | 0.1 | 14.3% | chapter-specific choice; chapter select |
+| 🥉 | I'm a Killer... | The Shark - Kill the Drug Dealer | офлайн | 0.1 | 15.5% | chapter-specific choice; chapter select |
+| 🥉 | I'm not a Killer! | The Shark - Do not kill the Drug Dealer | офлайн | 0.1 | 14.7% | chapter-specific choice; chapter select |
+| 🥉 | Smart Girl | The Doc - Do not drink the Doc's beverage | офлайн | 0.1 | 18.1% | chapter-specific choice; chapter select |
+| 🥉 | Queen of Ropes | The Doc - Escape before the Doc returns | офлайн | 0.1 | 24.2% | chapter-specific choice; chapter select |
+| 🥉 | Goodbye Mad Jack | Mad Jack - Survive the fights against Mad Jack | офлайн | 0.1 | 13.7% | chapter-specific choice; chapter select |
+| 🥉 | The Chef | Eureka - Prepare a good omelette on time | офлайн | 0.1 | 20.4% | chapter-specific choice; chapter select |
+| 🥉 | I'm not Scared! | Twins - Follow your brother without making any mistakes | офлайн | 0.2 | 1.7% | Twins chapter, strict QTE |
+| 🥉 | Pride Saved | Sexy Girl - Take off no more than one item of clothing during the strip-tease | офлайн | 0.1 | 14.3% | chapter-specific choice; chapter select |
+| 🥉 | Unforgivable | On the Loose - Do not forgive Madison | офлайн | 0.1 | 3.3% | chapter-specific choice; chapter select |
+| 🥉 | Lover Boy | On the Loose - Forgive Madison | офлайн | 0.1 | 21% | chapter-specific choice; chapter select |
+| 🥉 | Escape Master | On the Loose - Escape the police at the motel | офлайн | 0.1 | 22.5% | chapter-specific choice; chapter select |
+| 🥉 | Swimming Instructor | Trapped - Save Lauren underwater | офлайн | 0.1 | 16.3% | chapter-specific choice; chapter select |
+| 🥉 | Invincible Scott | Face to Face - Do not get shot in Kramer's villa | офлайн | 0.1 | 11.6% | chapter-specific choice; chapter select |
+| 🥉 | Kind Hearted | Face to Face - Give Kramer his medicine | офлайн | 0.1 | 18% | chapter-specific choice; chapter select |
+| 🥉 | Sacrifice | The Rat - Drink the poison | офлайн | 0.1 | 19.7% | chapter-specific choice; chapter select |
+| 🥉 | Clever Dad | The Rat - Work out where Shaun is held | офлайн | 0.1 | 12.5% | chapter-specific choice; chapter select |
+| 🥉 | Cold as Ice | Killer's Place - Survive the explosion by hiding in the fridge | офлайн | 0.1 | 18.6% | chapter-specific choice; chapter select |
+| 🥉 | Simple Mind | The Old Warehouse - Save the Origami Killer before he falls, with Jayden or Madison | офлайн | 0.2 | 10.1% |  |
+| 🥉 | So Close... | The Old Warehouse - Reach the end with all characters... and fail | офлайн | 0.3 | 3.1% |  |
+| 🥉 | HEAVY RAIN™ Hero | Finish HEAVY RAIN™ | офлайн | 7 | 25.9% | first full playthrough |
+| 🥈 | Four Heroes | Complete the story with four characters alive | офлайн |  | 12% | combine with good ending |
+| 🥈 | Trial Master | Succeeded in all Ethan's trials | офлайн | 0.3 | 7.7% | all 5 Ethan trials |
+| 🥈 | Nerd | Find all clues using ARI (Crime scene + Mad Jack + Fish tank) and find the Origami Killer | офлайн | 0.3 | 10.5% | all ARI clues |
+| 🥈 | Saved the Kid | Save Shaun | офлайн |  | 23.3% |  |
+| 🥇 | Perfect Crime | Clean Manfred's shop of evidence + Let Lauren, Hassan and Kramer die + Kill Madison and Jayden + Origami Killer free | офлайн | 0.8 | 1.3% | specific bad-ending route, chapter select |
+| 🥇 | All Endings | See all endings | офлайн | 2.5 | 1.1% | all endings via chapter select (epilogues) |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

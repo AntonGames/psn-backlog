@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~0.3 ч** (разброс 0.2–1 ч) |
+| Из них офлайн / онлайн | 0.3 ч / 0 ч |
+| Время на 100% по гайду | 30-40 ч |
+| Сложность по гайду | 3/10 |
+| Онлайн-сервера | — Offline game. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | high |
+
+> **План:** Остался один трофей 'Lead Foot': на очень быстрой машине держать скорость выше 80 миль/ч 10 секунд по длинной прямой (6th Street по гайду PowerPyx). Минут 15–20.
+
+**Гайды:** [powerpyx.com](https://www.powerpyx.com/guides/la_noire.html)
 
 ## Невыбитые трофеи
 
@@ -21,8 +25,8 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | Platinum Trophy | Collect all other trophies to unlock. | ❔ нет оценки |  | 1.9% |  |
-| 🥉 | Lead Foot | Keep the needle above 80mph for more than ten seconds while driving. | ❔ нет оценки |  | 30.7% |  |
+| 🏆 | Platinum Trophy | Collect all other trophies to unlock. | офлайн |  | 1.9% | platinum |
+| 🥉 | Lead Foot | Keep the needle above 80mph for more than ten seconds while driving. | офлайн | 0.3 | 30.7% | fast hidden car + long straight road (6th Street, PowerPyx) |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

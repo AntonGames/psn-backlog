@@ -1,0 +1,319 @@
+{
+ "npCommunicationId": "NPWR24695_00",
+ "game": "Cyberpunk 2077 (incl. Phantom Liberty)",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/cyberpunk-2077-trophy-guide-roadmap/",
+  "https://www.powerpyx.com/cyberpunk-2077-phantom-liberty-dlc-trophy-guide-roadmap/"
+ ],
+ "difficulty": "3/10 (base), 2/10 (Phantom Liberty)",
+ "time_to_100_hours": "85-120 (70-100 base + 15-20 PL)",
+ "remaining_hours": {
+  "min": 38,
+  "max": 60,
+  "best": 47
+ },
+ "offline_hours": 47,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum (base list only; PL not required for plat)"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "finish main story (any ending) - user is late in Act 2"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Arasaka ending - reload save before Nocturne Op55N1"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Aldecaldos/Panam ending"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "Rogue/Johnny ending"
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Johnny keeps body"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Heywood gigs + NCPD"
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "Santo Domingo gigs + NCPD"
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 3,
+   "note": "City Center gigs + NCPD"
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Berserk cyberware + Superhero Landing"
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 5,
+   "note": "buy all vehicles - expensive in 2.0, farm eddies"
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Second Heart cyberware"
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2,
+   "note": "all fast travel dataterms"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0.5,
+   "note": "PL ending, reload save from Firestarter"
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": true,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 1.5,
+   "note": "The Tower ending (base-game epilogue via PL)"
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0,
+   "note": "story"
+  },
+  {
+   "id": 51,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 8,
+   "note": "PL main story"
+  },
+  {
+   "id": 52,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 3,
+   "note": "all Dogtown gigs"
+  },
+  {
+   "id": 53,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 54,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 1,
+   "note": ""
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0,
+   "note": "story"
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 1,
+   "note": "Relic terminals"
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Phantom Liberty (paid DLC)",
+   "hours": 0.25,
+   "note": ""
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies (PowerPyx)."
+ },
+ "missed_missables": "None missed yet: all 4 base endings + The World still open; make a manual save before the point of no return.",
+ "notes_ru": "База 29/45: осталось пройти финал (5 концовок через сейв перед точкой невозврата), гиги/NCPD в Хейвуде, Санто-Доминго и Центре, все терминалы и покупку всех машин. Phantom Liberty (платное DLC) 0/13 — пройдите его до финала базы, с сейвами на Firestarter для 4 концовок PL, затем The Tower.",
+ "confidence": "medium"
+}

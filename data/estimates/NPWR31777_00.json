@@ -1,0 +1,98 @@
+{
+ "npCommunicationId": "NPWR31777_00",
+ "game": "Resident Evil 4 (2023) - Separate Ways",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/resident-evil-4-remake-separate-ways-dlc-trophy-guide-roadmap/"
+ ],
+ "difficulty": "4/10 (Separate Ways)",
+ "time_to_100_hours": "10-15 (Separate Ways DLC; base plat done)",
+ "remaining_hours": {
+  "min": 0.3,
+  "max": 12,
+  "best": 0.5
+ },
+ "offline_hours": 0.5,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "Separate Ways (paid DLC, crossbuy PS4/PS5)",
+   "hours": 0.5,
+   "note": "autopop via PS4->PS5 save transfer after finishing SW on PS4 list"
+  }
+ ],
+ "servers": {
+  "status": "n/a",
+  "detail": "No online trophies."
+ },
+ "missed_missables": "",
+ "notes_ru": "Те же 7 трофеев Separate Ways, что и на PS4: по PowerPyx перенос сейва PS4→PS5 автопопает трофеи DLC. Сначала закройте SW на PS4-версии, затем загрузите сейв в PS5-версии (если автопоп не сработает — ещё ~10-12 ч прохождений).",
+ "confidence": "medium"
+}

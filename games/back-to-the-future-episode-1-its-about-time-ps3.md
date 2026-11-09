@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
+| Осталось (оценка) | **~2 ч** (разброс 1.5–3 ч) |
+| Из них офлайн / онлайн | 2 ч / 0 ч |
+| Время на 100% по гайду | 2-3 (estimate) ч |
 | Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Онлайн-сервера | — No online trophies |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | medium |
+
+> **План:** Осталось 8 сюжетных трофеев, ~2 часа: допройти эпизод. Перед смешиванием ракетного топлива включить субтитры и сделать без ошибок (Fuelmaster).
+
+**Гайды:** [trophieshunter.com](https://trophieshunter.com/games/back-to-the-future-the-game-ps3/achievements/fuelamaster) · [platpursuit.com](https://platpursuit.com/games/NPWR01741_00/)
 
 ## Невыбитые трофеи
 
@@ -21,14 +25,14 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🥇 | A Bicycle Built for Two | Rescued Doc from Kid Tannen | ❔ нет оценки |  | 30.1% |  |
-| 🥈 | Grandpa Got Served | Delivered the subpoeana to Arthur McFly | ❔ нет оценки |  | 34.2% |  |
-| 🥈 | Junior Bootlegger Badge | Managed to get 190-proof alcohol delivered to Emmett's | ❔ нет оценки |  | 36.4% |  |
-| 🥈 | Jailbreak! | Acquired Emmett's Rocket Drill | ❔ нет оценки |  | 30.7% |  |
-| 🥉 | Hello, Young Friend | Talked Emmett into completing the Rocket Drill | ❔ нет оценки |  | 43.3% |  |
-| 🥉 | A Plausible Explanation | Discovered the origin of the "new" DeLorean | ❔ нет оценки |  | 22.6% |  |
-| 🥉 | Fuelmaster | Flawlessly mixed up a batch of Emmett's Rocket Fuel | ❔ нет оценки |  | 6.3% |  |
-| 🥉 | Fate in flux | Heard about the curious fate of Marshall Strickland | ❔ нет оценки |  | 30.6% |  |
+| 🥇 | A Bicycle Built for Two | Rescued Doc from Kid Tannen | офлайн | 0.4 | 30.1% | End of episode |
+| 🥈 | Grandpa Got Served | Delivered the subpoeana to Arthur McFly | офлайн | 0.3 | 34.2% |  |
+| 🥈 | Junior Bootlegger Badge | Managed to get 190-proof alcohol delivered to Emmett's | офлайн | 0.3 | 36.4% |  |
+| 🥈 | Jailbreak! | Acquired Emmett's Rocket Drill | офлайн | 0.3 | 30.7% |  |
+| 🥉 | Hello, Young Friend | Talked Emmett into completing the Rocket Drill | офлайн | 0.1 | 43.3% |  |
+| 🥉 | A Plausible Explanation | Discovered the origin of the "new" DeLorean | офлайн | 0.1 | 22.6% |  |
+| 🥉 | Fuelmaster | Flawlessly mixed up a batch of Emmett's Rocket Fuel | офлайн | 0.3 | 6.3% | ⚠️ упускаемый. Missable: mix rocket fuel flawlessly (subtitles on); replay episode if missed |
+| 🥉 | Fate in flux | Heard about the curious fate of Marshall Strickland | офлайн | 0.2 | 30.6% |  |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

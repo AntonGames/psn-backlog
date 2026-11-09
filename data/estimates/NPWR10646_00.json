@@ -1,0 +1,289 @@
+{
+ "npCommunicationId": "NPWR10646_00",
+ "game": "Ultimate Marvel vs. Capcom 3",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platprices.com/game/20065-ultimate-marvel-vs-capcom-3",
+  "https://www.playstationlifestyle.net/?p=160189"
+ ],
+ "difficulty": "8/10 (PlatPrices lists 10/10)",
+ "time_to_100_hours": "60-70",
+ "remaining_hours": {
+  "min": 40,
+  "max": 80,
+  "best": 54
+ },
+ "offline_hours": 33.5,
+ "online_hours": 21,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 7,
+   "note": "Arcade ending with every character (~50); use easiest difficulty"
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Arcade on Very Hard"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "With High-Score Hero"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 4,
+   "note": "500k Arcade points - hardest arcade trophy"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 18,
+   "note": "All 480 missions; character combo trials, some very hard"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Arcade/online-only stat: do it in offline Arcade runs"
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Offline mode time, accumulates (can idle)"
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "30h offline mode time; accumulates with arcade/missions, idle the rest"
+  },
+  {
+   "id": 25,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Online mode time"
+  },
+  {
+   "id": 26,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 5,
+   "note": "30h in Online mode; matches + idling in online lobby"
+  },
+  {
+   "id": 28,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 12,
+   "note": "300 online matches; boost with a partner"
+  },
+  {
+   "id": 35,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "Ranked: surpass 6th rank of a class"
+  },
+  {
+   "id": 38,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 3,
+   "note": "100 Ranked wins; win-trade with partner"
+  },
+  {
+   "id": 44,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "MP",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0,
+   "note": "100,000 PP; comes from ranked play"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1,
+   "note": "All Gallery items (unlock with PP/endings)"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "No Capcom shutdown announced for UMvC3 online (PS3/PS4) as of Nov 2026; P2P matchmaking via PSN still works but population is tiny (community moved to PC/Parsec) - arrange a boosting partner. Unconfirmed by official status page."
+ },
+ "missed_missables": "",
+ "notes_ru": "Оффлайн: концовки всех персонажей в Аркаде, 500k очков, Very Hard и 480 миссий (самое долгое, ~18 ч). Онлайн: найти напарника для буста — 300 матчей, 100 побед в рейтинговых и 30 ч в онлайн-режиме; серверы работают, но игроков почти нет.",
+ "confidence": "medium"
+}

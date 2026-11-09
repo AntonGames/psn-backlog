@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~12 ч** (разброс 9–18 ч) |
+| Из них офлайн / онлайн | 12 ч / 0 ч |
+| Время на 100% по гайду | 10-15 ч |
+| Сложность по гайду | 4/10 |
+| Онлайн-сервера | — Offline game. |
 | Наиграно (PSN) | 12 ч |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | medium |
+
+> **План:** Допройти уровни 5-12, затем через выбор уровня собрать все секреты и сделать испытания (болото без комаров, без плота, лёд, снег, лассо). Забег без смертей — по одному уровню, при неудаче выходить в меню.
+
+**Гайды:** [platprices.com](https://platprices.com/game/3724-unravel) · [gamingbolt.com](https://gamingbolt.com/unravel-mega-guide-collectibles-secrets-trophies-and-achievements/amp)
 
 ## Невыбитые трофеи
 
@@ -21,25 +25,25 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | The Red thread | Collect all trophies | ❔ нет оценки |  | 1.7% |  |
-| 🥇 | Renewed | Mend a broken bond | ❔ нет оценки |  | 14.3% |  |
-| 🥇 | No stone unturned | Find every secret | ❔ нет оценки |  | 2.7% |  |
-| 🥇 | Not so fragile after all | Finish each level from start to finish without dying | ❔ нет оценки |  | 1.7% |  |
-| 🥉 | Everlasting | Find the fifth missing piece | ❔ нет оценки |  | 21% |  |
-| 🥉 | Scarred earth | Find the sixth missing piece | ❔ нет оценки |  | 19.5% |  |
-| 🥉 | Shut down | Steal the sixth missing piece back | ❔ нет оценки |  | 17.9% |  |
-| 🥉 | Reach out | Find the seventh missing piece | ❔ нет оценки |  | 16.7% |  |
-| 🥉 | Cold but warm | Find the eighth missing piece | ❔ нет оценки |  | 16.2% |  |
-| 🥉 | Time will catch up | Find a broken half piece | ❔ нет оценки |  | 15.1% |  |
-| 🥇 | The end is not the end | Find the other broken half piece | ❔ нет оценки |  | 14.4% |  |
-| 🥇 | Pacifist | Make it through the mire in one go without swatting any mosquitoes | ❔ нет оценки |  | 2.3% |  |
-| 🥇 | Pathfinder | Make it to the water wheel without using a log raft | ❔ нет оценки |  | 5.5% |  |
-| 🥈 | Dig where you stand | Use the excavator to find a secret | ❔ нет оценки |  | 3.9% |  |
-| 🥈 | Undaunted | Find the secret in the crushing zapping death machine | ❔ нет оценки |  | 11% |  |
-| 🥈 | Obsessive | Break all the ice on the way to the letterbox in one go | ❔ нет оценки |  | 2.9% |  |
-| 🥇 | Snowfall | Clear all the snowy branches in one go | ❔ нет оценки |  | 8% |  |
-| 🥈 | Reckless | Find the secret in the engine room | ❔ нет оценки |  | 5.5% |  |
-| 🥈 | Flow | Use your lasso to jump between 25 different points without touching the ground | ❔ нет оценки |  | 5.3% |  |
+| 🏆 | The Red thread | Collect all trophies | офлайн |  | 1.7% | Platinum |
+| 🥇 | Renewed | Mend a broken bond | офлайн |  | 14.3% | Story end |
+| 🥇 | No stone unturned | Find every secret | офлайн | 2 | 2.7% | All secrets (via level select) |
+| 🥇 | Not so fragile after all | Finish each level from start to finish without dying | офлайн | 4 | 1.7% | Each level without dying; quit to menu before death registers |
+| 🥉 | Everlasting | Find the fifth missing piece | офлайн |  | 21% | Story |
+| 🥉 | Scarred earth | Find the sixth missing piece | офлайн |  | 19.5% | Story |
+| 🥉 | Shut down | Steal the sixth missing piece back | офлайн |  | 17.9% | Story |
+| 🥉 | Reach out | Find the seventh missing piece | офлайн |  | 16.7% | Story |
+| 🥉 | Cold but warm | Find the eighth missing piece | офлайн |  | 16.2% | Story |
+| 🥉 | Time will catch up | Find a broken half piece | офлайн |  | 15.1% | Story |
+| 🥇 | The end is not the end | Find the other broken half piece | офлайн | 4 | 14.4% | Story levels 5-12 |
+| 🥇 | Pacifist | Make it through the mire in one go without swatting any mosquitoes | офлайн | 0.5 | 2.3% | Mire, no mosquito swats |
+| 🥇 | Pathfinder | Make it to the water wheel without using a log raft | офлайн | 0.5 | 5.5% |  |
+| 🥈 | Dig where you stand | Use the excavator to find a secret | офлайн |  | 3.9% | Secret |
+| 🥈 | Undaunted | Find the secret in the crushing zapping death machine | офлайн |  | 11% | Secret |
+| 🥈 | Obsessive | Break all the ice on the way to the letterbox in one go | офлайн | 0.5 | 2.9% |  |
+| 🥇 | Snowfall | Clear all the snowy branches in one go | офлайн | 0.5 | 8% |  |
+| 🥈 | Reckless | Find the secret in the engine room | офлайн |  | 5.5% | Secret |
+| 🥈 | Flow | Use your lasso to jump between 25 different points without touching the ground | офлайн | 0.5 | 5.3% | 25 lasso points chain |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

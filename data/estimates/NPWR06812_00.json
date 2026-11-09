@@ -1,0 +1,149 @@
+{
+ "npCommunicationId": "NPWR06812_00",
+ "game": "Journey",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://platpursuit.com/games/NPWR06812_00/k_o_man/",
+  "https://store.playstation.com/en-us/concept/202276"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": "5-8",
+ "remaining_hours": {
+  "min": 4,
+  "max": 10,
+  "best": 6.4
+ },
+ "offline_hours": 3.9,
+ "online_hours": 2.5,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "10 glyphs, chapter select"
+  },
+  {
+   "id": 7,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "random online companion"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "full run"
+  },
+  {
+   "id": 9,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "same online partner most of the run"
+  },
+  {
+   "id": 11,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "co-op",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 1,
+   "note": "meet 10 unique travelers (cumulative)"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "all symbols, chapter select"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "No shutdown of Journey PS4 matchmaking announced by Sony/thatgamecompany (searches Nov 2026); PlatPursuit lists no known trophy issues. PS Plus may be required for online."
+ },
+ "missed_missables": "",
+ "notes_ru": "Короткая игра без платины: один полный забег, затем выбор глав для глифов, символов и секретов. Трофеи с компаньоном (Crossing, Companion, Wonder) требуют случайных онлайн-напарников — играть в часы активности, возможно нужен PS Plus. PS3-версия — отдельный список.",
+ "confidence": "medium"
+}

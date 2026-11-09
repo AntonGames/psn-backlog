@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~0.3 ч** (разброс 0.2–0.5 ч) |
+| Из них офлайн / онлайн | 0.3 ч / 0 ч |
+| Время на 100% по гайду | 30+ ч |
+| Сложность по гайду | 3/10 |
+| Онлайн-сервера | 🟢 работают Rebellion servers online; remaining trophy is solo. |
 | Наиграно (PSN) | 30 ч |
 | Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Уверенность оценки | high |
+
+> **План:** Осталась одна лёгкая бронза: экипировать стандартный перк Blade melee, накопить шкалу ближнего боя и нажать R3 рядом с зомби — и платина.
+
+**Гайды:** [knoef.info](https://knoef.info/trophy-guides/ps4-guides/zombie-army-4-dead-war-trophy-guide/)
 
 ## Невыбитые трофеи
 
@@ -21,8 +25,8 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | How's that for a slice of fried Platinum? | Win all other trophies to take your place as the world's greatest apocalypse survivor. | ❔ нет оценки |  | 0.5% |  |
-| 🥉 | Say goodbye, creep! | Kill a Zombie using the Blade Melee Special Attack. | ❔ нет оценки |  | 72.5% |  |
+| 🏆 | How's that for a slice of fried Platinum? | Win all other trophies to take your place as the world's greatest apocalypse survivor. | офлайн |  | 0.5% | Platinum |
+| 🥉 | Say goodbye, creep! | Kill a Zombie using the Blade Melee Special Attack. | офлайн | 0.3 | 72.5% | Default Blade melee perk: fill melee meter, press R3 next to a zombie (any mode, solo OK) |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)

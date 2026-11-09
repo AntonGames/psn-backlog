@@ -1,0 +1,158 @@
+{
+ "npCommunicationId": "NPWR50314_00",
+ "game": "Call of Duty: Modern Warfare II (standalone app, 2025)",
+ "platform": "PS5",
+ "guide_urls": [
+  "https://www.powerpyx.com/call-of-duty-modern-warfare-2-2022-trophy-guide-roadmap/"
+ ],
+ "difficulty": "5/10",
+ "time_to_100_hours": "8-13",
+ "remaining_hours": {
+  "min": 0.3,
+  "max": 7,
+  "best": 4.5
+ },
+ "offline_hours": 4.5,
+ "online_hours": 0,
+ "unobtainable_hours": 0,
+ "needs_connection": false,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": "Platinum"
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Wetwork (M3): 3 underwater kills - same replay as Nessie"
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": "Alone (M13): finish without firing a gun"
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Violence and Timing (M10): drive 5 vehicle types"
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.6,
+   "note": "El Sin Nombre (M11): stealth to penthouse, no kills/alarm"
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Dark Water (M12): 90m without touching deck"
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Violence and Timing (M10): reach Price with first hijacked vehicle"
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "3 safes: 1 in El Sin Nombre + 2 in Alone (reported occasionally buggy)"
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": "Prison Break (M14): 3 Riot Shield kills"
+  },
+  {
+   "id": 12,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": "Dark Water (M12): porta-potty enemy"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Wetwork (M3): reach barge unseen"
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": "Prison Break (M14): Molotov+Semtex+Frag kills on gassed/blinded"
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.6,
+   "note": "Recon by Fire (M9): never trigger alarm"
+  }
+ ],
+ "servers": {
+  "status": "up",
+  "detail": "Activision servers online; remaining trophies are campaign-only (offline per PowerPyx)."
+ },
+ "missed_missables": "",
+ "notes_ru": "Это отдельный список MW2, выделенный из COD HQ в августе 2025. Сначала попробовать «Sync Achievements» в настройках COD HQ (там у тебя 25/25) — по PowerPyx автопоп HQ→standalone PS5 работал криво; если не выпадет, переиграть 7 миссий на Recruit (Wetwork, Recon by Fire, Violence and Timing, El Sin Nombre, Dark Water, Alone, Prison Break).",
+ "confidence": "medium"
+}

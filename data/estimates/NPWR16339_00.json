@@ -1,0 +1,1250 @@
+{
+ "npCommunicationId": "NPWR16339_00",
+ "game": "HITMAN 2",
+ "platform": "PS4",
+ "guide_urls": [
+  "https://www.gamepressure.com/hitman-2/trophyachievement-guide/zdb9a1",
+  "https://www.gamepressure.com/hitman-2/game-length/z2ed54",
+  "https://www.pushsquare.com/news/2020/08/hitman_3_scrapping_ghost_mode_hitman_2_servers_to_close"
+ ],
+ "difficulty": null,
+ "time_to_100_hours": "100+ (GamePressure, full 100% incl. all challenges)",
+ "remaining_hours": {
+  "min": 60,
+  "max": 110,
+  "best": 82
+ },
+ "offline_hours": 81.8,
+ "online_hours": 0.2,
+ "unobtainable_hours": 0,
+ "needs_connection": true,
+ "trophies": [
+  {
+   "id": 0,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 1,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 2,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 3,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 4,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 5,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 6,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 7,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 8,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 9,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 10,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": "ICA Facility escalation, level 5"
+  },
+  {
+   "id": 11,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": "Play 10 contracts (own/featured); needs IOI servers"
+  },
+  {
+   "id": 12,
+   "cat": "online",
+   "missable": false,
+   "online_kind": "leaderboard",
+   "server_status": "up",
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": "Create own contract and set its high score; server leaderboard"
+  },
+  {
+   "id": 13,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": "Featured contracts are server content (needs connection)"
+  },
+  {
+   "id": 14,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 15,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 17,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 18,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 19,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 20,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": ""
+  },
+  {
+   "id": 21,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 22,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 23,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0,
+   "note": ""
+  },
+  {
+   "id": 24,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 25,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 26,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 27,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 28,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 29,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 30,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 31,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 32,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 33,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 34,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 35,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 36,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 37,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 38,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 39,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 40,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 41,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 42,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 43,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 44,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 45,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 46,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.4,
+   "note": ""
+  },
+  {
+   "id": 47,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 48,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 49,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 50,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 51,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.5,
+   "note": "Mastery 15 grind"
+  },
+  {
+   "id": 52,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.7,
+   "note": ""
+  },
+  {
+   "id": 53,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 54,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 55,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.2,
+   "note": ""
+  },
+  {
+   "id": 56,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.8,
+   "note": ""
+  },
+  {
+   "id": 57,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 58,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 59,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 60,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 61,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 62,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 63,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 65,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": null,
+   "hours": 2.0,
+   "note": "All Himmelstein challenges; co-op servers closed, assumed solo-completable (unverified)"
+  },
+  {
+   "id": 66,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 67,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 68,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 69,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 70,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 71,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 72,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 73,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 74,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 75,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 76,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 77,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 78,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 79,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 80,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 81,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 82,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 83,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 84,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 85,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 86,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 87,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": "Suit Only + Silent Assassin on The Icon or A House Built on Sand"
+  },
+  {
+   "id": 88,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 89,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 90,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 91,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 92,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 93,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 94,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 95,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 96,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 97,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 98,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 99,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 100,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 101,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 102,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 103,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 104,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 105,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 106,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 107,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 108,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 109,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 110,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 111,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": ""
+  },
+  {
+   "id": 112,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 113,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 114,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 115,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.6,
+   "note": "Escalation level 5"
+  },
+  {
+   "id": 116,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 0.1,
+   "note": ""
+  },
+  {
+   "id": 117,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Legacy Pack (HITMAN 2016 locations; delisted Jan 2023)",
+   "hours": 2.5,
+   "note": "Mastery 20 grind"
+  },
+  {
+   "id": 118,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 1.0,
+   "note": ""
+  },
+  {
+   "id": 119,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 120,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 0.2,
+   "note": ""
+  },
+  {
+   "id": 121,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 0.5,
+   "note": ""
+  },
+  {
+   "id": 122,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 0.3,
+   "note": ""
+  },
+  {
+   "id": 124,
+   "cat": "offline",
+   "missable": false,
+   "online_kind": null,
+   "server_status": null,
+   "dlc_required": "HITMAN 2 Expansion Pass (Hantu Port sniper map; delisted Jan 2023) - likely",
+   "hours": 2.0,
+   "note": "All Hantu Port challenges; assumed solo-completable (unverified)"
+  }
+ ],
+ "servers": {
+  "status": "partial",
+  "detail": "Main HITMAN 2 servers (progression, contracts, escalations) still online - no shutdown announced as of 2026 (unverified); Ghost Mode closed 2020-08-31, Sniper Assassin co-op closed before HITMAN 3 (Jan 2021); co-op trophies already earned. Game + DLC delisted Jan 2023"
+ },
+ "missed_missables": "",
+ "notes_ru": "Список почти не начат (~80 ч): 14 локаций, на каждой сюжетные истории, Master, Mastery 15-20 и эскалации, плюс 2 снайперские карты. Всё требует онлайна к серверам IOI (пока работают) и купленных Legacy Pack/Expansion (сняты с продажи) - начать с Пролога и локаций HITMAN 2, пока серверы живы.",
+ "confidence": "low"
+}
