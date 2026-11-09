@@ -297,6 +297,14 @@ if tot["unknown"]:
     R.append(f"| ❔ Без оценки | {tot['unknown']} | — |")
 R += [f"| Всего невыбитых | {n_unearned} | |", ""]
 
+done = sorted([t for t in titles.values() if all(t["earned"].get(k, 0) >= v for k, v in t["defined"].items())],
+              key=lambda t: t["lastUpdated"], reverse=True)[:5]
+if done:
+    R += ["## 🏆 Недавно закрыто на 100%", ""]
+    R += [f"- {display(t['name'])} · {t['platform']} — {t['lastUpdated'][:10]}" + (" · платина" if t["defined"].get("platinum") else "")
+          for t in done]
+    R.append("")
+
 quick = [g for g in games if g["rem"] is not None and 0 < g["rem"] <= 3]
 if quick:
     R += ["## ⚡ Быстрые победы (≤ 3 ч)", ""]

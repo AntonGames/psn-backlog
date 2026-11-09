@@ -16,6 +16,14 @@
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
 | Всего невыбитых | 4884 | |
 
+## 🏆 Недавно закрыто на 100%
+
+- Evil Dead: The Game · PS5 — 2026-11-09 · платина
+- Minecraft: PlayStation4 Edition (2) · PS4 — 2026-10-29
+- Minecraft: PlayStation5 Edition · PS5 — 2026-10-29 · платина
+- Kingdom Come: Deliverance · PS5 — 2026-10-11 · платина
+- Kingdom Come: Deliverance · PS4 — 2026-10-11 · платина
+
 ## ⚡ Быстрые победы (≤ 3 ч)
 
 - [L.A. Noire](games/l-a-noire-ps3.md) · PS3 — ~0.3 ч, осталось 2 трофея
