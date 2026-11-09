@@ -1,0 +1,428 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DARK SOULS™ Ⅱ: Scholar of the First Sin"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Dark Soul",
+   "detail": "Acquire all trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.4
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Self Recollection",
+   "detail": "Reclaim flesh and set out as an Undead",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-05-20T12:31:54Z",
+   "rarity": 94.5
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "King's Ring",
+   "detail": "Acquire the King's Ring",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.7
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Ancient Dragon",
+   "detail": "Acquire Ashen Mist Heart",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.1
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "The Heir",
+   "detail": "See the ending",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.1
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Last Giant",
+   "detail": "Defeat the Last Giant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 68.9
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Sinner's Bonfire",
+   "detail": "Light the primal bonfire in Sinner's Rise",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 56.3
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Iron Keep Bonfire",
+   "detail": "Light the primal bonfire in the Iron Keep",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.9
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Gulch Bonfire",
+   "detail": "Light the primal bonfire in the Black Gulch",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.7
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Brightstone Bonfire",
+   "detail": "Light the primal bonfire in Brightstone Cove Tseldora",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.3
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Looking Glass Knight",
+   "detail": "Defeat Looking Glass Knight",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.5
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Vendrick",
+   "detail": "Defeat Vendrick",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.5
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Supreme Weapon",
+   "detail": "Reinforce a weapon to its limit",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 47.7
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Gesture Maestro",
+   "detail": "Learn all gestures",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.2
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Master of Sorcery",
+   "detail": "Learn all sorceries",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Master of Miracles",
+   "detail": "Learn all miracles",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.5
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Master of Pyromancy",
+   "detail": "Learn all pyromancies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.6
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Master of Hexes",
+   "detail": "Learn all hexes",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Brilliant Covenant",
+   "detail": "Discover a most brilliant covenant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Protector Covenant",
+   "detail": "Discover the covenant of the protectors",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Sanguinary Covenant",
+   "detail": "Discover the covenant of the bloodthirsty",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.8
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Covenant of the Meek",
+   "detail": "Discover the covenant of the meek",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-05-22T17:51:59Z",
+   "rarity": 67.7
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Gnawing Covenant",
+   "detail": "Discover the covenant of rodents",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.5
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Clangorous Covenant",
+   "detail": "Discover the clangorous covenant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.7
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Covenant of Ancients",
+   "detail": "Discover an ancient covenant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.2
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Covenant of the Fittest",
+   "detail": "Discover the covenant of the fittest",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-05-22T18:03:57Z",
+   "rarity": 48.6
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Abysmal Covenant",
+   "detail": "Discover the abysmal covenant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "Selfless Giver",
+   "detail": "Max-out devotion to covenant",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.6
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "Curious Map",
+   "detail": "Light all flames on the map in Majula",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.3
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Change of Clothes",
+   "detail": "Give Rosabeth of Melfia something to wear",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 54.4
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Gathering of Exiles",
+   "detail": "Increase the population of Majula",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.6
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Moonlight Greatsword",
+   "detail": "Inherit Benhart of Jugo's equipment",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.4
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Holder of the Fort",
+   "detail": "Inherit Captain Drummond's equipment",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.5
+  },
+  {
+   "id": 33,
+   "type": "silver",
+   "name": "Lucatiel",
+   "detail": "Inherit equipment from Lucatiel of Mirrah",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.3
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Smith for Life",
+   "detail": "Inherit Steady Hand McDuff's equipment",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.7
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Garrulous Miser",
+   "detail": "Inherit Laddersmith Gilligan's equipment",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.8
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "Reflections on Disembodiment",
+   "detail": "Inherit equipment from the head of Vengarl",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.9
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "This is Dark Souls",
+   "detail": "Die for the first time",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-05-20T12:11:54Z",
+   "rarity": 93.2
+  }
+ ]
+}

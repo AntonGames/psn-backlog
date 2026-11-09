@@ -1,0 +1,351 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Batman: Arkham Origins Blackgate"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Dark Knight",
+   "detail": "Unlock All Other Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.2
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "The Collector",
+   "detail": "Find all detective cases and have all pickups and upgrades",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.3
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Last Laugh",
+   "detail": "Defeat Joker",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.2
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Cobblepot's Plot Was All For Naught",
+   "detail": "Defeat Penguin",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.2
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Face Off",
+   "detail": "Defeat Black Mask",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.7
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Cage Match",
+   "detail": "Defeat Bronze Tiger",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.7
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Born on a Monday",
+   "detail": "Defeat Solomon Grundy",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-07-26T20:22:20Z",
+   "rarity": 36.5
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "The Man Who Sometimes Misses",
+   "detail": "Defeat Deadshot",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.6
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Domestic Disturbance",
+   "detail": "Catch Catwoman in Gotham City",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-07-26T16:47:51Z",
+   "rarity": 74.7
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "Cat Scratch Fever",
+   "detail": "Defeat Catwoman",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.6
+  },
+  {
+   "id": 10,
+   "type": "gold",
+   "name": "Bad Case of the Mondays",
+   "detail": "Defeat Grundy using the Shock Batarang and water",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "CSI: Blackgate",
+   "detail": "Complete your first detective case",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.6
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Party Pooper",
+   "detail": "Defuse all Joker presents",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.5
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Flew the Coop",
+   "detail": "Rescue all Penguin hostages",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.5
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Circuit Breaker",
+   "detail": "Disarm all Black Mask junction boxes",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.2
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Now You're Getting It",
+   "detail": "Get a 12 hit combo",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-07-26T19:41:33Z",
+   "rarity": 52.5
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "In the Flow",
+   "detail": "Get a 25 hit combo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.3
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Unnecessary Roughness",
+   "detail": "Get a 50 hit combo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.4
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "LEAGUE OF SHADOWS",
+   "detail": "Get a 100 hit combo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Fresh Beats",
+   "detail": "Beatdown 10 thugs",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "He's Sleeping",
+   "detail": "Perform 20 stealth takedowns",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.1
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Breathless",
+   "detail": "Die from inhaling gas",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.4
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Grave Digger",
+   "detail": "Unlock the Zombie Suit",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.1
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "World's Greatest Detective",
+   "detail": "Complete all detective cases",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Oral Hygiene",
+   "detail": "Find and destroy all Joker teeth",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.3
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Bird on a Wire",
+   "detail": "Find and destroy all Penguin bird cages",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.4
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Unmasked",
+   "detail": "Find and destroy all of Black Mask's masks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "World's Snazziest Dresser",
+   "detail": "Obtain all Batsuits attainable through gameplay",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Armored Edition",
+   "detail": "Find all armor upgrades",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.6
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "2112",
+   "detail": "Find all RUSH upgrades",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Talk to the Hand",
+   "detail": "Find all gauntlet upgrades",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.4
+  }
+ ]
+}

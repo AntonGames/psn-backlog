@@ -1,0 +1,168 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Outlast"
+  },
+  {
+   "id": "001",
+   "name": "Whistleblower"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "bronze",
+   "name": "ILLUMINATED",
+   "detail": "Restore power to the Administrative Block",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-11-02T23:57:09Z",
+   "rarity": 56.9
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "FLUSHED",
+   "detail": "Drain the Sewers",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-01-01T18:34:30Z",
+   "rarity": 45.2
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "SOAKED",
+   "detail": "Activate the sprinklers in the Male Ward",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-02-11T13:59:19Z",
+   "rarity": 36
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "EMANCIPATED",
+   "detail": "Collect the key in the Female Ward",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-02-11T14:51:46Z",
+   "rarity": 31.7
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "EDUCATED",
+   "detail": "Collect 15 documents and complete 15 recordings",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.4
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "PUNISHED",
+   "detail": "Finish the game",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-11T16:16:00Z",
+   "rarity": 29
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "PULITZER",
+   "detail": "Collect all documents and complete all recordings",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 7,
+   "type": "gold",
+   "name": "LUNATIC",
+   "detail": "Finish the game in Insane mode",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "GAS LEAKER",
+   "detail": "Turn off the gas",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "SHOCKER",
+   "detail": "Turn off the electricity",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.7
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "WHISTLEBLOWER",
+   "detail": "Finish the Whistleblower DLC",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.6
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "BOWELWHISTLER",
+   "detail": "Finish the DLC in Insane mode",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "ARCHIVIST",
+   "detail": "Collect all documents",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "LEGACY",
+   "detail": "Complete all recordings",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  }
+ ]
+}

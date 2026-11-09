@@ -1,0 +1,450 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "STAR WARS Jedi: Fallen Order"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "A New Hope",
+   "detail": "Earn all trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Kicking Back",
+   "detail": "Kick a phillak that has kicked you",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Collector",
+   "detail": "Collect all chests and secrets",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Legendary Beasts",
+   "detail": "Defeat four mysterious creatures",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.8
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Feel the Force",
+   "detail": "Unlock all Jedi skills",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.2
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "A Galaxy Far, Far Away",
+   "detail": "Complete all of BD-1's holomaps",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.1
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Trust Only In The Force",
+   "detail": "Complete the story",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.5
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "The Mantis",
+   "detail": "Join the crew",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-28T15:09:45Z",
+   "rarity": 91.5
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "A Long Time Ago",
+   "detail": "Discover the Bogano Vault",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-28T16:35:38Z",
+   "rarity": 81.6
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "The Obstacle is the Way",
+   "detail": "Complete the Tomb of Eilram",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-28T18:19:44Z",
+   "rarity": 65.9
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Everything is Connected",
+   "detail": "Complete the Tomb of Miktrull",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-30T22:26:35Z",
+   "rarity": 52.9
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "The Holocron Awaits",
+   "detail": "Open the Vault",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Happy Go Wookiee",
+   "detail": "Free the Wookiees from Imperial imprisonment",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-29T08:25:04Z",
+   "rarity": 59.6
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Her Name Was Masana Tide",
+   "detail": "Defeat the Ninth Sister",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-09-06T10:07:14Z",
+   "rarity": 49.9
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Visiting Alderaan Places",
+   "detail": "Explore the crashed Venator",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.9
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Gorgara Falls",
+   "detail": "Defeat the winged terror on Dathomir",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 47.5
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "For A More Civilized Age",
+   "detail": "Craft a lightsaber of your own",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.6
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "I Knew He Was No Good",
+   "detail": "Defeat a former Jedi Master",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.3
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Back At You",
+   "detail": "Defeat 50 enemies with reflected blaster bolts",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-29T08:18:22Z",
+   "rarity": 61.5
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Perfect Timing",
+   "detail": "Parry 100 enemies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.1
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Kickoff",
+   "detail": "Defeat an enemy using only kicks",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-28T18:54:56Z",
+   "rarity": 6.8
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Triple Take",
+   "detail": "Defeat 3 enemies using a single lightsaber throw",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "What Goes Around...",
+   "detail": "Defeat an enemy with their own Slowed blaster bolt",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.4
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Big Bang",
+   "detail": "Defeat 20 enemies with explosives",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.4
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Don't Mess With BD-1",
+   "detail": "Defeat an enemy with a hacked droid",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-29T08:18:47Z",
+   "rarity": 37.1
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Can't Touch This",
+   "detail": "Precision Evade 100 attacks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.8
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Look Out Below",
+   "detail": "Send 25 enemies over the edge",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-30T21:24:39Z",
+   "rarity": 42.4
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Not So Fast",
+   "detail": "Defeat 25 enemies while they are under the effect of Empowered Slow",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Bank Shot",
+   "detail": "Defeat an enemy by colliding them with another enemy",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-29T08:13:48Z",
+   "rarity": 50.3
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Blade Master",
+   "detail": "Hit a single enemy with all lightsaber types",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.1
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Cal Got Your Tongue?",
+   "detail": "Slice an oggdo's tongue",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.2
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Medical Droid",
+   "detail": "Find all of BD-1's stim canisters",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.9
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Green Thumb",
+   "detail": "Have a fully grown terrarium",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.8
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Full House",
+   "detail": "Recruit all possible crew members for the Mantis",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.5
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Data Disk",
+   "detail": "Find all of BD-1's encrypted logs",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.3
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Sabersmith",
+   "detail": "Fully customize your lightsaber",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-28T15:37:02Z",
+   "rarity": 67.5
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "The Full Glow-Up",
+   "detail": "Customize the look of Cal, BD-1, and the Mantis",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-28T17:07:14Z",
+   "rarity": 43.2
+  },
+  {
+   "id": 37,
+   "type": "silver",
+   "name": "Data Collector",
+   "detail": "Scan all enemy types",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.7
+  },
+  {
+   "id": 38,
+   "type": "silver",
+   "name": "Scum and Villainy",
+   "detail": "Defeat each type of Bounty Hunter",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.5
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Echo Location",
+   "detail": "Discover 75 Force Echoes",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.2
+  }
+ ]
+}

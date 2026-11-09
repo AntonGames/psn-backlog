@@ -1,0 +1,1502 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DRIVECLUB™"
+  },
+  {
+   "id": "001",
+   "name": "DRIVECLUB™ Tour"
+  },
+  {
+   "id": "002",
+   "name": "Ignition"
+  },
+  {
+   "id": "003",
+   "name": "Photo-Finish"
+  },
+  {
+   "id": "004",
+   "name": "Redline"
+  },
+  {
+   "id": "005",
+   "name": "Elements"
+  },
+  {
+   "id": "006",
+   "name": "Apex"
+  },
+  {
+   "id": "007",
+   "name": "Sakura"
+  },
+  {
+   "id": "008",
+   "name": "Downforce"
+  },
+  {
+   "id": "009",
+   "name": "Midnight"
+  },
+  {
+   "id": "010",
+   "name": "Lamborghini"
+  },
+  {
+   "id": "011",
+   "name": "Pacesetter"
+  },
+  {
+   "id": "012",
+   "name": "Turbocharged"
+  },
+  {
+   "id": "013",
+   "name": "Evolution"
+  },
+  {
+   "id": "014",
+   "name": "Lamborghini Icons"
+  },
+  {
+   "id": "015",
+   "name": "Torque"
+  },
+  {
+   "id": "016",
+   "name": "RPM"
+  },
+  {
+   "id": "017",
+   "name": "Velocity"
+  },
+  {
+   "id": "018",
+   "name": "Horsepower"
+  },
+  {
+   "id": "019",
+   "name": "Unite In Speed"
+  },
+  {
+   "id": "020",
+   "name": "All Stars"
+  },
+  {
+   "id": "021",
+   "name": "AMG"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "#UniteInSpeed",
+   "detail": "Collect all of the other trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "You Only Get One First Time",
+   "detail": "Complete your first Event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-09-05T07:25:56Z",
+   "rarity": 90.2
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Clubman",
+   "detail": "Join a Club, or have someone join a Club that you have created.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T15:34:21Z",
+   "rarity": 14.5
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "First Of Many",
+   "detail": "Beat your first Face-Off.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-09-05T07:34:12Z",
+   "rarity": 76.8
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "This One Is Mine",
+   "detail": "Customize a vehicle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-10-18T19:40:56Z",
+   "rarity": 28.1
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Contender",
+   "detail": "When the timer expires on a Driver Challenge, be at the top of the leaderboard.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T16:29:19Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "And So It Begins!",
+   "detail": "Send a Challenge to another player.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T15:34:19Z",
+   "rarity": 6
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Level Up!",
+   "detail": "Reach Driver Level 2.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-09-05T08:32:36Z",
+   "rarity": 68.5
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "5 and Counting",
+   "detail": "Reach Driver Level 5.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-11T14:41:25Z",
+   "rarity": 47.6
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Progress",
+   "detail": "Reach Level 2 with one Accolade.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-09-05T08:32:37Z",
+   "rarity": 56.4
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Tonnage",
+   "detail": "Complete a point to point Event with an average speed of 100mph or 161 km/h.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-04-03T07:52:38Z",
+   "rarity": 13.8
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Face-Off",
+   "detail": "Complete 50 Face-Offs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-09-05T08:29:50Z",
+   "rarity": 34.1
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "On The Podium",
+   "detail": "Place in any of the top 3 positions during a 12 player race.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-11T14:40:41Z",
+   "rarity": 61.3
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Nose To Tail",
+   "detail": "Draft another vehicle for at least 2187 yards (2000 metres) in a single event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-01T16:05:21Z",
+   "rarity": 40.2
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Team Work",
+   "detail": "Be a member of a Club that is Club Level 10 or above.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-02-09T15:34:20Z",
+   "rarity": 9.4
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Rack 'em Up, Knock 'em Down",
+   "detail": "Beat 3 Target Times in a Single Time Trial event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-03T07:46:14Z",
+   "rarity": 11.9
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Long Distance",
+   "detail": "Drive for at least 300 miles (483 km).",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-03T07:34:11Z",
+   "rarity": 19.5
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Making Waves",
+   "detail": "Reach Driver Level 15",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-03T07:37:56Z",
+   "rarity": 24.3
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Life Begins",
+   "detail": "Reach Driver Level 30",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-03T17:34:54Z",
+   "rarity": 8.3
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Full House",
+   "detail": "Win a Race in each class of vehicle: Hot Hatch, Performance, Sports, Super and Hyper.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.3
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Unbeatable",
+   "detail": "Win 5 of your own Solo Challenges after sending them to at least one other player.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T16:52:39Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "Mastery",
+   "detail": "Reach Level 6 with one Accolade.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-03T07:34:54Z",
+   "rarity": 11.3
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Hoon-a-tic",
+   "detail": "Rack up 1 million drift points in total.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Cleanup",
+   "detail": "In a 12 player race, finish on the podium without losing any Fame due to collisions with other competitors.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-02T21:03:22Z",
+   "rarity": 11.5
+  },
+  {
+   "id": 24,
+   "type": "gold",
+   "name": "Lifer",
+   "detail": "Drive at least 1000 miles (1610 km) as a Club Member.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-04T06:17:38Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 25,
+   "type": "gold",
+   "name": "Welcome To The Limit",
+   "detail": "Reach Driver Level 50",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Credit Where It's Due",
+   "detail": "Reach Level 6 with one of each Gameplay, Game Mode, Vehicle and Event Accolades.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-09T18:45:08Z",
+   "rarity": 1
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "The Rookie Trophy",
+   "detail": "Win 'The Rookie Trophy' event in Tour on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-03T18:42:40Z",
+   "rarity": 19.7
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "The Amateur Trophy",
+   "detail": "Win 'The Amateur Trophy' event in Tour on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-12T22:38:40Z",
+   "rarity": 11.4
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "The Semi-Pro Trophy",
+   "detail": "Win 'The Semi-Pro Trophy' event in Tour on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-01T16:43:26Z",
+   "rarity": 4.6
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "The Professional Trophy",
+   "detail": "Win 'The Professional Trophy' event in Tour on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.9
+  },
+  {
+   "id": 31,
+   "type": "gold",
+   "name": "The Legend Trophy",
+   "detail": "Win 'The Legend Trophy' event in Tour on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Ignition Beginner",
+   "detail": "Gain a star in any event of 'Ignition'",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Ignition Rising Star",
+   "detail": "Unlock additional events in 'Ignition'",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Ignition Contender",
+   "detail": "Unlock the 'Ignition' Trophy event",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Ignition Champion",
+   "detail": "Win the 'Ignition' Trophy event on gold star difficulty.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 36,
+   "type": "gold",
+   "name": "Ignition Completionist",
+   "detail": "Gain all stars in 'Ignition'",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Photo-Finish Beginner",
+   "detail": "Gain a star in any event of 'Photo-Finish'",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Photo-Finish Rising Star",
+   "detail": "Unlock additional events in 'Photo-Finish'",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Photo-Finish Contender",
+   "detail": "Unlock the 'Photo-Finish' Trophy event",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "Photo-Finish Champion",
+   "detail": "Win the 'Photo-Finish' Trophy event on gold star difficulty.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 41,
+   "type": "gold",
+   "name": "Photo-Finish Completionist",
+   "detail": "Gain all stars in 'Photo-Finish'",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Redline Beginner",
+   "detail": "Gain a star in any event of 'Redline'",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Redline Rising Star",
+   "detail": "Unlock additional events in 'Redline'",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 44,
+   "type": "silver",
+   "name": "Redline Contender",
+   "detail": "Unlock the 'Redline' Trophy event",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Redline Champion",
+   "detail": "Win the 'Redline' Trophy event on gold star difficulty.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 46,
+   "type": "gold",
+   "name": "Redline Completionist",
+   "detail": "Gain all stars in 'Redline'",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Elements Beginner",
+   "detail": "Gain a star in any event of 'Elements'.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Elements Rising Star",
+   "detail": "Unlock additional events in 'Elements'.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 49,
+   "type": "silver",
+   "name": "Elements Contender",
+   "detail": "Unlock the 'Elements' Trophy event.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 50,
+   "type": "silver",
+   "name": "Elements Champion",
+   "detail": "Win the 'Elements' Trophy event on gold star difficulty.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 51,
+   "type": "gold",
+   "name": "Elements Completionist",
+   "detail": "Gain all stars in 'Elements'.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Apex Beginner",
+   "detail": "Gain a star in any event of 'Apex'.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Apex Rising Star",
+   "detail": "Unlock additional events in 'Apex'.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 54,
+   "type": "silver",
+   "name": "Apex Contender",
+   "detail": "Unlock the 'Apex' Trophy event.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 55,
+   "type": "silver",
+   "name": "Apex Champion",
+   "detail": "Win the 'Apex' Trophy event on gold star difficulty.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 56,
+   "type": "gold",
+   "name": "Apex Completionist",
+   "detail": "Gain all stars in 'Apex'",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "Sakura Beginner",
+   "detail": "Gain a star in any event of 'Sakura'.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Sakura Rising Star",
+   "detail": "Unlock additional events in 'Sakura'.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 59,
+   "type": "silver",
+   "name": "Sakura Contender",
+   "detail": "Unlock the 'Sakura' Trophy event.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 60,
+   "type": "silver",
+   "name": "Sakura Champion",
+   "detail": "Win the 'Sakura' Trophy event on gold star difficulty.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 61,
+   "type": "gold",
+   "name": "Sakura Completionist",
+   "detail": "Gain all stars in 'Sakura'.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 62,
+   "type": "bronze",
+   "name": "Downforce Beginner",
+   "detail": "Gain a star in any event of 'Downforce'.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Downforce Rising Star",
+   "detail": "Unlock additional events in 'Downforce'.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 64,
+   "type": "silver",
+   "name": "Downforce Contender",
+   "detail": "Unlock the 'Downforce' Trophy event.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 65,
+   "type": "silver",
+   "name": "Downforce Champion",
+   "detail": "Win the 'Downforce' Trophy event on gold star difficulty.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 66,
+   "type": "gold",
+   "name": "Downforce Completionist",
+   "detail": "Gain all stars in 'Downforce'.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 67,
+   "type": "bronze",
+   "name": "Midnight Beginner",
+   "detail": "Gain a star in any event of 'Midnight'.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 68,
+   "type": "bronze",
+   "name": "Midnight Rising Star",
+   "detail": "Unlock additional events in 'Midnight'.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 69,
+   "type": "silver",
+   "name": "Midnight Contender",
+   "detail": "Unlock the 'Midnight' Trophy event.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 70,
+   "type": "silver",
+   "name": "Midnight Champion",
+   "detail": "Win the 'Midnight' Trophy event on gold star difficulty.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 71,
+   "type": "gold",
+   "name": "Midnight Completionist",
+   "detail": "Gain all stars in 'Midnight'.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 72,
+   "type": "bronze",
+   "name": "Lamborghini Beginner",
+   "detail": "Gain a star in any event of 'Lamborghini'.",
+   "group": "010",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-11T13:04:05Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 73,
+   "type": "bronze",
+   "name": "Lamborghini Rising Star",
+   "detail": "Unlock additional events in 'Lamborghini'.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 74,
+   "type": "silver",
+   "name": "Lamborghini Contender",
+   "detail": "Unlock the 'Lamborghini' Trophy event.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 75,
+   "type": "silver",
+   "name": "Lamborghini Champion",
+   "detail": "Win the 'Lamborghini' Trophy event on gold star difficulty.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 76,
+   "type": "gold",
+   "name": "Lamborghini Completionist",
+   "detail": "Gain all stars in 'Lamborghini'.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 77,
+   "type": "bronze",
+   "name": "Pacesetter Beginner",
+   "detail": "Gain a star in any event of 'Pacesetter'.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 78,
+   "type": "bronze",
+   "name": "Pacesetter Rising Star",
+   "detail": "Unlock additional events in 'Pacesetter'.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 79,
+   "type": "silver",
+   "name": "Pacesetter Contender",
+   "detail": "Unlock the 'Pacesetter' Trophy event.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 80,
+   "type": "silver",
+   "name": "Pacesetter Champion",
+   "detail": "Win the 'Pacesetter' Trophy event on gold star difficulty.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 81,
+   "type": "gold",
+   "name": "Pacesetter Completionist",
+   "detail": "Gain all stars in 'Pacesetter'.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 82,
+   "type": "bronze",
+   "name": "Turbocharged Beginner",
+   "detail": "Gain a star in any event of 'Turbocharged'.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 83,
+   "type": "bronze",
+   "name": "Turbocharged Rising Star",
+   "detail": "Unlock additional events in 'Turbocharged'.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 84,
+   "type": "silver",
+   "name": "Turbocharged Contender",
+   "detail": "Unlock the 'Turbocharged' Trophy event.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 85,
+   "type": "silver",
+   "name": "Turbocharged Champion",
+   "detail": "Win the 'Turbocharged' Trophy event on gold star difficulty.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 86,
+   "type": "gold",
+   "name": "Turbocharged Completionist",
+   "detail": "Gain all the stars in 'Turbocharged'.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 87,
+   "type": "bronze",
+   "name": "Evolution Beginner",
+   "detail": "Gain a star in any event of 'Evolution'.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 88,
+   "type": "bronze",
+   "name": "Evolution Rising Star",
+   "detail": "Unlock additional event in 'Evolution'.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 89,
+   "type": "silver",
+   "name": "Evolution Contender",
+   "detail": "Unlock the 'Evolution' Trophy event.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 90,
+   "type": "silver",
+   "name": "Evolution Champion",
+   "detail": "Win the 'Evolution' Trophy event on gold star difficulty.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 91,
+   "type": "gold",
+   "name": "Evolution Completionist",
+   "detail": "Gain all stars in 'Evolution'.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 92,
+   "type": "bronze",
+   "name": "Lamborghini Icons Beginner",
+   "detail": "Gain a star in any event of 'Lamborghini Icons'.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 93,
+   "type": "bronze",
+   "name": "Lamborghini Icons Rising Star",
+   "detail": "Unlock additional events in 'Lamborghini Icons'.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 94,
+   "type": "silver",
+   "name": "Lamborghini Icons Contender",
+   "detail": "Unlock the 'Lamborghini Icons' Trophy event.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 95,
+   "type": "silver",
+   "name": "Lamborghini Icons Champion",
+   "detail": "Win the 'Lamborghini Icons' Trophy event on gold star difficulty.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 96,
+   "type": "gold",
+   "name": "Lamborghini Icons Completionist",
+   "detail": "Gain all the stars in 'Lamborghini Icons'.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 97,
+   "type": "bronze",
+   "name": "Torque Beginner",
+   "detail": "Gain a star in any event of 'Torque'.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 98,
+   "type": "bronze",
+   "name": "Torque Rising Star",
+   "detail": "Unlock additional events in 'Torque'.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 99,
+   "type": "silver",
+   "name": "Torque Contender",
+   "detail": "Unlock the 'Torque' Trophy event.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 100,
+   "type": "silver",
+   "name": "Torque Champion",
+   "detail": "Win the 'Torque' Trophy event on gold star difficulty.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 101,
+   "type": "gold",
+   "name": "Torque Completionist",
+   "detail": "Gain all stars in 'Torque'.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 102,
+   "type": "bronze",
+   "name": "RPM Beginner",
+   "detail": "Gain a star in any event of 'RPM'.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 103,
+   "type": "bronze",
+   "name": "RPM Rising Star",
+   "detail": "Unlock additional events in 'RPM'.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 104,
+   "type": "silver",
+   "name": "RPM Contender",
+   "detail": "Unlock the 'RPM' Trophy event.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 105,
+   "type": "silver",
+   "name": "RPM Champion",
+   "detail": "Win the 'RPM' Trophy event on gold star difficulty.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 106,
+   "type": "gold",
+   "name": "RPM Completionist",
+   "detail": "Gain all stars in 'RPM'.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 107,
+   "type": "bronze",
+   "name": "Velocity Beginner",
+   "detail": "Gain a star in any event of 'Velocity'.",
+   "group": "017",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 108,
+   "type": "bronze",
+   "name": "Velocity Rising Star",
+   "detail": "Unlock additional events in 'Velocity'.",
+   "group": "017",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 109,
+   "type": "silver",
+   "name": "Velocity Contender",
+   "detail": "Unlock the 'Velocity' Trophy event.",
+   "group": "017",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 110,
+   "type": "silver",
+   "name": "Velocity Champion",
+   "detail": "Win the 'Velocity' Trophy event on gold star difficulty.",
+   "group": "017",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 111,
+   "type": "gold",
+   "name": "Velocity Completionist",
+   "detail": "Gain all stars in 'Velocity'.",
+   "group": "017",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 112,
+   "type": "bronze",
+   "name": "Horsepower Beginner",
+   "detail": "Gain a star in any event of 'Horsepower'.",
+   "group": "018",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 113,
+   "type": "bronze",
+   "name": "Horsepower Rising Star",
+   "detail": "Unlock additional events in 'Horsepower'.",
+   "group": "018",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 114,
+   "type": "silver",
+   "name": "Horsepower Contender",
+   "detail": "Unlock the 'Horsepower' Trophy event.",
+   "group": "018",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 115,
+   "type": "silver",
+   "name": "Horsepower Champion",
+   "detail": "Win the 'Horsepower' Trophy event on gold star difficulty.",
+   "group": "018",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 116,
+   "type": "gold",
+   "name": "Horsepower Completionist",
+   "detail": "Gain all stars in 'Horsepower'.",
+   "group": "018",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 117,
+   "type": "bronze",
+   "name": "Unite In Speed Beginner",
+   "detail": "Gain a star in any event of 'Unite In Speed'.",
+   "group": "019",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 118,
+   "type": "bronze",
+   "name": "Unite In Speed Rising Star",
+   "detail": "Unlock additional events in 'Unite In Speed'.",
+   "group": "019",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 119,
+   "type": "silver",
+   "name": "Unite In Speed Contender",
+   "detail": "Unlock the 'Unite In Speed' Trophy event.",
+   "group": "019",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 120,
+   "type": "silver",
+   "name": "Unite In Speed Champion",
+   "detail": "Win the 'Unite In Speed' Trophy event on gold star difficulty.",
+   "group": "019",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 121,
+   "type": "gold",
+   "name": "Unite In Speed Completionist",
+   "detail": "Gain all stars in 'Unite In Speed'.",
+   "group": "019",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 122,
+   "type": "bronze",
+   "name": "All Stars Beginner",
+   "detail": "Gain a star in any event of 'All Stars'.",
+   "group": "020",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.9
+  },
+  {
+   "id": 123,
+   "type": "bronze",
+   "name": "All Stars Champion",
+   "detail": "Win the 'All Stars' Trophy event on gold star difficulty.",
+   "group": "020",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 124,
+   "type": "bronze",
+   "name": "All Stars Completionist",
+   "detail": "Gain all stars in 'All Stars'.",
+   "group": "020",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 125,
+   "type": "bronze",
+   "name": "AMG Beginner",
+   "detail": "Gain a star in any event of 'AMG'.",
+   "group": "021",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 126,
+   "type": "bronze",
+   "name": "AMG Champion",
+   "detail": "Win the 'AMG' Trophy event on gold star difficulty.",
+   "group": "021",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 127,
+   "type": "bronze",
+   "name": "AMG Completionist",
+   "detail": "Gain all stars in 'AMG'.",
+   "group": "021",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  }
+ ]
+}

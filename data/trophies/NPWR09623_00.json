@@ -1,0 +1,318 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DRIVECLUB™ VR"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Virtuoso",
+   "detail": "Collect all of the other Trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "You've Never Used Them Before",
+   "detail": "Complete your first Event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T08:34:54Z",
+   "rarity": 89.1
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Flashback",
+   "detail": "Save a Replay at the end of an Event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T08:36:46Z",
+   "rarity": 13.3
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Beat It",
+   "detail": "Beat your first Face-Off.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T08:32:51Z",
+   "rarity": 80.7
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Getting The Keys",
+   "detail": "Unlock your first car.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T08:35:13Z",
+   "rarity": 73.3
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Set A Drift",
+   "detail": "Using Single Event, setup and complete a Drift Event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T13:18:51Z",
+   "rarity": 22.2
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Shooting Stars",
+   "detail": "Complete a Tour Event with the maximum number of available Stars.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T08:35:04Z",
+   "rarity": 58.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Bring Me Solo And The Rookie",
+   "detail": "Win the 'Red Hills Cup' Event in Tour on Gold Star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-04-11T07:22:46Z",
+   "rarity": 13.6
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Soul Captured",
+   "detail": "Navigate through 20 viewing points in Inspection Mode.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-18T12:43:05Z",
+   "rarity": 32
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "DRIVECLUB™ Express",
+   "detail": "Stop and look at a Steam Train in Scotland.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Phone Home",
+   "detail": "Stop and look at a Telephone Box in Scotland.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T10:28:07Z",
+   "rarity": 19.1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Here Comes A New Challenger…",
+   "detail": "Win 2 of your own Solo Challenges after sending them to at least one other player.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T14:09:50Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Lawnmower Man",
+   "detail": "Drive a total of 10 minutes whilst Off Track.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-01-14T15:11:46Z",
+   "rarity": 4.5
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Virtual Sea Legs",
+   "detail": "Play 5 Events in Multiplayer.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T09:16:49Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Jumpman",
+   "detail": "Collide with 10 roadside Barrier Barrels.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-21T16:44:55Z",
+   "rarity": 13
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Superhighway Maintenance",
+   "detail": "Collide with 100 Road Signs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-15T19:52:52Z",
+   "rarity": 9.9
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Ghost In The Drift",
+   "detail": "Score over 2501 fame for a single Drift Overdrive.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.1
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Howl At The Moon",
+   "detail": "Win a Race at midnight in the W Motors Lykan HyperSport.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "If I Only Had A Brain",
+   "detail": "Stop and look at a Scarecrow in Japan.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Gnome Me Gnome You",
+   "detail": "Stop and look at a Gnome in Japan.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Virtually A Pro",
+   "detail": "Win the 'Hyper Tournament India' Event in Tour on Gold Star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "It's All In The Wrists",
+   "detail": "Drift across 10 Race finish lines whilst in First position.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Star Destroyer",
+   "detail": "Gain all Gold Stars in Tour.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Outer Limits",
+   "detail": "Reach Driver Level 60.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-04-05T12:41:04Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 24,
+   "type": "gold",
+   "name": "How Fast Do You Wanna Go!",
+   "detail": "Complete a point to point Event with an Average Speed of 125mph or 202 km/h.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.9
+  },
+  {
+   "id": 25,
+   "type": "gold",
+   "name": "Gotta Go Fast",
+   "detail": "Reach 210mph or 338 km/h.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "When This Baby Hits...",
+   "detail": "Complete the ‘Great Scott’ Event’s objective Face-Off in Tour.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "Venomous",
+   "detail": "In Time Trial complete Tamil Nadu 01 in 01:16.000 or less with the Hennessey Venom GT.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  }
+ ]
+}

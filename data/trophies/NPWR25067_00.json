@@ -1,0 +1,472 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "ELDEN RING™"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Elden Ring",
+   "detail": "Obtained all trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.9
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Elden Lord",
+   "detail": "Achieved the \"Elden Lord\" ending",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Age of the Stars",
+   "detail": "Achieved the \"Age of the Stars\" ending",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.2
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Lord of Frenzied Flame",
+   "detail": "Achieved the \"Lord of Frenzied Flame\" ending",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.9
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Shardbearer Godrick",
+   "detail": "Defeated Shardbearer Godrick",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-02-26T20:10:02Z",
+   "rarity": 55.7
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "Shardbearer Radahn",
+   "detail": "Defeated Shardbearer Radahn",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.5
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Shardbearer Morgott",
+   "detail": "Defeated Shardbearer Morgott",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.7
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Shardbearer Rykard",
+   "detail": "Defeated Shardbearer Rykard",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.6
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Shardbearer Malenia",
+   "detail": "Defeated Shardbearer Malenia",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.9
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Shardbearer Mohg",
+   "detail": "Defeated Shardbearer Mohg",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.2
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Maliketh the Black Blade",
+   "detail": "Defeated Maliketh the Black Blade",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.1
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Hoarah Loux, Warrior",
+   "detail": "Defeated Hoarah Loux, Warrior",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.3
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Dragonlord Placidusax",
+   "detail": "Defeated Dragonlord Placidusax",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.9
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "God-Slaying Armament",
+   "detail": "Upgraded any armament to its highest stage",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.9
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Legendary Armaments",
+   "detail": "Acquired all legendary armaments",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.5
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Legendary Ashen Remains",
+   "detail": "Acquired all legendary ashen remains",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.8
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Legendary Sorceries and Incantations",
+   "detail": "Acquired all legendary sorceries and incantations",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.8
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Legendary Talismans",
+   "detail": "Acquired all legendary talismans",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.8
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Rennala, Queen of the Full Moon",
+   "detail": "Defeated Rennala, Queen of the Full Moon",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-03-12T21:24:31Z",
+   "rarity": 49.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Lichdragon Fortissax",
+   "detail": "Defeated Lichdragon Fortissax",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Godskin Duo",
+   "detail": "Defeated Godskin Duo",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.7
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Fire Giant",
+   "detail": "Defeated Fire Giant",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.2
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Dragonkin Soldier of Nokstella",
+   "detail": "Defeated Dragonkin Soldier of Nokstella",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.4
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Regal Ancestor Spirit",
+   "detail": "Defeated Regal Ancestor Spirit",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.1
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Valiant Gargoyles",
+   "detail": "Defeated Valiant Gargoyles",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.6
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Margit, the Fell Omen",
+   "detail": "Defeated Margit, the Fell Omen",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-02-25T20:36:02Z",
+   "rarity": 61.2
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Red Wolf of Radagon",
+   "detail": "Defeated the Red Wolf of Radagon",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-03-05T11:33:45Z",
+   "rarity": 51.1
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Godskin Noble",
+   "detail": "Defeated Godskin Noble",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Magma Wyrm Makar",
+   "detail": "Defeated Magma Wyrm Makar",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-03-12T22:49:42Z",
+   "rarity": 41.5
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Godfrey, First Elden Lord",
+   "detail": "Defeated Godfrey, First Elden Lord",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.1
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Mohg, the Omen",
+   "detail": "Defeated Mohg, the Omen",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.4
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Mimic Tear",
+   "detail": "Defeated Mimic Tear",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.5
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Loretta, Knight of the Haligtree",
+   "detail": "Defeated Loretta, Knight of the Haligtree",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.7
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Astel, Naturalborn of the Void",
+   "detail": "Defeated Astel, Naturalborn of the Void",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.2
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Leonine Misbegotten",
+   "detail": "Defeated the Leonine Misbegotten",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.9
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Royal Knight Loretta",
+   "detail": "Defeated Royal Knight Loretta",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 47.8
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Elemer of the Briar",
+   "detail": "Defeated Elemer of the Briar",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.4
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Ancestor Spirit",
+   "detail": "Defeated Ancestor Spirit",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.6
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Commander Niall",
+   "detail": "Defeated Commander Niall",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.5
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Roundtable Hold",
+   "detail": "Arrived at Roundtable Hold",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-02-25T19:01:03Z",
+   "rarity": 66.9
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Great Rune",
+   "detail": "Restored the power of a Great Rune",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-03-12T21:24:31Z",
+   "rarity": 52.3
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Erdtree Aflame",
+   "detail": "Used kindling to set the Erdtree aflame",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.7
+  }
+ ]
+}

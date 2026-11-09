@@ -1,0 +1,329 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Hotline Miami 2: Wrong Number"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "TROPHY ADDICT",
+   "detail": "Unlock all Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "1-800-CLEARED",
+   "detail": "Finish the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "1-800-GETHELP",
+   "detail": "Finish the game on hard mode",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "1-800-GODDAMN",
+   "detail": "Get A+ on all levels on normal",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "NUCLEAR WASTE",
+   "detail": "They won't reach the Nuclear Throne",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.9
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "FANTASTIC!",
+   "detail": "Unlock all the Fans",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-20T11:42:01Z",
+   "rarity": 42.1
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "THESE ARE MY RIFLES, THESE ARE MY GUNS...",
+   "detail": "Unlock all weapons for the Soldier",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.1
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "SNAKE CHARMER",
+   "detail": "Unlock all snake masks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.6
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "WHAT YOU LEAVE FOR YOUR SONS",
+   "detail": "Unlock all of the Son's techniques",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.4
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "FANATIC",
+   "detail": "Clear a level with each Fan",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-04-22T17:15:32Z",
+   "rarity": 18.2
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "FAMILY BUSINESS",
+   "detail": "Clear a level with each of the Son's techniques",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.9
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "SNAKES ON A HEAD",
+   "detail": "Clear a level with each snake mask",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.8
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "DON'T LET ANGER GET THE BEST OF YOU",
+   "detail": "Clear all of the Writer's levels without killing",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "EXTRA! EXTRA! READ ALL ABOUT IT!",
+   "detail": "Get the big picture",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "A BOX FULL OF SHARP OBJECTS",
+   "detail": "Use every weapon in the game at least once",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "PERCUSSIVE MAINTENANCE",
+   "detail": "Destroy 100 electronic devices",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.1
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "KARMA",
+   "detail": "Die 1000 times",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-16T15:47:44Z",
+   "rarity": 34.4
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "GENOCIDE",
+   "detail": "Kill 50,000 enemies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.4
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "GOT YOUR BACK",
+   "detail": "Shoot two enemies during a chainsaw finish",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.2
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "FOLLOW THE SCRIPT",
+   "detail": "Do as the Director says!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-14T18:53:26Z",
+   "rarity": 23.5
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "ASSASSIN'S CRED",
+   "detail": "Clear the 1st floor of NO MERCY with the silencer",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "DEAD SILENT",
+   "detail": "Finish SUBWAY without the Gang Leader seeing you",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.9
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "I'M COMING IN AND I'M UNARMED!",
+   "detail": "Finish HOMICIDE without using guns",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-15T08:18:08Z",
+   "rarity": 11
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "STARE INTO THE ABYSS",
+   "detail": "Unlock THE ABYSS",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.7
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "THE BAR OF BROKEN HEROES",
+   "detail": "Meet up with the Biker",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.6
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "COMBO BEGINNER",
+   "detail": "Perform a 5x combo",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-14T09:45:34Z",
+   "rarity": 73.9
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "COMBO INTERMEDIATE",
+   "detail": "Perform a 10x combo",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-20T11:36:23Z",
+   "rarity": 40.8
+  },
+  {
+   "id": 27,
+   "type": "silver",
+   "name": "COMBO MASTER",
+   "detail": "Perform a 15x combo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.9
+  },
+  {
+   "id": 28,
+   "type": "gold",
+   "name": "COMBO GOD",
+   "detail": "Perform a 20x combo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8
+  }
+ ]
+}

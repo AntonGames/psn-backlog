@@ -1,0 +1,734 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Battlefield 3™ Trophies"
+  },
+  {
+   "id": "001",
+   "name": "Battlefield 3™ Back to Karkand Trophies"
+  },
+  {
+   "id": "002",
+   "name": "Battlefield 3™ Close Quarters Trophies"
+  },
+  {
+   "id": "003",
+   "name": "Battlefield 3™ Armored Kill Trophies"
+  },
+  {
+   "id": "004",
+   "name": "Battlefield 3™ Aftermath Trophies"
+  },
+  {
+   "id": "005",
+   "name": "Battlefield 3™ End Game Trophies"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Collect all other Battlefield 3™ Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Not on my watch",
+   "detail": "Protected Chaffin from the soldiers in the street in Operation Swordbreaker",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 62.7
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Involuntary Euthanasia",
+   "detail": "Killed the 2 soldiers before the building fell on them in Uprising",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "The Professional",
+   "detail": "Completed the street chase in Comrades in under 2 minutes 30 seconds without dying",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.4
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "This is the end",
+   "detail": "Failed to prevent the attack",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.2
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Where are the other two?",
+   "detail": "Found the nuke",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Shock Troop",
+   "detail": "Survived the quake",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 64.4
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Wanted: Dead or Alive",
+   "detail": "Captured Al Bashir",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Army of Darkness",
+   "detail": "Shot out the 4 lights with 4 bullets in Night Shift",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Practice makes perfect",
+   "detail": "Headshot each of the targets in the gun range in Kaffarov",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "What the hell *are* you?",
+   "detail": "Took a Russian Dog Tag in the forest ambush in Rock And A Hard Place",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Roadkill",
+   "detail": "Kicked the car and killed the soldiers in Uprising",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.2
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "You can be my wingman anytime",
+   "detail": "Completed Going Hunting in a perfect run",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Scrap Metal",
+   "detail": "Destroyed 6 enemy tanks before reaching the fort in Thunder Run",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.4
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "No Escape",
+   "detail": "Captured Kaffarov",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Butterfly",
+   "detail": "Took down the jet in one attempt in Rock And A Hard Place",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.9
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Twofor",
+   "detail": "Took down 2 enemies with 1 bullet in Night Shift",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.9
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "FlashForward",
+   "detail": "Completed Semper Fidelis",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 77.9
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Ooh-rah!",
+   "detail": "Completed the campaign story",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.7
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Between a rock and a hard place",
+   "detail": "Beat Solomon, flawlessly, in The Great Destroyer",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.4
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Semper Fidelis",
+   "detail": "Completed the campaign story on Hard",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.6
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Push On",
+   "detail": "Reached the garage without going into man-down state in Hit and Run",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T11:43:42Z",
+   "rarity": 1.9
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Two-rah!",
+   "detail": "Completed all co-op missions",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T13:36:22Z",
+   "rarity": 5.2
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Lock 'n' Load",
+   "detail": "Unlocked all unique co-op weapons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T12:17:05Z",
+   "rarity": 5.4
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Car Lover",
+   "detail": "Completed the mission without losing a humvee in Operation Exodus",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T08:22:48Z",
+   "rarity": 7.4
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "In the nick of time",
+   "detail": "Disarmed the bomb in under 20 seconds in The Eleventh Hour",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T13:08:45Z",
+   "rarity": 6.1
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Bullseye",
+   "detail": "Saved the hostages without alerting any enemies in Drop 'em Like Liquid",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T13:04:50Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Untouchable",
+   "detail": "Completed the mission without using the fire extinguisher in Fire From The Sky",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T08:43:35Z",
+   "rarity": 11.4
+  },
+  {
+   "id": 28,
+   "type": "gold",
+   "name": "Army of Two",
+   "detail": "Completed all co-op missions on Hard",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T13:36:17Z",
+   "rarity": 0.8
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Ninjas",
+   "detail": "Reached the VIP without setting off the alarm in Exfiltration",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T08:53:16Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Vehicle Warfare",
+   "detail": "Received all 3 vehicle warfare ribbons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T12:08:24Z",
+   "rarity": 8.2
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Infantry Efficiency",
+   "detail": "Received all 4 weapon efficiency ribbons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-07-02T18:55:36Z",
+   "rarity": 19.2
+  },
+  {
+   "id": 32,
+   "type": "gold",
+   "name": "Decorated",
+   "detail": "Received one of each ribbon in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:42:15Z",
+   "rarity": 2.1
+  },
+  {
+   "id": 33,
+   "type": "silver",
+   "name": "It's better than nothing!",
+   "detail": "3rd MVP in a ranked match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:04:47Z",
+   "rarity": 29.7
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Support Efficiency",
+   "detail": "Received all 4 support efficiency ribbons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T12:49:26Z",
+   "rarity": 12.1
+  },
+  {
+   "id": 35,
+   "type": "gold",
+   "name": "Colonel",
+   "detail": "Rank 45 achieved!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T11:20:10Z",
+   "rarity": 11
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "1st Loser",
+   "detail": "2nd MVP in a ranked match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T12:41:43Z",
+   "rarity": 27.4
+  },
+  {
+   "id": 37,
+   "type": "silver",
+   "name": "Most Valuable Player",
+   "detail": "MVP in a ranked match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T12:01:05Z",
+   "rarity": 24
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "M.I.A",
+   "detail": "Took your first enemy Dog Tag",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:12:12Z",
+   "rarity": 42.1
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Complete Warrior",
+   "detail": "Got a kill with the following weapons in a single life: Assault Rifle, Jet, Tank",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T12:29:42Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Third Tour",
+   "detail": "Got a kill with each of the following vehicles: the BTR-90, DPV and F-35.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:00:53Z",
+   "rarity": 3.5
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Gunslinger",
+   "detail": "Got 10 kills with each of the ten Back to Karkand weapons",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-07-02T19:01:21Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 42,
+   "type": "silver",
+   "name": "Like a Boss",
+   "detail": "Got a kill with the skid loader",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T12:36:28Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Jaws",
+   "detail": "Took a swim in the Oman Hotel swimming pool",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T12:54:32Z",
+   "rarity": 6
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Dominator",
+   "detail": "Won a round in Conquest Domination",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:15:38Z",
+   "rarity": 7.9
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Deadly tools",
+   "detail": "Without dying, got a kill with a Carbine, Pistol and Rocket Launcher",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:14:52Z",
+   "rarity": 5.3
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Grinding the Crack",
+   "detail": "Fell over the edge on Ziba Tower",
+   "group": "002",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:11:40Z",
+   "rarity": 5.1
+  },
+  {
+   "id": 47,
+   "type": "silver",
+   "name": "Show of Force",
+   "detail": "Got 10 kills with all ten CQ weapons",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-07-02T19:37:49Z",
+   "rarity": 2.3
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Man of Calibre",
+   "detail": "Completed a round of Gun Master",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:33:31Z",
+   "rarity": 7.8
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Death from above",
+   "detail": "Got one kill with the Gunship",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:45:40Z",
+   "rarity": 4.9
+  },
+  {
+   "id": 50,
+   "type": "silver",
+   "name": "Destroyer",
+   "detail": "Got 10 kills each with Tank destroyers and Mobile Artilleries",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:26:37Z",
+   "rarity": 1.2
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "Offroad",
+   "detail": "Got one kill with the Quad bike",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:00:11Z",
+   "rarity": 3.6
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Superiority",
+   "detail": "Won one round of Tank Superiority",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:33:20Z",
+   "rarity": 4.4
+  },
+  {
+   "id": 53,
+   "type": "silver",
+   "name": "Dropship",
+   "detail": "Destroyed the Gunship",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T13:59:32Z",
+   "rarity": 4.7
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Handyman",
+   "detail": "Unlocked all xbow parts",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-07T16:49:40Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 55,
+   "type": "silver",
+   "name": "Bite your finger",
+   "detail": "Found the secret reptile",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:43:06Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 56,
+   "type": "bronze",
+   "name": "Home made javelin",
+   "detail": "Destroyed an enemy vehicle using the xbow",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T00:46:32Z",
+   "rarity": 2
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "Pocket full of death",
+   "detail": "Without dying, got a kill with xbow, primary weapon, and hand grenade",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:55:49Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Extreme Hoarder",
+   "detail": "Picked up 50 weapons in Scavenger mode",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-05T14:59:20Z",
+   "rarity": 4
+  },
+  {
+   "id": 59,
+   "type": "silver",
+   "name": "Transport Pilot",
+   "detail": "Transported a flag carrier in an air vehicle in CTF",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:48:26Z",
+   "rarity": 1.5
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "Capture The Flag",
+   "detail": "Captured one flag while playing CTF",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:49:29Z",
+   "rarity": 3.7
+  },
+  {
+   "id": 61,
+   "type": "silver",
+   "name": "Its no sidecar",
+   "detail": "Got a kill from the passenger position on a motorcycle",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:40:07Z",
+   "rarity": 2.8
+  },
+  {
+   "id": 62,
+   "type": "bronze",
+   "name": "AAs revenge",
+   "detail": "Destroyed an air vehicle using the AA jeeps",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:38:27Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Heavy Lifter",
+   "detail": "Killed an enemy after successfully paradropping a vehicle",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-06T13:44:05Z",
+   "rarity": 2.7
+  }
+ ]
+}

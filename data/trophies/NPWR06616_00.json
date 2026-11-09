@@ -1,0 +1,252 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "The Order: 1886"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Grail",
+   "detail": "Collect all Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.7
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "A Knight No More",
+   "detail": "Complete the game (any difficulty)",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-03-12T19:49:48Z",
+   "rarity": 43
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "The Marksman",
+   "detail": "Kill 5 enemies with a headshot during Blacksight",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.6
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Well Rounded",
+   "detail": "Kill an enemy with every weapon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.2
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Modern Marvels",
+   "detail": "Kill 40 enemies with science weapons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-12T15:34:15Z",
+   "rarity": 57.5
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Collateral Damage",
+   "detail": "Kill 3 enemies with a single explosion",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-06T20:11:23Z",
+   "rarity": 62.9
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Between the Eyes",
+   "detail": "Kill 100 enemies with a headshot",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-12T16:15:37Z",
+   "rarity": 48
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Undivided Attention",
+   "detail": "Kill 25 enemies during Blacksight",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "From the Hip",
+   "detail": "Kill 25 enemies without aiming",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.7
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Box Your Ears",
+   "detail": "Kill 15 enemies with melee attacks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.1
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Snuffed Out",
+   "detail": "Kill 7 enemies with silent takedowns",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-09T19:31:28Z",
+   "rarity": 49.1
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Gunslinger",
+   "detail": "Kill 75 enemies with pistols",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.3
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "The Hunter",
+   "detail": "Kill 10 Lycans",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-12T18:00:18Z",
+   "rarity": 51.3
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Up in Flames",
+   "detail": "Incinerate 15 enemies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.2
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "Inspector First Class",
+   "detail": "Find all inspect items",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.8
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Archivist",
+   "detail": "Collect all phonograph cylinders",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.9
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Well-read",
+   "detail": "Inspect all newspapers",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.8
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Detail Oriented",
+   "detail": "Inspect all photographs and documents",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Power of Observation",
+   "detail": "Inspect all objects",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.6
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Brilliant!",
+   "detail": "Shoot an airborne grenade during Blacksight",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.9
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Discombobulated",
+   "detail": "Stun an enemy 30 times with the M2 ‘Falchion'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.2
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Highly Volatile",
+   "detail": "Detonate 10 powder kegs",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-06T20:16:10Z",
+   "rarity": 39.9
+  }
+ ]
+}

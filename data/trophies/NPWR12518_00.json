@@ -1,0 +1,417 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "God of War"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Father and Son",
+   "detail": "Obtain all other trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.6
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "The Journey Begins",
+   "detail": "Defend your home from The Stranger",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 84.4
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "A New Friend",
+   "detail": "Survive the Witch’s Woods",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 71.4
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Feels Like Home",
+   "detail": "Allow the Light Elves to return home",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 59.9
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Dragon Slayer",
+   "detail": "Defeat the Dragon of the Mountain",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 54.4
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Troubling Consequences",
+   "detail": "Defeat Magni and Modi",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 51.2
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Hello, Old Friend",
+   "detail": "Retrieve the Blades of Chaos",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 50.6
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Promise Fulfilled",
+   "detail": "Heal Atreus",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 50.2
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Round 2",
+   "detail": "Rescue Atreus",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.2
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Past Haunts",
+   "detail": "Ride the ship out of Helheim",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 47.8
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Twilight Beckons",
+   "detail": "Defeat Baldur",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.7
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "Last Wish",
+   "detail": "Spread the ashes",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.2
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Beneath the Surface",
+   "detail": "Explore all the Lake of Nine has to offer",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.8
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Death Happened Here",
+   "detail": "Fully explore Veithurgard",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.6
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Trilingual",
+   "detail": "Learn the languages of Muspelheim and Niflheim",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Dwarven Ingenuity",
+   "detail": "Upgrade a piece of armor",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 66.2
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Nice Moves",
+   "detail": "Obtain a Runic Attack Gem",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 81.4
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Iðunn’s Orchard",
+   "detail": "Fully upgrade your Health",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.6
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Quick Tempered",
+   "detail": "Fully upgrade your rage",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Best Dressed",
+   "detail": "Craft an outfit for Atreus",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Enchanted",
+   "detail": "Slot an Enchantment into your armor",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-03-08T14:04:14Z",
+   "rarity": 66.2
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "All Will Fall",
+   "detail": "Kill 1,000 Enemies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.9
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Dangerous Skies",
+   "detail": "Free all of the Dragons",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Like Oil and Water",
+   "detail": "Complete all of Brok and Sindri’s Favors",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.6
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Curator",
+   "detail": "Collect all of the Artifacts",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.8
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Allfather Blinded",
+   "detail": "Kill all of Odin’s Ravens",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "The Best Moves",
+   "detail": "Fully upgrade a Runic Attack",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.4
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Worthy",
+   "detail": "Fully upgrade the Leviathan Axe",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.8
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Why Fight It?",
+   "detail": "Fully upgrade the Blades of Chaos",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.7
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Path of the Zealot",
+   "detail": "Obtain Traveler armor set",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.6
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Primordial",
+   "detail": "Obtain Ancient armor set",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.5
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Unfinished Business",
+   "detail": "Assist all of the wayward spirits",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.9
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Treasure Hunter",
+   "detail": "Use treasure maps to find all of the dig spots",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.9
+  },
+  {
+   "id": 33,
+   "type": "silver",
+   "name": "The Truth",
+   "detail": "Read all of the Jötnar shrines",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.5
+  },
+  {
+   "id": 34,
+   "type": "gold",
+   "name": "Fire and Brimstone",
+   "detail": "Complete all of the Trials of Muspelheim",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.8
+  },
+  {
+   "id": 35,
+   "type": "gold",
+   "name": "Darkness and Fog",
+   "detail": "Retrieve all treasure from the Workshop’s center chamber",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.5
+  },
+  {
+   "id": 36,
+   "type": "gold",
+   "name": "Chooser of the Slain",
+   "detail": "Defeat the nine Valkyries",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.5
+  }
+ ]
+}

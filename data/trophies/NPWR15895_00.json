@@ -1,0 +1,911 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Tom Clancy’s The Division®2"
+  },
+  {
+   "id": "001",
+   "name": "Tom Clancy’s The Division®2 Operation Dark Hours"
+  },
+  {
+   "id": "002",
+   "name": "Tom Clancy’s The Division®2 DC Outskirts"
+  },
+  {
+   "id": "003",
+   "name": "Tom Clancy’s The Division®2 The Pentagon"
+  },
+  {
+   "id": "004",
+   "name": "Tom Clancy’s The Division®2 Coney Island"
+  },
+  {
+   "id": "005",
+   "name": "Tom Clancy’s The Division®2 Warlords of New York"
+  },
+  {
+   "id": "006",
+   "name": "Tom Clancy’s The Division®2 Operation Iron Horse"
+  },
+  {
+   "id": "007",
+   "name": "Tom Clancy’s The Division®2 Battle for Brooklyn"
+  },
+  {
+   "id": "008",
+   "name": "Tom Clancy’s The Division®2 Echoes of Central Park"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Agent",
+   "detail": "Unlock every Trophy in Tom Clancy's The Division®2.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-24T22:45:45Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Checking In",
+   "detail": "Rescue Eleanor Sawyer from the Hyenas in the Grand Washington Hotel.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T18:23:07Z",
+   "rarity": 74.3
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Opening the Vault",
+   "detail": "Discover what the Hyenas stole from Air Force One.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T17:07:36Z",
+   "rarity": 36.7
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Bunker Buster",
+   "detail": "Recover essential SHD Network equipment from the Federal Emergency Bunker.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-09T18:55:22Z",
+   "rarity": 31.9
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Sick Note",
+   "detail": "Shut down Outcast activity at the DCD Headquarters.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T17:42:57Z",
+   "rarity": 35.3
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Jailbreak",
+   "detail": "Recover interrogation data from the American History Museum.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T20:25:24Z",
+   "rarity": 49.2
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Global Communications",
+   "detail": "Reestablish the SHD Satellite Network at the Space Administration HQ.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T21:13:45Z",
+   "rarity": 38.8
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Getting the Word Out",
+   "detail": "Seize control of the ViewPoint Museum from the True Sons.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-06T19:26:07Z",
+   "rarity": 53.5
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Season Ticket",
+   "detail": "Eliminate the Hyena council in the District Union Arena.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-11T17:01:31Z",
+   "rarity": 29
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Strategic Extraction",
+   "detail": "Capture the Outcasts' Chief Strategist at the Potomac Event Center.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-07T22:04:43Z",
+   "rarity": 31.9
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Into the Wilderness",
+   "detail": "Take down the Outcast stronghold on Roosevelt Island.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-08T19:44:46Z",
+   "rarity": 27.8
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "State of the Union",
+   "detail": "Drive the True Sons out of the Capitol building.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-13T18:01:50Z",
+   "rarity": 26.3
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "Hard as Nails",
+   "detail": "Finish all missions on hard difficulty or above.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T18:02:05Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Rebuilding DC",
+   "detail": "Fully upgrade all settlements.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T22:04:40Z",
+   "rarity": 30.7
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "Undressed to Kill",
+   "detail": "Destroy every piece of a tank's armor, then eliminate the tank.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T22:52:02Z",
+   "rarity": 8.7
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Command and Control",
+   "detail": "Discover 20 control points in DC.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T08:04:47Z",
+   "rarity": 35
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Group Therapy",
+   "detail": "Take over a control point in a group without anyone being downed.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T00:49:30Z",
+   "rarity": 40
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "A Friend in Need",
+   "detail": "Respond to a call for help and revive the agent.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T20:45:53Z",
+   "rarity": 12.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Help Me!",
+   "detail": "Put out a call for backup.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T20:14:59Z",
+   "rarity": 49.7
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Suits You, Sir!",
+   "detail": "Collect any suit of cards in the open world.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-16T19:15:06Z",
+   "rarity": 3.8
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "TV Cop",
+   "detail": "Perform a slide across the hood of a car.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T19:54:42Z",
+   "rarity": 46.5
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Negative Ramos!",
+   "detail": "Shock enemy medics by shooting their defibrillator.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-06T19:14:20Z",
+   "rarity": 45.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Patchwork",
+   "detail": "Get 10 patches from commendations.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T00:20:51Z",
+   "rarity": 14.6
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Resourceful Agent",
+   "detail": "Help friendlies in resource gathering.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T20:42:57Z",
+   "rarity": 14.1
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Dark Zone: Safe House",
+   "detail": "Access a Safe House in a Dark Zone.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2019-12-13T19:42:36Z",
+   "rarity": 13.5
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Dark Zone: Extraction",
+   "detail": "Extract an item from each dark zone.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T20:22:55Z",
+   "rarity": 7.6
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Dark Zone: Takedown",
+   "detail": "Eliminate a rogue agent in each Dark Zone.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T21:03:11Z",
+   "rarity": 1.9
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "First Among Equals",
+   "detail": "Win a match of skirmish or domination.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T12:50:51Z",
+   "rarity": 6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Clan War",
+   "detail": "With your clan, face off against another clan in conflict.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T12:09:20Z",
+   "rarity": 6.4
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Big Game Hunter",
+   "detail": "Complete a bounty from each safe house.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-23T23:56:08Z",
+   "rarity": 4.4
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Autograph Hunter",
+   "detail": "Kill one enemy with each of the signature weapons (crossbow, sniper rifle & grenade launcher).",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T00:27:06Z",
+   "rarity": 13.1
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Arrow to the Knee",
+   "detail": "Shoot 10 enemies in the leg with a crossbow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T23:33:07Z",
+   "rarity": 3.4
+  },
+  {
+   "id": 32,
+   "type": "gold",
+   "name": "Next Level Operative",
+   "detail": "Reach Level 30.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T19:44:38Z",
+   "rarity": 29.1
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Strength in Numbers",
+   "detail": "Create or join a clan.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T18:18:27Z",
+   "rarity": 29
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "For Posterity",
+   "detail": "Photo mode: take a photo of a group of 4 agents.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-06T16:51:21Z",
+   "rarity": 3.2
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Crafty Collector",
+   "detail": "Collect 20 blueprints.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T02:11:14Z",
+   "rarity": 36.1
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "Taste of the Exotic",
+   "detail": "Craft an exotic weapon or item.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T00:15:04Z",
+   "rarity": 9.9
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Specialized",
+   "detail": "Equip your first specialization.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T21:49:30Z",
+   "rarity": 27.8
+  },
+  {
+   "id": 38,
+   "type": "silver",
+   "name": "Best of the Best",
+   "detail": "Invest in each type of upgrade available for a specialization.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-24T22:45:45Z",
+   "rarity": 12.9
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Project Management",
+   "detail": "Complete a project for both the Theater and Campus settlements.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T23:55:52Z",
+   "rarity": 26.9
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "King of the Skill",
+   "detail": "Equip and use each skill.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T20:00:17Z",
+   "rarity": 8.9
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Dress to Impress",
+   "detail": "Equip high-end gear (or above) in each slot.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-08T19:49:31Z",
+   "rarity": 26
+  },
+  {
+   "id": 42,
+   "type": "silver",
+   "name": "Dark Zone: Occupied Hijack",
+   "detail": "Hijack an extraction in any occupied dark zone.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-13T21:28:49Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 43,
+   "type": "silver",
+   "name": "Washington Raiders",
+   "detail": "Complete the full Operation Dark Hours raid in a group of eight players.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T19:44:46Z",
+   "rarity": 3.4
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Caged Animal",
+   "detail": "Put an end to Emeline Shaw at the Manning National Zoo.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T18:50:23Z",
+   "rarity": 13
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Country Retreat",
+   "detail": "Take part in the operation at Camp White Oak.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-14T20:21:06Z",
+   "rarity": 14
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Drilling Down",
+   "detail": "Discover the Black Tusk's purpose at the Pentagon and thwart it.",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T20:00:00Z",
+   "rarity": 10.9
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Reactor Heist",
+   "detail": "Secure the perfusion bioreactor from the DARPA labs below the Pentagon.",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-12-07T21:07:09Z",
+   "rarity": 9.8
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "To Sum It All Up",
+   "detail": "Successfully extract Tchernenko after confronting and defeating Elijah Sumner.",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-15T16:04:52Z",
+   "rarity": 10.5
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "You Can't Have Him",
+   "detail": "Prevent Dolores Jones from capturing or killing the rogue Division agent Aaron Keener.",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-15T16:32:19Z",
+   "rarity": 9.9
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Jail Break",
+   "detail": "Survive all of Theo Parnell's traps and defeat him.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-29T20:58:15Z",
+   "rarity": 13.1
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "Deep Underground",
+   "detail": "Shut down the Cleaners' drill and eliminate Javier Kajika.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-31T19:22:48Z",
+   "rarity": 12.5
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Plummeting Stock",
+   "detail": "Defeat James Dragov at the NYC Stock Exchange.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-31T20:11:09Z",
+   "rarity": 12.4
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Boiling Point",
+   "detail": "Shutdown the Cleaners' oil refinery and defeat Vivian Conley.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-31T22:01:07Z",
+   "rarity": 12.7
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Liberation",
+   "detail": "Prevent the missile launch and defeat Aaron Keener.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-01T19:02:49Z",
+   "rarity": 11.3
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Almost a band",
+   "detail": "Complete a Main Mission in New York with at least one directive active.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-01T20:34:17Z",
+   "rarity": 4.2
+  },
+  {
+   "id": 56,
+   "type": "silver",
+   "name": "Under Lady Liberty's Gaze",
+   "detail": "Complete the manhunt and eliminate Aaron Keener.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-01T19:03:11Z",
+   "rarity": 11.3
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "Extreme Manhunt",
+   "detail": "Complete a Seasonal Manhunt mission on Challenge difficulty or above.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-01T20:34:06Z",
+   "rarity": 4.2
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Shut that door (again)",
+   "detail": "Shut two car doors while in cover.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-20T22:52:26Z",
+   "rarity": 58.5
+  },
+  {
+   "id": 59,
+   "type": "silver",
+   "name": "Over The Hill",
+   "detail": "Reach Level 40 with an agent.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-01T17:16:03Z",
+   "rarity": 13.7
+  },
+  {
+   "id": 60,
+   "type": "silver",
+   "name": "Iron Breakers",
+   "detail": "Complete the full Operation Iron Horse raid in a group of eight players.",
+   "group": "006",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-15T21:47:16Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 61,
+   "type": "bronze",
+   "name": "Brooklyn Brains",
+   "detail": "Unlock and use the Smart Cover skill.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 62,
+   "type": "bronze",
+   "name": "Brooklyn Controller",
+   "detail": "Discover 4 Control Points in Brooklyn.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Brooklyn Bounty Hunter",
+   "detail": "Complete a bounty from each Safe House in Brooklyn.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 64,
+   "type": "bronze",
+   "name": "Brooklyn Local",
+   "detail": "Access a Safe House in Brooklyn.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 65,
+   "type": "bronze",
+   "name": "Brooklyn Buddies",
+   "detail": "Put out a call for backup in Brooklyn.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 66,
+   "type": "bronze",
+   "name": "Brooklyn Backup",
+   "detail": "Respond to a call for help and revive a fellow agent in Brooklyn.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 67,
+   "type": "gold",
+   "name": "Hometown Hero",
+   "detail": "Liberate all of Brooklyn's Main and Secondary locations.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 68,
+   "type": "bronze",
+   "name": "All Along The Tower",
+   "detail": "Complete the intro mission in Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 69,
+   "type": "silver",
+   "name": "The City Means Manhattan",
+   "detail": "Complete all the main missions in the Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 70,
+   "type": "silver",
+   "name": "I'll Be There For You",
+   "detail": "Complete all the side missions in the Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 71,
+   "type": "bronze",
+   "name": "Home Sweet Home",
+   "detail": "Access a safehouse in the Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 72,
+   "type": "bronze",
+   "name": "Who Are You Gonna Call?",
+   "detail": "Put out a call for backup in the Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 73,
+   "type": "bronze",
+   "name": "Tools of the Trade",
+   "detail": "Equip and use your newly unlocked Howl skill.",
+   "group": "008",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 74,
+   "type": "bronze",
+   "name": "Who Let The Dogs Out?",
+   "detail": "Complete the One Columbus Circle mission and defeat Cerberus and his Warhounds without using a single armor kit.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 75,
+   "type": "bronze",
+   "name": "Done Within a New York Minute",
+   "detail": "In The Majestic mission, defuse the bombs within a minute.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 76,
+   "type": "bronze",
+   "name": "From FiDi to SoHo...",
+   "detail": "Discover all Control Points in the Upper West Side.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 77,
+   "type": "bronze",
+   "name": "Full Potential",
+   "detail": "Unlock the last tier for one of your companions' signature abilities.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 78,
+   "type": "bronze",
+   "name": "Talent Show",
+   "detail": "Unlock all talents for one of your companions.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  }
+ ]
+}

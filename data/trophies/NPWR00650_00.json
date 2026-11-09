@@ -1,0 +1,697 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "L.A. Noire"
+  },
+  {
+   "id": "001",
+   "name": "A Slip of the Tongue"
+  },
+  {
+   "id": "002",
+   "name": "The Naked City"
+  },
+  {
+   "id": "003",
+   "name": "Nicholson Electroplating"
+  },
+  {
+   "id": "004",
+   "name": "Reefer Madness"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Collect all other trophies to unlock.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Police Academy",
+   "detail": "Complete all cases on the Patrol desk.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:07:42Z",
+   "rarity": 83.1
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Paved With Good Intentions",
+   "detail": "Complete all cases on the Traffic desk.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T16:02:31Z",
+   "rarity": 63.7
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "The Simple Art Of Murder",
+   "detail": "Complete all cases on the Homicide desk.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T15:38:02Z",
+   "rarity": 39.6
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "No Rest For The Wicked",
+   "detail": "Complete all cases on the Vice desk.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T00:43:48Z",
+   "rarity": 30.9
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Moth To A Flame",
+   "detail": "Complete all cases on the Arson desk.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:54:32Z",
+   "rarity": 23.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "A Cop On Every Corner",
+   "detail": "Complete a single street crime case.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:14:08Z",
+   "rarity": 76.5
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Johnny On The Spot",
+   "detail": "Respond to 20 street crime cases.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T13:30:19Z",
+   "rarity": 18.2
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "The Long Arm Of The Law",
+   "detail": "Complete all street crime cases.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T12:25:43Z",
+   "rarity": 4.6
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "The City Of The Angels",
+   "detail": "Reach 100% Game Complete.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T12:48:27Z",
+   "rarity": 2.1
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "The Up And Up",
+   "detail": "Complete a story case with a five star rating.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:47:37Z",
+   "rarity": 36.5
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "Shamus To The Stars",
+   "detail": "Complete all story cases with a five star rating.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T10:42:50Z",
+   "rarity": 2.9
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "The Brass",
+   "detail": "Achieve maximum rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T13:18:21Z",
+   "rarity": 10.8
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Not So Hasty",
+   "detail": "Stop a fleeing suspect with a warning shot as an LAPD Detective.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T16:32:10Z",
+   "rarity": 23.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Asphalt Jungle",
+   "detail": "Chase down and tackle a fleeing suspect on foot as an LAPD Detective.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T12:26:51Z",
+   "rarity": 47.8
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Traffic Stop",
+   "detail": "Disable a suspect vehicle with help from your partner.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T13:25:34Z",
+   "rarity": 58
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "The Straight Dope",
+   "detail": "Use evidence to prove a lie as an LAPD Detective or Investigator.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:26:58Z",
+   "rarity": 72.4
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "One For The File",
+   "detail": "Find and inspect a clue as an LAPD Detective or Investigator.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:17:12Z",
+   "rarity": 80.9
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Golden Boy",
+   "detail": "Clear a case finding every clue as an LAPD Detective or Investigator.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T13:36:17Z",
+   "rarity": 60.4
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "The Plot Thickens",
+   "detail": "Find and solve an inspection puzzle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:22:15Z",
+   "rarity": 76.9
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Stab-Rite",
+   "detail": "At Ray's Cafe, find the bloodstained knife on your first sweep of the crime scene.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T14:19:08Z",
+   "rarity": 50.4
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Round Heels",
+   "detail": "At the Bamba Club, get Dick McColl to give up the license plate of Celine Henry's male companion.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T16:19:22Z",
+   "rarity": 54.5
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "The Fighting Sixth",
+   "detail": "At the Bus Shooting, talk Felix Alvarro into giving up the Marines involved in the Coolridge heist.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T00:19:59Z",
+   "rarity": 13.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Huckster",
+   "detail": "At Elysian Fields, outwit Leland Monroe when discussing his developments or advertising campaign.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T09:50:42Z",
+   "rarity": 21.8
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Lead Foot",
+   "detail": "Keep the needle above 80mph for more than ten seconds while driving.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.7
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Miles On The Clock",
+   "detail": "Drive more than 194.7 miles.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T14:00:26Z",
+   "rarity": 11
+  },
+  {
+   "id": 26,
+   "type": "silver",
+   "name": "Wooden Overcoats",
+   "detail": "Bring down a total of 30 bad guys with head shots.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T14:06:59Z",
+   "rarity": 16.2
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Dead Men Are Heavier",
+   "detail": "Shoot and kill a total of 100 bad guys.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T15:41:44Z",
+   "rarity": 26.9
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Roscoe And Friends",
+   "detail": "Kill at least one bad guy with every gun.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:50:12Z",
+   "rarity": 4.4
+  },
+  {
+   "id": 29,
+   "type": "gold",
+   "name": "Magpie",
+   "detail": "Find and inspect 95% of all clues.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:40:06Z",
+   "rarity": 11.1
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "The Shadow",
+   "detail": "Tail a suspect without being spotted, in a single case.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T21:32:02Z",
+   "rarity": 63.3
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "The Third Degree",
+   "detail": "Correctly branch every question in every interview in a single story case.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:47:13Z",
+   "rarity": 32.1
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "The Hunch",
+   "detail": "Use four intuition points in a single interview session, correctly branching each question.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T15:02:01Z",
+   "rarity": 5
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Star Map",
+   "detail": "Discover all landmark locations around the city.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T08:51:23Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Public Menace",
+   "detail": "Rack up $47,000 in penalties during a single story case.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:35:16Z",
+   "rarity": 3
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "The Moose",
+   "detail": "Follow Candy Edwards without using cover or incognito, except when starting or picking up the tail.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T22:12:52Z",
+   "rarity": 3.6
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Keep A Lid On",
+   "detail": "Complete a brawl without losing your hat as an LAPD Detective or Investigator.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T14:04:22Z",
+   "rarity": 48.8
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Auto Enthusiast",
+   "detail": "Drive 5 different vehicles.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T12:11:54Z",
+   "rarity": 67.1
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Auto Collector",
+   "detail": "Drive 40 different vehicles.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T14:19:31Z",
+   "rarity": 14.6
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Auto Fanatic",
+   "detail": "Drive every vehicle in the city.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T12:48:47Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "Hollywoodland",
+   "detail": "Find and inspect all gold film reels.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T11:57:01Z",
+   "rarity": 2.7
+  },
+  {
+   "id": 41,
+   "type": "gold",
+   "name": "The Printer's Devil",
+   "detail": "Complete 'A Slip of the Tongue'.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-07T15:21:23Z",
+   "rarity": 8.3
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Racing For Pinks",
+   "detail": "Find and inspect all of the Marquee-printed pink slips.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T15:17:07Z",
+   "rarity": 7.8
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Femme Imbécile",
+   "detail": "Correctly branch every question in the interview with Jean Archer.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T15:06:27Z",
+   "rarity": 4
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Chop Shop",
+   "detail": "During the Industrial Street raid, kill a goon by shooting the hanging engine block.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T15:15:48Z",
+   "rarity": 1.6
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Nowhere In A Hurry",
+   "detail": "Catch and arrest Cliff Harrison before he is stopped by uniformed backup.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-07T14:24:49Z",
+   "rarity": 6
+  },
+  {
+   "id": 46,
+   "type": "gold",
+   "name": "Eight Million Stories",
+   "detail": "Complete 'The Naked City'.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T23:50:06Z",
+   "rarity": 6.6
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "A Good-Looking Corpse",
+   "detail": "Find and inspect all of the narcotics in Julia Randall's apartment.",
+   "group": "002",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T22:41:35Z",
+   "rarity": 5.7
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Fakeloo",
+   "detail": "Tail Henry Arnett from Hollywood Station to the pawnbroker and travel agent without being spotted.",
+   "group": "002",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T23:24:41Z",
+   "rarity": 2.3
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Chauffeur Service",
+   "detail": "Escort Heather Swanson to Arnett's apartment without damaging your vehicle.",
+   "group": "002",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T23:36:44Z",
+   "rarity": 3.1
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Give My Regards",
+   "detail": "Shoot every letter down from the tower at the Broadway Hotel.",
+   "group": "002",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T23:49:52Z",
+   "rarity": 2.6
+  },
+  {
+   "id": 51,
+   "type": "gold",
+   "name": "The Big Unfriendly",
+   "detail": "Complete 'Nicholson Electroplating'.",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:34:53Z",
+   "rarity": 4.1
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "The Nose Knows",
+   "detail": "Find and inspect the prop spinner at the Nicholson blast site.",
+   "group": "003",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T10:49:40Z",
+   "rarity": 4.3
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Skeletons In The Icebox",
+   "detail": "Find and inspect all clues inside Okamoto's ransacked apartment.",
+   "group": "003",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:03:53Z",
+   "rarity": 4.2
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Bulletproof Windshield",
+   "detail": "Kill the drivers of both MP vehicles in the gun battle at Hughes Aircraft, before they pull up.",
+   "group": "003",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:34:10Z",
+   "rarity": 1
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Out Of The Frying Pan",
+   "detail": "Pursue Vernon Mapes from the burning house to Hughes Aircraft on your first attempt.",
+   "group": "003",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-09T11:27:54Z",
+   "rarity": 2.7
+  },
+  {
+   "id": 56,
+   "type": "gold",
+   "name": "Every Herb Bearing Seed",
+   "detail": "Complete 'Reefer Madness'.",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-08T17:20:54Z",
+   "rarity": 5
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "Spare A Dime",
+   "detail": "Complete the puzzle of the US Morgan silver dollars at Parnell's Soup.",
+   "group": "004",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T17:16:36Z",
+   "rarity": 5
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Soup In The Pot",
+   "detail": "Open both soup cans in Juan Garcia Cruz's stash room.",
+   "group": "004",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T16:48:28Z",
+   "rarity": 4.4
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "High Flyer",
+   "detail": "Find the flyer at Juan Garcia Cruz's house and proceed straight to the 20th Century Market.",
+   "group": "004",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T16:50:16Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "Forcible Rear Entry",
+   "detail": "Enter the Las Palmas stash house via the back door and kill Juan Garcia Cruz.",
+   "group": "004",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-08T16:44:10Z",
+   "rarity": 2.8
+  }
+ ]
+}

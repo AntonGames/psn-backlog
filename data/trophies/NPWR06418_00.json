@@ -1,0 +1,576 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "The Last of Us™ Remastered"
+  },
+  {
+   "id": "001",
+   "name": "Left Behind"
+  },
+  {
+   "id": "002",
+   "name": "Reclaimed Territories"
+  },
+  {
+   "id": "003",
+   "name": "Abandoned Territories"
+  },
+  {
+   "id": "004",
+   "name": "Grounded Mode"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "It can't be for nothing",
+   "detail": "Platinum Trophy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 1,
+   "type": "silver",
+   "name": "Look for the Light",
+   "detail": "Find all Firefly Pendants",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Endure and Survive",
+   "detail": "Collect all comics",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "It was all just lying there",
+   "detail": "Find all artifacts",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "I got this",
+   "detail": "Find all training manuals",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Scavenger",
+   "detail": "Found all collectibles",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Let's gear up",
+   "detail": "Craft every item",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.9
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Master of Unlocking",
+   "detail": "Unlock all shiv doors",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Everything we've been through",
+   "detail": "Fully upgrade Joel with supplements",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "For emergencies only",
+   "detail": "Fully upgrade all weapons",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "I want to talk about it",
+   "detail": "Engage in all optional conversations",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "That's all I got",
+   "detail": "Survive all of Ellie's jokes",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "No Matter What - Easy",
+   "detail": "Complete the game on Easy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.9
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "No Matter What - Normal",
+   "detail": "Complete the game on Normal",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.2
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "No Matter What - Hard",
+   "detail": "Complete the game on Hard",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 15,
+   "type": "gold",
+   "name": "No Matter What - Survivor",
+   "detail": "Complete the game on Survivor",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "The Last of Us - Easy +",
+   "detail": "Complete the game on Easy +",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "The Last of Us - Normal +",
+   "detail": "Complete the game on Normal +",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "The Last of Us - Hard +",
+   "detail": "Complete the game on Hard +",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "The Last of Us - Survivor +",
+   "detail": "Complete the game on Survivor +",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Knowing the Basics",
+   "detail": "Win a game of Supply Raid and Survivors in find match",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Populace",
+   "detail": "Build your clan to 40 people in Factions",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Firefly",
+   "detail": "Complete the Firefly Journey",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Hunter",
+   "detail": "Complete the Hunter Journey",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Don’t Go - Easy",
+   "detail": "Finish Left Behind on Easy",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.5
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Don’t Go - Normal",
+   "detail": "Finish Left Behind on Normal",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.1
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Don’t Go - Hard",
+   "detail": "Finish Left Behind on Hard",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 27,
+   "type": "silver",
+   "name": "Don’t Go - Survivor",
+   "detail": "Finish Left Behind on Survivor",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "BFFs",
+   "detail": "All optional conversations found in Left Behind",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Picked Clean",
+   "detail": "All Left Behind collectibles found",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Nobody's Perfect",
+   "detail": "Played Jak X Combat Racing",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.3
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Angel Knives",
+   "detail": "Defeat Black Fang without getting hit",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Skillz",
+   "detail": "Win the water gun fight",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.4
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Brick Master",
+   "detail": "Win the brick throwing contest",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.4
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Wharf",
+   "detail": "Complete a match on Wharf with at least 5 downs or executions",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Capitol",
+   "detail": "Complete a match on Capitol with at least 5 downs or executions",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "Coal Mine",
+   "detail": "Complete a match on Coal Mine with at least 5 downs or executions",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 37,
+   "type": "silver",
+   "name": "Water Tower",
+   "detail": "Complete a match on Water Tower with at least 5 downs or executions",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.9
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Recovered Supply Raider",
+   "detail": "Complete a game of Supply Raid on Wharf, Capitol, Water Tower or Coal Mine",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2015-10-18T13:37:34Z",
+   "rarity": 7.5
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Recovered Survivalist",
+   "detail": "Complete a game of Survivors on Wharf, Capitol, Water Tower or Coal Mine",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Recovered Interrogator",
+   "detail": "Complete a game of Interrogation on Wharf, Capitol, Water Tower or Coal Mine",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "Bookstore",
+   "detail": "Complete a match on Bookstore with at least 5 downs or executions",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 42,
+   "type": "silver",
+   "name": "Bus Depot",
+   "detail": "Complete a match on Bus Depot with at least 5 downs or executions",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 43,
+   "type": "silver",
+   "name": "Hometown",
+   "detail": "Complete a match on Hometown with at least 5 downs or executions",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 44,
+   "type": "silver",
+   "name": "Suburbs",
+   "detail": "Complete a match on Suburbs with at least 5 downs or executions",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Forsaken Supply Raider",
+   "detail": "Complete a game of Supply Raid on Bookstore, Home Town, Suburbs or Bus Depot",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.3
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Forsaken Survivalist",
+   "detail": "Complete a game of Survivors on Bookstore, Home Town, Suburbs or Bus Depot",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Forsaken Interrogator",
+   "detail": "Complete a game of Interrogation on Bookstore, Home Town, Suburbs or Bus Depot",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 48,
+   "type": "gold",
+   "name": "Completed Grounded Mode",
+   "detail": "Completed Grounded Mode",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 49,
+   "type": "gold",
+   "name": "Completed Grounded Mode Plus",
+   "detail": "Completed Grounded Mode Plus",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DARK SOULS III"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Dark Soul",
+   "detail": "Acquire all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "To Link the First Flame",
+   "detail": "Reach \"To Link the First Flame\" ending.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "The End of Fire",
+   "detail": "Reach \"The End of Fire\" ending.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.8
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "The Usurpation of Fire",
+   "detail": "Reach \"The Usurpation of Fire\" ending.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.7
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Lords of Cinder: Abyss Watchers",
+   "detail": "Defeat the Abyss Watchers, Lords of Cinder.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 57
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "Lord of Cinder: Yhorm the Giant",
+   "detail": "Defeat Yhorm the Giant, Lord of Cinder.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 50.4
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Lord of Cinder: Aldrich, Devourer of Gods",
+   "detail": "Defeat Aldrich, Devourer of Gods, Lord of Cinder.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.9
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Lord of Cinder: Lothric, Younger Prince",
+   "detail": "Defeat Lothric, Younger Prince, Lord of Cinder.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Supreme Weapon Reinforcement",
+   "detail": "Reinforce any weapon to the highest level.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.7
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Master of Infusion",
+   "detail": "Perform all forms of infusion.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.2
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Master of Sorceries",
+   "detail": "Acquire all sorceries.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.9
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Master of Pyromancies",
+   "detail": "Acquire all pyromancies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.9
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Master of Miracles",
+   "detail": "Acquire all miracles.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.4
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Master of Rings",
+   "detail": "Acquire all rings.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.7
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Master of Expression",
+   "detail": "Learn all gestures.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.4
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Ultimate Bonfire",
+   "detail": "Reinforce a bonfire to the highest level.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.2
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Ultimate Estus",
+   "detail": "Reinforce the Estus Flask to the highest level.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Covenant: Warrior of Sunlight",
+   "detail": "Discover Warrior of Sunlight covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-06-01T06:58:28Z",
+   "rarity": 53.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Covenant: Way of Blue",
+   "detail": "Discover Way of Blue covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-05-25T18:22:54Z",
+   "rarity": 66.8
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Covenant: Blue Sentinels",
+   "detail": "Discover Blue Sentinels covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 62
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Covenant: Blade of the Darkmoon",
+   "detail": "Discover Blade of the Darkmoon covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.7
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Covenant: Rosaria's Fingers",
+   "detail": "Discover Rosaria's Fingers covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.8
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Covenant: Mound-makers",
+   "detail": "Discover Mound-makers covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-06-01T04:55:04Z",
+   "rarity": 36.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Covenant: Watchdogs of Farron",
+   "detail": "Discover Watchdogs of Farron covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.5
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Covenant: Aldrich Faithful",
+   "detail": "Discover Aldrich Faithful covenant.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.8
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Untended Graves",
+   "detail": "Reach the Untended Graves.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.6
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Archdragon Peak",
+   "detail": "Reach Archdragon Peak.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.6
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Iudex Gundyr",
+   "detail": "Defeat Iudex Gundyr.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-04-14T16:40:08Z",
+   "rarity": 86.1
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Vordt of the Boreal Valley",
+   "detail": "Defeat Vordt of the Boreal Valley.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-05-31T17:53:22Z",
+   "rarity": 68.4
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Curse-rotted Greatwood",
+   "detail": "Defeat the Curse-rotted Greatwood.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 62.5
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Crystal Sage",
+   "detail": "Defeat Crystal Sage.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 59.2
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Deacons of the Deep",
+   "detail": "Defeat the Deacons of the Deep.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 56.3
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "High Lord Wolnir",
+   "detail": "Defeat High Lord Wolnir.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 55.2
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Pontiff Sulyvahn",
+   "detail": "Defeat Pontiff Sulyvahn.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 51.7
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Dancer of the Boreal Valley",
+   "detail": "Defeat Dancer of the Boreal Valley.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.9
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Dragonslayer Armour",
+   "detail": "Defeat Dragonslayer Armour.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 47.7
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Old Demon King",
+   "detail": "Defeat Old Demon King.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.6
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Oceiros, the Consumed King",
+   "detail": "Defeat Oceiros, the Consumed King.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.6
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Champion Gundyr",
+   "detail": "Defeat Champion Gundyr.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.7
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Ancient Wyvern",
+   "detail": "Defeat Ancient Wyvern.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.2
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "The Nameless King",
+   "detail": "Defeat Nameless King.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.8
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Enkindle",
+   "detail": "Light a bonfire flame for the first time.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-04-14T15:32:36Z",
+   "rarity": 94.5
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Embrace the Flame",
+   "detail": "Become a Host of Embers for the first time.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-04-14T16:40:13Z",
+   "rarity": 86.1
+  }
+ ]
+}

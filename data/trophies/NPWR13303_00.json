@@ -1,0 +1,406 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DRAGON BALL FighterZ"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Trophy Triumphant",
+   "detail": "Acquire all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Snake Way Sensei",
+   "detail": "Arcade - Complete the Snake Way Course.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.3
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Extreme Gravity Guru",
+   "detail": "Arcade - Complete the Extreme Gravity Spaceship Course.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.8
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Hyperbolic Heavyweight",
+   "detail": "Arcade - Complete the Hyperbolic Time Chamber Course.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.5
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Care to Become the next God of Destruction?",
+   "detail": "Arcade - Complete a course with an S Rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "I am Goku, the Legendary Super Saiyan!",
+   "detail": "Story - Complete the Super Warrior Arc.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.3
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Ho ho ho... What an Unexpected Thrill",
+   "detail": "Story - Complete the Enemy Warrior Arc.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.6
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "My Appetite...Is Insatiable...!",
+   "detail": "Story - Complete the Android 21 Arc.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.2
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Link Level 20",
+   "detail": "Story - Raise Link Level to 20.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.5
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "Link Level 40",
+   "detail": "Story - Raise Link Level to 40.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Bye-Bye Buu",
+   "detail": "Story - Defeat Clone Kid Buu.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.9
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Conversationalist",
+   "detail": "Story - Trigger a special conversation sequence.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 53.5
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "To Test Myself, I Too Will Fight",
+   "detail": "Local Battle - Play a match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-02-08T17:19:27Z",
+   "rarity": 65.7
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Ladies and Gents, We Have a Winner!",
+   "detail": "Tournament - Emerge as champion.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Battle-Ready",
+   "detail": "Practice - Complete all battle tutorials.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.5
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Practice Makes Perfect",
+   "detail": "Practice - Perform a combo that deals 5000 or more damage in Training Mode.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.6
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Don't Underestimate Earth!",
+   "detail": "Practice - Complete 30 Different Combo Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.5
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "The Power to Go Beyond the Super Saiyan!",
+   "detail": "Practice - Complete 100 Different Combo Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.2
+  },
+  {
+   "id": 18,
+   "type": "gold",
+   "name": "Before Creation Comes Destruction...",
+   "detail": "Practice - Complete 200 Different Combo Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.4
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Goku Isn't the Only Super Saiyan...",
+   "detail": "World Match - Play a Ranked Match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T17:31:56Z",
+   "rarity": 15.9
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "You Can't Win This...",
+   "detail": "World Match - Play 10 Ranked Matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T18:08:38Z",
+   "rarity": 9.5
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "This Pain Will Make Me Stronger!",
+   "detail": "World Match - Play 20 Ranked Matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T18:28:43Z",
+   "rarity": 7.8
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "My Power Level is 530,000",
+   "detail": "World Match - Acquire 530,000 BP.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-30T14:53:03Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Casual Combatant",
+   "detail": "World Match - Play 10 Casual Matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T17:09:33Z",
+   "rarity": 6.1
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Arena Enthusiast",
+   "detail": "Arena Match - Play a match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T15:45:27Z",
+   "rarity": 8.4
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Arena Expert",
+   "detail": "Arena Match - Play 10 matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T16:22:27Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Just Looking",
+   "detail": "Arena Match - Observe a match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T16:07:21Z",
+   "rarity": 1
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "It's Play Time!",
+   "detail": "World Match - Play a Casual Match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T16:51:59Z",
+   "rarity": 13.5
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "Lemme Play Too!",
+   "detail": "World Match - Play 20 Casual Matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T17:25:04Z",
+   "rarity": 4.4
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Stamp of Approval",
+   "detail": "Replay - Use a Z Stamp while watching a Replay Channel.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T15:29:35Z",
+   "rarity": 3.4
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Deep Pockets",
+   "detail": "Acquire 5,000,000 Zeni throughout the course of playing.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-30T19:16:22Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Arena Aficionado",
+   "detail": "Arena Match - Play 20 matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-01-29T16:41:19Z",
+   "rarity": 1.5
+  },
+  {
+   "id": 32,
+   "type": "gold",
+   "name": "Set for Life",
+   "detail": "Acquire 20,000,000 Zeni throughout the course of playing.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-05-30T19:20:48Z",
+   "rarity": 1.1
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Millionaire",
+   "detail": "Acquire 1,000,000 Zeni throughout the course of playing.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-05-30T19:15:13Z",
+   "rarity": 16.1
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Yo, I'm Goku!",
+   "detail": "Complete a quest tutorial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 64.5
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Farewell, Tien...",
+   "detail": "Complete seven or more quest tutorials.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.9
+  }
+ ]
+}

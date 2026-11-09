@@ -1,0 +1,483 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "FREEDOM WARS™"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Joy and Prosperity",
+   "detail": "Earn all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "First Step to Freedom",
+   "detail": "Claim your first entitlement.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T10:07:34Z",
+   "rarity": 71
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "CODE 2 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 2 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-11-28T10:47:01Z",
+   "rarity": 60.8
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "CODE 3 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 3 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-11-29T20:09:12Z",
+   "rarity": 43.1
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "CODE 4 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 4 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-02T15:59:04Z",
+   "rarity": 36.5
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "CODE 5 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 5 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.5
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "CODE 6 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 6 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "CODE 7 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 7 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "CODE 8 Clearance",
+   "detail": "Meet the conditions and pass the exam to earn your Level 8 CODE Clearance.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Only 900,000 Years to Go...",
+   "detail": "Reduce your sentence to 900,000 years or below.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T14:42:41Z",
+   "rarity": 17.4
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Only 800,000 Years to Go...",
+   "detail": "Reduce your sentence to 800,000 years or below.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T16:35:47Z",
+   "rarity": 11.7
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "Only 500,000 Years to Go...",
+   "detail": "Reduce your sentence to 500,000 years or below.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.6
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Towards the Great Transformation",
+   "detail": "Take all four paths offered by Simeon.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.1
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Sense of Entitlement",
+   "detail": "Claim over 101 entitlements.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T20:12:10Z",
+   "rarity": 28.6
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Menace to Society",
+   "detail": "Earn your first punishment for violating the People's Charter.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-27T19:38:58Z",
+   "rarity": 89.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "The Walls Have Eyes",
+   "detail": "Violate the People's Charter ten times.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T16:44:59Z",
+   "rarity": 52.3
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Munitions Magician",
+   "detail": "Complete your first munitions facility production cycle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T20:38:53Z",
+   "rarity": 35.9
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Pharma Farmer",
+   "detail": "Complete your first medical facility production cycle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T20:38:13Z",
+   "rarity": 37.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Augmented Reality",
+   "detail": "Complete your first augmentation facility production cycle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-02T16:03:40Z",
+   "rarity": 30.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Master-at-Arms",
+   "detail": "Complete your first weapons facility production cycle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T17:29:02Z",
+   "rarity": 40.5
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "DIY Demon",
+   "detail": "Upgrade a weapon to Level 10.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.8
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Fashion Accessory",
+   "detail": "Give your Accessory a makeover, then visit the lobby area.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-12-02T17:35:30Z",
+   "rarity": 21.1
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Natural Thorn Killer",
+   "detail": "Claim all Thorn-related entitlements.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.4
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Antisocial Networking",
+   "detail": "Exchange rap sheets with a fellow sinner.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T12:32:30Z",
+   "rarity": 18.5
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Retail Therapy",
+   "detail": "Make your first item purchase using Entitlement Points.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T20:29:04Z",
+   "rarity": 35.7
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Just Desserts",
+   "detail": "Try every variety of ice cream.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.6
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "No Man Left Behind",
+   "detail": "Come to the aid of a fallen comrade ten times.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.5
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Severance Package",
+   "detail": "Sever an Abductor component.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T10:15:53Z",
+   "rarity": 60.9
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "The Great Divide",
+   "detail": "Sever five or more Abductor components in a single operation.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T19:39:12Z",
+   "rarity": 34.7
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Scrap Merchant",
+   "detail": "Harvest 50 different types of resources from destroyed Abductors.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-29T19:43:07Z",
+   "rarity": 39.5
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Volunteer of the Year",
+   "detail": "Successfully complete every discretionary operation.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Ramosa Disposer",
+   "detail": "Defeat a Ramosa-class Abductor while playing offline without falling once in battle.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.7
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Paradoxa Boxer",
+   "detail": "Defeat a Paradoxa-class Abductor while playing offline without falling once in battle.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.5
+  },
+  {
+   "id": 33,
+   "type": "gold",
+   "name": "Dionaea Slayer",
+   "detail": "Defeat a Dionaea-class Abductor while playing offline without falling once in battle.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.7
+  },
+  {
+   "id": 34,
+   "type": "gold",
+   "name": "Pelta Pelter",
+   "detail": "Defeat a Peltatum- or Oltatum-class Abductor while playing offline without falling once in battle.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.2
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Citizen's Friend",
+   "detail": "Transport a citizen to a Resource Reclamation Unit during operation CT1-3 Dawn - Citizen Reclamation or later.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T10:18:13Z",
+   "rarity": 67.7
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Constant Comrade",
+   "detail": "Complete 15 operations while collaborating with other players.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T14:53:05Z",
+   "rarity": 13.2
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "I Want You Back",
+   "detail": "Have your Accessory seized by an enemy Abductor.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T19:32:24Z",
+   "rarity": 32
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "The Only One for Me",
+   "detail": "Successfully complete an Accessory Reclamation operation.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T13:23:41Z",
+   "rarity": 26
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "For the Greater Good!",
+   "detail": "Successfully complete 15 special operations.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T14:56:25Z",
+   "rarity": 10.6
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Trigger-Happy",
+   "detail": "Fire over 9,999 rounds of ammunition.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.3
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Butterfingers",
+   "detail": "Accidentally drop a citizen while carrying them to an RRU.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-28T10:03:49Z",
+   "rarity": 72.9
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Marathorn Man",
+   "detail": "Use your Thorn to cover a distance of 26 miles (42 km).",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.8
+  }
+ ]
+}

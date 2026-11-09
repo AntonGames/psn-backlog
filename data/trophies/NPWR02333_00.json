@@ -1,0 +1,601 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "WipEout® 2048"
+  },
+  {
+   "id": "001",
+   "name": "WipEout® HD"
+  },
+  {
+   "id": "002",
+   "name": "WipEout® HD Fury"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "This is WipEout®!",
+   "detail": "Obtain every Trophy in WipEout® 2048",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "2048 Champion",
+   "detail": "Complete the 2048 season",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-12-26T06:55:04Z",
+   "rarity": 40.3
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "2049 Champion",
+   "detail": "Complete the 2049 season",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-26T21:13:46Z",
+   "rarity": 19.2
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "2050 Champion",
+   "detail": "Complete the 2050 season",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-20T12:46:17Z",
+   "rarity": 8.6
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Completist",
+   "detail": "Complete all events in the Single Player Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.1
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Elite Completist",
+   "detail": "ELITE PASS every event in the Single Player Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "2048 Elite 1",
+   "detail": "Get an ELITE PASS on the C Class Time Trial on Capital Reach in 2048",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-25T11:45:26Z",
+   "rarity": 13.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "2048 Elite 2",
+   "detail": "Get an ELITE PASS on Empire Climb Zone Mode in 2048",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-25T12:41:05Z",
+   "rarity": 32.2
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "2048 Elite 3",
+   "detail": "Get an ELITE PASS on the C Class Combat Event on Metro Park in 2048",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-25T19:32:56Z",
+   "rarity": 17.9
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "2049 Elite 1",
+   "detail": "Get an ELITE PASS on the B Class Race on Unity Square in 2049",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "2049 Elite 2",
+   "detail": "Get an ELITE PASS on the A Class Time Trial on Metro Park in 2049",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.3
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "2049 Elite 3",
+   "detail": "Get an ELITE PASS on Downtown Zone Mode in 2049",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.5
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "2050 Elite 1",
+   "detail": "Get an ELITE PASS on Queens Mall Zone Mode in 2050",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "2050 Elite 2",
+   "detail": "Get an ELITE PASS on the A Class Race on Empire Climb in 2050",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.6
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "2050 Elite 3",
+   "detail": "Get an ELITE PASS on the A Class Race on Sol in 2050",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Prototype",
+   "detail": "ELITE PASS all Prototype Ship Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-01T15:34:11Z",
+   "rarity": 3.1
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Speed Thrills",
+   "detail": "ELITE PASS any A+ Class Challenge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.7
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Multiplayer Begins",
+   "detail": "Finish an Online Multiplayer event",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-10-06T17:23:50Z",
+   "rarity": 14.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "1 Down, 19 To Go",
+   "detail": "Complete your first Online Multiplayer Level",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-10-06T17:46:39Z",
+   "rarity": 7.2
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "50 MP Events",
+   "detail": "Finish 50 Online Multiplayer events",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-11-04T12:55:27Z",
+   "rarity": 3.9
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Halfway There",
+   "detail": "Complete 10 Online Multiplayer Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-12-03T02:26:25Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "Multiplayer Finished",
+   "detail": "Finish the Online Multiplayer Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-20T19:47:04Z",
+   "rarity": 3
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Multiplayer Completist",
+   "detail": "Complete all nodes in the Online Muliplayer Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-28T09:14:58Z",
+   "rarity": 3
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "50 Kills",
+   "detail": "Destroy 50 ships in Online Multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-12-25T20:15:04Z",
+   "rarity": 3.7
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Rank 25",
+   "detail": "Reach Rank 25",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-12-25T21:31:28Z",
+   "rarity": 5.3
+  },
+  {
+   "id": 25,
+   "type": "gold",
+   "name": "Rank 50",
+   "detail": "Reach Rank 50",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-22T19:14:52Z",
+   "rarity": 3.2
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Beat Zico",
+   "detail": "Altima, C Class, Speed Lap, Pir-hana Speed - beat 52.00 seconds",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "Mach 1.5",
+   "detail": "Reach Zone 65 in any Zone Event",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "The Unlucky 7",
+   "detail": "Destroy 7 opposition ships in any Race in the Single Player Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-28T13:26:55Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "2048 Speed Pads",
+   "detail": "Hit a total of 2048 Speed Pads",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-17T18:19:28Z",
+   "rarity": 23.9
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Perfect Pir-hana",
+   "detail": "Get a Perfect Lap in the Pir-hana Prototype, in the A Class, Unity Square, Speed Lap",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-29T13:59:08Z",
+   "rarity": 3.1
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Step into HD",
+   "detail": "Play any event in the HD campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-01-08T22:07:09Z",
+   "rarity": 8
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Uplift Champion",
+   "detail": "Complete all events in the Uplift campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Warped Champion",
+   "detail": "Complete all events in the Warped campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.2
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Frenzy Champion",
+   "detail": "Complete all events in the Frenzy campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Vertigo Champion",
+   "detail": "Complete all events in the Vertigo campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Head Rush Champion",
+   "detail": "Complete all events in the Head Rush campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Speed Freak Champion",
+   "detail": "Complete all events in the Speed Freak campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Dropzone Champion",
+   "detail": "Complete all events in the Dropzone campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Meltdown Champion",
+   "detail": "Complete all events in the Meltdown campaign",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "2048 - WipEout® HD All Complete",
+   "detail": "Complete all WipEout® HD events, obtaining any medal",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "2048 - WipEout® HD All Gold",
+   "detail": "Complete all WipEout® HD events, obtaining all Gold medals",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Leap into Fury",
+   "detail": "Play any event in the Fury campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-01-20T18:14:53Z",
+   "rarity": 6.4
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Blitzed Champion",
+   "detail": "Complete all events in the Blitzed campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-01-20T18:48:05Z",
+   "rarity": 3.7
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Impact Champion",
+   "detail": "Complete all events in the Impact campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-01-26T17:20:58Z",
+   "rarity": 3.5
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Voltage Champion",
+   "detail": "Complete all events in the Voltage campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Turbulence Champion",
+   "detail": "Complete all events in the Turbulence campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Vortex Champion",
+   "detail": "Complete all events in the Vortex campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Corruption Champion",
+   "detail": "Complete all events in the Corruption campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Nuked Champion",
+   "detail": "Complete all events in the Nuked campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Aftermath Champion",
+   "detail": "Complete all events in the Aftermath campaign",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 51,
+   "type": "silver",
+   "name": "2048 - WipEout® HD Fury All Complete",
+   "detail": "Complete all WipEout® HD Fury events, obtaining any medal",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 52,
+   "type": "silver",
+   "name": "2048 - WipEout® HD Fury All Gold",
+   "detail": "Complete all WipEout® HD Fury events, obtaining all Gold medals",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  }
+ ]
+}

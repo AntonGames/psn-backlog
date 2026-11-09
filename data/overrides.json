@@ -1,0 +1,14 @@
+{
+  "unobtainable_groups": {
+    "NPWR15895_00": {
+      "groups": ["007", "008"],
+      "reason": "DLC Battle for Brooklyn и Echoes of Central Park: игра на русском PSN-аккаунте, DLC можно купить только туда, а покупки там недоступны.",
+      "unlock_condition": "если суммарная цена обоих DLC опустится до 492 ₽ или ниже."
+    },
+    "NPWR20188_00": {
+      "groups": ["002"],
+      "reason": "Последнее дополнение ASTRO's PLAYROOM [ADD-ON] сейчас недоступно."
+    }
+  },
+  "trophy_overrides": {}
+}

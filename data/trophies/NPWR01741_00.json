@@ -1,0 +1,142 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Back to the Future - Episode 1: It's About Time"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "gold",
+   "name": "A Bicycle Built for Two",
+   "detail": "Rescued Doc from Kid Tannen",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.1
+  },
+  {
+   "id": 1,
+   "type": "silver",
+   "name": "Back in Time",
+   "detail": "Traveled back in time to rescue Doc",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-09-16T15:19:42Z",
+   "rarity": 57.4
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "Grandpa Got Served",
+   "detail": "Delivered the subpoeana to Arthur McFly",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.2
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Junior Bootlegger Badge",
+   "detail": "Managed to get 190-proof alcohol delivered to Emmett's",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.4
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Jailbreak!",
+   "detail": "Acquired Emmett's Rocket Drill",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.7
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Doc's Legacy",
+   "detail": "Got Doc's Notebook back from Biff",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-09-16T14:52:26Z",
+   "rarity": 68.7
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Hello, Young Friend",
+   "detail": "Talked Emmett into completing the Rocket Drill",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 43.3
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "A Plausible Explanation",
+   "detail": "Discovered the origin of the \"new\" DeLorean",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.6
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Fuelmaster",
+   "detail": "Flawlessly mixed up a batch of Emmett's Rocket Fuel",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Fate in flux",
+   "detail": "Heard about the curious fate of Marshall Strickland",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Hi Bob!",
+   "detail": "Namechecked BTTF Creators",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-09-16T15:23:58Z",
+   "rarity": 39.4
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Deja Marty",
+   "detail": "Perfectly repeated dialog while repeating Doc's temporal experiment",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-09-16T14:38:15Z",
+   "rarity": 33.5
+  }
+ ]
+}

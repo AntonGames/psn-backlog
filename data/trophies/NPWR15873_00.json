@@ -1,0 +1,847 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Zombie Army 4: Dead War"
+  },
+  {
+   "id": "001",
+   "name": "Terror Lab"
+  },
+  {
+   "id": "002",
+   "name": "Blood Count"
+  },
+  {
+   "id": "003",
+   "name": "Deeper Than Hell"
+  },
+  {
+   "id": "004",
+   "name": "Caged Fear"
+  },
+  {
+   "id": "005",
+   "name": "Damnation Valley"
+  },
+  {
+   "id": "006",
+   "name": "Alpine Blitz"
+  },
+  {
+   "id": "007",
+   "name": "Dead Zeppelin"
+  },
+  {
+   "id": "008",
+   "name": "Graveyard Shift"
+  },
+  {
+   "id": "009",
+   "name": "Terminal Error"
+  },
+  {
+   "id": "010",
+   "name": "Abaddon Asylum"
+  },
+  {
+   "id": "011",
+   "name": "Return to Hell"
+  },
+  {
+   "id": "012",
+   "name": "Hell's Cauldron"
+  },
+  {
+   "id": "013",
+   "name": "Ragnarök"
+  },
+  {
+   "id": "014",
+   "name": "Death Collector"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "How's that for a slice of fried Platinum?",
+   "detail": "Win all other trophies to take your place as the world's greatest apocalypse survivor.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Choo choo!",
+   "detail": "Complete Dead Ahead on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T16:10:49Z",
+   "rarity": 48.3
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "The boat can leave now... Tell the crew",
+   "detail": "Complete Death Canal on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T17:37:16Z",
+   "rarity": 22.2
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Weird science",
+   "detail": "Complete Meat Locker on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T18:50:41Z",
+   "rarity": 16.8
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Look mummy! A shark!",
+   "detail": "Complete Zombie Zoo on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T20:27:05Z",
+   "rarity": 15
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "In the dark dark woods...",
+   "detail": "Complete Rotten Coast on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T22:24:08Z",
+   "rarity": 12.9
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "All of this has happened before…",
+   "detail": "Complete Molten Nightmare on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T17:30:33Z",
+   "rarity": 11.7
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "All roads lead to Rome",
+   "detail": "Complete All Roads Lead To Hell! on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T18:14:12Z",
+   "rarity": 10.3
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "You're all going to die down here",
+   "detail": "Complete Hell Base! on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T19:45:19Z",
+   "rarity": 9.7
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "He did Nazi that coming",
+   "detail": "Complete Hell Machine! on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T20:06:10Z",
+   "rarity": 9.8
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Into the deep",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Into the Darkness\".",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T15:05:55Z",
+   "rarity": 7.2
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Take a little bit of Italy with you",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Villa Della Morte\".",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T15:28:38Z",
+   "rarity": 3.1
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "I told you we should have gone to the beach",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Dead in the Water\".",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T17:05:40Z",
+   "rarity": 2.6
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Not today you won't",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"The Bitter End\".",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T18:03:05Z",
+   "rarity": 3.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Just me and my trusty sidearm",
+   "detail": "Reach wave 6 on any Horde Map without picking up a Primary or Secondary weapon.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T20:39:06Z",
+   "rarity": 2.1
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "I'm a survivor!",
+   "detail": "Complete 20 waves in a row on any Horde Map.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T18:48:06Z",
+   "rarity": 1.7
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "A gross gross",
+   "detail": "Survive 144 Waves in total.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T19:16:01Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Blood splattered",
+   "detail": "Reach Rank 5.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T16:10:55Z",
+   "rarity": 53.9
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Gore soaked",
+   "detail": "Reach Rank 50.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T16:37:43Z",
+   "rarity": 4.7
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Hail to the king, baby!",
+   "detail": "Reach Rank 100.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-13T00:15:29Z",
+   "rarity": 1.1
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Gold",
+   "detail": "Earn a Gold Medal on any chapter.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T18:23:30Z",
+   "rarity": 16.6
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Well equipped",
+   "detail": "Complete a level with 5 Gold Level Perks equipped.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T16:37:37Z",
+   "rarity": 3
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Weapons expert",
+   "detail": "Complete the weapon mastery for any weapon.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T19:02:27Z",
+   "rarity": 2.8
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Hoarder",
+   "detail": "Find all Journals, Comics, and hidden Weapon Upgrade Tokens.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T19:56:50Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Send me an angel",
+   "detail": "Perform all Heroic Actions.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T19:47:46Z",
+   "rarity": 1.6
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Gotcha, didn't I?",
+   "detail": "Kill all Zombie Hand collectibles.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T19:54:10Z",
+   "rarity": 1.5
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Groovy",
+   "detail": "Change your characters appearance, such as with a hat or costume.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T15:26:47Z",
+   "rarity": 43.1
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Is it over?",
+   "detail": "Complete the Campaign on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T20:06:14Z",
+   "rarity": 8.2
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "This is no Sunday School picnic!",
+   "detail": "Complete the Campaign on Hard difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T20:06:04Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "That's a lot of them, and only 4 of us",
+   "detail": "Complete every campaign level with a full team of four players.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-06T20:06:12Z",
+   "rarity": 0.9
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "I can do anything I want. I got guns",
+   "detail": "Complete the weapon mastery for 3 weapons.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T22:42:47Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "You've got red on you",
+   "detail": "Perform 50 Takedowns in total.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T16:06:58Z",
+   "rarity": 12.8
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Stand back boy!",
+   "detail": "Kill 3 enemies with one blast from a Preacher.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T18:28:03Z",
+   "rarity": 30.5
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Kill of the week",
+   "detail": "Drop a pallet of Artillery Shells on a Zombie",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T17:02:05Z",
+   "rarity": 10
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Shoot it, man! Shoot it in the head!",
+   "detail": "Headshot a Zombie post resurrection.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T15:48:37Z",
+   "rarity": 71.8
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Say goodbye, creep!",
+   "detail": "Kill a Zombie using the Blade Melee Special Attack.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72.5
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Give me something to shoot!",
+   "detail": "Kill a Sniper whilst they are jumping between vantage points.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T21:00:42Z",
+   "rarity": 18.4
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "The bigger they are...",
+   "detail": "Kill 5 Heavies with takedowns.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T15:51:15Z",
+   "rarity": 5.1
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "I never liked them anyway",
+   "detail": "Kill a friend who has resurrected as a zombie.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T17:35:15Z",
+   "rarity": 18.4
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Take them down screaming",
+   "detail": "Perform a Takedown on a Blind Screamer.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T19:52:41Z",
+   "rarity": 5.7
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "Double tap",
+   "detail": "Finish a level with 5 or less zombies resurrecting.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T16:10:48Z",
+   "rarity": 25.3
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Shock therapy",
+   "detail": "Kill 20 zombies with Electric Punch Special Attack.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T14:53:36Z",
+   "rarity": 13.6
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Cleanup on aisle 4!",
+   "detail": "Kill a Suicider with his own explosives.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T18:27:52Z",
+   "rarity": 39.5
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Zombie killin' machine",
+   "detail": "Kill 5000 enemies of any kind.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T18:19:40Z",
+   "rarity": 11.4
+  },
+  {
+   "id": 44,
+   "type": "silver",
+   "name": "Every bullet counts",
+   "detail": "Get 3 headshots with one bullet.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T16:43:29Z",
+   "rarity": 14.6
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Leave the limbs you've lost",
+   "detail": "Sever 10,000 limbs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T23:30:05Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Cranial blowout!",
+   "detail": "Get an unbroken 10-headshot streak.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T22:47:06Z",
+   "rarity": 13.4
+  },
+  {
+   "id": 47,
+   "type": "silver",
+   "name": "Come and get it! It's a running buffet!",
+   "detail": "Kill 20+ enemies with 1 explosive.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T21:14:23Z",
+   "rarity": 17.8
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Got your back",
+   "detail": "Kill 50 enemies that are actively attacking other players.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T22:06:38Z",
+   "rarity": 10.6
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "A friend in need",
+   "detail": "Revive other players 50 times.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T22:01:10Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "What did you say, Blain?",
+   "detail": "Complete 4 level sections without using a medkit.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-05T17:37:18Z",
+   "rarity": 12.2
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "Chain reaction",
+   "detail": "Kill 50 Zombies in a row without missing a shot.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T22:50:21Z",
+   "rarity": 35.7
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Everyone's a mad scientist, life is the lab",
+   "detail": "Complete Terror Lab on any difficulty",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T15:43:29Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Staring at Shadows",
+   "detail": "Complete 12 Waves and escape from Horde Map 'Undead Wood'",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T18:48:22Z",
+   "rarity": 3
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Bad Blood",
+   "detail": "Complete Blood Count on any difficulty.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T15:57:23Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "I'm going deeper underground",
+   "detail": "Complete Deeper than Hell on any difficulty.",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T16:08:40Z",
+   "rarity": 1.7
+  },
+  {
+   "id": 56,
+   "type": "gold",
+   "name": "Something wicked this way comes",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Caged Fear\".",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T19:12:52Z",
+   "rarity": 1.9
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "Damnedbusters",
+   "detail": "Complete Damnation Valley on any difficulty.",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T16:20:28Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "They're coming to get you Barbara",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Final Departure\".",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T17:34:15Z",
+   "rarity": 1.7
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "Plane sailing",
+   "detail": "Complete Alpine Blitz on any difficulty.",
+   "group": "006",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T16:32:32Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "I never redoubted you!",
+   "detail": "Complete Dead Zeppelin on any difficulty.",
+   "group": "007",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T16:48:01Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 61,
+   "type": "bronze",
+   "name": "People don't change. We go round in circles",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Graveyard Shift\".",
+   "group": "008",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T19:37:54Z",
+   "rarity": 1.8
+  },
+  {
+   "id": 62,
+   "type": "silver",
+   "name": "None more hard",
+   "detail": "Complete the Campaign on Nightmare difficulty.",
+   "group": "009",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T21:49:22Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Have you tried turning it off and on again?",
+   "detail": "Complete Terminal Error on any difficulty.",
+   "group": "009",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T17:37:05Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 64,
+   "type": "bronze",
+   "name": "The blighters got through a second time.",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Frozen in Fear\"",
+   "group": "009",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T20:12:49Z",
+   "rarity": 1.2
+  },
+  {
+   "id": 65,
+   "type": "bronze",
+   "name": "Kali Ma",
+   "detail": "Complete Abaddon Asylum on any difficulty.",
+   "group": "010",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T17:49:13Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 66,
+   "type": "bronze",
+   "name": "Total protonic reversal",
+   "detail": "Complete Return to Hell on any difficulty.",
+   "group": "011",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-12T18:23:24Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 67,
+   "type": "bronze",
+   "name": "Day Trip to Purgatory",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Hell's Cauldron\".",
+   "group": "012",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-02-07T20:40:10Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 68,
+   "type": "bronze",
+   "name": "Tough luck, chum!",
+   "detail": "Complete Ragnarök - Part I on any difficulty.",
+   "group": "013",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-06-10T09:03:49Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 69,
+   "type": "bronze",
+   "name": "Call of the Void",
+   "detail": "Complete Ragnarök - Part II on any difficulty.",
+   "group": "013",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-06-10T09:44:27Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 70,
+   "type": "bronze",
+   "name": "Deadmouth sheds",
+   "detail": "Complete 12 consecutive Waves and escape from the Horde Map \"Death Collector\".",
+   "group": "014",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-06-08T17:28:30Z",
+   "rarity": 0.5
+  }
+ ]
+}

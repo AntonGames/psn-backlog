@@ -1,0 +1,778 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Battlefield 4™ Trophies"
+  },
+  {
+   "id": "001",
+   "name": "Battlefield 4™ China Rising Trophies"
+  },
+  {
+   "id": "002",
+   "name": "Battlefield 4™ Second Assault Trophies"
+  },
+  {
+   "id": "003",
+   "name": "Battlefield 4™ Naval Strike Trophies"
+  },
+  {
+   "id": "004",
+   "name": "Battlefield 4™ Dragon's Teeth Trophies"
+  },
+  {
+   "id": "005",
+   "name": "Battlefield 4™ Final Stand Trophies"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Collect all other Battlefield 4™ Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 1,
+   "type": "silver",
+   "name": "Storm bringer",
+   "detail": "Obtain 20 000 points in the Singapore mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "A one-man riot",
+   "detail": "Obtain 11 000 points in the Shanghai mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.7
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Terror of the deep",
+   "detail": "Obtain 11 000 points in the South China Sea mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.9
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Gladiator",
+   "detail": "Obtain 12 000 points in the Kunlun Mountains mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.2
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "Above and beyond the call",
+   "detail": "Complete all Assignments in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Demolition man",
+   "detail": "Obtain 15 000 points in the Tashgar mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.6
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Guardian of the fleet",
+   "detail": "Obtain 6 000 points in the Suez mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.4
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "Full arsenal",
+   "detail": "Unlock all assignments and collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Fish",
+   "detail": "Complete the Campaign on Easy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.4
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Dunn's pride",
+   "detail": "Obtain 7 000 points in the Baku mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.5
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Braving the storm",
+   "detail": "Complete the Singapore mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.6
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Wolves in sheep's clothing",
+   "detail": "Complete the Shanghai mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.2
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "The fall of a Titan",
+   "detail": "Complete the South China Sea mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Dead by dawn",
+   "detail": "Complete the Kunlun Mountains mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Guns at dawn",
+   "detail": "Complete the Suez mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.2
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Fishing in Baku",
+   "detail": "Complete the Baku mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 59
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Antediluvian",
+   "detail": "Complete the Tashgar mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "It was on the way...",
+   "detail": "Find 6 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.7
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Took a casual look around",
+   "detail": "Find 9 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.7
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Methodical search",
+   "detail": "Find 15 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.5
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Done some searching",
+   "detail": "Find 12 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "No stone left unturned",
+   "detail": "Find 18 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Every nook and cranny",
+   "detail": "Find 21 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Stumbled over it",
+   "detail": "Find 3 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 56.3
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Wolf",
+   "detail": "Complete the Campaign on Normal",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.6
+  },
+  {
+   "id": 26,
+   "type": "silver",
+   "name": "Tombstone",
+   "detail": "Complete the Campaign on Hard",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "Recon",
+   "detail": "Find 28 collectibles in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Well placed",
+   "detail": "Get 10 kills with C4 in the Baku mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Wrecker",
+   "detail": "Get 10 multi-kills in the Shanghai mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Blood wake",
+   "detail": "Get 30 headshots in the South China Sea mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "War turtle",
+   "detail": "Get 15 kills with RPG in the Singapore mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Infiltrator",
+   "detail": "Get 10 adrenaline kills in the Tashgar mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Shawshank",
+   "detail": "Get 5 kills with Shank in the Kunlun Mountains mission in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "For tombstone",
+   "detail": "Let the Valkyrie be destroyed in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.1
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "For the people",
+   "detail": "Sacrifice Irish to save the Valkyrie in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.1
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "For the cause",
+   "detail": "Sacrifice Hannah to save the Valkyrie in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.8
+  },
+  {
+   "id": 37,
+   "type": "silver",
+   "name": "Patience is a virtue",
+   "detail": "Experience all 3 endings in the Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.5
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Turn around...",
+   "detail": "Perform 5 dog tag kills in Multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T17:58:32Z",
+   "rarity": 36.5
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Won them all",
+   "detail": "Win a round of each game mode",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T18:17:00Z",
+   "rarity": 2.9
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": ".45 old school",
+   "detail": "Perform 45 kills with the M1911 Handgun in Multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T22:03:44Z",
+   "rarity": 5
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "Bomb squad",
+   "detail": "Deliver 5 bombs in Obliteration",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T18:27:25Z",
+   "rarity": 4
+  },
+  {
+   "id": 42,
+   "type": "gold",
+   "name": "Call me \"Sir\"",
+   "detail": "Reach rank 25.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T16:51:16Z",
+   "rarity": 21.4
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Fledgling",
+   "detail": "Play a round of Air Superiority",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T14:23:54Z",
+   "rarity": 6.6
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "2 Wheels",
+   "detail": "Get a kill with the Dirtbike",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T09:01:12Z",
+   "rarity": 4.1
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Mini Kamikaze",
+   "detail": "Kill an enemy with the SUAV",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T11:54:56Z",
+   "rarity": 2.3
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Death From Above",
+   "detail": "Get a kill with the bomber",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T11:16:34Z",
+   "rarity": 4
+  },
+  {
+   "id": 47,
+   "type": "silver",
+   "name": "New Superpower",
+   "detail": "Complete all China Rising Assignments",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T10:37:21Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Falling Down",
+   "detail": "Kill an enemy with a ceiling collapse in Operation Metro",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T16:52:12Z",
+   "rarity": 2.8
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Dirty Job",
+   "detail": "Find the hidden tunnel in Caspian Border",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T16:38:36Z",
+   "rarity": 3.9
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Torched",
+   "detail": "Ignite a brush fire using the repair tool in Operation Metro or Caspian Border",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T16:37:47Z",
+   "rarity": 1
+  },
+  {
+   "id": 51,
+   "type": "silver",
+   "name": "Risky Business",
+   "detail": "Kill an enemy flag carrier while carrying their flag in CTF",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T16:42:24Z",
+   "rarity": 0.8
+  },
+  {
+   "id": 52,
+   "type": "silver",
+   "name": "Blind Bomber",
+   "detail": "In a round get 5 kills with air vehicles in Gulf of Oman",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T17:36:48Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "The Big Leagues",
+   "detail": "Play a round of Carrier Assault",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T21:23:47Z",
+   "rarity": 4.2
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Killing Me Softly",
+   "detail": "Get a kill in the ACV",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T21:40:12Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Spotted",
+   "detail": "Climb the highest point in Naval Strike",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T21:09:10Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 56,
+   "type": "silver",
+   "name": "Fly Swatter",
+   "detail": "Kill an enemy with the AA Mine",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T11:14:01Z",
+   "rarity": 1.1
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "No Parley",
+   "detail": "Get a kill with the old cannon",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-08T21:43:08Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Link Repeater",
+   "detail": "Win 2 rounds of Chainlink",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T14:45:16Z",
+   "rarity": 2.5
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "Bulletproof. Sort Of...",
+   "detail": "Spend 5 minutes using the Ballistic Shield",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T13:44:18Z",
+   "rarity": 1.7
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "The Metropolitan",
+   "detail": "Play a round on all Dragon's Teeth maps",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T14:21:56Z",
+   "rarity": 4.8
+  },
+  {
+   "id": 61,
+   "type": "silver",
+   "name": "RC Assassin",
+   "detail": "Get 5 kills in a round with the RAWR",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T11:09:22Z",
+   "rarity": 0.8
+  },
+  {
+   "id": 62,
+   "type": "silver",
+   "name": "Street Fighter",
+   "detail": "Complete all Dragon's Teeth Assignments",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T14:45:10Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Snowbound",
+   "detail": "Play all Final Stand maps",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-09T23:52:25Z",
+   "rarity": 3.6
+  },
+  {
+   "id": 64,
+   "type": "bronze",
+   "name": "Your Titan is Ready",
+   "detail": "Get a kill by activating the Titan Engines",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T15:43:36Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 65,
+   "type": "bronze",
+   "name": "Cold Blooded",
+   "detail": "Get a kill with an icicle",
+   "group": "005",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2024-08-10T15:59:06Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 66,
+   "type": "bronze",
+   "name": "Has science gone too far?",
+   "detail": "Get a kill using the HT-95 Levkov, XD-1 Accipiter, Rorsch Mk-1, and Schipunov 42",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T16:32:37Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 67,
+   "type": "silver",
+   "name": "King in the North",
+   "detail": "Complete all Final Stand Assignments",
+   "group": "005",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-10T18:47:59Z",
+   "rarity": 0.1
+  }
+ ]
+}

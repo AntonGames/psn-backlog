@@ -1,0 +1,230 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Child of Light"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "bronze",
+   "name": "Starcatcher",
+   "detail": "Recover the stars.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-09-05T12:56:41Z",
+   "rarity": 66.6
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Over the Moon",
+   "detail": "Recover the moon.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.5
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Sunrise",
+   "detail": "Recover the sun.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Coronation",
+   "detail": "Dethrone the Queen of the Night.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.2
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Comedy",
+   "detail": "Rubella joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-09-05T13:05:06Z",
+   "rarity": 64.6
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Capilli Catch",
+   "detail": "Finn joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Sweet Sister",
+   "detail": "Norah joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Bolmus Bond",
+   "detail": "Robert joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.5
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Kategida Kindred",
+   "detail": "Óengus joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.4
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Piscean Promise",
+   "detail": "Gen joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.9
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Tragedy",
+   "detail": "Tristis joins Aurora's Party.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.4
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Tenth Birthday",
+   "detail": "Achieve level 10 with Aurora.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-21T10:08:35Z",
+   "rarity": 57.6
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Perfectionist",
+   "detail": "Upgrade a skill to its highest level.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.1
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Master Oculist",
+   "detail": "Craft Oculi.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-21T09:14:09Z",
+   "rarity": 58.2
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Scene Stealer",
+   "detail": "Execute 3 Surprise Strikes.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-10-31T00:31:39Z",
+   "rarity": 70.1
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Showstopper",
+   "detail": "Interrupt 3 foes at the same time.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.7
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Winged Fury",
+   "detail": "Devastate 5 foes.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-21T10:33:54Z",
+   "rarity": 50.5
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Explorer",
+   "detail": "Find and open 30 coffers.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-21T10:14:47Z",
+   "rarity": 52.2
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Perfect Sonnet",
+   "detail": "Collect all Confessions.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Grassroots",
+   "detail": "Finish 3 Lemurian Requests.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.8
+  }
+ ]
+}

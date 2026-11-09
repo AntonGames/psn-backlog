@@ -1,0 +1,531 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Resident Evil 4"
+  },
+  {
+   "id": "001",
+   "name": "Separate Ways"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Cuz Boredom Kills Me",
+   "detail": "Obtain all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:06Z",
+   "rarity": 3.7
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Knife Basics",
+   "detail": "Parry an enemy with a knife.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:27Z",
+   "rarity": 78.5
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "My Preferred Piece",
+   "detail": "Upgrade a weapon.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:28Z",
+   "rarity": 73.4
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "A Masterpiece",
+   "detail": "Get the exclusive upgrade for a weapon.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:29Z",
+   "rarity": 38.1
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Nice One, Stranger!",
+   "detail": "Complete a request for the Merchant.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:30Z",
+   "rarity": 70.2
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Talk About Near-Death Experience!",
+   "detail": "Rescue Ashley as she's being carried away by the enemy.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:31Z",
+   "rarity": 66.5
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Revolt Against the Revolting",
+   "detail": "Destroy a Clockwork Castellan.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:32Z",
+   "rarity": 58.9
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Harpoon Hurler",
+   "detail": "Defeat Del Lago.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:33Z",
+   "rarity": 69.7
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Grilled Big Cheese",
+   "detail": "Defeat Bitores Méndez.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:34Z",
+   "rarity": 64.6
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Wave Goodbye, Right Hand",
+   "detail": "Defeat the Verdugo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:35Z",
+   "rarity": 29.4
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "No Thanks, Bro!",
+   "detail": "Defeat Ramón Salazar.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:36Z",
+   "rarity": 57.8
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "You Used to Be a Good Guy",
+   "detail": "Defeat Jack Krauser.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:37Z",
+   "rarity": 55.5
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "You're Small Time!",
+   "detail": "Defeat Osmund Saddler.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:38Z",
+   "rarity": 54.6
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Shield Your Eyes",
+   "detail": "Defeat 3 enemies at once with a flash grenade.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:39Z",
+   "rarity": 41.2
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Never Heard It Coming",
+   "detail": "Defeat a Garrador using only knives.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:40Z",
+   "rarity": 11.6
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Two Bugs, One Stone",
+   "detail": "Kill 2 parasites inside a Regenerador with a single bullet.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:41Z",
+   "rarity": 31.3
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "You Talk Too Much!",
+   "detail": "Throw a grenade into Ramón Salazar's mouth.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:42Z",
+   "rarity": 12
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Overkill",
+   "detail": "Use a cannon to defeat a zealot.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:43Z",
+   "rarity": 56.8
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Hope You Like Thrill Rides!",
+   "detail": "Make it through both minecart sections in the underground tunnel without taking any damage.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:44Z",
+   "rarity": 10.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Capacity Compliance",
+   "detail": "Reach the top of the clock tower without the lift stopping once.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:45Z",
+   "rarity": 8.9
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Smooth Escape",
+   "detail": "Escape on the water scooter without taking any damage.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:46Z",
+   "rarity": 14.6
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Astute Appraiser",
+   "detail": "Sell a single treasure for at least 100000 ptas.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:47Z",
+   "rarity": 27.9
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Bandit",
+   "detail": "Obtain all treasures indicated on the village treasure map in a single playthrough.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:48Z",
+   "rarity": 11.9
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Raider",
+   "detail": "Obtain all treasures indicated on the castle treasure map in a single playthrough.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:49Z",
+   "rarity": 9.1
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Burglar",
+   "detail": "Obtain all treasures indicated on the island treasure map in a single playthrough.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:50Z",
+   "rarity": 15.6
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Gun Fanatic",
+   "detail": "Obtain all weapons.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:51Z",
+   "rarity": 5.6
+  },
+  {
+   "id": 26,
+   "type": "silver",
+   "name": "Jack of All Trades",
+   "detail": "Complete all requests from the Merchant.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:52Z",
+   "rarity": 14.4
+  },
+  {
+   "id": 27,
+   "type": "silver",
+   "name": "Revolution Wind-up",
+   "detail": "Destroy all Clockwork Castellans.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:53Z",
+   "rarity": 11.6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Promising Agent",
+   "detail": "Complete the main story on Standard mode or higher.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:54Z",
+   "rarity": 40.8
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Mission Accomplished S+",
+   "detail": "Complete the main story on Standard mode with an S+ rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:56Z",
+   "rarity": 5.6
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Proficient Agent",
+   "detail": "Complete the main story on Hardcore mode or higher.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:57Z",
+   "rarity": 16
+  },
+  {
+   "id": 31,
+   "type": "gold",
+   "name": "S+ Rank Investigator",
+   "detail": "Complete the main story on Hardcore mode with an S+ rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:58Z",
+   "rarity": 5.6
+  },
+  {
+   "id": 32,
+   "type": "gold",
+   "name": "Peerless Agent",
+   "detail": "Complete the main story on Professional mode.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:48:59Z",
+   "rarity": 10.6
+  },
+  {
+   "id": 33,
+   "type": "silver",
+   "name": "Sprinter",
+   "detail": "Complete the main story within 8 hours.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:00Z",
+   "rarity": 11.8
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Frugalist",
+   "detail": "Complete the main story without using a recovery item.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:01Z",
+   "rarity": 5.5
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Minimalist",
+   "detail": "Complete the main story using only knives and handguns. (Excluding specific battles.)",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:02Z",
+   "rarity": 5.5
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "Silent Stranger",
+   "detail": "Complete the main story without talking to the Merchant once.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:03Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Amateur Shooter",
+   "detail": "Complete a game at the shooting range.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:04Z",
+   "rarity": 64.1
+  },
+  {
+   "id": 38,
+   "type": "gold",
+   "name": "Real Deadeye",
+   "detail": "Earn an S rank in all games at the shooting range.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:05Z",
+   "rarity": 6.4
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Trick Shot",
+   "detail": "Shoot through and destroy 5 targets at the shooting range with a single shot.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-04-07T23:49:06Z",
+   "rarity": 12.6
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Giant Slayer",
+   "detail": "Defeat El Gigante in Separate Ways.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.6
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "\"It\" Kept You Busy",
+   "detail": "Defeat Pesanta in Separate Ways.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.5
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Had Enough of Preachers",
+   "detail": "Defeat Osmund Saddler in Separate Ways.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.9
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Capable Operative",
+   "detail": "Complete Separate Ways on Standard mode or higher.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.7
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Skilled Agent",
+   "detail": "Complete Separate Ways on Hardcore mode or higher.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "The Perfect Mission",
+   "detail": "Complete Separate Ways on Professional mode.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 46,
+   "type": "gold",
+   "name": "Ada the \"S+\"py",
+   "detail": "Complete Separate Ways on Professional mode with an S+ rank.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  }
+ ]
+}

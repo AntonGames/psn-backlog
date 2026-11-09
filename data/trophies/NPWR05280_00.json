@@ -1,0 +1,307 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Lemmings™ Touch"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Obtain All Trophies",
+   "detail": "Obtain All Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.2
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Lessons Learned",
+   "detail": "Complete the Tutorials",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-07-09T09:07:15Z",
+   "rarity": 59.5
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Easy There",
+   "detail": "Unlock Tricky Difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T15:12:36Z",
+   "rarity": 37.8
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Getting Tricky",
+   "detail": "Unlock Taxing Difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T15:57:56Z",
+   "rarity": 21.2
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "In The Big Leagues",
+   "detail": "Unlock Hard Difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-08T07:02:39Z",
+   "rarity": 17.2
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "Cakewalk",
+   "detail": "Complete All Easy Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T16:13:50Z",
+   "rarity": 20.4
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Stepping Up",
+   "detail": "Complete All Tricky Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.9
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Turning Up The Heat",
+   "detail": "Complete All Taxing Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.5
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "A Real Contender",
+   "detail": "Complete All Hard Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "A Taste of the Best now Finish the Rest",
+   "detail": "Obtain All Stars on a level",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-07-09T07:14:19Z",
+   "rarity": 84.2
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "More of a Handful than Usual",
+   "detail": "Obtain all the stars from the Easy Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T16:16:42Z",
+   "rarity": 17.8
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Easy, with a pinch of Difficult",
+   "detail": "Obtain all the stars from the Tricky Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.6
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "Dedicated",
+   "detail": "Obtain all the stars from the Taxing Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.4
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "Leave No Lem Behind",
+   "detail": "Obtain All the stars from the Hard Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.3
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "What did I do?",
+   "detail": "Complete 1 Objective",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-07-09T09:01:29Z",
+   "rarity": 66
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "A Slight Detour",
+   "detail": "Complete 10 Objectives",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.9
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Going out of your way",
+   "detail": "Complete 25 Objectives",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.9
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "Side Mission Manic",
+   "detail": "Complete 50 Objectives",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.6
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Hats Off to you Sir",
+   "detail": "Buy your first item from the Look & Style menu",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T15:05:10Z",
+   "rarity": 31
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Wardrobe Malfunction",
+   "detail": "Buy 10 items from the Look & Style menu",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T16:17:27Z",
+   "rarity": 16.7
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Bringing the Bling",
+   "detail": "Buy 20 items from the Look & Style menu",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.7
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "You're a Wizard, Lemming!",
+   "detail": "Wizard Costume: Black Hair/Body, Wizard Hat, Glasses and Wand.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Make it your Business",
+   "detail": "Business Costume: Black Body/Hair/Moustache/Umbrella, Bowler Hat and Tie.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.8
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "He deserved it!",
+   "detail": "Kill your first Mischievous Lemming",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-07-09T09:06:17Z",
+   "rarity": 61.1
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Showing your wares",
+   "detail": "Play a level with any item from the Look & Style menu",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-08-14T14:40:58Z",
+   "rarity": 31.6
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "You went out like that?",
+   "detail": "Play 20 levels with any item from the Look & Style menu",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-07-07T16:09:42Z",
+   "rarity": 23.2
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "The 95%",
+   "detail": "Obtain 290 Stars or more",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.3
+  }
+ ]
+}

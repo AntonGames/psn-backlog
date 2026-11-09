@@ -1,0 +1,675 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Resident Evil 7: Biohazard"
+  },
+  {
+   "id": "001",
+   "name": "Banned Footage Vol. 1"
+  },
+  {
+   "id": "002",
+   "name": "Banned Footage Vol. 2"
+  },
+  {
+   "id": "003",
+   "name": "End of Zoe"
+  },
+  {
+   "id": "004",
+   "name": "Not a Hero"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Biosplattered",
+   "detail": "Unlock all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "She's Alive",
+   "detail": "Travel to Louisiana.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-04-08T12:17:34Z",
+   "rarity": 89.5
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Welcome to the Family, Son",
+   "detail": "Escape from the guest house.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 70.6
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "You Ain't Gettin' Away",
+   "detail": "Escape to the yard.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "The Grave Will Out the Truth",
+   "detail": "Uncover the secret in the old house.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.4
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "You Better Start Running",
+   "detail": "Escape from the Baker family home.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.2
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Into the Depths",
+   "detail": "Escape from the ship.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.3
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "End of the Night",
+   "detail": "Get ending 1.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.7
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Just A Memory Now",
+   "detail": "Get ending 2.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.2
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Playing it Safe",
+   "detail": "Complete the game on Easy.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "The Nightmare's Finally Over",
+   "detail": "Complete the game on Normal.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.6
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Who's Your Daddy Now?",
+   "detail": "Complete the game on Madhouse.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Behind Closed Doors",
+   "detail": "Close an open door by yourself.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72.2
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Arms in the Air",
+   "detail": "Block an enemy attack by guarding.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 61.7
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "A-ha!",
+   "detail": "Obtain something by closely examining an item.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 79.1
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Master of Unlocking",
+   "detail": "Use a lock pick to open something.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 57.3
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Nice Try",
+   "detail": "Put an unrelated object on a shadow plinth.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.4
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Open Your Eyes",
+   "detail": "Use psychostimulants.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.9
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "In the Bag",
+   "detail": "Increase your item slots.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 42.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Things Got Personal",
+   "detail": "Finish off an enemy with the knife.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.1
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Slash Slash, Slashity Slash!",
+   "detail": "Clear insects off a door using a knife.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.6
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Back Off, Mrs. B!",
+   "detail": "Fight off Marguerite while she wanders the old house to make her run away.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Duck If You Love Life",
+   "detail": "Avoid Jack's scissor attack by crouching.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.2
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Less is More",
+   "detail": "Take down two or more enemies with one shot.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.6
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Fly Swatter",
+   "detail": "Shoot and knock back Marguerite while she's leaping at you.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.1
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "That's a Spicy Meat-a-ball",
+   "detail": "Kill an enemy by attaching a Remote Bomb to them and detonating it.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.5
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "1st Place at the Science Fair",
+   "detail": "Create all items that contain Chem Fluid and Strong Chem Fluid.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.7
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Can't Catch Me",
+   "detail": "Complete the \"Mia\" videotape without being spotted by Marguerite.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.6
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "Out Before Dessert",
+   "detail": "Complete the \"Happy Birthday\" videotape within 5 minutes.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.5
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Be Kind, Please Rewind",
+   "detail": "Watch all the videotapes in a single playthrough.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Pelicans in Your Pocket",
+   "detail": "Obtain all of the Antique Coins in Easy or Normal difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.7
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Mad Pelicans",
+   "detail": "Obtain all of the Antique Coins in Madhouse difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "The Devil Is in the Details",
+   "detail": "Read all of the files in a single playthrough.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "He's Here, There, Everywhere!",
+   "detail": "Destroy a Mr. Everywhere statuette.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 55.4
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Mr. Nowhere",
+   "detail": "Destroy all Mr. Everywhere statuettes.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 35,
+   "type": "gold",
+   "name": "Just Get Me Outta Here",
+   "detail": "Complete the game within 4 hours.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 36,
+   "type": "gold",
+   "name": "Resource Manager",
+   "detail": "Complete the game without opening the Item Box more than 3 times.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 37,
+   "type": "gold",
+   "name": "Walk it Off",
+   "detail": "Complete the game using only 3 First Aid Meds or less.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Dead by Dawn?",
+   "detail": "Complete Nightmare.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Sleepless in Dulvey",
+   "detail": "Complete Night Terror.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Like Mama Used to Make",
+   "detail": "Complete Bedroom.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "Ratcatcher",
+   "detail": "Find all the dead rats in Bedroom in a single play.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 42,
+   "type": "gold",
+   "name": "Ethan Never Dies",
+   "detail": "Complete Ethan Must Die.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Eye in the Sky",
+   "detail": "Complete 21.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Card Shark",
+   "detail": "Complete Survival mode in 21.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "You Gotta Know When To Hold 'Em",
+   "detail": "Complete Survival+ mode in 21.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Butterfly Effect",
+   "detail": "Get the bad ending in Daughters.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 47,
+   "type": "silver",
+   "name": "One Instinct: Survival",
+   "detail": "Get the true ending in Daughters.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Don't Keep the Man Waiting",
+   "detail": "Clear a stage with a 10 minute time bonus or higher in Jack's 55th Birthday.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Miracle Chef",
+   "detail": "Feed Jack every type of food and drink in Jack's 55th Birthday.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 50,
+   "type": "silver",
+   "name": "Best Birthday Ever",
+   "detail": "Get an S Rank or higher on all stages in Jack's 55th Birthday.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "Promise Kept",
+   "detail": "Complete End of Zoe on Easy or Normal.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.9
+  },
+  {
+   "id": 52,
+   "type": "gold",
+   "name": "King of the Swamp",
+   "detail": "Complete End of Zoe on Joe Must Die.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 53,
+   "type": "silver",
+   "name": "The Only Guns You Need",
+   "detail": "Complete End of Zoe on Normal or Joe Must Die using no weapons.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Fastest Man in the Swamp",
+   "detail": "Complete an Extreme Challenge in End of Zoe.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Queensberry Rules",
+   "detail": "Perform a 4-hit combo with your bare fists in End of Zoe.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.6
+  },
+  {
+   "id": 56,
+   "type": "bronze",
+   "name": "Swamp Warfare",
+   "detail": "Stealth kill 5 enemies in End of Zoe.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "Mission Accomplished",
+   "detail": "Complete Not a Hero on Easy or Normal difficulty.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.3
+  },
+  {
+   "id": 58,
+   "type": "silver",
+   "name": "You're the Hero Now",
+   "detail": "Complete Not a Hero on Professional difficulty.",
+   "group": "004",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  }
+ ]
+}

@@ -1,0 +1,1445 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "HITMAN™ 2"
+  },
+  {
+   "id": "001",
+   "name": "HITMAN™ 2 Hawke's Bay"
+  },
+  {
+   "id": "002",
+   "name": "HITMAN™ 2 Miami"
+  },
+  {
+   "id": "003",
+   "name": "HITMAN™ 2 Santa Fortuna"
+  },
+  {
+   "id": "004",
+   "name": "HITMAN™ 2 Mumbai"
+  },
+  {
+   "id": "005",
+   "name": "HITMAN™ 2 Whittleton Creek"
+  },
+  {
+   "id": "006",
+   "name": "HITMAN™ 2 Isle of Sgàil"
+  },
+  {
+   "id": "007",
+   "name": "HITMAN™ 2 Himmelstein"
+  },
+  {
+   "id": "008",
+   "name": "HITMAN™ Legacy: Paris"
+  },
+  {
+   "id": "009",
+   "name": "HITMAN™ Legacy: Sapienza"
+  },
+  {
+   "id": "010",
+   "name": "HITMAN™ Legacy: Marrakesh"
+  },
+  {
+   "id": "011",
+   "name": "HITMAN™ Legacy: Bonus Missions"
+  },
+  {
+   "id": "012",
+   "name": "HITMAN™ Legacy: Bangkok"
+  },
+  {
+   "id": "013",
+   "name": "HITMAN™ Legacy: Colorado"
+  },
+  {
+   "id": "014",
+   "name": "HITMAN™ Legacy: Hokkaido"
+  },
+  {
+   "id": "015",
+   "name": "HITMAN™ 2 Singapore"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "bronze",
+   "name": "The Result of Previous Training",
+   "detail": "Complete Freeform Training in the Prologue.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.3
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Cleared for Field Duty",
+   "detail": "Complete The Final Test in the Prologue.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Seizing the Opportunity",
+   "detail": "Complete any Mission Story in The Final Test.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "The Creative Assassin",
+   "detail": "Complete the Contract Creation Tutorial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Unexpected Guest",
+   "detail": "Disguise yourself as Mr. Norfolk and assassinate Kalvin Ritter.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.8
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "K-36D",
+   "detail": "Assassinate Jasper Knight with a sabotaged ejector seat.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.8
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Defection Deterred",
+   "detail": "Arrange matters so that the KGB Colonel eliminates Jasper Knight.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Silent Assassin",
+   "detail": "Complete The Final Test unspotted. Kill only Jasper Knight, ensuring his body is not found.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Security Defeated",
+   "detail": "Arrange matters so that a guard finds a discarded weapon and moves it into the hangar.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Chameleon",
+   "detail": "Change your disguise during The Final Test.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.9
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Training Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in the ICA Facility.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Contract Assassin",
+   "detail": "Complete 10 Contracts.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Top of the Class",
+   "detail": "Set the high score on a Contract.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "A New Profile",
+   "detail": "Complete a Featured Contract.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Shhhh",
+   "detail": "Pacify any individual.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72.3
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Tools of the Trade",
+   "detail": "Assassinate Targets with Ballistic, Accident and Explosion Kills.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.4
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Unseen Assassin",
+   "detail": "Assassinate a Target without getting spotted.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-12-19T19:23:43Z",
+   "rarity": 33.4
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Infiltrator",
+   "detail": "Complete Nightcall.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 54.3
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "House Cleaning",
+   "detail": "Eliminate Reynard while Orson showers, from the roof of the panic room, and with a pillow.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Blunt Trauma",
+   "detail": "Trawl the beach.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.9
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Completionist",
+   "detail": "Complete all Nightcall Challenges.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Strategic Disadvantage",
+   "detail": "Complete Nightcall on Master Difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Come Prepared",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hawke's Bay.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.7
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Local Knowledge",
+   "detail": "Reach Hawke's Bay Mastery Level 5.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Damage Control",
+   "detail": "Complete The Finish Line.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.3
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Blaze of Glory",
+   "detail": "Blow up Sierra Knox in her car, on the podium, and eliminate Robert Knox with his android.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Pink Army",
+   "detail": "Release the pink army.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 27,
+   "type": "silver",
+   "name": "Full Value",
+   "detail": "Complete all Mission Stories in The Finish Line.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Showrunner",
+   "detail": "Complete The Finish Line on Master Difficulty.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Event Planner",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Miami.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 30,
+   "type": "gold",
+   "name": "Miami Wise",
+   "detail": "Reach Miami Mastery Level 20.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Tactical Strike",
+   "detail": "Complete Three-Headed Serpent.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.7
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Cartel Wrecker",
+   "detail": "Feed Delgado to his hippo, crush Delgado and Martínez with the statue, push Franco off a cliff.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "It Belongs in a Museum",
+   "detail": "Explore the treasure room.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Heads Will Roll",
+   "detail": "Complete all Mission Stories in Three-Headed Serpent.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Ghost of the Jungle",
+   "detail": "Complete Three-Headed Serpent on Master Difficulty.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Recon Specialist",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Santa Fortuna.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 37,
+   "type": "gold",
+   "name": "Dark Tourist",
+   "detail": "Reach Santa Fortuna Mastery Level 20.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Pirate Hunter",
+   "detail": "Complete Chasing a Ghost.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.1
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Cleaning the Streets",
+   "detail": "Wipe out Kale and Shah with the train, Kale and Rangan with a cement pipe, and Rangan with the fan.",
+   "group": "004",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Babyface",
+   "detail": "Shave everybody.",
+   "group": "004",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "Busy Schedule",
+   "detail": "Complete all Mission Stories in Chasing a Ghost.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Street Smart",
+   "detail": "Complete Chasing a Ghost on Master Difficulty.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Urban Planner",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Mumbai.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 44,
+   "type": "gold",
+   "name": "Keys to the City",
+   "detail": "Reach Mumbai Mastery Level 20.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Long Shot",
+   "detail": "Complete Another Life.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.5
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Domestic Accidents",
+   "detail": "Eliminate Cassidy with laser wires, while fumigated, and take down Janus in a mole hole explosion.",
+   "group": "005",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Slow Travel",
+   "detail": "Exit on a raft.",
+   "group": "005",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 48,
+   "type": "silver",
+   "name": "There Goes the Neighborhood",
+   "detail": "Complete all Mission Stories in Another Life.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Perfect Crime",
+   "detail": "Complete Another Life on Master Difficulty.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Community Planner",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Whittleton Creek.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 51,
+   "type": "gold",
+   "name": "Pillar of the Community",
+   "detail": "Reach Whittleton Creek Mastery Level 15.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "This is Maintenance",
+   "detail": "Complete The Ark Society.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.9
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Doing the Rounds",
+   "detail": "Trap Zoe in the effigy, strangle Sophia with the necklace, force the Constant to come quietly.",
+   "group": "006",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Leap of Faith",
+   "detail": "Take the scenic route.",
+   "group": "006",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 55,
+   "type": "silver",
+   "name": "Anti-Survivalist",
+   "detail": "Complete all Mission Stories in The Ark Society.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 56,
+   "type": "bronze",
+   "name": "Power Player",
+   "detail": "Complete The Ark Society on Master Difficulty.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "Party Planner",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Isle of Sgàil.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  },
+  {
+   "id": 58,
+   "type": "gold",
+   "name": "Honorary Member",
+   "detail": "Reach Isle of Sgàil Mastery Level 20.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "Peak Performance",
+   "detail": "Get a score above 1,000,000 points on The Last Yardbird.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "Cannon Fodder",
+   "detail": "Eliminate the three main targets with the cannon.",
+   "group": "007",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 61,
+   "type": "bronze",
+   "name": "Party-pooper",
+   "detail": "Sabotage the wedding.",
+   "group": "007",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 62,
+   "type": "silver",
+   "name": "Lone Wolf",
+   "detail": "Complete The Last Yardbird in Single Player.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.1
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Silent Sniper",
+   "detail": "Complete The Last Yardbird as Silent Assassin.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 64,
+   "type": "bronze",
+   "name": "Deadly Duo",
+   "detail": "Complete The Last Yardbird in Multiplayer.",
+   "group": "007",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-12-19T19:39:09Z",
+   "rarity": 2.4
+  },
+  {
+   "id": 65,
+   "type": "gold",
+   "name": "Completionist",
+   "detail": "Complete all The Last Yardbird Challenges.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 66,
+   "type": "bronze",
+   "name": "When No One Else Dares",
+   "detail": "Complete The Showstopper.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 67,
+   "type": "bronze",
+   "name": "The Showstopper",
+   "detail": "Assassinate Viktor Novikov in a light rig accident.",
+   "group": "008",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 68,
+   "type": "bronze",
+   "name": "Meeting the Rieper",
+   "detail": "Become Tobias Rieper.",
+   "group": "008",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 69,
+   "type": "silver",
+   "name": "So Many Ways to Stop the Show",
+   "detail": "Complete all Mission Stories in The Showstopper.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 70,
+   "type": "bronze",
+   "name": "Paris Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Paris.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 71,
+   "type": "bronze",
+   "name": "Well Prepared",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Paris.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 72,
+   "type": "gold",
+   "name": "City of Light",
+   "detail": "Reach Paris Mastery Level 20.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 73,
+   "type": "bronze",
+   "name": "Die by the Sword",
+   "detail": "Complete World of Tomorrow.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 74,
+   "type": "bronze",
+   "name": "The Sapienza Trinity",
+   "detail": "Eliminate Silvio in therapy, down his plane with a cannon, and shoot him through the telescope.",
+   "group": "009",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 75,
+   "type": "bronze",
+   "name": "Let No Joyful Voice be Heard",
+   "detail": "Awaken the Kraken!",
+   "group": "009",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 76,
+   "type": "silver",
+   "name": "Not in the Guidebook",
+   "detail": "Complete all Mission Stories in World of Tomorrow.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 77,
+   "type": "bronze",
+   "name": "Sapienza Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Sapienza.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 78,
+   "type": "bronze",
+   "name": "Plan Ahead",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Sapienza.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 79,
+   "type": "gold",
+   "name": "Amalfi Pearl",
+   "detail": "Reach Sapienza Mastery Level 20.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 80,
+   "type": "bronze",
+   "name": "Too Big to Fail",
+   "detail": "Complete A Gilded Cage.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.4
+  },
+  {
+   "id": 81,
+   "type": "bronze",
+   "name": ".50 Personal Touch",
+   "detail": "Assassinate Zaydan, as the prisoner, Strandberg during his massage, and both with the APC turret.",
+   "group": "010",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 82,
+   "type": "bronze",
+   "name": "Unfortunate Fortune",
+   "detail": "Demonstrate generosity.",
+   "group": "010",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 83,
+   "type": "silver",
+   "name": "Tourist Attractions",
+   "detail": "Complete all Mission Stories in A Gilded Cage.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 84,
+   "type": "bronze",
+   "name": "Marrakesh Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Marrakesh.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 85,
+   "type": "bronze",
+   "name": "Careful Planning",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Marrakesh.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 86,
+   "type": "gold",
+   "name": "Ancient Marrakesh",
+   "detail": "Reach Marrakesh Mastery Level 20.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 87,
+   "type": "silver",
+   "name": "Perfectionist",
+   "detail": "Complete Suit Only and Silent Assassin Challenges on The Icon or A House Built on Sand.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 88,
+   "type": "bronze",
+   "name": "A Night at the Movies",
+   "detail": "Complete The Icon.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 89,
+   "type": "bronze",
+   "name": "Stealing the Spotlight",
+   "detail": "Assassinate Bosco with the monster teeth, in a pyrotechnics explosion, and in a fire.",
+   "group": "011",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 90,
+   "type": "bronze",
+   "name": "Touring the Film Set",
+   "detail": "Complete all Mission Stories in The Icon.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 91,
+   "type": "bronze",
+   "name": "Moroccan Nights",
+   "detail": "Complete A House Built on Sand.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 92,
+   "type": "bronze",
+   "name": "A Series of Unfortunate Events",
+   "detail": "Eliminate Mendola with the crystal ball, Kong in an electrocution, and both by poisoning the pipe.",
+   "group": "011",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 93,
+   "type": "bronze",
+   "name": "A Golden Opportunity",
+   "detail": "Complete all Mission Stories in A House Built on Sand.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 94,
+   "type": "bronze",
+   "name": "Bravissimo",
+   "detail": "Complete Landslide.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 95,
+   "type": "bronze",
+   "name": "Your Vote Counts",
+   "detail": "Eliminate Abiatti by impalement, pen and fireworks explosion.",
+   "group": "011",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 96,
+   "type": "bronze",
+   "name": "Finito",
+   "detail": "Complete all Mission Stories in Landslide.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 97,
+   "type": "bronze",
+   "name": "Shining Bright",
+   "detail": "Complete Club 27.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 98,
+   "type": "bronze",
+   "name": "Drop the Bass",
+   "detail": "Eliminate both Morgan and Cross in a fall accident and both by dropping a coconut on their heads.",
+   "group": "012",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 99,
+   "type": "bronze",
+   "name": "Elephants Never Forget",
+   "detail": "Poach Ivory.",
+   "group": "012",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 100,
+   "type": "silver",
+   "name": "Guest Starring",
+   "detail": "Complete all Mission Stories in Club 27.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 101,
+   "type": "bronze",
+   "name": "Bangkok Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Bangkok.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 102,
+   "type": "bronze",
+   "name": "Scouting for Talent",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Bangkok.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 103,
+   "type": "gold",
+   "name": "One Night in Bangkok",
+   "detail": "Reach Bangkok Mastery Level 20.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 104,
+   "type": "bronze",
+   "name": "Guerrilla Warfare",
+   "detail": "Complete Freedom Fighters.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 105,
+   "type": "bronze",
+   "name": "Soup Sandwich",
+   "detail": "Ram Rose and Parvati, make Berg blow himself up and drown Graves.",
+   "group": "013",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 106,
+   "type": "bronze",
+   "name": "Giddy Up",
+   "detail": "Yee-haw to the hoedown.",
+   "group": "013",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 107,
+   "type": "silver",
+   "name": "A Feather In Your Cap",
+   "detail": "Complete all Mission Stories in Freedom Fighters.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 108,
+   "type": "bronze",
+   "name": "Colorado Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Colorado.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 109,
+   "type": "bronze",
+   "name": "Joint Operation",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Colorado.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 110,
+   "type": "gold",
+   "name": "Mission Complete",
+   "detail": "Reach Colorado Mastery Level 20.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 111,
+   "type": "bronze",
+   "name": "A Long Time Coming",
+   "detail": "Complete Situs Inversus.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 112,
+   "type": "bronze",
+   "name": "Master of Old and New",
+   "detail": "Serve Yamazaki Fugu poisoned sushi and eliminate Soders with the robotic arms.",
+   "group": "014",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 113,
+   "type": "bronze",
+   "name": "Flatline",
+   "detail": "Imagine meeting you here.",
+   "group": "014",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 114,
+   "type": "silver",
+   "name": "The Sensei",
+   "detail": "Complete all Mission Stories in Situs Inversus.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 115,
+   "type": "bronze",
+   "name": "Hokkaido Escalated",
+   "detail": "Complete Level 5 of an Escalation Contract set in Hokkaido.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 116,
+   "type": "bronze",
+   "name": "Come Prepared",
+   "detail": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hokkaido.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 117,
+   "type": "gold",
+   "name": "Sayōnara",
+   "detail": "Reach Hokkaido Mastery Level 20.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 118,
+   "type": "silver",
+   "name": "Seven Figures",
+   "detail": "Get a score above 1,000,000 points on The Pen and the Sword.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 119,
+   "type": "bronze",
+   "name": "No Floating",
+   "detail": "Shoot all buoys in the water.",
+   "group": "015",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 120,
+   "type": "bronze",
+   "name": "Forklift Tagging",
+   "detail": "Shoot and hit the forklift driving around in the far section of the harbor.",
+   "group": "015",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 121,
+   "type": "bronze",
+   "name": "Save the Poet",
+   "detail": "Complete The Pen and the Sword in Single Player.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 122,
+   "type": "bronze",
+   "name": "Hawkeye",
+   "detail": "Complete The Pen and the Sword as Silent Assassin.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 123,
+   "type": "bronze",
+   "name": "Double Trouble",
+   "detail": "Complete The Pen and the Sword in Multiplayer.",
+   "group": "015",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-12-19T19:23:42Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 124,
+   "type": "gold",
+   "name": "Pure Poetry",
+   "detail": "Complete all The Pen and the Sword Challenges.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  }
+ ]
+}

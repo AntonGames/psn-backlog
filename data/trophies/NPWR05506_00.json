@@ -1,0 +1,535 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Killzone Shadow Fall"
+  },
+  {
+   "id": "001",
+   "name": "Insurgent Expansion trophies"
+  },
+  {
+   "id": "002",
+   "name": "Intercept Expansion trophies"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Hero",
+   "detail": "Obtain all Killzone Shadow Fall trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "The Father",
+   "detail": "Complete level 'The Father'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 86.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "The Shadow",
+   "detail": "Complete level 'The Shadow'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.9
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Deniable",
+   "detail": "In 'The Shadow', operate without raising an alarm or disabling the security mainframe",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "The Doctor",
+   "detail": "Complete level 'The Doctor'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.2
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "The Patriot",
+   "detail": "Complete level 'The Patriot'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.8
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "The Helghast",
+   "detail": "Complete level 'The Helghast'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.8
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "The Agent",
+   "detail": "Complete level 'The Agent'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.3
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "The Handler",
+   "detail": "Complete level 'The Handler'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.7
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "The Dead",
+   "detail": "Complete level 'The Dead'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.3
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "The Destroyer",
+   "detail": "Complete level 'The Destroyer'",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "New Shadow",
+   "detail": "In 'The Savior', complete the mission without being spotted",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.3
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Violence is the answer?",
+   "detail": "In 'The Savior', kill 20 soldiers and still complete the mission",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "The Savior",
+   "detail": "Complete level 'The Savior' and prevent the escalation of a new war",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.6
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Outsmarted",
+   "detail": "In singleplayer, get a quadruple kill with a single Frag Grenade",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.4
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Outgunned",
+   "detail": "In singleplayer, kill 6 Helghast with headshots within a single adrenaline rush",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Outmaneuvered",
+   "detail": "In singleplayer, kill 5 Helghast with gunfire while ziplining",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "Elite Shadow Marshal",
+   "detail": "Complete all missions on Hard difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Conscientious Killer",
+   "detail": "Complete the campaign on any difficulty without shooting any civilians",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Shadows Cannot Be Killed",
+   "detail": "Complete the campaign on any difficulty without dying",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Gatherer",
+   "detail": "Find 50% of the collectibles in the campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "The Knowledge",
+   "detail": "Find all collectibles in the campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Tourist",
+   "detail": "Complete a match on every multiplayer map",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T05:18:00Z",
+   "rarity": 3
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Dominator",
+   "detail": "Win a match on every multiplayer map",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T05:38:49Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "On Your Way",
+   "detail": "Complete 200 challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-08T15:40:44Z",
+   "rarity": 2
+  },
+  {
+   "id": 25,
+   "type": "gold",
+   "name": "Multiplayer Elite",
+   "detail": "Complete 400 challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T20:18:49Z",
+   "rarity": 0.8
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Million Points",
+   "detail": "Get a total of 1,000,000 points in multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T20:27:35Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Scout",
+   "detail": "Max out any upgradable Scout ability",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-08T13:23:53Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Support",
+   "detail": "Max out any upgradable Support ability",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T02:41:21Z",
+   "rarity": 1.2
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Assault",
+   "detail": "Max out any upgradable Assault ability",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-08T15:56:27Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 30,
+   "type": "gold",
+   "name": "Jack Of All Trades",
+   "detail": "Max out all upgradable abilities",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T04:41:00Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 31,
+   "type": "gold",
+   "name": "Weapons Specialist",
+   "detail": "Unlock all attachments for all weapons",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T07:02:26Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Decorated",
+   "detail": "Earn a total of 500 accolades",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T07:57:43Z",
+   "rarity": 0.9
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Hacktivist",
+   "detail": "Reach the maximum level for the Hacking Ability",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T20:05:07Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Kleptomania",
+   "detail": "Reach the maximum level for the Stealing Ability",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T23:06:34Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "All Flavors",
+   "detail": "Make a kill with all primary weapons as an Insurgent",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T13:58:58Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Finders Keepers",
+   "detail": "Collect 25 Online Collectibles",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-04T23:09:01Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Remember me?",
+   "detail": "Make 25 kills with each one of the Retro weapons",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-11T05:22:19Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 38,
+   "type": "silver",
+   "name": "New Toys!",
+   "detail": "Reach the maximum level for the E-Pulse Emitter, Tactical Echo Emitter, and Guard Drone",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-10T13:08:09Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 39,
+   "type": "gold",
+   "name": "Like a Boss",
+   "detail": "Finish the campaign in Elite mode",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Pyromaniac",
+   "detail": "Get 250 kills with the Assault's Breacher automatic shotgun in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:10Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "High And Dry",
+   "detail": "Get 250 kills with the Marksman's LS70 sniper rifle in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:10Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Necromancer",
+   "detail": "Revive 50 Team mates in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:17Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Tactical Triplets",
+   "detail": "Get 250 kills with the Tactician Turrets in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:17Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Bare Hands",
+   "detail": "Get 5 brutal melee kills as each of the four Combat Roles in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:17Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Wallstreet Banker",
+   "detail": "Bank 2500 points as each of the four Combat Roles in co-op",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:17Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 46,
+   "type": "gold",
+   "name": "Co-op Captain",
+   "detail": "Win 50 co-op games",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-02T20:25:10Z",
+   "rarity": 0.1
+  }
+ ]
+}

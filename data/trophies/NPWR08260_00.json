@@ -1,0 +1,307 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "PlayStation® VR Worlds"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Complete every PlayStation® VR Worlds Trophy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "King of the Road",
+   "detail": "Complete all VR Luge Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "Training Wheels",
+   "detail": "Complete half of the VR Luge challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Tour of Duty",
+   "detail": "Complete all VR Luge Tour challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Time Traveler",
+   "detail": "Complete all Time Trial mode challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "No Claims Bonus",
+   "detail": "Complete all no collision challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Cone Free Zone",
+   "detail": "Hit a total of 100 cones",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Get Your Feet Wet",
+   "detail": "Complete any dive",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-08-30T13:42:56Z",
+   "rarity": 80.5
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "You're No Angel",
+   "detail": "Startle the angelfish",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-08-30T13:32:01Z",
+   "rarity": 87
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "Legend",
+   "detail": "Complete all of The London Heist challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "On The Up",
+   "detail": "Complete half of the London Heist challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-11-08T11:57:02Z",
+   "rarity": 24.2
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Members Only",
+   "detail": "Complete all of the Shooting Gallery challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Once Upon A Time In London",
+   "detail": "Complete the story of The London Heist",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-10-30T14:07:16Z",
+   "rarity": 53.2
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Refined Taste",
+   "detail": "Find classical music on Mickie’s radio",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-10-30T14:07:17Z",
+   "rarity": 28.9
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "Ace Pilot",
+   "detail": "Complete all Scavengers Odyssey Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Galactic Explorer",
+   "detail": "Complete half of the Scavengers Odyssey Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.6
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Battle-Hardened",
+   "detail": "Complete Scavengers Odyssey Part 1",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.6
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Born Scavenger",
+   "detail": "Complete Scavengers Odyssey Part 2",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.6
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Death from Above",
+   "detail": "Kill 15 enemies with a single explosive tank while jumping",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Danger Baller",
+   "detail": "Complete all of the Danger Ball challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Hemispherical",
+   "detail": "Complete half of the Danger Ball challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "No Contest",
+   "detail": "Complete all of the Danger Ball Tournament challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Will No One Face Me?",
+   "detail": "Complete all of the Danger Ball Quickplay challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Bullseye",
+   "detail": "Complete all of the Danger Ball Score Attack challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Quit Shoving",
+   "detail": "Push the guide in the Hub",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-06-12T20:38:48Z",
+   "rarity": 94.2
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Statuesque",
+   "detail": "Obtain your first statue upgrade",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-07-29T22:16:45Z",
+   "rarity": 87.4
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Midas Touch",
+   "detail": "Upgrade all statues to gold",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Call of Duty® Modern Warfare® II"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "We are RTB",
+   "detail": "Collect all the Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "silver",
+   "name": "Crocodile",
+   "detail": "Shoot three enemies while underwater in 'Wetwork'.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Must be Wind",
+   "detail": "Rescue the hostages in 'Countdown' without the enemies firing their weapons.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-11T08:15:31Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Gunless",
+   "detail": "Finish 'Alone' without firing a gun.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Test Drive",
+   "detail": "Drive five vehicle types in 'Violence and Timing'.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Ghost-in-Training",
+   "detail": "Reach the penthouse in 'El Sin Nombre' without killing anyone or triggering the alarm.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Don’t touch the deck!",
+   "detail": "In 'Dark Water' advance 90 meters towards the front of the ship without touching the deck.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Keeping this One",
+   "detail": "Reach Price using the first vehicle you hijack.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "Gentleman Thief",
+   "detail": "Open three safes in the Campaign.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Wall of Duty",
+   "detail": "Kill three Enemies with the Riot Shield in the Campaign or in Co-op.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Daredevil",
+   "detail": "While affected by one Flashbang, kill two enemies in the Campaign or in Co-op.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-11T08:26:54Z",
+   "rarity": 2
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Practice makes Perfect",
+   "detail": "Shoot all the targets in the training area in 'Ghost Team'.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2026-02-01T13:55:14Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "A Crappy Way to Die",
+   "detail": "Kill the enemy in the porta-potty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Nessie",
+   "detail": "Reach the barge without being seen in 'Wetwork'.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "No time to lose",
+   "detail": "Complete the CCTV sequence in four minutes.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2026-06-21T09:22:44Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Backpack Guy",
+   "detail": "Kill gassed or blinded enemies using a Molotov, Semtex and Frag in 'Prison Break'.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 16,
+   "type": "gold",
+   "name": "Cutting Heads off Snakes",
+   "detail": "Finish all Campaign missions on Veteran or Realism difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-11T13:35:45Z",
+   "rarity": 1.1
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "Time for Pints",
+   "detail": "Finish the Campaign on any difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-11T13:33:36Z",
+   "rarity": 14
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Nobody was There",
+   "detail": "Never trigger the alarm in 'Recon by Fire'.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Night Fight",
+   "detail": "Earn three Stars in 'Low Profile'.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-12T19:09:18Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Hellride",
+   "detail": "Earn three Stars in 'Denied Area'.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-13T18:57:05Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Kings of the Mountain",
+   "detail": "Earn three Stars in 'Defender: Mt. Zaya'.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-12T21:05:26Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Going Dark",
+   "detail": "Complete 'Low Profile' without triggering any alarms.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-12T19:24:23Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Only the Beginning",
+   "detail": "Earn at least one Star in Co-op.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-12T13:56:03Z",
+   "rarity": 1.6
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Full SSE",
+   "detail": "Find 20 intel fragments in Co-op.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-10-13T18:38:32Z",
+   "rarity": 0.2
+  }
+ ]
+}

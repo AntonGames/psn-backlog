@@ -1,0 +1,395 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "WIPEOUT™ OMEGA COLLECTION"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Transcendence",
+   "detail": "Earn all the trophies in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Elite Completist",
+   "detail": "ELITE PASS every event in the 2048 Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Rank 50",
+   "detail": "Reach Rank 50 in the 2048 Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Beat Zico: 2048",
+   "detail": "Equal or beat the lap time of 32.5 seconds on Downtown circuit, Speed Lap, A class, using the Feisar Speed ship",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Mach 1.5",
+   "detail": "Reach Zone 65 in any Zone Event",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Elite Campaign Legend",
+   "detail": "Obtain a gold medal for every cell in Race Campaign on Elite difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Beat Zico: HD",
+   "detail": "Equal or beat the lap time of 30.82 seconds on Anulpha Pass (Forward), Speed Lap, Venom, using the Piranha",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Completist",
+   "detail": "Complete all events in the 2048 Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Prototype",
+   "detail": "ELITE PASS all Prototype Ship Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Speed Thrills",
+   "detail": "ELITE PASS any A+ Class Challenge in the 2048 Campaign",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Tournament Ace",
+   "detail": "Win every race of an 8 stage Racebox tournament on Skilled or Elite difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Connected 2",
+   "detail": "Win 10 online races",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-01-15T18:25:40Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Campaign Legend",
+   "detail": "Obtain a gold medal for every cell in the HD and Fury Campaigns",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "2048 Champion",
+   "detail": "Complete the 2048 Season",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "2049 Champion",
+   "detail": "Complete the 2049 Season",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "2050 Champion",
+   "detail": "Complete the 2050 Season",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Impact",
+   "detail": "Obtain a medal for every cell in Impact",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-01-14T15:57:23Z",
+   "rarity": 2.2
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Warped",
+   "detail": "Obtain a medal for every cell in Warped",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Turbulence",
+   "detail": "Obtain a medal for every cell in Turbulence",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Vertigo",
+   "detail": "Obtain a medal for every cell in Vertigo",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Corruption",
+   "detail": "Obtain a medal for every cell in Corruption",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Speed Freak",
+   "detail": "Obtain a medal for every cell in Speed Freak",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Aftermath",
+   "detail": "Obtain a medal for every cell in Aftermath",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Meltdown",
+   "detail": "Obtain a medal for every cell in Meltdown",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Connected 1",
+   "detail": "Finish 10 online races",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-08-09T16:47:51Z",
+   "rarity": 2.1
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Deadly Momentum",
+   "detail": "Get eliminated in a race on Novice difficulty",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "50 Kills",
+   "detail": "Destroy 50 ships in Online Eliminator or Combat Events",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-06-12T20:17:35Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Rookie Reward",
+   "detail": "Win any race with Pilot Assist on",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-03-18T09:25:13Z",
+   "rarity": 19.1
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Mercenary",
+   "detail": "Get at least 500 loyalty points for each team (excluding Van-Über team)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Hold Your Fire",
+   "detail": "Reach stage 10 without firing on any track, in any Detonator event",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Flatland Flyer",
+   "detail": "Execute and land a successful barrel roll on Moa Therma",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Just Passing Through",
+   "detail": "Pass through 15 Zone Barriers in any Zone Battle event",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Zen Evasion",
+   "detail": "Win any single player Zone Battle event with a minimum target of 25 without absorbing",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "The Pure Four",
+   "detail": "Obtain 50,000 points on each of the following tracks in Zone Mode - Pro Tozo, Mallavol, Corridon 12 and Syncopia",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Double Kill",
+   "detail": "Eliminate at least two opponents in any race",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  }
+ ]
+}

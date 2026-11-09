@@ -1,0 +1,1284 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "BATMAN™: ARKHAM KNIGHT"
+  },
+  {
+   "id": "001",
+   "name": "A Matter of Family"
+  },
+  {
+   "id": "002",
+   "name": "Harley Quinn Story pack"
+  },
+  {
+   "id": "003",
+   "name": "Red Hood Story pack"
+  },
+  {
+   "id": "004",
+   "name": "Scarecrow Nightmare Missions"
+  },
+  {
+   "id": "005",
+   "name": "1989 Movie Pack"
+  },
+  {
+   "id": "006",
+   "name": "2008 Tumbler Batmobile Pack"
+  },
+  {
+   "id": "007",
+   "name": "GCPD Lockdown"
+  },
+  {
+   "id": "008",
+   "name": "1960’s TV Series Pack"
+  },
+  {
+   "id": "009",
+   "name": "Catwoman's Revenge"
+  },
+  {
+   "id": "010",
+   "name": "A Flip of a Coin"
+  },
+  {
+   "id": "011",
+   "name": "2016 Batman v Superman Batmobile Pack"
+  },
+  {
+   "id": "012",
+   "name": "Hero Challenges"
+  },
+  {
+   "id": "013",
+   "name": "Rogue Challenges"
+  },
+  {
+   "id": "014",
+   "name": "Season of Infamy"
+  },
+  {
+   "id": "015",
+   "name": "Original Arkham Batmobile"
+  },
+  {
+   "id": "016",
+   "name": "Community Challenge Pack"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "I AM the Batman!",
+   "detail": "Reclaim your city.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "A Battle Within",
+   "detail": "Fight for your sanity.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-03-25T07:43:20Z",
+   "rarity": 41.4
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "A Heart Broken in Two",
+   "detail": "Secure the secret base.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.6
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "A Leap of Faith",
+   "detail": "Complete 8 different jumps over 100 meters.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Absolution",
+   "detail": "Achieve 69 Stars in AR Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Angel in the Dark",
+   "detail": "Complete the trials and prove you are a worthy successor.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.8
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "As the Crow Flies",
+   "detail": "Escape from ACE Chemicals.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-01-23T07:27:01Z",
+   "rarity": 51
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Be Not Afraid",
+   "detail": "Win the war for Gotham.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.9
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Blunt Trauma",
+   "detail": "Perform every type of predator takedown.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Brotherhood of the Fist",
+   "detail": "Return of the Dynamic Duo.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.2
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Brutality 101",
+   "detail": "Perform 15 different combat moves in one FreeFlow.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Choice of Weapons",
+   "detail": "Use all five Batmobile weapons successfully in one tank battle.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.2
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "City of Fear",
+   "detail": "Defend the assault on your ally's fortress.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.8
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Cold World",
+   "detail": "Destroy the first weapons cache in Gotham City.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-25T06:25:53Z",
+   "rarity": 42.6
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Creature of the Night",
+   "detail": "Freedom of the city.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-02-15T14:18:51Z",
+   "rarity": 36.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Cycle of Violence",
+   "detail": "Use 100 Quick Gadgets while in free flow combat.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.1
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Dark Allegiances",
+   "detail": "Apprehend Scarecrow's senior commander.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.2
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Dark Wings Fly Away in Fear",
+   "detail": "What is the Cloudburst?",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-02-14T08:20:50Z",
+   "rarity": 39.7
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Days of Fire",
+   "detail": "Extinguish the fires in Gotham City.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.1
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Death and Glory",
+   "detail": "Perform 20 fear takedowns.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.5
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Death by Design",
+   "detail": "Obtain a key by completing the seventh Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.5
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Death of Innocents",
+   "detail": "Rescue station 17 fire crew.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.5
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Dirty Tricks",
+   "detail": "Achieve 3 minutes of drifting time in the Batmobile.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.7
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Double Jeopardy",
+   "detail": "Face off with an old friend.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.9
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Fear of Faith",
+   "detail": "Rescue the ACE Chemical workers.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-01-23T06:36:55Z",
+   "rarity": 53
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Fear of Success",
+   "detail": "Survive Scarecrow's ambush.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.2
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Fortunate Son",
+   "detail": "Achieve 46 Stars in AR Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Gates of Gotham",
+   "detail": "Destroy all of the militia watchtowers.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.7
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Gotham After Midnight",
+   "detail": "Glide for 400 meters while less than 20 meters from the ground.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Gotham Underground",
+   "detail": "Defuse all of the militia explosive ordinance in Gotham City.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.3
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Jekyll & Hyde",
+   "detail": "Stop the bank heist on Miagani Island and lock up the master mind in GCPD.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.9
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Journey into Knight",
+   "detail": "Even The Odds.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-01-07T15:31:48Z",
+   "rarity": 89.8
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Judgment Day",
+   "detail": "Win the rumble down under.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.5
+  },
+  {
+   "id": 33,
+   "type": "gold",
+   "name": "Knightfall",
+   "detail": "Initiate Knightfall Protocol.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.2
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Lethal Pursuits",
+   "detail": "Obtain a key by completing the ninth Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.3
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Living Hell",
+   "detail": "Interrogate the Militia APC Driver.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-03-10T19:11:00Z",
+   "rarity": 43.6
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Master of Fear",
+   "detail": "Wayne vs Crane.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.1
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Nine Lives",
+   "detail": "Obtain a key by completing the last Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.4
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "No Man's Land",
+   "detail": "Restore power to the bridges of Gotham City.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-02-03T11:14:58Z",
+   "rarity": 47.9
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Pieces of the Puzzle",
+   "detail": "Obtain a key by completing the second Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.3
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Point of Impact",
+   "detail": "Perform 5 perfect shots in a row with the Vulcan Gun without taking damage.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Riddle Me That",
+   "detail": "Lock up the Riddler in GCPD.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.3
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Riddler on the Rampage",
+   "detail": "Obtain a key by completing the fourth Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.4
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Run Through the Jungle",
+   "detail": "Fly under 3 main bridges between the islands in one continuous glide.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Savage Metal",
+   "detail": "Smash 10 militia transport vehicles off the road without using the immobilizer.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.2
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Scar of the Bat",
+   "detail": "Cure the doctor.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.3
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Seduction of the Gun",
+   "detail": "Achieve 50 critical shots on light tanks.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.7
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Sins of Youth",
+   "detail": "Achieve 23 Stars in AR Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.7
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Strange Deadfellows",
+   "detail": "Deploy the Cloudburst countermeasures.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-02-14T13:07:08Z",
+   "rarity": 37.6
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Streets of Gotham",
+   "detail": "Destroy all of the militia checkpoints.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.2
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "The Burning Question",
+   "detail": "Obtain a key by completing the fifth Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.7
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "The Cat and the Bat",
+   "detail": "Obtain a key by completing the third Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.6
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "The Cult",
+   "detail": "Save the sacrificial victim and lock up the executioner in GCPD.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.6
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "The Frequency of Fear",
+   "detail": "Scan Gotham City to pinpoint Scarecrow's location.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-01-22T19:14:03Z",
+   "rarity": 59.9
+  },
+  {
+   "id": 54,
+   "type": "silver",
+   "name": "The Long Halloween",
+   "detail": "Wayne vs Crane in New Story +.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.7
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "The Monster Machine",
+   "detail": "Track down and apprehend the serial killer.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.6
+  },
+  {
+   "id": 56,
+   "type": "bronze",
+   "name": "The Primal Riddle",
+   "detail": "Obtain a key by completing the sixth Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.2
+  },
+  {
+   "id": 57,
+   "type": "bronze",
+   "name": "The Real Deal",
+   "detail": "Takedown 20 moving cars without using the Batmobile.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "The Riddle Factory",
+   "detail": "Obtain a key by completing the eighth Riddler trial.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.1
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "The Road Home",
+   "detail": "Destroy all of the militia APC's.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.8
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "The Road to Hell",
+   "detail": "Successfully complete the first Riddler trial.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-01-08T10:15:07Z",
+   "rarity": 47.6
+  },
+  {
+   "id": 61,
+   "type": "bronze",
+   "name": "Touch of Death",
+   "detail": "Apprehend the weapons dealer and lock him up in GCPD.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.4
+  },
+  {
+   "id": 62,
+   "type": "bronze",
+   "name": "Trail of Fear",
+   "detail": "Lock up your first Supervillain in GCPD.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-01-08T08:22:06Z",
+   "rarity": 75.4
+  },
+  {
+   "id": 63,
+   "type": "bronze",
+   "name": "Who Rules The Night",
+   "detail": "Batman vs the Arkham Knight.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.9
+  },
+  {
+   "id": 64,
+   "type": "bronze",
+   "name": "With a Vengeance!",
+   "detail": "Take on the heavy artillery reinforcements.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-02-14T08:54:10Z",
+   "rarity": 39.2
+  },
+  {
+   "id": 65,
+   "type": "bronze",
+   "name": "A Fire in the Heavens",
+   "detail": "Free the hostages at the Ferris Wheel.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5
+  },
+  {
+   "id": 66,
+   "type": "bronze",
+   "name": "A House Made of Spun Glass",
+   "detail": "Free the hostages at the Merry-go-round.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.8
+  },
+  {
+   "id": 67,
+   "type": "bronze",
+   "name": "The Laughing Fish!",
+   "detail": "Free the hostages at the Ghost Ship.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 68,
+   "type": "silver",
+   "name": "A Courtship of Razors",
+   "detail": "Rescue your father.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 69,
+   "type": "silver",
+   "name": "All Snug in Their Beds",
+   "detail": "Uncover the secret history of the park.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 70,
+   "type": "bronze",
+   "name": "Ambush",
+   "detail": "Defeat 4 enemies within the duration of a single scare effect.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.9
+  },
+  {
+   "id": 71,
+   "type": "bronze",
+   "name": "Weird War Tales",
+   "detail": "Defeat 15 enemies using any type of hacking.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 72,
+   "type": "bronze",
+   "name": "A Blade of Memory",
+   "detail": "Destroy all Teeth, Balloons and Jack-In-The-Boxes.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 73,
+   "type": "silver",
+   "name": "Cuckoo for Incarceration",
+   "detail": "Rescue your friend.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.5
+  },
+  {
+   "id": 74,
+   "type": "silver",
+   "name": "Under The Red Hood",
+   "detail": "Shut down this operation.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.4
+  },
+  {
+   "id": 75,
+   "type": "silver",
+   "name": "Dark Victory",
+   "detail": "Escape the Nightmare.",
+   "group": "004",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 76,
+   "type": "silver",
+   "name": "Street Demonz",
+   "detail": "Achieve 33 Stars in AR Challenges using the 1989 Movie Batmobile.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 77,
+   "type": "silver",
+   "name": "Gangland Express",
+   "detail": "Achieve 33 Stars in AR Challenges using the 2008 Tumbler Batmobile.",
+   "group": "006",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 78,
+   "type": "silver",
+   "name": "Rough Justice",
+   "detail": "Stop Penguin's escape from GCPD.",
+   "group": "007",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.8
+  },
+  {
+   "id": 79,
+   "type": "silver",
+   "name": "Joy Ride",
+   "detail": "Achieve 33 Stars in AR Challenges using the 1960's TV Series Batmobile.",
+   "group": "008",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 80,
+   "type": "silver",
+   "name": "The Cat Came Back",
+   "detail": "Break into Riddler's secret hideout and exact your revenge.",
+   "group": "009",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 81,
+   "type": "silver",
+   "name": "Succession Plans",
+   "detail": "Break into Hell's Gate HQ and apprehend Two-Face.",
+   "group": "010",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 82,
+   "type": "silver",
+   "name": "The World's Finest",
+   "detail": "Achieve 21 Stars in AR Challenges using the 2016 Batman v Superman Batmobile.",
+   "group": "011",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 83,
+   "type": "silver",
+   "name": "The Big Leagues",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Robin.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 84,
+   "type": "silver",
+   "name": "Acts of Violence",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Nightwing.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 85,
+   "type": "silver",
+   "name": "Motherlode",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Batgirl.",
+   "group": "012",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 86,
+   "type": "silver",
+   "name": "Relentless",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Catwoman.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 87,
+   "type": "silver",
+   "name": "Shock and Awe",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Azrael.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 88,
+   "type": "silver",
+   "name": "Higher Learning",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Red Hood.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 89,
+   "type": "silver",
+   "name": "Vengeance Unlimited",
+   "detail": "Achieve 21 Stars in AR Challenges playing as Harley Quinn.",
+   "group": "013",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 90,
+   "type": "bronze",
+   "name": "The Demon Lives Again!",
+   "detail": "Follow the assassin's trail.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.3
+  },
+  {
+   "id": 91,
+   "type": "bronze",
+   "name": "Daughter Of The Demon!",
+   "detail": "Discover the Lazarus pit.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 92,
+   "type": "silver",
+   "name": "Ashes to Ashes",
+   "detail": "End the League of Assassins' war.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.9
+  },
+  {
+   "id": 93,
+   "type": "bronze",
+   "name": "The Scene of the Crime",
+   "detail": "Rescue Mad Hatter's first hostage.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7
+  },
+  {
+   "id": 94,
+   "type": "bronze",
+   "name": "Head Games",
+   "detail": "Rescue Mad Hatter's second hostage.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.6
+  },
+  {
+   "id": 95,
+   "type": "bronze",
+   "name": "In Storybook Endings",
+   "detail": "Lock up Mad Hatter in GCPD.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.4
+  },
+  {
+   "id": 96,
+   "type": "bronze",
+   "name": "Cold Case",
+   "detail": "Interrogate the Militia Lieutenant.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 97,
+   "type": "bronze",
+   "name": "Out in the Cold",
+   "detail": "Track down the cryopod.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6
+  },
+  {
+   "id": 98,
+   "type": "bronze",
+   "name": "The Resurrection and the Life",
+   "detail": "Survive the Militia onslaught.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.9
+  },
+  {
+   "id": 99,
+   "type": "bronze",
+   "name": "The Beast Beneath",
+   "detail": "Defeat the prisoners.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.3
+  },
+  {
+   "id": 100,
+   "type": "bronze",
+   "name": "Breaking the Skin",
+   "detail": "Gain access to the high security area.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 101,
+   "type": "bronze",
+   "name": "Evolution",
+   "detail": "Lockup Killer Croc in GCPD.",
+   "group": "014",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.1
+  },
+  {
+   "id": 102,
+   "type": "silver",
+   "name": "Life After Death",
+   "detail": "Achieve 21 Stars in AR Challenges using the Original Arkham Batmobile.",
+   "group": "015",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 103,
+   "type": "bronze",
+   "name": "What the Butler Saw",
+   "detail": "Complete the Wayne Manor AR Challenge as Batman without using any gadgets or taking any damage.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 104,
+   "type": "silver",
+   "name": "Secrets of the Batcave",
+   "detail": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 105,
+   "type": "bronze",
+   "name": "Silent Night, Deadly Night",
+   "detail": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 106,
+   "type": "silver",
+   "name": "Eternal",
+   "detail": "Complete the Endless Knight AR Challenge, taking out 50 Enemies as Batman.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 107,
+   "type": "silver",
+   "name": "The Chill in the Air",
+   "detail": "Complete the Crime Alley AR Challenge unharmed as Batman, Robin and Nightwing.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 108,
+   "type": "silver",
+   "name": "The Curtain Falls",
+   "detail": "Flawless FreeFlow in every round of the Monarch Theatre as Batman, Robin, Nightwing and Catwoman.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 109,
+   "type": "silver",
+   "name": "Requiem for a Killer",
+   "detail": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman.",
+   "group": "016",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  }
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Arizona Sunshine"
+  },
+  {
+   "id": "001",
+   "name": "Deadman DLC"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Go Outside",
+   "detail": "Unlock all the trophies in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Charley Horse",
+   "detail": "Play for a total of 2 hours",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T12:52:00Z",
+   "rarity": 47.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Eye see you..",
+   "detail": "Shoot with a sniper in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.7
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Green Thumb",
+   "detail": "Pick up all shovels inside the shop in the level Sunshine",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Howdeeyhow!",
+   "detail": "Finish the level Trailerpark",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.7
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "I'm not the only one?",
+   "detail": "Listen to the radio in the level Sunshine",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.5
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Rescued!",
+   "detail": "Complete the entire campaign!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.4
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "It's getting Hot Hot Hot!",
+   "detail": "Finish the level Canyon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.3
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Last Man Standing",
+   "detail": "Be the only survivor in Horde Mode",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T06:47:02Z",
+   "rarity": 5.4
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "LOOT!",
+   "detail": "Collect some loot!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T09:22:38Z",
+   "rarity": 61.8
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Master Scavenger",
+   "detail": "Collect a ton of loot!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T13:27:22Z",
+   "rarity": 35.1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Skull Cracker",
+   "detail": "Kill 300 zombies in Horde Mode (streak)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "The Sherrif has arrived!",
+   "detail": "Kill 600 zombies in Horde Mode (streak)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "VR Creep!",
+   "detail": "Play the game for 4 hours in a row",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Freddy, you there?",
+   "detail": "Play for a total of 3 hours",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.5
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "You Win!",
+   "detail": "Finish the level Sunshine",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.4
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "We have ourselves a Cowboy",
+   "detail": "Kill 400 zombies in Horde Mode (streak)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.5
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Baby Wipe War",
+   "detail": "Shoot with the Machine Gun in the Refinery",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.5
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "You climbed the \"Stellage\"",
+   "detail": "Climb the scaffold in the level Traintracks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 32.8
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Biting the Bullet",
+   "detail": "Finish the level Refinery",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.5
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Delayed",
+   "detail": "Finish the level Traintracks",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.6
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Flashed your way out!",
+   "detail": "Finish the level Caves",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.8
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Gun Collector",
+   "detail": "Collect all the guns in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "No Mercy",
+   "detail": "Kill all zombies that are locked up in the cage in Canyon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 51.3
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "And the award for Can Killer goes to...",
+   "detail": "Finish the level Base",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 82.3
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "So Sqhuishy",
+   "detail": "Throw a duck",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 53.4
+  },
+  {
+   "id": 26,
+   "type": "silver",
+   "name": "Quack Quack %$#@!",
+   "detail": "Collect all the ducks in the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Badabing Badaboom!",
+   "detail": "Kill 20 zombies using grenades",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T09:57:27Z",
+   "rarity": 28.9
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "It's a Sunny Day!",
+   "detail": "Finish the level Bridge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 55.9
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Steady Hand",
+   "detail": "Kill 50 zombies with a Headshot",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T08:56:18Z",
+   "rarity": 71.7
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "A Thousand Miles",
+   "detail": "Walk a distance of 10 miles",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.7
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Juicy Meat",
+   "detail": "Collect 20 burgers",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.7
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Medium well beef plz",
+   "detail": "Eat 10 burgers",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.4
+  },
+  {
+   "id": 33,
+   "type": "gold",
+   "name": "Headshots like a Boss!",
+   "detail": "Kill 100 zombies with a Headshot",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-06-29T09:12:05Z",
+   "rarity": 56.6
+  },
+  {
+   "id": 34,
+   "type": "gold",
+   "name": "Hard Boiled",
+   "detail": "Complete the Apocalyptic Mode",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "The Beginning Of The End",
+   "detail": "Finish Dead Man",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.4
+  },
+  {
+   "id": 36,
+   "type": "gold",
+   "name": "The Apocalypse of John",
+   "detail": "Finish Dead Man on Apocalyptic",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Wearing Smells From Laboratories",
+   "detail": "Collect all Dead Man DLC masks",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "One-Man Militia",
+   "detail": "Find all weapons in the Dead Man DLC",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Online",
+   "detail": "Restart the power",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.6
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Rocket Science",
+   "detail": "Launch the ICBM",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8
+  }
+ ]
+}

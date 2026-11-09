@@ -1,0 +1,373 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "RIGS MCL"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Pro",
+   "detail": "Obtain all Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "We Are the Champions",
+   "detail": "Be the Champion in League 1",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Superstar",
+   "detail": "Become an A-list celebrity",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Connoisseur",
+   "detail": "Purchase all RIGs",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Going Up",
+   "detail": "Be the Champion in League 2",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Exhibitionist",
+   "detail": "Complete every Trials challenge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Double Down",
+   "detail": "Win both the tournament and league in same League season",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "All-Rounder",
+   "detail": "Win a match with every RIG class",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T19:22:55Z",
+   "rarity": 0.9
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Takedown King",
+   "detail": "Win the Team Takedown tournament",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Bowl Winner",
+   "detail": "Win the Endzone tournament",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Teamwork",
+   "detail": "Perform a Touchdown Assist in Endzone",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T17:37:01Z",
+   "rarity": 4.6
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Power Play",
+   "detail": "Win the PowerSlam tournament",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Big Shot",
+   "detail": "Be the Champion in League 3",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.2
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Ace",
+   "detail": "Become the Top Gun",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Going Pro",
+   "detail": "Be promoted from Division 10",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T12:28:52Z",
+   "rarity": 1
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Up-and-Comer",
+   "detail": "Be promoted from Division 8",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T17:05:38Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 16,
+   "type": "gold",
+   "name": "Breaking Ranks",
+   "detail": "Be promoted from Division 6",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T19:59:18Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Pilot License",
+   "detail": "Complete the Tutorial",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.6
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Matchplay",
+   "detail": "Complete your first online match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T10:41:49Z",
+   "rarity": 4.3
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Open Season",
+   "detail": "Complete your first league match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T10:22:05Z",
+   "rarity": 31.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Most Valuable",
+   "detail": "Be the MVP in a match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T16:45:56Z",
+   "rarity": 9.8
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "New Ride",
+   "detail": "Purchase your first RIG",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T10:09:36Z",
+   "rarity": 37.5
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Draft Pick",
+   "detail": "Hire your first paid hire pilot",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "A Word From Our Sponsor",
+   "detail": "Complete your first sponsorship",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T11:02:21Z",
+   "rarity": 18
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Show Off",
+   "detail": "Complete your first Trials challenge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.9
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Suit Up",
+   "detail": "Customize your pilot",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T10:11:13Z",
+   "rarity": 35.9
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Destruction Derby",
+   "detail": "Win a Team Takedown match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T11:37:25Z",
+   "rarity": 14.7
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Denial Ain't a River in Egypt",
+   "detail": "Perform a defensive takedown in Endzone",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T10:45:33Z",
+   "rarity": 11.3
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Goooooooooooal!",
+   "detail": "Score a goal in PowerSlam",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T11:01:00Z",
+   "rarity": 15.2
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "In The Zone",
+   "detail": "Score a touchdown in Endzone",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T13:28:01Z",
+   "rarity": 12
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Mano a Mano",
+   "detail": "Win a 1 vs 1 matchmade match",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T11:37:24Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Globetrotter",
+   "detail": "Win a match in every arena",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T13:14:17Z",
+   "rarity": 6
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "U-List",
+   "detail": "Become a U-list celebrity",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-23T12:14:50Z",
+   "rarity": 8
+  }
+ ]
+}

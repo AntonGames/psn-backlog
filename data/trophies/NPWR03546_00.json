@@ -1,0 +1,741 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Assassin's Creed® III"
+  },
+  {
+   "id": "001",
+   "name": "The Battle Hardened Pack"
+  },
+  {
+   "id": "002",
+   "name": "The Tyranny of King Washington Episode 1: The Infamy"
+  },
+  {
+   "id": "003",
+   "name": "The Tyranny of King Washington Episode 2: The Betrayal"
+  },
+  {
+   "id": "004",
+   "name": "The Tyranny of King Washington Episode 3: The Redemption"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Master Assassin",
+   "detail": "Get every trophy.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Rude Awakening",
+   "detail": "Re-Enter the Animus.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-23T20:41:30Z",
+   "rarity": 91.6
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Daddy Dearest",
+   "detail": "Complete Present - Stadium.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-08-20T10:05:47Z",
+   "rarity": 48.9
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Criss Cross",
+   "detail": "Complete Present - Skyscraper.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-08-03T12:39:30Z",
+   "rarity": 60.1
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "The End is Nigh",
+   "detail": "Complete Present - Abstergo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-08-28T11:26:49Z",
+   "rarity": 41.2
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "No Good Deed Goes Unpunished",
+   "detail": "Open the Temple Door and learn Desmond's fate.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-28T21:35:56Z",
+   "rarity": 30.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Mystery Guest",
+   "detail": "Complete Sequence 1 & 2.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-17T16:28:43Z",
+   "rarity": 72.1
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "How D'ya Like Them Apples",
+   "detail": "Complete Sequence 3.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-18T01:31:48Z",
+   "rarity": 65.4
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Heroes are Born",
+   "detail": "Complete Sequence 4.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-20T16:02:43Z",
+   "rarity": 63.8
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "The Day the Templars Cried",
+   "detail": "Complete Sequence 5.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-25T19:48:43Z",
+   "rarity": 60.4
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Tea is for Englishmen",
+   "detail": "Complete Sequence 6.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-03T15:06:08Z",
+   "rarity": 54.9
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "The Whites of Their Eyes",
+   "detail": "Complete Sequence 7.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-08T21:32:55Z",
+   "rarity": 51.3
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Caged Wolf",
+   "detail": "Complete Sequence 8.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-14T11:55:48Z",
+   "rarity": 49.3
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Two if by Sea",
+   "detail": "Complete Sequence 9.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-26T07:41:04Z",
+   "rarity": 45.4
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Grim Expectations",
+   "detail": "Complete Sequence 10.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-27T08:58:23Z",
+   "rarity": 41.4
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Difficult End",
+   "detail": "Complete Sequence 11.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-28T15:26:32Z",
+   "rarity": 39.3
+  },
+  {
+   "id": 16,
+   "type": "gold",
+   "name": "The Sum of Truth",
+   "detail": "Complete Sequence 12.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-28T20:31:16Z",
+   "rarity": 37
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Perfectionist",
+   "detail": "Complete 100% of all main mission constraints.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-28T20:22:56Z",
+   "rarity": 2.3
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "An Extraordinary Man",
+   "detail": "Complete the Encyclopedia of the Common Man.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Patent Not Pending",
+   "detail": "Craft one of Franklin's inventions to decorate your Manor.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.6
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "House Party",
+   "detail": "Recruit any of the Artisans and see them settled on the Homestead.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 51.2
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "A Complete Set",
+   "detail": "See all the optional characters settled at the Homestead.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Original Gamer",
+   "detail": "Win a game of Fanorona, Morris and Bowls on the Homestead.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Bring Down the House",
+   "detail": "Explore Fort Wolcott.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Kidd Gloves",
+   "detail": "Uncover the mystery of Oak Island.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.6
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "All Washed Up",
+   "detail": "Complete all Naval Missions aboard the Aquila.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Entrepreneur, not Pirate!",
+   "detail": "Complete all 12 Privateer Contracts.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.4
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Tumblehome",
+   "detail": "Upgrade the Aquila.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.7
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "By Invitation Only",
+   "detail": "Be invited to join a Club.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-20T16:07:38Z",
+   "rarity": 63.5
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "In Good Standing",
+   "detail": "Complete all challenges for any of the Clubs.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Man of the People",
+   "detail": "Liberate all districts in Boston OR New York.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.2
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Monopoly Man",
+   "detail": "Send a convoy to Boston, New York and the Frontier.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.1
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Head in the Cloud",
+   "detail": "Find all pivots and sync the Animus to the Cloud.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-08-28T23:16:45Z",
+   "rarity": 2.7
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Blowing in the Wind",
+   "detail": "Retrieve every page for one of Ben Franklin's Almanacs.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.6
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Completionist",
+   "detail": "Complete ALL progress tracker grid entries.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Multitasking",
+   "detail": "Complete 50% of the Progress Tracker entries.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.1
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Spit Roast",
+   "detail": "Perform a double assassination using a musket.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.5
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Circus Act",
+   "detail": "Kill 15 guards with a single cannon shot.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-27T08:47:54Z",
+   "rarity": 37.4
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Predator",
+   "detail": "Hang 5 enemies by using rope darts.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.4
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Prince of Thieves",
+   "detail": "Loot a convoy without killing any of its guards.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.7
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Whit's fur ye'll no go by ye!",
+   "detail": "Block a firing line 5 times by using a human shield.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-26T07:55:49Z",
+   "rarity": 39.3
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Jager Bomb",
+   "detail": "After becoming fully Notorious, kill 10 Jagers before losing your notoriety.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.9
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Magna cum Laude",
+   "detail": "Have a Trainee reach the Assassin Rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.3
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Coureur des Bois",
+   "detail": "Exchange undamaged pelts at all different general stores.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Eye Witness",
+   "detail": "Witness a predator killing an enemy.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.2
+  },
+  {
+   "id": 45,
+   "type": "silver",
+   "name": "Fin",
+   "detail": "Complete each of the epilogue missions unlocked after the credits roll.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-08-28T22:19:13Z",
+   "rarity": 24.8
+  },
+  {
+   "id": 46,
+   "type": "silver",
+   "name": "Abstergo Entertainment",
+   "detail": "Reach level 20 in the multiplayer mode.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-22T10:58:12Z",
+   "rarity": 3.6
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Hunter/Killer",
+   "detail": "Reach sequence 10 in a map on Wolfpack multiplayer mode.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T21:30:58Z",
+   "rarity": 4.3
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Winning Team",
+   "detail": "Be on the winning team at the end of a multiplayer game session.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T22:15:27Z",
+   "rarity": 7.5
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Personalized",
+   "detail": "Customize your multiplayer Profile and Character.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T21:46:23Z",
+   "rarity": 6
+  },
+  {
+   "id": 50,
+   "type": "silver",
+   "name": "The Truth Will Out",
+   "detail": "Unlock a hacked version of one of the Abstergo videos in the story quest.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T22:27:34Z",
+   "rarity": 1.7
+  },
+  {
+   "id": 51,
+   "type": "silver",
+   "name": "One for All",
+   "detail": "With any of the additional characters, perform 20 ‘Revive’ actions.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-21T00:45:00Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 52,
+   "type": "silver",
+   "name": "A New Challenger Appears",
+   "detail": "Finish a multiplayer game session with each of the additional characters.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-21T00:24:43Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 53,
+   "type": "silver",
+   "name": "Stubborn Stunner",
+   "detail": "Stun 3 pursuers without dying, playing with any of the additional characters.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T23:25:05Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 54,
+   "type": "silver",
+   "name": "Wolves for Lambs",
+   "detail": "Complete a Wolfpack multiplayer session on any of the additional maps.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-04-20T23:52:11Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Uniquely Familiar",
+   "detail": "Receive an unexpected gift.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 56,
+   "type": "silver",
+   "name": "A Wolf in Sheep's Clothing",
+   "detail": "Kill 25 enemies while staying cloaked.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "Frontiersman",
+   "detail": "Reach 100% synchronization in the Frontier.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.4
+  },
+  {
+   "id": 58,
+   "type": "silver",
+   "name": "West Point Payback",
+   "detail": "Defeat Benedict Arnold.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 59,
+   "type": "silver",
+   "name": "Frequent Flyer",
+   "detail": "Use Eagle Flight to travel 1 km.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 60,
+   "type": "silver",
+   "name": "The New Tea Party",
+   "detail": "Reach 100% synchronization in Boston.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 61,
+   "type": "silver",
+   "name": "Blindsided",
+   "detail": "Defeat Putnam.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 62,
+   "type": "silver",
+   "name": "Aftershock",
+   "detail": "Kill 125 enemies using Bear Might.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 63,
+   "type": "silver",
+   "name": "If I Can Make It There",
+   "detail": "Reach 100% synchronization in New York.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 64,
+   "type": "silver",
+   "name": "First in the Hearts",
+   "detail": "Defeat George Washington.",
+   "group": "004",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  }
+ ]
+}

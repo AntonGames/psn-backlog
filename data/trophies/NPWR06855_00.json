@@ -1,0 +1,719 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Battlefield™ Hardline Trophies"
+  },
+  {
+   "id": "001",
+   "name": "Battlefield™ Hardline Criminal Activity Trophies"
+  },
+  {
+   "id": "002",
+   "name": "Battlefield™ Hardline Robbery Trophies"
+  },
+  {
+   "id": "003",
+   "name": "Battlefield™ Hardline Getaway Trophies"
+  },
+  {
+   "id": "004",
+   "name": "Battlefield™ Hardline Betrayal Trophies"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Collect all other Battlefield™ Hardline Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.5
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "On the Job",
+   "detail": "Complete the Prologue in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Pressure Applied",
+   "detail": "Complete Ep. 1: Back to School",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 59.8
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Bumpy Ride",
+   "detail": "Complete Ep. 2: Checking Out",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 53.3
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Deal? What Deal?",
+   "detail": "Complete Ep. 3: Gator Bait",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.1
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Good Guys",
+   "detail": "Complete Ep. 4: Case Closed",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40.6
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "You Probably Have Questions",
+   "detail": "Complete Ep. 5: Gauntlet",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.4
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Snow Blind",
+   "detail": "Complete Ep. 6: Out of Business",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.3
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Hollyweird",
+   "detail": "Complete Ep. 7: Glass Houses",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 34.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "From Their Cold, Dead Hands",
+   "detail": "Complete Ep. 8: Sovereign Land",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Some Damn Fine Fireworks",
+   "detail": "Complete Ep. 9: Independence Day",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.2
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Served Cold",
+   "detail": "Complete Ep. 10: Legacy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.4
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Keep Digging, Detective",
+   "detail": "Complete any case file in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 62.9
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "By the Book",
+   "detail": "Do a Non-Lethal takedown on 10 criminals in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 56.9
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "You Tazed Him, Bro!",
+   "detail": "Stun 5 criminals with the T62 CEW in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.8
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Watched, Dawg",
+   "detail": "Identify 10 warrants with the scanner in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 23.4
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "You're Getting Good at This",
+   "detail": "Reach Expert Level 5 in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49.3
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Damn Thing Doesn't Work",
+   "detail": "Disarm 2 alarm boxes in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 33.6
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Cape and Ears Not Included",
+   "detail": "Climb a total of 10 meters with the grapple gun in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 50.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Fast Rope Expert",
+   "detail": "Travel a total of 90 meters with the zipline crossbow in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.1
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Almost an Expert",
+   "detail": "Reach Expert Level 10 in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37.2
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "True Detective",
+   "detail": "Complete 3 case files in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Motley Crew",
+   "detail": "Tag all criminals visible from the rooftop in Ep. 1: Back to School",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.2
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Real Action Hero",
+   "detail": "Kill a criminal in Independence Day from mid-air after escaping the penthouse",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.2
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Their Own Medicine",
+   "detail": "Steal a T62 CEW from the back of a police cruiser in Ep. 5: Gauntlet",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.5
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Graceful Exit",
+   "detail": "Don't get spotted in the Ep. 5: Gauntlet",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Knock Knock",
+   "detail": "Blow up the meth lab in Ep. 5: Gauntlet",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.1
+  },
+  {
+   "id": 27,
+   "type": "silver",
+   "name": "A Craftsman's Tools",
+   "detail": "Find your weapons in Sovereign Land before instigating combat in the trailer park",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.3
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "Hollywood Hideaway",
+   "detail": "Find Roark's hidden room in Ep. 7: Glass Houses",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.1
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "BYOB",
+   "detail": "Use the BBQ to take out the chef in Ep. 7: Glass Houses",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Social Climber",
+   "detail": "Find the hidden access to the mansion grounds in Ep. 10: Legacy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.4
+  },
+  {
+   "id": 31,
+   "type": "silver",
+   "name": "Case Closed",
+   "detail": "Complete all single-player episodes on Officer difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Super Cop",
+   "detail": "Complete all single-player episodes on Veteran difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 33,
+   "type": "gold",
+   "name": "Blue Eagle",
+   "detail": "Complete all single-player episodes on Hardline difficulty",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Bring 'em to Justice",
+   "detail": "Capture all warrants alive in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 35,
+   "type": "silver",
+   "name": "Dare Devil",
+   "detail": "Jump the dirt bike into the mansion grounds in Ep. 10: Legacy",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 36,
+   "type": "silver",
+   "name": "One Good Cop",
+   "detail": "Reach Expert Level 15 in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.7
+  },
+  {
+   "id": 37,
+   "type": "gold",
+   "name": "World's Greatest Detective",
+   "detail": "Complete all case files in single-player",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 38,
+   "type": "silver",
+   "name": "The Big Score",
+   "detail": "Win 5 Heist and 5 Blood Money matches in multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-14T11:53:24Z",
+   "rarity": 9
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "Electric Company",
+   "detail": "Take down 25 enemies with the T62 CEW in multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T23:10:45Z",
+   "rarity": 2.6
+  },
+  {
+   "id": 40,
+   "type": "gold",
+   "name": "Menz in the Hood",
+   "detail": "Kill 25 enemies with a MAC-10 and 25 with a Double-Barrel Shotgun in multiplayer",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T02:10:19Z",
+   "rarity": 1.4
+  },
+  {
+   "id": 41,
+   "type": "silver",
+   "name": "Dead or Alive",
+   "detail": "Pick up 100 Bounties in the Bounty Hunter game mode",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T12:56:54Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 42,
+   "type": "silver",
+   "name": "Got Your Back",
+   "detail": "Deny 100 Bounties in the Bounty Hunter game mode",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T13:24:57Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Enforcing the Law",
+   "detail": "Get 10,000 kills with the Enforcer class",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-17T01:53:51Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Operation Successful",
+   "detail": "Get 10,000 kills with the Operator class",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-19T21:34:28Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Mechanical Trigger Finger",
+   "detail": "Get 10,000 kills with the Mechanic Class",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-18T23:34:34Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Have Some Professionalism",
+   "detail": "Get 10,000 kills with the Professional class",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-16T15:31:15Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 47,
+   "type": "silver",
+   "name": "Tommy's Favorite",
+   "detail": "Earn a Gold Service Star with the M1A1",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T21:45:32Z",
+   "rarity": 0.9
+  },
+  {
+   "id": 48,
+   "type": "silver",
+   "name": "Nailed It!",
+   "detail": "Get 100 kills with the Nail Gun",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T13:05:00Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 49,
+   "type": "silver",
+   "name": "That's Not a Knife!",
+   "detail": "Kill 25 enemies with the Throwing Knife",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T22:38:25Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Small Crew, Big Job!",
+   "detail": "Win 10 Squad Heist matches",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T15:36:11Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 51,
+   "type": "gold",
+   "name": "Become Legend",
+   "detail": "Reach Rank 150",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-16T11:41:58Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Grandpa's Automatic",
+   "detail": "Earn a Gold Service Star with the M1 Carbine",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T23:32:05Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Bag of Tricks",
+   "detail": "Get an RPG kill while carrying the bag in a Capture the Bag match",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T13:50:35Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "I'll Be Back!",
+   "detail": "Earn a Gold Service Star with the 1887",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T00:14:44Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 55,
+   "type": "silver",
+   "name": "Here's Johnny!",
+   "detail": "Kill 75 enemies with the Fire Axe",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T22:43:16Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 56,
+   "type": "gold",
+   "name": "Test Your Mettle",
+   "detail": "Complete 25 Competitive Matches",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-03-25T17:48:38Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "The Ultimate Betrayal",
+   "detail": "Win a Heist match as a Cop and as a Criminal on each of the Betrayal maps",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T14:52:33Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 58,
+   "type": "silver",
+   "name": "Bio-Beware!",
+   "detail": "Kill 50 enemies with Inquisition Swords",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T21:23:49Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 59,
+   "type": "silver",
+   "name": "Locked & Loaded, Good to Go",
+   "detail": "Enter a match after crafting weapons in all five Gun Bench slots",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T03:05:44Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 60,
+   "type": "bronze",
+   "name": "Dressed to the Sixteens",
+   "detail": "Enter a match after customizing all 16 Class and Faction outfits",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T23:39:18Z",
+   "rarity": 1.2
+  },
+  {
+   "id": 61,
+   "type": "silver",
+   "name": "Bolt From the Blue",
+   "detail": "Get a Gold Service Star with the M1903",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-12T23:02:43Z",
+   "rarity": 0.3
+  },
+  {
+   "id": 62,
+   "type": "bronze",
+   "name": "Ghost Ride the Whip",
+   "detail": "Get a Roadkill with the Hearse without being inside it",
+   "group": "004",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-08-13T13:58:49Z",
+   "rarity": 0.3
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Until Dawn"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "A Symphony of Horror Trophies",
+   "detail": "You collected all Gold, Silver and Bronze trophies in Until Dawn",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.6
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Fatal Grudge",
+   "detail": "Chris chose to shoot Ashley",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.2
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "The Exorcism of Emily",
+   "detail": "Mike shot Emily",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Ashley Snaps",
+   "detail": "Ashley snapped and let Chris die",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.7
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "You Let The Wrong One In!",
+   "detail": "Ashley or Chris opened the trap door and let the monster in",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-02-02T19:58:24Z",
+   "rarity": 21.4
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Let eM In",
+   "detail": "Mike allowed Emily to stay in the basement",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.1
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Instant Inferno",
+   "detail": "Sam immediately flicked the switch to set the lodge ablaze",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.6
+  },
+  {
+   "id": 7,
+   "type": "gold",
+   "name": "The Tale of The Two Sisters",
+   "detail": "The group found all the clues from the Twins Clueline",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.9
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "The Fateful Descent",
+   "detail": "The group found all the clues from the 1952 Clueline",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "You Opened Their Eyes",
+   "detail": "The group found all the clues from the Mystery Man Clueline",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 10,
+   "type": "gold",
+   "name": "Four Daughters Of Darkness",
+   "detail": "All of the girls survived until dawn",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.2
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "They All Live",
+   "detail": "All eight friends survived until dawn",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.5
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "This Is THE End",
+   "detail": "Nobody survived until dawn",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.7
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Don't Scare Jessica To Death",
+   "detail": "Jessica survived her night of terror",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.2
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "The Skilful Wolf Man",
+   "detail": "Mike kept the wolf alive throughout the Sanatorium",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Scream Too!",
+   "detail": "Mike cut off his fingers to free himself from the bear trap",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2016-02-01T20:40:02Z",
+   "rarity": 39.7
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "The Psycho Path",
+   "detail": "Sam or Ashley attacked the psycho with a weapon",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 46.9
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "The Quicker Man",
+   "detail": "All the boys escaped death",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10
+  },
+  {
+   "id": 18,
+   "type": "gold",
+   "name": "Night of the Totem Hunter",
+   "detail": "The group found all the totems on the mountain",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  }
+ ]
+}

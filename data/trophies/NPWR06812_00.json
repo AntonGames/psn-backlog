@@ -1,0 +1,164 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Journey"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "bronze",
+   "name": "Threshold",
+   "detail": "Cross the broken bridge without completely rebuilding it.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.7
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Mirage",
+   "detail": "Find the hidden desert flower.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Explore",
+   "detail": "Discover all cloth creatures in the desert.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.4
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Adventure",
+   "detail": "Pass through 15 gates while surfing through the sunken city.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Trials",
+   "detail": "Sneak through the underground passage without tearing your scarf.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26.1
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Ancestors",
+   "detail": "Find a mysterious creature hidden in the temple.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.3
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "History",
+   "detail": "Uncover all 10 ancient glyphs.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Crossing",
+   "detail": "Reach the summit with a companion and return to the beginning.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Rebirth",
+   "detail": "Finish the game and return to the beginning.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Companion",
+   "detail": "Finish the game with the same partner for the majority of the journey and return to the beginning.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Reflection",
+   "detail": "Sit and meditate with another player for more than 20 seconds.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-05T19:32:41Z",
+   "rarity": 10.4
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Wonder",
+   "detail": "Meet 10 or more unique travelers.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.1
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Return",
+   "detail": "Start the journey again after a week long break.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-11-28T13:15:05Z",
+   "rarity": 28.8
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "Transcendence",
+   "detail": "Collect all unique glowing symbols across one or more journeys.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.6
+  }
+ ]
+}

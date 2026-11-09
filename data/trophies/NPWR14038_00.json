@@ -1,0 +1,142 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Paranormal Activity"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Tortured Soul",
+   "detail": "Find every trophy.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Big Brother",
+   "detail": "Finish the game with the alternate ending.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Head Games",
+   "detail": "You dropped dad's head through the basketball hoop!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Hell Yeah",
+   "detail": "You finished the game in hardcode mode.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "House Hunter",
+   "detail": "Enter the house.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-04-28T17:56:01Z",
+   "rarity": 88.2
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Lock Smith",
+   "detail": "Use every key.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.1
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "She Crazy",
+   "detail": "Finished the game with the normal ending.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.3
+  },
+  {
+   "id": 7,
+   "type": "gold",
+   "name": "Survivor",
+   "detail": "Complete the game without dying.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "All Juiced Up",
+   "detail": "Found every battery",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "Whimp",
+   "detail": "Throw the football.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.3
+  },
+  {
+   "id": 10,
+   "type": "gold",
+   "name": "Word smith",
+   "detail": "Read every letter.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.6
+  },
+  {
+   "id": 11,
+   "type": "gold",
+   "name": "You are so vain",
+   "detail": "Trigger the mirror scare.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.8
+  }
+ ]
+}

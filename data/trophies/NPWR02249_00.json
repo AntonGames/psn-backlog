@@ -1,0 +1,417 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Rayman® Origins"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Sweet Dreams!",
+   "detail": "Won ALL trophies in the game! SICK!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Betilla's Back!",
+   "detail": "Head Nymph Betilla is Free!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-12-21T11:18:31Z",
+   "rarity": 94.6
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Beautiful Beats!",
+   "detail": "Holly Luya, the Music Nymph is Free!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 68.9
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Feed the Fairy!",
+   "detail": "Edith Up, the Gourmet Fairy is Free!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.3
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Merm-Aid!",
+   "detail": "Annetta Fish, the Ocean Nymph is Free!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 44.7
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Nymphs Rock!",
+   "detail": "Helena Handbasket, the Mountain Nymph is Free!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 38.8
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Nothing Lasts Forever…",
+   "detail": "Ding, Dong, the Livid Boss is Dead!",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.1
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Scout",
+   "detail": "You found 10 hidden cages.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.2
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Explorer",
+   "detail": "You found 25 hidden cages.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 28.5
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "Dr. Lividstone, I presume?",
+   "detail": "You found ALL hidden cages.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.9
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Speedy!",
+   "detail": "Earned 5 speed trophies!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.6
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Turbo!",
+   "detail": "Earned 15 speed trophies!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 12,
+   "type": "gold",
+   "name": "Nitro!",
+   "detail": "Earned ALL speed trophies!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Electoon Friend",
+   "detail": "Completed 10 Medallions.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.3
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Electoon Hero",
+   "detail": "Completed 25 Medallions.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 15,
+   "type": "gold",
+   "name": "Electoon Legend",
+   "detail": "Completed ALL Medallions.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.8
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Milk Tooth",
+   "detail": "Earned 1 Skull Tooth.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 52.7
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Full Mouth",
+   "detail": "Earned 5 Skull Teeth.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.6
+  },
+  {
+   "id": 18,
+   "type": "gold",
+   "name": "The Jaw!",
+   "detail": "Earned ALL Skull Teeth.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.3
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Pop! Pop! BOOM!",
+   "detail": "Popped 50 Enemy Bubbles.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-12-21T11:46:50Z",
+   "rarity": 75.9
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "The Bubblizer!",
+   "detail": "Chain-Bubblized 4 Enemies.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-12-21T11:23:21Z",
+   "rarity": 71.5
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "I'm Back!",
+   "detail": "Replayed any completed map.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2025-12-21T11:39:06Z",
+   "rarity": 65
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Painless!",
+   "detail": "Completed a level without taking a hit!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72.4
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Vacuum Snack!",
+   "detail": "Inhaled 50 things on Moskito-back.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.3
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "No Panic!",
+   "detail": "Saved ALL Darktooned Wizards in \"Port 'O Panic\".",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.7
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "B Side!",
+   "detail": "Played an Unlocked Character in any map.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2026-10-05T17:45:00Z",
+   "rarity": 61.4
+  },
+  {
+   "id": 26,
+   "type": "silver",
+   "name": "Hover Happy!",
+   "detail": "One hour of flight time!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.3
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Crusher!",
+   "detail": "Crushed 50 Enemies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 41.4
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Crush Combo!",
+   "detail": "Simultaneously crushed 4 enemies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 26
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Sprinter!",
+   "detail": "Sprinted a Marathon!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.1
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Fisher King!",
+   "detail": "Swam a Marathon!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 27.9
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Kung Fu Combo!",
+   "detail": "Perform a swipe-to-air Kick Combo!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 32,
+   "type": "silver",
+   "name": "Hyperspeed!",
+   "detail": "Sprinted for an Entire Level!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.1
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Boing! Boing! Boing!",
+   "detail": "Bounce-Bubblized 11 Enemies without landing in \"Polar Pursuit!\"",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.9
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Blue Baron!",
+   "detail": "Beat the Giant Eel within 60 Seconds in \"Aim for the Eel.\"",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 36.1
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Survivor!",
+   "detail": "Survived a Piranha Pond without a scratch!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 45.5
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Back At You!",
+   "detail": "You Bubblized a Hunter with his own live missile!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.9
+  }
+ ]
+}

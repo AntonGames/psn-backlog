@@ -1,0 +1,682 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Tom Clancy's Ghost Recon Future Soldier™"
+  },
+  {
+   "id": "001",
+   "name": "Tom Clancy's Ghost Recon Future Soldier™: Arctic Strike Pack"
+  },
+  {
+   "id": "002",
+   "name": "Tom Clancy's Ghost Recon Future Soldier™: Raven Strike Pack"
+  },
+  {
+   "id": "003",
+   "name": "Tom Clancy's Ghost Recon Future Soldier™: Khyber Strike Pack"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "All Trophies obtained",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Loose Thread",
+   "detail": "Secure Gabriel Paez",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-12-01T15:30:39Z",
+   "rarity": 71.8
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "What Goes Up...",
+   "detail": "Shoot down the cargo plane",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-09T11:15:44Z",
+   "rarity": 62.9
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Precious Cargo",
+   "detail": "Secure the VIP and transfer him to the exfiltration team",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-18T10:29:03Z",
+   "rarity": 56.9
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Source Control",
+   "detail": "Secure the VIP and transfer them to the exfiltration team",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-18T13:19:54Z",
+   "rarity": 50
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "EOD",
+   "detail": "Destroy the Russian weapons transfer station",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-18T14:24:00Z",
+   "rarity": 46.4
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "...Must Come Down",
+   "detail": "Destroy the plane with the weapons system on board while it is in flight",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-18T15:49:00Z",
+   "rarity": 42.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Blood Brother",
+   "detail": "Rescue the Georgian Spec Ops",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-07-19T01:00:09Z",
+   "rarity": 39
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Fuel for the Fire",
+   "detail": "Secure the drilling ships and complete the mission",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-09-27T21:08:59Z",
+   "rarity": 35.1
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Breathing Room",
+   "detail": "Destroy the second piece of enemy artillery",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-09-28T23:29:41Z",
+   "rarity": 33.6
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Special Election",
+   "detail": "Rescue Russian President Volodin from the prison camp",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-09-29T22:24:49Z",
+   "rarity": 30.8
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Relieved of Command",
+   "detail": "Kill the general commanding the Moscow defenses",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-09-30T22:45:06Z",
+   "rarity": 27.9
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "No Loose Ends",
+   "detail": "Eliminate the leader of the Raven's Rock faction",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2022-10-01T01:47:03Z",
+   "rarity": 24.4
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Just Another Day at the Office",
+   "detail": "Complete the campaign for the first time",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-01T01:46:35Z",
+   "rarity": 24.2
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Advanced Warfighter",
+   "detail": "Complete the campaign in Veteran",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-01T01:46:42Z",
+   "rarity": 13.2
+  },
+  {
+   "id": 15,
+   "type": "gold",
+   "name": "Future Soldier",
+   "detail": "Complete the campaign in Elite",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-01T01:46:49Z",
+   "rarity": 2.9
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Battle Buddies",
+   "detail": "Complete the campaign in Co-op",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-01T01:46:56Z",
+   "rarity": 1.2
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Tactician",
+   "detail": "Complete 50% of the tactical challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-18T22:44:20Z",
+   "rarity": 4.2
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Master Tactician",
+   "detail": "Complete 100% of the tactical challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-02T22:41:49Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Qualified",
+   "detail": "Have a Ghost Skill of 90% for a single mission",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-07-09T11:31:37Z",
+   "rarity": 27.1
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Good Enough for Government Work",
+   "detail": "Have a Ghost Skill of 80% for all missions",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2022-10-01T16:36:54Z",
+   "rarity": 0.7
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Quality Beats Quantity",
+   "detail": "Defeat all 50 enemy waves on Guerilla mode (any difficulty, any map)",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-24T14:08:37Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Doing Work",
+   "detail": "Kill 1000 enemies while in Guerrilla mode",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Good Effect on Target",
+   "detail": "In Guerrilla mode, kill more than 5 enemies with an airstrike",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-22T22:16:17Z",
+   "rarity": 3.7
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Just a Box",
+   "detail": "While in Guerrilla mode, complete an infiltration sequence without being detected",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-22T21:38:16Z",
+   "rarity": 18
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Tour of Duty: Nigeria",
+   "detail": "Win 3 MP matches of any game type on each: Pipeline, Market, Sand Storm, and Overpass maps",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T21:39:49Z",
+   "rarity": 4
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Tour of Duty: Arctic",
+   "detail": "Win 3 MP matches of any game type on each: Underground, Mill, and Alpha maps",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T21:52:26Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Tour of Duty: North Sea",
+   "detail": "Win 3 MP matches of any game type on each: Harbor, Cargo, and Rig maps",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T22:11:47Z",
+   "rarity": 3
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "Call, Answered",
+   "detail": "Complete all Tours of Duty",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T22:11:55Z",
+   "rarity": 2.6
+  },
+  {
+   "id": 29,
+   "type": "gold",
+   "name": "High Speed, Low Drag",
+   "detail": "Reach Level 50 on any character",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-18T21:56:02Z",
+   "rarity": 1.8
+  },
+  {
+   "id": 30,
+   "type": "silver",
+   "name": "Armorer",
+   "detail": "Spend 25 attachment credits with each role",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-22T09:26:01Z",
+   "rarity": 2.1
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Coordinated Assault",
+   "detail": "Use the Coordination System to reach an objective",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T00:43:28Z",
+   "rarity": 8.3
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "High-Value Target",
+   "detail": "Kill 5 High-Value Targets in Quick Matches",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T17:21:15Z",
+   "rarity": 4.3
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Mod Rookie",
+   "detail": "Add an attachment to any gun",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T21:06:43Z",
+   "rarity": 16.6
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Kitted Out",
+   "detail": "Customize 1 weapon with an external attachment at every attachment point",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T21:08:44Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Recon Specialist",
+   "detail": "Complete 5 Intel Assists in Quick Matches",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T01:46:20Z",
+   "rarity": 9.5
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "True Ghost",
+   "detail": "Get 10 consecutive kills in one Quick Match without dying",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T02:38:54Z",
+   "rarity": 4.6
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Counter-Intelligence",
+   "detail": "Interrupt an enemy's attempt to data hack a teammate 5 times, by killing or stunning the enemy",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T00:48:00Z",
+   "rarity": 1.3
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Field Tested",
+   "detail": "Play 5 MP matches of each game type",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T20:23:00Z",
+   "rarity": 0.9
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Tuned Up",
+   "detail": "Customize all the internal parts of one weapon",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T21:08:50Z",
+   "rarity": 9.5
+  },
+  {
+   "id": 40,
+   "type": "silver",
+   "name": "Mod Pro",
+   "detail": "Spend 50 Attachment points to add attachments to various guns",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T22:42:52Z",
+   "rarity": 5.2
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Actionable Intel",
+   "detail": "Complete 10 Coordinated Kills",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T00:39:35Z",
+   "rarity": 0.6
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Backup",
+   "detail": "Complete 5 Savior Kills in Quick Matches",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-13T23:25:42Z",
+   "rarity": 12.6
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Cross-trained",
+   "detail": "Reach Level 10 on one Rifleman, one Scout, and one Engineer character",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-21T20:45:21Z",
+   "rarity": 4.1
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Conflict Domination",
+   "detail": "Be part of a squad match where your team wins by a margin of 500 points or more",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T01:10:22Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Siege Domination",
+   "detail": "Be part of a squad match where your team captures the objective in under 2 minutes",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T00:08:01Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Decoy Domination",
+   "detail": "In squad matches your team completes the key objective first, five times.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T01:58:18Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Saboteur Domination",
+   "detail": "Be part of a squad match where your team takes the bomb into the enemy base in under 2 minutes",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T21:08:44Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "Anything You Can Do...",
+   "detail": "Complete a Daily Friend Challenge through all return fire volleys",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T02:53:16Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "...I Can Do Better",
+   "detail": "Complete 20 Daily Friend Challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T22:13:10Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Total Domination",
+   "detail": "Earn all of the Domination Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-17T01:10:35Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 51,
+   "type": "bronze",
+   "name": "Tour of Duty: Moscow",
+   "detail": "Win 3 MP matches of any game type on each: Skyline, Riot, and Evicted maps",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-16T00:27:09Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 52,
+   "type": "bronze",
+   "name": "Stockade Domination",
+   "detail": "Be part of a squad match where your team eliminates the enemy in under 2 minutes.",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-16T22:31:03Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 53,
+   "type": "bronze",
+   "name": "Clean Slate",
+   "detail": "Take down all four HVTs",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 54,
+   "type": "bronze",
+   "name": "Tables Turned",
+   "detail": "Fight your way out of a Bodark ambush",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 55,
+   "type": "bronze",
+   "name": "Package Delivery",
+   "detail": "Secure General Kozlov",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 56,
+   "type": "gold",
+   "name": "Dirty Work",
+   "detail": "Complete all 3 maps in Raven Strike on Elite",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 57,
+   "type": "silver",
+   "name": "Maximum Effort",
+   "detail": "Defeat all tactical challenges in Raven Strike",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 58,
+   "type": "bronze",
+   "name": "Tour of Duty: Peshawar",
+   "detail": "Win 3 MP of any game type on each: Switchback, Palace, and Transit maps",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-14T02:34:22Z",
+   "rarity": 0.2
+  },
+  {
+   "id": 59,
+   "type": "bronze",
+   "name": "Takeover Domination",
+   "detail": "Be part of a squad match where your team wins by more than 100 points.",
+   "group": "003",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-11-16T23:18:24Z",
+   "rarity": 0.1
+  }
+ ]
+}

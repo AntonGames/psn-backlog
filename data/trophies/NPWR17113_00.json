@@ -1,0 +1,249 @@
+{
+ "groups": [
+  {
+   "id": "001",
+   "name": "HITMAN™ 2 New York"
+  },
+  {
+   "id": "002",
+   "name": "HITMAN™ 2 Siberia"
+  },
+  {
+   "id": "003",
+   "name": "HITMAN™ 2 Haven Island"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "bronze",
+   "name": "Break the Bank",
+   "detail": "Complete \"Golden Handshake.\"",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Defenestration",
+   "detail": "Dump the stock and take the scenic exit.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Award-Core",
+   "detail": "Assassinate target with the award and exit the mission via the main entrance, data core in hand.",
+   "group": "001",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Lock, Stock, and Barrel",
+   "detail": "Complete all Mission Stories in Golden Handshake.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "The Gold Account",
+   "detail": "Complete Golden Handshake on Master Difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Under the Radar",
+   "detail": "Select a Starting Location and use an Informant to smuggle an item into Milton-Fitzpatrick.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "Top of the Heap",
+   "detail": "Reach New York Mastery Level 15.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "In a League of Their Own",
+   "detail": "Get a score above 1,000,000 points on Crime and Punishment.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Fragile Alliance",
+   "detail": "Make Roman Khabko kill Vitaly Reznikov and subsequently try to run away on his own.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Second Shooter",
+   "detail": "Summon assistance by shooting locker 137.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Falcon and the Snowman",
+   "detail": "Complete Crime and Punishment in Single Player.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.3
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Never Knew What Hit Them",
+   "detail": "Complete Crime and Punishment as Silent Assassin.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Two for One",
+   "detail": "Complete Crime and Punishment in Multiplayer.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-12-19T19:28:54Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "Capital Punishment",
+   "detail": "Complete all Crime and Punishment Challenges.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Island and Chill",
+   "detail": "Complete The Last Resort.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.2
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "The Dundee",
+   "detail": "Make like the famous Aussie and leave.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "The Pleasure",
+   "detail": "Shoot for gold and look to the sea.",
+   "group": "003",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Full House",
+   "detail": "Complete all Mission Stories for The Last Resort.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "The Platinum Package",
+   "detail": "Complete The Last Resort on Master Difficulty.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Extra Luggage",
+   "detail": "Select a Starting Location and use an Informant to smuggle an item onto Haven Island.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Null and Void",
+   "detail": "Reach Haven Island Mastery Level 20.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  }
+ ]
+}

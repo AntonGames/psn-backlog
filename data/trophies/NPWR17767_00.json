@@ -1,0 +1,230 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DOOM 2"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Completionist",
+   "detail": "Unlock all trophies in DOOM 2",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "The Space Station",
+   "detail": "Beat all the space station levels (episodes 1-11)",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-03-06T11:02:09Z",
+   "rarity": 15
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "The City",
+   "detail": "Beat all the city levels (episodes 12-20)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.9
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Hell",
+   "detail": "Beat all the hell levels (episodes 21-30)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.8
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "The Master Levels",
+   "detail": "Beat all the Master Levels",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "I'm Superbad!",
+   "detail": "Beat DOOM 2 in under 2 hours",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Butcher",
+   "detail": "Get 25 kills in deathmatch",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Glorious",
+   "detail": "Get 100 kills in deathmatch",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "When I'm With You",
+   "detail": "Beat every level on Nightmare in co-operative mode",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Until It Is Done",
+   "detail": "Get 100 chainsaw kills",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.3
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Heavenly Joy",
+   "detail": "Shoot 200 bullets consecutively with the machine gun",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-11-12T20:29:10Z",
+   "rarity": 10.7
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Bad Monster!",
+   "detail": "Kill yourself and an enemy with your own rocket explosion",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-11-08T12:41:34Z",
+   "rarity": 20.7
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Skeet Shooting",
+   "detail": "Kill 4 enemies in 1 shot with the super shotgun",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-11-15T08:14:18Z",
+   "rarity": 17.5
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "Superior Firepower",
+   "detail": "Kill 12 enemies in one shot with the BFG",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "That Can't Be Good",
+   "detail": "Take damage from an environmental hazard",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-11-07T22:15:02Z",
+   "rarity": 38.8
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Not So Friendly Fire",
+   "detail": "Cause an enemy to kill another enemy",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-11-04T18:49:28Z",
+   "rarity": 77.6
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Slip of the Finger",
+   "detail": "Kill a teammate in co-operative multiplayer",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2020-11-08T12:46:53Z",
+   "rarity": 12.9
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "It's a Secret",
+   "detail": "Find a secret level",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.4
+  },
+  {
+   "id": 18,
+   "type": "gold",
+   "name": "Not a Very Good Secret",
+   "detail": "Find all the secret levels",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.6
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Indiscriminate",
+   "detail": "Kill one of every enemy",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.8
+  }
+ ]
+}

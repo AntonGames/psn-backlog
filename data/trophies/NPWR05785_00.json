@@ -1,0 +1,395 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Ratchet & Clank™"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Gadget Master",
+   "detail": "Obtain All Ratchet & Clank™ Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.5
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Bolt Commando",
+   "detail": "Gather All 40 Golden Bolts throughout the game",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Skillful",
+   "detail": "Master all 30 skill points",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.8
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Ratchet, King Midas",
+   "detail": "Obtain all ten gold weapons",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.3
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Drek This!",
+   "detail": "Defeat Chairman Drek",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.4
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Speedy",
+   "detail": "Beat the hoverboard challenge in less than 1:35 on Rilgar",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.6
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Ultimate Animal",
+   "detail": "Obtain the R.Y.N.O.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.1
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Twisted Hoverboard",
+   "detail": "Do a \"Twisty\" McMarx\" in the hoverboard race",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.2
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Unlock Sketchbook",
+   "detail": "Attain 15 Skill Points to Unlock Sketchbook in Menu",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.1
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Vandal",
+   "detail": "Destroy all streetlights in Oltanis",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.6
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Girl Trouble",
+   "detail": "Defeat Blarg Station Alien Queen using only the wrench!",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.6
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Gadgeteer",
+   "detail": "Obtain all regular weapon gadgets",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.3
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Nano This!",
+   "detail": "Upgrade to Ultra Nanotech",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Bolt Collector",
+   "detail": "Collect 1,000,000 Bolts",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.3
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "All Qwark'd Up",
+   "detail": "Defeat Captain Qwark's Ship",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.5
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Eat Lead",
+   "detail": "Use a Sand Mouse to destroy all the tanks on Batalia",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.8
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Hey, Over Here!",
+   "detail": "Lure an enemy into a forcefield on Orxon",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.7
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Strike a Pose!",
+   "detail": "Stand between Al's Roboshack Statue's legs on Kerwan",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.2
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Vehicle Bombardier",
+   "detail": "Blow Up 10 Vehicles on Eudora",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.4
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Cluck, Cluck",
+   "detail": "Turn a tank into a chicken on Rilgar",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Qwarktastic",
+   "detail": "Destroy Captain Qwark training robot on Kerwan",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.6
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Take Aim",
+   "detail": "Destroy a fighter or bomber on Novalis",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.4
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "Transported",
+   "detail": "Destroyed three flying transports on Aridia",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.1
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "Destroyed",
+   "detail": "On Gaspar, blow up all Blarg destroyers",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.3
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Sniper",
+   "detail": "Shoot a Scream through the sniper hole on Orxon",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.6
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Lombax Magnetic",
+   "detail": "Obtain the Magneboots",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 30.2
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Buried Treasure",
+   "detail": "Find and destroy all the crates in the ocean on Pokitaru",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.9
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Hit Me More!",
+   "detail": "Obtain the Premium Nanotech upgrade",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.6
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "These are not the droids you're looking for...",
+   "detail": "Obtain the Persuader",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 24.5
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Magician",
+   "detail": "Score 4500+ on a hoverboard race on Kalebo III",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.1
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Very Sucky",
+   "detail": "Obtain the Suck Cannon",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2016-07-01T18:10:11Z",
+   "rarity": 49.7
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Pest Control",
+   "detail": "Kill all Anklebiters on Planet Hoven",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.9
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Sitting Ducks",
+   "detail": "Destroy all cargo ships in the base on Orbital Oltanis",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.1
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Careful Cruise",
+   "detail": "Traverse the water region without losing any health on Veldin's Orbital Station",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Going Commando",
+   "detail": "Kill 10 elite guards with only the wrench on Veldin",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.1
+  }
+ ]
+}

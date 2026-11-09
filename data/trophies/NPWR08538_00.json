@@ -1,0 +1,524 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Need for Speed™"
+  },
+  {
+   "id": "001",
+   "name": "Living Game"
+  },
+  {
+   "id": "002",
+   "name": "Prestige and Speedlists"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Platinum Trophy",
+   "detail": "Earn all Need for Speed™ Trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.1
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Home Is Where Your Car Is",
+   "detail": "Acquire your spot in the garage",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-05-23T08:21:18Z",
+   "rarity": 80.7
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "Early Days",
+   "detail": "Reach REP Level 10",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 55.1
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "Getting Noticed",
+   "detail": "Reach REP Level 25",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 39.9
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Can I Get Your Autograph?",
+   "detail": "Reach REP Level 50",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.2
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Guidance From Amy",
+   "detail": "Compete against Amy's high horsepower contacts",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 40
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "RWB",
+   "detail": "Meet the legendary builder Nakai-San",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.6
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Iconic Builder",
+   "detail": "Become a Build Icon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.7
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "I Am Speed",
+   "detail": "Beat Magnus' record time",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.4
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "Urban Outlaw",
+   "detail": "Beat Magnus' personal challenge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.1
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Fulfilling The Need",
+   "detail": "Become a Speed Icon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.1
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "The Hoonigan",
+   "detail": "Become a Style Icon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.5
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Single Take Star",
+   "detail": "Complete a single-take of Ken's Gymkhana",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22.2
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Unstoppable",
+   "detail": "Beat the Outlaw's \"2 roadblocks in a pursuit\" challenge",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.4
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Surprised? Me Neither",
+   "detail": "Uncover the truth about the Outlaw",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.9
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Above The Law",
+   "detail": "Become an Outlaw Icon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.4
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "One For All...",
+   "detail": "Find yourself a crew",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 37
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Choo Choo!",
+   "detail": "Complete the drift train mission with the Risky Devil crew",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 25.8
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "... And All For One",
+   "detail": "Reach the top with your crew",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.1
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "The Ultimate Icon",
+   "detail": "Become the Ultimate Icon",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.2
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "Tuned For Excellence",
+   "detail": "Win any event with a tuned car",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 55.4
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Beyond Extreme",
+   "detail": "Tune a car to max drift or grip settings",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.6
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Triple Crown",
+   "detail": "Win three events in a row",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 48.8
+  },
+  {
+   "id": 23,
+   "type": "silver",
+   "name": "Social Scene",
+   "detail": "Get called out by other racers 50 times for your skills",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.5
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Full House",
+   "detail": "Fill each spot in your garage",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.9
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Building Your stable",
+   "detail": "Purchase another car for your garage",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 49
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Serious Fun",
+   "detail": "Complete 15 daily challenges",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 18.4
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "No Filter",
+   "detail": "Take your first snapshot",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 72
+  },
+  {
+   "id": 28,
+   "type": "silver",
+   "name": "That Perfect Moment",
+   "detail": "Max out all 5 scoring styles in a single moment",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Full Power",
+   "detail": "Equip top end performance parts to each category of a car",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Training Wheels Off",
+   "detail": "Learn to drive with style",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 35.8
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Fanboi",
+   "detail": "Put Ken's or Morohoshi's car in your garage",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.4
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Iconoclast",
+   "detail": "Win events driving Ken's and Morohoshi's cars",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.6
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Mental Unblock",
+   "detail": "Get a 350000 Drift Score in Mental Block with Ken's car",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Hit The Ceiling",
+   "detail": "Reach REP Level 70",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.3
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Eddie Is Back",
+   "detail": "Complete Eddie's Challenge",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.8
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Zero To Hero",
+   "detail": "Win an event in Eddie's Car",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Wrap Artist",
+   "detail": "Share a Wrap with the Need for Speed™ Community",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 10.8
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "Climbing the Ranks",
+   "detail": "Reach Monthly Rank 10 by Completing Daily Challenges",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.3
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Filter Addict",
+   "detail": "Take a Snapshot with a Filter in Snapshot Pro Mode",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Kustom Kar",
+   "detail": "Buy your first Hot Rod",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "Wrap It Up",
+   "detail": "Download a shared wrap",
+   "group": "001",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-05-23T08:23:52Z",
+   "rarity": 52.8
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Drag Queen",
+   "detail": "Win five Drag Race events",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.4
+  },
+  {
+   "id": 43,
+   "type": "bronze",
+   "name": "Basic Bronze",
+   "detail": "Win all the Prestige events",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 44,
+   "type": "bronze",
+   "name": "Gold Plated",
+   "detail": "Win Gold on all Prestige events",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Speed Master",
+   "detail": "Win all the events in a Speedlist",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  }
+ ]
+}

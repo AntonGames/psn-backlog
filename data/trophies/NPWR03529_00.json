@@ -1,0 +1,263 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Ratchet & Clank™: Full Frontal Assault"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Collector",
+   "detail": "Collect all trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.8
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Let's Set up Camp",
+   "detail": "The QForce has been re-established, now go save the Galaxy! (Campaign)",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-03-31T17:28:11Z",
+   "rarity": 87.1
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Smorgasbord of Destruction",
+   "detail": "Buy one of each available turret type in any level. (Any mode)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.8
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Hoverboot Madness",
+   "detail": "Cross the gap leading to the Major Weapon Node in Korgon Refinery without touching the moving platforms. (Campaign)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.3
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Variety is the Spice of Life",
+   "detail": "Use every weapon in the game at least once.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 20.3
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "QForce, Activate!",
+   "detail": "Play Co-Op in split screen or online.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-13T13:00:24Z",
+   "rarity": 36.7
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Hero Academy",
+   "detail": "Play a ranked match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T13:08:30Z",
+   "rarity": 10
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Custom Job",
+   "detail": "Play a custom match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T13:19:07Z",
+   "rarity": 10.2
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Fear Does Not Exist…",
+   "detail": "Play 5 pvp matches.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-09T13:36:46Z",
+   "rarity": 8.1
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "No Tank You",
+   "detail": "Defeat a Grungarian tank before it reaches your base in any level. (Any Mode)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 31.1
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Zurgo's Revenge",
+   "detail": "Restore all Planetary Defense Centers and discover Zurgo's intentions. (Campaign)",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 29.4
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "Rack 'em and Hack 'em",
+   "detail": "Successfully trigger all bonuses on 5 hacker puzzles in a row.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-03-31T17:37:17Z",
+   "rarity": 23.1
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Intergalactic Dance Party",
+   "detail": "Get at least 1 of every enemy in the game to dance by using the Groovitron. (Any Mode)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.1
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "A Night at the Mansion",
+   "detail": "Get 8 transmorphed bunnies to dance on screen at once.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.7
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Crushed Ice",
+   "detail": "Shatter 25 frozen enemies.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-03-06T17:20:30Z",
+   "rarity": 24.7
+  },
+  {
+   "id": 15,
+   "type": "gold",
+   "name": "Ironmadman",
+   "detail": "Hoverboot 112 Miles, Run 26.2 Miles and Hoverboot Glide for 2.4 miles across all game modes.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.6
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "QForce Master",
+   "detail": "Unlocked for earning the rank of Master.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.4
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "Defenseless",
+   "detail": "Complete a level other than Zurgo's Lair of Doom without purchasing any base defenses. (Campaign)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.9
+  },
+  {
+   "id": 18,
+   "type": "gold",
+   "name": "Peace through Ridiculous Firepower",
+   "detail": "Land the killing blow on 10 Grungarian tanks.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.2
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Save Ammo, Smack a Fool",
+   "detail": "Defeat 50 Grungarian Brawlers using your melee weapon.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-03-14T12:07:20Z",
+   "rarity": 31.5
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Ready for Armageddon",
+   "detail": "Upgrade all weapons to level 3. (Campaign)",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.6
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "Back to the Basement",
+   "detail": "Complete the campaign.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21.4
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Over the Top",
+   "detail": "Beat 3 or more of the Insomniac Challenge Times. (Any Campaign Levels)",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  }
+ ]
+}

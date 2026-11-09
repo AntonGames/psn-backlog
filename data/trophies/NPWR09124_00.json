@@ -1,0 +1,296 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Unravel™"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "The Red thread",
+   "detail": "Collect all trophies",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Renewed",
+   "detail": "Mend a broken bond",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.3
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "No stone unturned",
+   "detail": "Find every secret",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.7
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Not so fragile after all",
+   "detail": "Finish each level from start to finish without dying",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "Missing piece",
+   "detail": "Find the first missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-03-11T17:13:25Z",
+   "rarity": 67.4
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Watch the waves",
+   "detail": "Find the second missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-06-09T17:29:57Z",
+   "rarity": 41.6
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Found at last",
+   "detail": "Find the third missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-06-13T09:46:59Z",
+   "rarity": 27.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Walkabout",
+   "detail": "Find the fourth missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-07-27T06:51:00Z",
+   "rarity": 24
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Everlasting",
+   "detail": "Find the fifth missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 21
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Scarred earth",
+   "detail": "Find the sixth missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.5
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "Shut down",
+   "detail": "Steal the sixth missing piece back",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.9
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Reach out",
+   "detail": "Find the seventh missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.7
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Cold but warm",
+   "detail": "Find the eighth missing piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 16.2
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Time will catch up",
+   "detail": "Find a broken half piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 15.1
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "The end is not the end",
+   "detail": "Find the other broken half piece",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.4
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Gardener",
+   "detail": "Tear down all the thistles in one go",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-06-13T09:08:41Z",
+   "rarity": 13.6
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Eagle eye",
+   "detail": "Find the secret hidden in the tree tops where you fly",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-06-09T17:35:25Z",
+   "rarity": 6.3
+  },
+  {
+   "id": 17,
+   "type": "gold",
+   "name": "Pacifist",
+   "detail": "Make it through the mire in one go without swatting any mosquitoes",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.3
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Get a clew",
+   "detail": "Get the secret hidden in the mountain maze",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2017-07-01T18:27:46Z",
+   "rarity": 19.8
+  },
+  {
+   "id": 19,
+   "type": "gold",
+   "name": "Pathfinder",
+   "detail": "Make it to the water wheel without using a log raft",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Dig where you stand",
+   "detail": "Use the excavator to find a secret",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.9
+  },
+  {
+   "id": 21,
+   "type": "silver",
+   "name": "Undaunted",
+   "detail": "Find the secret in the crushing zapping death machine",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11
+  },
+  {
+   "id": 22,
+   "type": "silver",
+   "name": "Obsessive",
+   "detail": "Break all the ice on the way to the letterbox in one go",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Snowfall",
+   "detail": "Clear all the snowy branches in one go",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8
+  },
+  {
+   "id": 24,
+   "type": "silver",
+   "name": "Reckless",
+   "detail": "Find the secret in the engine room",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.5
+  },
+  {
+   "id": 25,
+   "type": "silver",
+   "name": "Flow",
+   "detail": "Use your lasso to jump between 25 different points without touching the ground",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.3
+  }
+ ]
+}

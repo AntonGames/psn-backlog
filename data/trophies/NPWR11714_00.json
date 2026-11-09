@@ -1,0 +1,252 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "虚拟现实乐园"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "白金杯",
+   "detail": "完成所有的“PlayStation® 虚拟现实乐园”奖杯",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "道路之王",
+   "detail": "完成所有的“虚拟现实 疾速滑行”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "辅助轮",
+   "detail": "完成一半的“虚拟现实 疾速滑行”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.9
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "任务神兵",
+   "detail": "完成所有的“虚拟现实 疾速滑行”巡回赛挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "时空旅人",
+   "detail": "完成所有的计时模式挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 5,
+   "type": "silver",
+   "name": "无索赔奖励",
+   "detail": "完成所有的无碰撞挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "无三角锥区",
+   "detail": "撞击 100 个三角锥",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "湿身体验",
+   "detail": "完成任意下潜",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 78.1
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "不配当天使",
+   "detail": "吓吓天使鱼",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 89
+  },
+  {
+   "id": 9,
+   "type": "gold",
+   "name": "王牌驾驶",
+   "detail": "完成所有的“星际穿梭者”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "银河探险家",
+   "detail": "完成一半的“星际穿梭者”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5
+  },
+  {
+   "id": 11,
+   "type": "silver",
+   "name": "千锤百炼",
+   "detail": "完成“星际穿梭者”第 1 段落",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 17.5
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "天生的穿梭者",
+   "detail": "完成“星际穿梭者”第 2 段落",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.3
+  },
+  {
+   "id": 13,
+   "type": "gold",
+   "name": "天降横祸",
+   "detail": "跳跃时使用炸药桶消灭 15 个敌人",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 14,
+   "type": "gold",
+   "name": "碰撞球大师",
+   "detail": "完成所有的“碰撞球”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "危险半球体",
+   "detail": "完成一半的“碰撞球”挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "无可匹敌",
+   "detail": "完成所有的“碰撞球”锦标赛挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "还有人敢来挑战吗？",
+   "detail": "完成所有的“碰撞球”快速游戏挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "正中红心",
+   "detail": "完成所有的“碰撞球”得分挑战",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "停止推动",
+   "detail": "按下主画面中的光球指南",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-07-30T13:52:05Z",
+   "rarity": 92.4
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "雕像般的优雅",
+   "detail": "取得第一个雕像升级",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-07-30T14:04:05Z",
+   "rarity": 80.2
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "点石成金",
+   "detail": "将所有雕像升级至黄金级",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  }
+ ]
+}

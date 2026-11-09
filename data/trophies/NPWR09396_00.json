@@ -1,0 +1,591 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "DRIVECLUB™ BIKES"
+  },
+  {
+   "id": "001",
+   "name": "EBR"
+  },
+  {
+   "id": "002",
+   "name": "Suzuki"
+  },
+  {
+   "id": "003",
+   "name": "No Limits"
+  },
+  {
+   "id": "004",
+   "name": "MV Agusta"
+  },
+  {
+   "id": "005",
+   "name": "Finish Line"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Super Biker",
+   "detail": "Unlock all other Trophies.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 1,
+   "type": "bronze",
+   "name": "Take The Stabilizers Off",
+   "detail": "Complete your first Event on a Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-10-18T19:26:27Z",
+   "rarity": 73.1
+  },
+  {
+   "id": 2,
+   "type": "bronze",
+   "name": "Speed Demon",
+   "detail": "Beat your first Speed Check Face-Off.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-10-18T19:24:54Z",
+   "rarity": 70
+  },
+  {
+   "id": 3,
+   "type": "bronze",
+   "name": "Nice Leathers",
+   "detail": "Customise your Rider.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-02T08:58:33Z",
+   "rarity": 23.9
+  },
+  {
+   "id": 4,
+   "type": "bronze",
+   "name": "One for the Collection",
+   "detail": "Save a Replay at the end of an Event (Bikes Only).",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-03T17:20:47Z",
+   "rarity": 18.5
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "Community Service",
+   "detail": "Participate in an Evolution Bike Challenge.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-01-14T14:30:00Z",
+   "rarity": 6.6
+  },
+  {
+   "id": 6,
+   "type": "bronze",
+   "name": "Star Power",
+   "detail": "Complete a Bike Tour Event with the maximum number of available stars.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2017-11-10T19:02:16Z",
+   "rarity": 52.8
+  },
+  {
+   "id": 7,
+   "type": "bronze",
+   "name": "Norway Trophy",
+   "detail": "Win the 'Norway Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 22
+  },
+  {
+   "id": 8,
+   "type": "bronze",
+   "name": "Bike Curious",
+   "detail": "Unlock your first Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2019-04-02T18:35:06Z",
+   "rarity": 37.3
+  },
+  {
+   "id": 9,
+   "type": "bronze",
+   "name": "Skills School",
+   "detail": "Using Single Event, setup and complete a Skill Event.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-02T09:02:46Z",
+   "rarity": 21.5
+  },
+  {
+   "id": 10,
+   "type": "bronze",
+   "name": "India Trophy",
+   "detail": "Win the 'India Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 13.7
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "Any Takers?",
+   "detail": "Send a Solo Bike Challenge to 10 or more players.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2018-02-03T18:53:19Z",
+   "rarity": 3.5
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Japan Trophy",
+   "detail": "Win the 'Japan Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 9.5
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "Half a Dozen",
+   "detail": "Unlock your fourth Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 19.1
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Aperture Science",
+   "detail": "Use Photo Mode for a cumulative period of 1 hour (Bikes Only).",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Scotland Trophy",
+   "detail": "Win the 'Scotland Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 16,
+   "type": "silver",
+   "name": "Hoarder",
+   "detail": "Unlock your seventh Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.7
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Wheelie Good",
+   "detail": "Hold a single Wheelie for a distance of 500m or more.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.8
+  },
+  {
+   "id": 18,
+   "type": "silver",
+   "name": "Chile Trophy",
+   "detail": "Win the 'Chile Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.4
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Pristine Leathers",
+   "detail": "Complete a 5 lap Race or longer without falling off your Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 12.4
+  },
+  {
+   "id": 20,
+   "type": "silver",
+   "name": "Saddle Sore",
+   "detail": "Max out one Bike to Level 15.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2020-02-09T13:27:34Z",
+   "rarity": 4.5
+  },
+  {
+   "id": 21,
+   "type": "gold",
+   "name": "Unconventional Overtake",
+   "detail": "Successfully overtake a competitor whilst performing a Stoppie.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 6.2
+  },
+  {
+   "id": 22,
+   "type": "gold",
+   "name": "Canada Trophy",
+   "detail": "Win the 'Canada Trophy' event in Tour on gold star difficulty.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.7
+  },
+  {
+   "id": 23,
+   "type": "gold",
+   "name": "Serious Collector",
+   "detail": "Unlock your tenth Bike.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 7.3
+  },
+  {
+   "id": 24,
+   "type": "gold",
+   "name": "I'll Save That For Later",
+   "detail": "Save a Multiplayer Replay at the end of a Race after finishing on the podium with 6 or more competitors (Bikes Only).",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-02-03T17:20:48Z",
+   "rarity": 2.5
+  },
+  {
+   "id": 25,
+   "type": "gold",
+   "name": "Tourist Trophy",
+   "detail": "Gain all stars in the Bike Tour.",
+   "group": "default",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3
+  },
+  {
+   "id": 26,
+   "type": "gold",
+   "name": "Weekend Warrior",
+   "detail": "Max out all 12 Bikes to Level 15.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 27,
+   "type": "gold",
+   "name": "Challenge Accepted",
+   "detail": "In Time Trial complete Sinclair Pass in 01:28.500 or less with the Kawasaki Ninja ZX-10R 30th Anniversary Edition.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.4
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "EBR Beginner",
+   "detail": "Gain a star in any event of 'EBR'.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 11.9
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "EBR Champion",
+   "detail": "Win the 'EBR' Trophy event on gold star difficulty.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.4
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "EBR Completionist",
+   "detail": "Gain all stars in 'EBR'.",
+   "group": "001",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.5
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Suzuki Beginner",
+   "detail": "Gain a star in any event of 'Suzuki'.",
+   "group": "002",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2018-04-28T14:31:32Z",
+   "rarity": 5.4
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Suzuki Contender",
+   "detail": "Unlock the 'Suzuki' Trophy event.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.6
+  },
+  {
+   "id": 33,
+   "type": "silver",
+   "name": "Suzuki Champion",
+   "detail": "Win the 'Suzuki' Trophy event on gold star difficulty.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 34,
+   "type": "silver",
+   "name": "Suzuki Completionist",
+   "detail": "Gain all stars in 'Suzuki'.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.4
+  },
+  {
+   "id": 35,
+   "type": "gold",
+   "name": "Suzuki Challenger",
+   "detail": "In Time Trial complete Asagiri Highland Raceway V1 in 01:28.500 or less with the Suzuki GSX-S1000.",
+   "group": "002",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.1
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "No Limits Beginner",
+   "detail": "Gain a star in any event of 'No Limits'.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 14.3
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "No Limits Contender",
+   "detail": "Unlock the 'No Limits' Trophy event.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.4
+  },
+  {
+   "id": 38,
+   "type": "silver",
+   "name": "No Limits Champion",
+   "detail": "Win the 'No Limits' Trophy event on gold star difficulty.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.2
+  },
+  {
+   "id": 39,
+   "type": "silver",
+   "name": "No Limits Completionist",
+   "detail": "Gain all stars in 'No Limits'.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.2
+  },
+  {
+   "id": 40,
+   "type": "gold",
+   "name": "No Limits Challenger",
+   "detail": "In Time Trial complete Chungará Lake - Reversed in 01:10 or less with the Honda Civic Type R.",
+   "group": "003",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "MV Agusta Beginner",
+   "detail": "Gain a star in any event of 'MV Agusta'.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.3
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "MV Agusta Contender",
+   "detail": "Unlock the 'MV Agusta' Trophy event.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  },
+  {
+   "id": 43,
+   "type": "silver",
+   "name": "MV Agusta Champion",
+   "detail": "Win the 'MV Agusta' Trophy event on gold star difficulty.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 44,
+   "type": "silver",
+   "name": "MV Agusta Completionist",
+   "detail": "Gain all stars in 'MV Agusta'.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.2
+  },
+  {
+   "id": 45,
+   "type": "gold",
+   "name": "MV Agusta Challenger",
+   "detail": "In Time Trial complete Tamil Nadu Circuit V1 in 01:16.300 or less with the MV Agusta F4 RC.",
+   "group": "004",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 46,
+   "type": "bronze",
+   "name": "Finish Line Beginner",
+   "detail": "Gain a star in any event of 'Finish Line'.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 8.2
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Finish Line Contender",
+   "detail": "Unlock the 'Finish Line' Trophy event.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 4.4
+  },
+  {
+   "id": 48,
+   "type": "silver",
+   "name": "Finish Line Champion",
+   "detail": "Win the 'Finish Line' Trophy event on gold star difficulty.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.9
+  },
+  {
+   "id": 49,
+   "type": "silver",
+   "name": "Finish Line Completionist",
+   "detail": "Gain all stars in 'Finish Line'.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2.1
+  },
+  {
+   "id": 50,
+   "type": "gold",
+   "name": "Finish Line Challenger",
+   "detail": "In Time Trial complete Kinloch - Reversed in 01:14.000 or less with the Koenigsegg Regera.",
+   "group": "005",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  }
+ ]
+}

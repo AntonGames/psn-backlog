@@ -1,0 +1,340 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "Worms W.M.D"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "Worms Master Diploma",
+   "detail": "Congratulations, you've earned the Worms Master Diploma!",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 1,
+   "type": "gold",
+   "name": "Recruitment Drive",
+   "detail": "Complete Navigation Training",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-14T13:29:07Z",
+   "rarity": 21.9
+  },
+  {
+   "id": 2,
+   "type": "gold",
+   "name": "Training Day",
+   "detail": "Complete all the basic Training levels",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-20T16:52:05Z",
+   "rarity": 6.9
+  },
+  {
+   "id": 3,
+   "type": "gold",
+   "name": "Specialist Forces Qualified",
+   "detail": "Gain a Gold Medal on all Training levels.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-20T21:21:34Z",
+   "rarity": 0.4
+  },
+  {
+   "id": 4,
+   "type": "gold",
+   "name": "Grave Digger",
+   "detail": "Kill 500 Worms.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.5
+  },
+  {
+   "id": 5,
+   "type": "gold",
+   "name": "Passing Out Parade",
+   "detail": "Complete all Training levels.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-20T18:57:50Z",
+   "rarity": 1.6
+  },
+  {
+   "id": 6,
+   "type": "gold",
+   "name": "That Camp was no Pain",
+   "detail": "Complete the Campaign.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.6
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "You Crafty Devil",
+   "detail": "Craft 30 weapons across all game modes.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 5.4
+  },
+  {
+   "id": 8,
+   "type": "gold",
+   "name": "Do It Yourself!",
+   "detail": "Craft every weapon in the game.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "You're so Pushy",
+   "detail": "Kill 20 Worms with Prod.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 10,
+   "type": "silver",
+   "name": "Bleating Ranker",
+   "detail": "Reach Sheep Rank.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-14T15:14:11Z",
+   "rarity": 0.1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "No Challenge at all",
+   "detail": "Complete all Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 12,
+   "type": "bronze",
+   "name": "Call that a Challenge!",
+   "detail": "Complete 5 Challenges.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.7
+  },
+  {
+   "id": 13,
+   "type": "bronze",
+   "name": "Halfway House",
+   "detail": "Complete 15 Campaign Missions.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 3.1
+  },
+  {
+   "id": 14,
+   "type": "bronze",
+   "name": "Tanks A Lot Buddy",
+   "detail": "Get 80 kills in a Tank.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.3
+  },
+  {
+   "id": 15,
+   "type": "bronze",
+   "name": "Mech me Proud",
+   "detail": "Get 80 kills in a Mech.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 16,
+   "type": "bronze",
+   "name": "Roto Boating",
+   "detail": "Get 80 kills in a Helicopter.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.2
+  },
+  {
+   "id": 17,
+   "type": "silver",
+   "name": "Mount Killmore",
+   "detail": "Get 40 kills using a Mounted Gun.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.8
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "Bottom Rung",
+   "detail": "Play a Ranked Match.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-03-25T14:22:49Z",
+   "rarity": 3.3
+  },
+  {
+   "id": 19,
+   "type": "bronze",
+   "name": "Online Warrior",
+   "detail": "Play 50 Online Multiplayer Games.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-14T15:57:34Z",
+   "rarity": 0.5
+  },
+  {
+   "id": 20,
+   "type": "bronze",
+   "name": "I'm Your Father!",
+   "detail": "Win an online multiplayer match in Sudden Death.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-03-25T14:18:23Z",
+   "rarity": 3.9
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Unstoppable",
+   "detail": "Win 3 Online games in a row.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2023-03-25T14:31:19Z",
+   "rarity": 3.2
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "The Worm that Turned",
+   "detail": "Kill 4 Worms in a Single Turn.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-21T10:04:05Z",
+   "rarity": 21.2
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "I built this city",
+   "detail": "Win an Online game with all Worms in Buildings.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-14T14:05:18Z",
+   "rarity": 2
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "Challenge Accepted",
+   "detail": "Collect a Wanted Poster.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-21T07:51:57Z",
+   "rarity": 13.9
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "Sub Standard",
+   "detail": "Complete 40 Sub Goals.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "Billy No Mates",
+   "detail": "Complete all the Sub Goals.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Sweat Shop",
+   "detail": "Unlock all the Customisation Items.",
+   "group": "default",
+   "hidden": false,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 0.1
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Gym Membership",
+   "detail": "Finish a game with a worm on more health than it started with.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-20T15:39:04Z",
+   "rarity": 35.7
+  },
+  {
+   "id": 29,
+   "type": "silver",
+   "name": "Full of Swag",
+   "detail": "Fully customise a team of Worms using unlocked customisations.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2024-06-21T10:07:04Z",
+   "rarity": 0.3
+  }
+ ]
+}

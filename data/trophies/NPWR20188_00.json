@@ -1,0 +1,579 @@
+{
+ "groups": [
+  {
+   "id": "default",
+   "name": "ASTRO’s PLAYROOM"
+  },
+  {
+   "id": "001",
+   "name": "ASTRO’s PLAYROOM [ADD-ON]"
+  },
+  {
+   "id": "002",
+   "name": "ASTRO’s PLAYROOM [ADD-ON]"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 0,
+   "type": "platinum",
+   "name": "You've Only Done Everything",
+   "detail": "Found all trophies in ASTRO's PLAYROOM. See you in our next adventure!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T11:01:06Z",
+   "rarity": 4.1
+  },
+  {
+   "id": 1,
+   "type": "silver",
+   "name": "Do it!",
+   "detail": "Cleared Memory Meadow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T09:50:06Z",
+   "rarity": 35
+  },
+  {
+   "id": 2,
+   "type": "silver",
+   "name": "Emotion Engine!",
+   "detail": "Cleared SSD Speedway.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T14:05:38Z",
+   "rarity": 30.3
+  },
+  {
+   "id": 3,
+   "type": "silver",
+   "name": "HD graphics!",
+   "detail": "Cleared Cooling Springs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T15:03:11Z",
+   "rarity": 41.4
+  },
+  {
+   "id": 4,
+   "type": "silver",
+   "name": "Greatness awaits!",
+   "detail": "Cleared GPU Jungle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T16:09:21Z",
+   "rarity": 40.2
+  },
+  {
+   "id": 5,
+   "type": "bronze",
+   "name": "In mint condition",
+   "detail": "Got your first artifact!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-03-25T14:08:12Z",
+   "rarity": 67
+  },
+  {
+   "id": 6,
+   "type": "silver",
+   "name": "Such A Big Fan!",
+   "detail": "Got all artifacts in Cooling Springs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T15:03:12Z",
+   "rarity": 11
+  },
+  {
+   "id": 7,
+   "type": "silver",
+   "name": "Charted!",
+   "detail": "Got all artifacts in GPU Jungle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T16:09:22Z",
+   "rarity": 10.8
+  },
+  {
+   "id": 8,
+   "type": "silver",
+   "name": "Welcome To The Third Place",
+   "detail": "Got all artifacts in SSD Speedway.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T14:05:39Z",
+   "rarity": 9.2
+  },
+  {
+   "id": 9,
+   "type": "silver",
+   "name": "... And Conquered Worlds",
+   "detail": "Got all artifacts in Memory Meadow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T09:50:07Z",
+   "rarity": 12.1
+  },
+  {
+   "id": 10,
+   "type": "gold",
+   "name": "Dude Raider!",
+   "detail": "Collected all artifacts in the 4 main stages and the PS Labo. Wow!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:16:06Z",
+   "rarity": 8.1
+  },
+  {
+   "id": 11,
+   "type": "bronze",
+   "name": "1 down, lots more to go!",
+   "detail": "Got your first puzzle piece.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-03-25T13:43:20Z",
+   "rarity": 78.5
+  },
+  {
+   "id": 12,
+   "type": "silver",
+   "name": "Cool Hoarder",
+   "detail": "Got all puzzle pieces in Cooling Springs.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T14:57:00Z",
+   "rarity": 10.4
+  },
+  {
+   "id": 13,
+   "type": "silver",
+   "name": "The Found Legacy",
+   "detail": "Got all puzzle pieces in GPU Jungle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T16:07:36Z",
+   "rarity": 9.2
+  },
+  {
+   "id": 14,
+   "type": "silver",
+   "name": "Omega Booster!",
+   "detail": "Got all puzzle pieces in SSD Speedway.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T14:02:50Z",
+   "rarity": 9
+  },
+  {
+   "id": 15,
+   "type": "silver",
+   "name": "Ico-nic",
+   "detail": "Got all puzzle pieces in Memory Meadow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T09:48:09Z",
+   "rarity": 11
+  },
+  {
+   "id": 16,
+   "type": "gold",
+   "name": "A Grand Tour!",
+   "detail": "Got all puzzle pieces in the game. Way to go!",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:34:04Z",
+   "rarity": 7.9
+  },
+  {
+   "id": 17,
+   "type": "bronze",
+   "name": "Gatcha Beginner",
+   "detail": "Got your first Gatcha prize.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T14:07:33Z",
+   "rarity": 51
+  },
+  {
+   "id": 18,
+   "type": "bronze",
+   "name": "For the Players!",
+   "detail": "Got a secret gatcha.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T09:52:09Z",
+   "rarity": 27.7
+  },
+  {
+   "id": 19,
+   "type": "silver",
+   "name": "Gatcha maniac",
+   "detail": "Got half the gatcha prizes.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T16:10:31Z",
+   "rarity": 24.8
+  },
+  {
+   "id": 20,
+   "type": "gold",
+   "name": "Saru Gatcha!",
+   "detail": "Got all gatcha prizes.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T11:01:06Z",
+   "rarity": 14.8
+  },
+  {
+   "id": 21,
+   "type": "bronze",
+   "name": "Project Neo",
+   "detail": "Send 10 bots flying with a single spin attack.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:24:55Z",
+   "rarity": 12.7
+  },
+  {
+   "id": 22,
+   "type": "bronze",
+   "name": "The last Guy",
+   "detail": "Walk around with at least 20 bots following you in CPU Plaza.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:24:39Z",
+   "rarity": 17.5
+  },
+  {
+   "id": 23,
+   "type": "bronze",
+   "name": "This Way Up",
+   "detail": "Punched the PS Logo on the PS2 in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:20:05Z",
+   "rarity": 8.4
+  },
+  {
+   "id": 24,
+   "type": "bronze",
+   "name": "You Got a Trophy!",
+   "detail": "Picked up a trophy in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:19:22Z",
+   "rarity": 11.8
+  },
+  {
+   "id": 25,
+   "type": "bronze",
+   "name": "I Recognize You…",
+   "detail": "Punched and looked into the lens of PS VR in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:20:30Z",
+   "rarity": 11
+  },
+  {
+   "id": 26,
+   "type": "bronze",
+   "name": "The very far point...",
+   "detail": "Stood on the tip of the Aim Controller in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:22:54Z",
+   "rarity": 5.9
+  },
+  {
+   "id": 27,
+   "type": "bronze",
+   "name": "Honey, I'm Home!",
+   "detail": "Walked under the PlayStation Home icon in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:34:27Z",
+   "rarity": 9.9
+  },
+  {
+   "id": 28,
+   "type": "bronze",
+   "name": "Disc swap!",
+   "detail": "Opened the lid of the PlayStation console in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:21:37Z",
+   "rarity": 20.1
+  },
+  {
+   "id": 29,
+   "type": "bronze",
+   "name": "Keepy Uppies",
+   "detail": "Juggled a ball 5 times with the Frog Suit.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:30:19Z",
+   "rarity": 15.1
+  },
+  {
+   "id": 30,
+   "type": "bronze",
+   "name": "Hell Diver",
+   "detail": "Dived into the water from the diving board.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-05-01T08:52:57Z",
+   "rarity": 24.1
+  },
+  {
+   "id": 31,
+   "type": "bronze",
+   "name": "Jumping Splash!",
+   "detail": "Jumped in the fountain near the final goal in Cooling Springs.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:32:13Z",
+   "rarity": 11.6
+  },
+  {
+   "id": 32,
+   "type": "bronze",
+   "name": "Twisting Metal",
+   "detail": "Jumped 3 times during a spin attack on ice.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:35:54Z",
+   "rarity": 4.8
+  },
+  {
+   "id": 33,
+   "type": "bronze",
+   "name": "Jason!",
+   "detail": "Sheltered from the heavy rain in Memory Meadow.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:42:17Z",
+   "rarity": 6.4
+  },
+  {
+   "id": 34,
+   "type": "bronze",
+   "name": "Pain!",
+   "detail": "Got hit by flying garbage in Memory Meadow.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:40:24Z",
+   "rarity": 47.7
+  },
+  {
+   "id": 35,
+   "type": "bronze",
+   "name": "Wipeout!",
+   "detail": "Got a strike in Memory Meadow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:43:50Z",
+   "rarity": 19.1
+  },
+  {
+   "id": 36,
+   "type": "bronze",
+   "name": "Ready for the Proving",
+   "detail": "Deflected a Spitter's attack with an arrow.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:48:34Z",
+   "rarity": 23.3
+  },
+  {
+   "id": 37,
+   "type": "bronze",
+   "name": "Little Rolling star…",
+   "detail": "Made a huge snowball.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:57:34Z",
+   "rarity": 7.4
+  },
+  {
+   "id": 38,
+   "type": "bronze",
+   "name": "No no no noooooo!",
+   "detail": "Fell 99 feet and caught yourself in the monkey suit in GPU Jungle.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-08-16T16:01:26Z",
+   "rarity": 17.6
+  },
+  {
+   "id": 39,
+   "type": "bronze",
+   "name": "Adequate, boy…",
+   "detail": "Hit all rabbits with arrows at the mountain peak of GPU Jungle.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:56:04Z",
+   "rarity": 6.6
+  },
+  {
+   "id": 40,
+   "type": "bronze",
+   "name": "Wild Arms",
+   "detail": "Performed a spin while shooting the machine gun.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T11:00:31Z",
+   "rarity": 7.5
+  },
+  {
+   "id": 41,
+   "type": "bronze",
+   "name": "It's All In The Mind",
+   "detail": "Beat 3 enemies quickly by punching them.",
+   "group": "default",
+   "hidden": false,
+   "earned": true,
+   "earnedAt": "2021-05-01T08:49:37Z",
+   "rarity": 60.9
+  },
+  {
+   "id": 42,
+   "type": "bronze",
+   "name": "Super Computer",
+   "detail": "Revealed former logo in PlayStation Labo.",
+   "group": "default",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:21:57Z",
+   "rarity": 6.9
+  },
+  {
+   "id": 43,
+   "type": "gold",
+   "name": "Play Has No Limits!",
+   "detail": "Cleared the game and got the New Generation artifacts.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:14:24Z",
+   "rarity": 18.4
+  },
+  {
+   "id": 44,
+   "type": "gold",
+   "name": "Run Astro Run!",
+   "detail": "Got a total Speed Run time of 7 minutes or under.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T11:38:15Z",
+   "rarity": 3.4
+  },
+  {
+   "id": 45,
+   "type": "bronze",
+   "name": "Gravity Daze!",
+   "detail": "Made the CPU Chip punch the glass sphere, sending at least 10 Bots flying.",
+   "group": "001",
+   "hidden": true,
+   "earned": true,
+   "earnedAt": "2021-08-17T10:24:57Z",
+   "rarity": 14.3
+  },
+  {
+   "id": 46,
+   "type": "silver",
+   "name": "Four The Players",
+   "detail": "Rescued all four Special Bots. Time to go off to a new adventure!",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.7
+  },
+  {
+   "id": 47,
+   "type": "bronze",
+   "name": "Hunted down",
+   "detail": "Rescued Special Bot trapped in GPU Jungle.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 48,
+   "type": "bronze",
+   "name": "No escape!",
+   "detail": "Rescued Special Bot trapped in Memory Meadow.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.8
+  },
+  {
+   "id": 49,
+   "type": "bronze",
+   "name": "Déjà phew!",
+   "detail": "Rescued Special Bot trapped in SSD Speedway.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 2
+  },
+  {
+   "id": 50,
+   "type": "bronze",
+   "name": "Grand tourist",
+   "detail": "Rescued Special Bot trapped in Cooling Springs.",
+   "group": "002",
+   "hidden": true,
+   "earned": false,
+   "earnedAt": null,
+   "rarity": 1.9
+  }
+ ]
+}

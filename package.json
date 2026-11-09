@@ -1,0 +1,13 @@
+{
+  "name": "psn-backlog",
+  "private": true,
+  "description": "Трекер бэклога трофеев PSN (Anton_games337)",
+  "scripts": {
+    "fetch": "node scripts/fetch_psn.js",
+    "build": "python3 scripts/build.py",
+    "update": "node scripts/fetch_psn.js && python3 scripts/build.py"
+  },
+  "dependencies": {
+    "psn-api": "2.18.1"
+  }
+}
