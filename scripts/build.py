@@ -124,6 +124,16 @@ for f in sorted(glob.glob(f"{D}/trophies/*.json")):
     est_by_id = {int(e["id"]): e for e in est.get("trophies", []) if "id" in e}
     groups = {g["id"]: g["name"] for g in tr["groups"]}
 
+    # Ручные правки на уровне игры (data/overrides.json → game_overrides):
+    #   servers: {...}       — заменить статус серверов
+    #   all_online: true     — все трофеи требуют онлайна (always-online игра)
+    #   online_dead: true    — онлайн закрыт: онлайн-трофеи → «сервера закрыты»
+    #   still_possible: [..] — названия онлайн-трофеев, которые всё ещё можно получить
+    gov = overrides.get("game_overrides", {}).get(cid, {})
+    if gov.get("servers"):
+        est = {**est, "servers": gov["servers"]}
+    keep = set(gov.get("still_possible", []))
+
     unearned = []
     for x in tr["trophies"]:
         if x["earned"]:
@@ -132,6 +142,10 @@ for f in sorted(glob.glob(f"{D}/trophies/*.json")):
         cat = e.get("cat") or "unknown"
         if x["group"] in ov.get("groups", []):
             cat = "unobtainable_user"
+        if gov.get("all_online") and cat in ("offline", "unknown"):
+            cat, e["online_kind"] = "online", e.get("online_kind") or "always-online"
+        if gov.get("online_dead") and cat == "online" and x["name"] not in keep:
+            cat = "unobtainable_servers"
         o = tov.get(str(x["id"]))
         if o:
             cat = o.get("cat", cat)
@@ -140,26 +154,32 @@ for f in sorted(glob.glob(f"{D}/trophies/*.json")):
         unearned.append({**x, "cat": cat, "hours": float(e.get("hours") or 0), "note": e.get("note") or "",
                          "online_kind": e.get("online_kind"), "server_status": e.get("server_status"),
                          "dlc_required": e.get("dlc_required"), "missable": e.get("missable", False)})
+    # Платина невозможна, если недоступен хоть один трофей основной игры.
+    if any(u["group"] == "default" and u["type"] != "platinum" and u["cat"] in ("unobtainable_servers", "glitched") for u in unearned):
+        for u in unearned:
+            if u["type"] == "platinum" and u["cat"] in OBTAINABLE:
+                u["cat"], u["note"] = "unobtainable_servers", ("зависит от недоступных онлайн-трофеев. " + u["note"]).strip()
 
-    # Остаток времени: оценка из гайда, пересчитанная по тем трофеям, что ещё не выбиты.
+    # Остаток времени: оценка из гайда, распределённая по трофеям и пересчитанная
+    # по тем, что ещё не выбиты и остаются выбиваемыми.
     rh = est.get("remaining_hours") or {}
-    def scaled(cats, total_key):
-        total = est.get(total_key)
-        if total is None:
-            return None
-        orig = [e for e in est.get("trophies", []) if e.get("cat") in cats]
-        now = [u for u in unearned if u["cat"] in cats]
-        s_orig = sum(float(e.get("hours") or 0) for e in orig)
-        s_now = sum(u["hours"] for u in now)
-        if s_orig > 0:
-            return total * s_now / s_orig
-        return total * (len(now) / len(orig)) if orig else (total if now else 0)
-    off_h = scaled(("offline",), "offline_hours")
-    on_h = scaled(("online",), "online_hours")
-    if off_h is None and on_h is None and rh.get("best") is not None:
-        off_h, on_h = float(rh["best"]), 0.0
+    if est.get("offline_hours") is not None or est.get("online_hours") is not None:
+        total = float(est.get("offline_hours") or 0) + float(est.get("online_hours") or 0)
+    else:
+        total = rh.get("best")
+    orig = [e for e in est.get("trophies", []) if e.get("cat") in ("offline", "online")]
+    off_now = [u for u in unearned if u["cat"] in ("offline", "unknown")]
+    on_now = [u for u in unearned if u["cat"] == "online"]
+    if total is None:
+        off_h = on_h = None
+    elif sum(float(e.get("hours") or 0) for e in orig) > 0:
+        rate = total / sum(float(e.get("hours") or 0) for e in orig)
+        off_h, on_h = rate * sum(u["hours"] for u in off_now), rate * sum(u["hours"] for u in on_now)
+    else:
+        per = total / len(orig) if orig else 0
+        off_h, on_h = per * len(off_now), per * len(on_now)
     unob_h = est.get("unobtainable_hours") or 0
-    rem = None if off_h is None and on_h is None else (off_h or 0) + (on_h or 0)
+    rem = None if off_h is None else off_h + on_h
 
     slug = slugify(t["name"], t["platform"])
     if slug in used_slugs:

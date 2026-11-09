@@ -7,7 +7,7 @@
 | Параметр | Значение |
 |---|---|
 | Осталось (оценка) | **~15 ч** (разброс 10–22 ч) |
-| Из них офлайн / онлайн | 13 ч / 2 ч |
+| Из них офлайн / онлайн | 13 ч / 2.1 ч |
 | Время на 100% по гайду | 12-19 ч |
 | Сложность по гайду | 5/10 |
 | Онлайн-сервера | 🟢 работают No shutdown announcement found for Rebellion's V2 Remastered co-op (not verified for 2026). Co-op is online-only on PS4 per Co-Optimus. |

@@ -7,7 +7,7 @@
 | Параметр | Значение |
 |---|---|
 | Осталось (оценка) | **~38 ч** (разброс 32–50 ч) |
-| Из них офлайн / онлайн | 34 ч / 3.5 ч |
+| Из них офлайн / онлайн | 34 ч / 3.6 ч |
 | Время на 100% по гайду | 30-40 (PlatPrices); Stratege average 56 ч |
 | Сложность по гайду | 4/10 |
 | Онлайн-сервера | 🟢 работают Online ranked trophies already earned; Stratege shows PS4 platinums earned through Oct 2026, so online appears functional. Not formally verified. |

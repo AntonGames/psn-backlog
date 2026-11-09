@@ -7,7 +7,7 @@
 | Параметр | Значение |
 |---|---|
 | Осталось (оценка) | **~124 ч** (разброс 90–200 ч) |
-| Из них офлайн / онлайн | 124 ч / 0.5 ч |
+| Из них офлайн / онлайн | 123 ч / 0.5 ч |
 | Время на 100% по гайду | ~200 (Stratege avg platinum 203 h) ч |
 | Сложность по гайду | ? |
 | Онлайн-сервера | ⚪ неизвестно Game delisted in 2022; Project CARS 3 servers closed 24 Feb 2026; no confirmation found for PC1 PS4 leaderboards. Other online trophies already earned; only Exorcist depends on it. |

@@ -3,26 +3,26 @@
 Трофеи, для которых нужны другие игроки, онлайн-режимы, кооп или онлайн-таблицы рекордов.
 Сначала игры с работающими серверами (по оценке оставшегося онлайна), затем — с закрытыми.
 
-**Живой онлайн:** 103 трофея в 18 играх, ~232 ч. **Закрытые сервера:** 3 трофея в 1 игре.
+**Живой онлайн:** 103 трофея в 18 играх, ~233 ч. **Закрытые сервера:** 3 трофея в 1 игре.
 
 | Игра | Платформа | Онлайн-трофеев | ~ч | Сервера |
 |---|---|---:|---:|---|
 | [HITMAN 2](games/hitman-2-ps4.md) | PS4 | 1 | 0.2 | 🟡 частично |
-| [Titanfall 2](games/titanfall-2-ps4.md) | PS4 | 1 | 0.5 | 🟢 работают |
 | [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps4.md) | PS4 | 1 | 0.5 | 🟢 работают |
 | [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) | PS4 | 1 | 0.5 | ⚪ неизвестно |
-| [Need for Speed](games/need-for-speed-ps4.md) | PS4 | 1 | 1 | 🟢 работают |
+| [Titanfall 2](games/titanfall-2-ps4.md) | PS4 | 1 | 0.5 | 🟢 работают |
 | [Far Cry 5](games/far-cry-5-ps4.md) | PS4 | 1 | 1 | 🟢 работают |
 | [Middle-earth: Shadow of War](games/middle-earth-shadow-of-war-ps4.md) | PS4 | 2 | 1 | 🟢 работают |
-| [Sniper Elite V2 Remastered](games/sniper-elite-v2-remastered-ps4.md) | PS4 | 2 | 2 | 🟢 работают |
+| [Need for Speed](games/need-for-speed-ps4.md) | PS4 | 1 | 1 | 🟢 работают |
+| [Sniper Elite V2 Remastered](games/sniper-elite-v2-remastered-ps4.md) | PS4 | 2 | 2.1 | 🟢 работают |
 | [Journey](games/journey-ps4.md) | PS4 | 3 | 2.5 | 🟢 работают |
 | [Uncharted 4: A Thief’s End](games/uncharted-4-a-thiefs-end-ps4.md) | PS4 | 1 | 3 | 🟢 работают |
-| [F1 2019](games/f1-2019-ps4.md) | PS4 | 1 | 3 | 🟢 работают |
-| [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) | PS4 | 1 | 3.5 | 🟢 работают |
+| [F1 2019](games/f1-2019-ps4.md) | PS4 | 1 | 3.1 | 🟢 работают |
+| [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) | PS4 | 1 | 3.6 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) | PS3 | 8 | 11 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | 8 | 21 | 🟢 работают |
 | [F1 2017](games/f1-2017-ps4.md) | PS4 | 2 | 30 | 🟢 работают |
-| [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | 17 | 38 | 🟢 работают |
+| [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | 17 | 39 | 🟢 работают |
 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) | PS3 | 35 | 46 | 🟢 работают |
 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) | PS4 | 17 | 67 | 🟢 работают |
 | [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps3.md) | PS3 | 0 (+3 💀) | 0 | 🔴 закрыты |
@@ -36,16 +36,6 @@
 | 🥉 | Top of the Class | Set the high score on a Contract. | leaderboard | 🌐 онлайн | 0.2 |
 
 [Страница игры →](games/hitman-2-ps4.md)
-
-## Titanfall 2 · PS4
-
-Сервера: 🟢 работают No shutdown announced for Titanfall 2 (only Titanfall 1 was shut down, Mar 2022); Respawn patched TF2 exploits; a Feb 2026 article says no shutdown planned. Medium confidence.
-
-| | Трофей | Описание | Вид | Статус | ~ч |
-|---|---|---|---|---|---:|
-| 🥉 | Free Association | Join a multiplayer network | MP | 🌐 онлайн | 0.5 |
-
-[Страница игры →](games/titanfall-2-ps4.md)
 
 ## METAL GEAR SOLID V: THE PHANTOM PAIN · PS4
 
@@ -67,15 +57,15 @@
 
 [Страница игры →](games/project-cars-perfect-edition-ps4.md)
 
-## Need for Speed · PS4
+## Titanfall 2 · PS4
 
-Сервера: 🟢 работают Official EA servers still running as of Oct 2026 (ixbt.games, 17 Oct 2026: fans built a server emulator for a future shutdown; no EA date announced). Risky: EA closed NFS Rivals PS4 in Oct 2025. The game is always-online.
+Сервера: 🟢 работают No shutdown announced for Titanfall 2 (only Titanfall 1 was shut down, Mar 2022); Respawn patched TF2 exploits; a Feb 2026 article says no shutdown planned. Medium confidence.
 
 | | Трофей | Описание | Вид | Статус | ~ч |
 |---|---|---|---|---|---:|
-| 🥉 | Speed Master | Win all the events in a Speedlist | MP | 🌐 онлайн | 1 |
+| 🥉 | Free Association | Join a multiplayer network | MP | 🌐 онлайн | 0.5 |
 
-[Страница игры →](games/need-for-speed-ps4.md)
+[Страница игры →](games/titanfall-2-ps4.md)
 
 ## Far Cry 5 · PS4
 
@@ -97,6 +87,16 @@
 | 🥉 | Elven Conquest | Complete an Online Conquest with an Eltariel skin. | MP | 🌐 онлайн | 0.5 |
 
 [Страница игры →](games/middle-earth-shadow-of-war-ps4.md)
+
+## Need for Speed · PS4
+
+Сервера: 🟢 работают Official EA servers still running as of Oct 2026 (ixbt.games, 17 Oct 2026: fans built a server emulator for a future shutdown; no EA date announced). Risky: EA closed NFS Rivals PS4 in Oct 2025. The game is always-online.
+
+| | Трофей | Описание | Вид | Статус | ~ч |
+|---|---|---|---|---|---:|
+| 🥉 | Speed Master | Win all the events in a Speedlist | MP | 🌐 онлайн | 1 |
+
+[Страница игры →](games/need-for-speed-ps4.md)
 
 ## Sniper Elite V2 Remastered · PS4
 

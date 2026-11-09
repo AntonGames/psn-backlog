@@ -7,7 +7,7 @@
 | Параметр | Значение |
 |---|---|
 | Осталось (оценка) | **~73 ч** (разброс 58–95 ч) |
-| Из них офлайн / онлайн | 35 ч / 38 ч |
+| Из них офлайн / онлайн | 34 ч / 39 ч |
 | Время на 100% по гайду | 60-90 (own estimate: 2 story runs + Left Behind + ~168 Factions matches) ч |
 | Сложность по гайду | ? |
 | Онлайн-сервера | 🟢 работают PS4 Factions still online in 2026 (no shutdown announced; PS3 servers closed 3 Sep 2019 only). Low population; DLC map/Interrogation playlists may be slow. |
