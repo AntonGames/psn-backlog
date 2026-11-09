@@ -129,9 +129,9 @@ for f in sorted(glob.glob(f"{D}/trophies/*.json")):
     #   all_online: true     — все трофеи требуют онлайна (always-online игра)
     #   online_dead: true    — онлайн закрыт: онлайн-трофеи → «сервера закрыты»
     #   still_possible: [..] — названия онлайн-трофеев, которые всё ещё можно получить
+    #   notes_ru / missed_missables: "..." — заменить план / заметку об упускаемых
     gov = overrides.get("game_overrides", {}).get(cid, {})
-    if gov.get("servers"):
-        est = {**est, "servers": gov["servers"]}
+    est = {**est, **{k: gov[k] for k in ("servers", "notes_ru", "missed_missables") if k in gov}}
     keep = set(gov.get("still_possible", []))
 
     unearned = []

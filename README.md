@@ -8,11 +8,11 @@
 
 | | Трофеев | Время (оценка) |
 |---|---:|---:|
-| Можно выбить офлайн | 4755 | ~4643 ч |
+| Можно выбить офлайн | 4758 | ~4643 ч |
 | [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 103 | ~233 ч |
-| **Всего выбиваемо** | **4858** | **~4876 ч** |
+| **Всего выбиваемо** | **4861** | **~4876 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
-| [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 3 | — |
+| [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
 | Всего невыбитых | 4884 | |
 
@@ -66,7 +66,7 @@
 | Платформа | Игр в бэклоге | Выбиваемых трофеев | ~ч |
 |---|---:|---:|---:|
 | PS4 | 81 | 3215 | 3335 |
-| PS3 | 24 | 806 | 796 |
+| PS3 | 24 | 809 | 796 |
 | PS Vita | 17 | 401 | 414 |
 | PS5 | 14 | 436 | 330 |
 
@@ -200,7 +200,7 @@
 | 122 | [F1 2017](games/f1-2017-ps4.md) ⚠ | PS4 | 9/51 (15%) | ❌ | **72 ч** | 42 | 30 |  |  | 2/10 (offline; online level grind is the bottleneck) |
 | 123 | [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) ⚠ | PS4 | 1/50 (1%) | ❌ | **73 ч** | 34 | 39 |  | 19 ч |  |
 | 124 | [BATMAN: ARKHAM KNIGHT](games/batman-arkham-knight-ps4.md) | PS4 | 14/110 (9%) | ❌ | **73 ч** | 73 | 0 |  |  | 5/10 (base); DLC AR/Community challenges ~7/10 |
-| 125 | [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps3.md) | PS3 | 13/43 (20%) | ❌ | **79 ч** | 79 | 0 | 3 |  | 5/10 |
+| 125 | [METAL GEAR SOLID V: THE PHANTOM PAIN](games/metal-gear-solid-v-the-phantom-pain-ps3.md) | PS3 | 13/43 (20%) | ❌ | **79 ч** | 79 | 0 |  |  | 5/10 |
 | 126 | [Cyberpunk 2077](games/cyberpunk-2077-ps4.md) | PS4 | 3/45 (4%) | ❌ | **82 ч** | 82 | 0 |  | 14 ч | 3/10 |
 | 127 | [HITMAN 2](games/hitman-2-ps4.md) ⚠ | PS4 | 3/125 (1%) | — | **82 ч** | 82 | 0.2 |  |  |  |
 | 128 | [Just Cause 3](games/just-cause-3-ps4.md) | PS4 | 11/67 (10%) | ❌ | **90 ч** | 90 | 0 |  | 6.8 ч | 5/10 (All the Gears + DLC 5-gear challenges are the hard part) |

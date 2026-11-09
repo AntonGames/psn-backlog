@@ -50,13 +50,7 @@
 
 По данным гайдов и новостей онлайн у этих трофеев отключён. Если найдёте способ (например, сервер на самом деле жив), поменяйте категорию в `data/overrides.json` → `trophy_overrides`.
 
-### METAL GEAR SOLID V: THE PHANTOM PAIN · PS3 — 3
-
-🔴 закрыты Konami ended PS3/X360 online services on 31 May 2022 (GameSpot, VGC). Nuclear weapons need server login, so Deterrence/Disarmament and the Platinum are unobtainable on PS3.
-
-- 🏆 **Legend** — Obtain all trophies.
-- 🥉 **Deterrence** — Develop a nuclear weapon.
-- 🥉 **Disarmament** — Dispose of a nuclear weapon.
+Нет.
 
 ## Глючные трофеи
 

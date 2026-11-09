@@ -10,14 +10,14 @@
 | Из них офлайн / онлайн | 79 ч / 0 ч |
 | Время на 100% по гайду | 100-150 ч |
 | Сложность по гайду | 5/10 |
-| Онлайн-сервера | 🔴 закрыты Konami ended PS3/X360 online services on 31 May 2022 (GameSpot, VGC). Nuclear weapons need server login, so Deterrence/Disarmament and the Platinum are unobtainable on PS3. |
+| Онлайн-сервера | 🔴 закрыты Онлайн PS3 закрыт 31.05.2022, но все невыбитые трофеи (включая ядерку) выбиваются офлайн — Intruder уже получен. |
 | Наиграно (PSN) | — |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |
 
-> **План:** Платина на PS3 невозможна: «Deterrence»/«Disarmament» требуют серверов, закрытых 31.05.2022. Оставшиеся 27 трофеев оффлайн (~80 ч: сюжет, S-ранги, все задачи и побочки, гринд). Если нужна платина, лучше заниматься PS4-версией (отдельный список, прогресс не переносится).
+> **План:** Онлайн PS3 закрыт, но Intruder уже есть, а ядерку (Deterrence/Disarmament) можно сделать офлайн — платина достижима. Осталось ~80 ч одиночки: сюжет, S-ранги, все задания и побочные операции, развитие базы и разработка ядерки.
 
-> **Пропущенные/упускаемые:** Not missable, but Deterrence/Disarmament (and Platinum) are now unobtainable because PS3 servers are closed.
+> **Пропущенные/упускаемые:** Нет.
 
 **Гайды:** [powerpyx.com](https://www.powerpyx.com/guides/metal-gear-solid-v-the-phantom-pain-trophy-guide.html) · [gamespot.com](https://gamespot.com/articles/metal-gear-solid-v-servers-are-shutting-down-for-older-systems-in-may-2022/1100-6495790/)
 
@@ -27,7 +27,7 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | Legend | Obtain all trophies. | 💀 сервера закрыты |  | 1.5% | Platinum impossible: needs Deterrence + Disarmament |
+| 🏆 | Legend | Obtain all trophies. | офлайн |  | 1.5% | По словам владельца: трофеи за ядерку выбиваются и без серверов PS3. |
 | 🥉 | Immortal | Complete "METALLIC ARCHAEA" mission. | офлайн | 3 | 40.7% | Story |
 | 🥈 | Skull | Complete "SAHELANTHROPUS" mission. | офлайн | 3 | 39.1% | Story (end of Chapter 1) |
 | 🥈 | Disappearance | Complete "A QUIET EXIT" mission. | офлайн | 6 | 23.2% | Story: Mission 45, needs Quiet bond and many side ops |
@@ -50,8 +50,8 @@
 | 🥈 | Reinforcement | Develop 100 or more development items. | офлайн |  | 42.3% |  |
 | 🥇 | Locked and Loaded | Develop 300 or more development items. | офлайн | 4 | 11% | 300 dev items: GMP/resource grind; offline only now, may take longer (no FOB staff/resources) |
 | 🥈 | Architect | Construct all available platforms for Mother Base. | офлайн | 2 | 15.7% | All Mother Base platforms (not FOB) |
-| 🥉 | Deterrence | Develop a nuclear weapon. | 💀 сервера закрыты |  | 5.8% | [online event] Nuke development/disposal requires server login; PS3 servers closed 31 May 2022 |
-| 🥉 | Disarmament | Dispose of a nuclear weapon. | 💀 сервера закрыты |  | 3.8% | [online event] Nuke development/disposal requires server login; PS3 servers closed 31 May 2022 |
+| 🥉 | Deterrence | Develop a nuclear weapon. | офлайн |  | 5.8% | По словам владельца: трофеи за ядерку выбиваются и без серверов PS3. |
+| 🥉 | Disarmament | Dispose of a nuclear weapon. | офлайн |  | 3.8% | По словам владельца: трофеи за ядерку выбиваются и без серверов PS3. |
 | 🥉 | Prosperity | Earn a total of 10,000,000 GMP or more. | офлайн |  | 46% |  |
 | 🥈 | Conservation | Extract all wild animal species. | офлайн | 4 | 2.5% | All 47 wild animal species |
 | 🥈 | Collector | Obtain all blueprints and key items. | офлайн | 2 | 2.4% | All blueprints + key items |
