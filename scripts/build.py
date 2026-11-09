@@ -359,30 +359,29 @@ R += ["",
 write(f"{ROOT}/README.md", "\n".join(R))
 
 # ---------- ONLINE.md ----------
+# Только то, что ещё НЕ выбито и выбиваемо: живой онлайн. Закрытые сервера — в UNOBTAINABLE.md.
+alive = sorted([g for g in games if g["n"]["online"]], key=lambda g: g["on"])
 O = ["# 🌐 Невыбитый онлайн", "",
-     "Трофеи, для которых нужны другие игроки, онлайн-режимы, кооп или онлайн-таблицы рекордов.",
-     "Сначала игры с работающими серверами (по оценке оставшегося онлайна), затем — с закрытыми.", ""]
-on_games = [g for g in games if g["n"]["online"] or g["n"]["unobtainable_servers"]]
-alive = sorted([g for g in on_games if g["n"]["online"]], key=lambda g: g["on"])
-dead = [g for g in on_games if not g["n"]["online"]]
-n_dead_games = len([g for g in on_games if g['n']['unobtainable_servers']])
-O += [f"**Живой онлайн:** {plural(tot['online'])} в {plural(len(alive), 'игре', 'играх', 'играх')}, ~{h_on:.0f} ч. "
-      f"**Закрытые сервера:** {plural(tot['unobtainable_servers'])} в {plural(n_dead_games, 'игре', 'играх', 'играх')}.", "",
-      "| Игра | Платформа | Онлайн-трофеев | ~ч | Сервера |", "|---|---|---:|---:|---|"]
-for g in alive + dead:
+     f"Только трофеи, которые **ещё не получены** (данные PSN от {fetched or '?'}) и требуют онлайна: "
+     "другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. "
+     "Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).", "",
+     f"**Итого:** {plural(tot['online'])} в {plural(len(alive), 'игре', 'играх', 'играх')}, ~{h_on:.0f} ч.", "",
+     "| Игра | Платформа | Не выбито онлайн | ~ч | Сервера |", "|---|---|---|---:|---|"]
+for g in alive:
     s = g["est"].get("servers") or {}
-    O.append(f"| {link(g)} | {g['t']['platform']} | {g['n']['online']}" + (f" (+{g['n']['unobtainable_servers']} 💀)" if g['n']['unobtainable_servers'] else "")
-             + f" | {hours_fmt(g['on'])} | {SERVER.get(s.get('status'), '—')} |")
+    names = [u["name"] for u in g["unearned"] if u["cat"] == "online"]
+    shown = ", ".join(names[:6]) + (f" и ещё {len(names) - 6}" if len(names) > 6 else "")
+    O.append(f"| {link(g)} | {g['t']['platform']} | **{len(names)}**: {esc(shown)} | {hours_fmt(g['on'])} | {SERVER.get(s.get('status'), '—')} |")
 O.append("")
-for g in alive + dead:
+for g in alive:
     s = g["est"].get("servers") or {}
-    items = [u for u in g["unearned"] if u["cat"] in ("online", "unobtainable_servers")]
-    O += [f"## {g['t']['name']} · {g['t']['platform']}", "",
-          f"Сервера: {SERVER.get(s.get('status'), '—')} {esc(s.get('detail'))}", "",
-          "| | Трофей | Описание | Вид | Статус | ~ч |", "|---|---|---|---|---|---:|"]
+    items = [u for u in g["unearned"] if u["cat"] == "online"]
+    O += [f"## {g['t']['name']} · {g['t']['platform']} — {plural(len(items))}", "",
+          f"Сервера: {SERVER.get(s.get('status'), '—')} {esc(s.get('detail'))}" + (f" ([источник]({s['source']}))" if s.get("source") else ""), "",
+          "| | Трофей | Описание | Вид | ~ч |", "|---|---|---|---|---:|"]
     for u in items:
         O.append(f"| {TYPE_ICON.get(u['type'], '')} | {esc(u['name'])} | {esc(u['detail'])} | {esc(u.get('online_kind') or '')} | "
-                 f"{CAT[u['cat']]} | {hours_fmt(u['hours']) if u['hours'] else ''} |")
+                 f"{hours_fmt(u['hours']) if u['hours'] else ''} |")
     O += ["", f"[Страница игры →](games/{g['slug']}.md)", ""]
 O += ["---", "[← к бэклогу](README.md)"]
 write(f"{ROOT}/ONLINE.md", "\n".join(O))
