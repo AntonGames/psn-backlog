@@ -2,16 +2,16 @@
 
 <img src="https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG" height="96" alt="">
 
-**Прогресс:** 32/57 (62%) `██████░░░░` · **Платина:** ❌
+**Прогресс:** 37/57 (68%) `███████░░░` · **Платина:** ❌
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~22 ч** (разброс 16–30 ч) |
-| Из них офлайн / онлайн | 22 ч / 0 ч |
+| Осталось (оценка) | **~17 ч** (разброс 16–30 ч) |
+| Из них офлайн / онлайн | 17 ч / 0 ч |
 | Время на 100% по гайду | 45-55 ч |
 | Сложность по гайду | 3/10 |
 | Онлайн-сервера | — No online trophies. |
-| Наиграно (PSN) | 49 ч |
+| Наиграно (PSN) | 52 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |
 
@@ -21,24 +21,19 @@
 
 ## Невыбитые трофеи
 
-### Основная игра — 32/50
+### Основная игра — 37/50
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
 | 🏆 | Master Assassin | Earn every other trophy. | офлайн |  | 2.2% | platinum |
-| 🥉 | The War at Home | Complete the World War I simulation. | офлайн | 1.5 | 18.6% | WWI simulation |
 | 🥉 | Cerevisaphile | Sample every beer brand in London. | офлайн | 0.3 | 7.6% |  |
 | 🥉 | No Ticket | Kick fifty enemies off of trains. | офлайн | 1 | 2.4% |  |
 | 🥉 | Guardian Angel | Successfully escort ten friendly cargo shipments. | офлайн | 0.7 | 7% |  |
 | 🥈 | Godlike | Unlock all of the Secrets of London. | офлайн | 2 | 10.4% | 32 music boxes |
-| 🥉 | A Broad Base | Reach Loyalty level 1 with all Associates. | офлайн | 1 | 15.5% |  |
 | 🥉 | Multitalented | Acquire ten Perks. | офлайн | 0.5 | 18% |  |
 | 🥉 | Language of Flowers | Collect all of the Pressed Flowers. | офлайн | 1 | 7.7% |  |
 | 🥉 | Student of History | Collect all of the Historical Posters. | офлайн | 1 | 6.2% |  |
 | 🥉 | A Life in Letters | Collect all of the Royal Letters. | офлайн | 0.5 | 5% | 12 letters |
-| 🥉 | Chimney Sweep | Synchronize every Viewpoint in London. | офлайн | 1 | 15.2% |  |
-| 🥉 | Furious | Destroy twenty vehicles by ramming them. | офлайн | 0.3 | 15% |  |
-| 🥉 | You Wouldn't Steal a Policeman's Helmet | Hijack twenty police vehicles. | офлайн | 0.7 | 2.7% |  |
 | 🥉 | Whirlwind of Death | Perform fifty Multi-Finishers. | офлайн | 0.5 | 17.4% |  |
 | 🥉 | Blade from Above | Air Assassinate twenty enemies from a zipline. | офлайн | 0.5 | 7.2% |  |
 | 🥉 | Most Unsporting | Shoot fifty enemies before they shoot at you. | офлайн | 0.5 | 4.7% |  |

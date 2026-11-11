@@ -1,20 +1,21 @@
 # PSN бэклог · Anton_games337
 
-Уровень **558** · 🏆 215 · 🥇 1141 · 🥈 3212 · 🥉 8447  
-Списков трофеев: **369**, закрыто на 100%: **233**, в бэклоге: **136**  
-Данные PSN: 2026-11-09
+Уровень **558** · 🏆 215 · 🥇 1142 · 🥈 3216 · 🥉 8457  
+Списков трофеев: **370**, закрыто на 100%: **233**, в бэклоге: **137**  
+Данные PSN: 2026-11-11
 
 ## Итого осталось
 
 | | Трофеев | Время (оценка) |
 |---|---:|---:|
-| Можно выбить офлайн | 4715 | ~4602 ч |
+| Можно выбить офлайн | 4710 | ~4597 ч |
 | [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 146 | ~274 ч |
-| **Всего выбиваемо** | **4861** | **~4876 ч** |
+| **Всего выбиваемо** | **4891** | **~4871 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
 | [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
-| Всего невыбитых | 4884 | |
+| ❔ Без оценки | 35 | — |
+| Всего невыбитых | 4914 | |
 
 ## 📉 Динамика
 
@@ -26,6 +27,7 @@
 
 | Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |
 |---|---:|---:|---:|---:|---:|
+| 2026-11-11 | 4891 | 4871 | 4597 | 274 | 215 |
 | 2026-11-09 | 4861 | 4876 | 4602 | 274 | 215 |
 
 Вся история — в [`data/history.csv`](data/history.csv).
@@ -91,7 +93,7 @@
 
 | Платформа | Игр в бэклоге | Выбиваемых трофеев | ~ч |
 |---|---:|---:|---:|
-| PS4 | 81 | 3215 | 3335 |
+| PS4 | 82 | 3245 | 3330 |
 | PS3 | 24 | 809 | 796 |
 | PS Vita | 17 | 401 | 414 |
 | PS5 | 14 | 436 | 330 |
@@ -140,14 +142,14 @@
 | 36 | [inFAMOUS Second Son](games/infamous-second-son-ps4.md) | PS4 | 18/48 (33%) | ❌ | **16 ч** | 16 | 0 |  |  | 3/10 |
 | 37 | [HITMAN 2 Expansion](games/hitman-2-expansion-ps4.md) | PS4 | 1/21 (2%) | — | **16 ч** | 16 | 0 |  |  |  |
 | 38 | [HEAVY RAIN](games/heavy-rain-ps4.md) | PS4 | 2/57 (2%) | ❌ | **16 ч** | 16 | 0 |  | 4.4 ч | 3/10 |
-| 39 | [The Dark Pictures Anthology: Man of Medan](games/the-dark-pictures-anthology-man-of-medan-ps4.md) | PS4 | 10/31 (34%) | ❌ | **18 ч** | 18 | 0 |  | 3.3 ч | 3/10 |
-| 40 | [DETROIT: BECOME HUMAN](games/detroit-become-human-ps4.md) | PS4 | 11/49 (16%) | ❌ | **18 ч** | 18 | 0 |  | 6.3 ч | 2/10 |
-| 41 | [Arizona Sunshine](games/arizona-sunshine-ps4.md) | PS4 | 7/41 (16%) | ❌ | **20 ч** | 20 | 0 |  |  | 7/10 |
-| 42 | [Call of Duty Modern Warfare II](games/call-of-duty-modern-warfare-ii-ps5.md) | PS5 | 152/176 (88%) | ✅ | **20 ч** | 20 | 0 |  | 15 ч | 5/10 (BO6 campaign part); MW4 6/10 |
-| 43 | [Need for Speed Most Wanted](games/need-for-speed-most-wanted-psvita.md) | PSVITA | 34/47 (67%) | ❌ | **20 ч** | 20 | 0 |  |  |  |
-| 44 | [Battlefield Hardline](games/battlefield-hardline-ps3.md) | PS3 | 25/63 (46%) | ❌ | **20 ч** | 20 | 0 |  |  | 3/10 (single-player part) |
-| 45 | [DRAGON BALL FighterZ](games/dragon-ball-fighterz-ps4.md) | PS4 | 16/36 (44%) | ❌ | **21 ч** | 21 | 0 |  | 14 ч | 5/10 |
-| 46 | [Assassin's Creed Syndicate](games/assassins-creed-syndicate-ps4.md) | PS4 | 32/57 (62%) | ❌ | **22 ч** | 22 | 0 |  | 49 ч | 3/10 |
+| 39 | [Assassin's Creed Syndicate](games/assassins-creed-syndicate-ps4.md) | PS4 | 37/57 (68%) | ❌ | **17 ч** | 17 | 0 |  | 52 ч | 3/10 |
+| 40 | [The Dark Pictures Anthology: Man of Medan](games/the-dark-pictures-anthology-man-of-medan-ps4.md) | PS4 | 10/31 (34%) | ❌ | **18 ч** | 18 | 0 |  | 3.3 ч | 3/10 |
+| 41 | [DETROIT: BECOME HUMAN](games/detroit-become-human-ps4.md) | PS4 | 11/49 (16%) | ❌ | **18 ч** | 18 | 0 |  | 6.3 ч | 2/10 |
+| 42 | [Arizona Sunshine](games/arizona-sunshine-ps4.md) | PS4 | 7/41 (16%) | ❌ | **20 ч** | 20 | 0 |  |  | 7/10 |
+| 43 | [Call of Duty Modern Warfare II](games/call-of-duty-modern-warfare-ii-ps5.md) | PS5 | 152/176 (88%) | ✅ | **20 ч** | 20 | 0 |  | 15 ч | 5/10 (BO6 campaign part); MW4 6/10 |
+| 44 | [Need for Speed Most Wanted](games/need-for-speed-most-wanted-psvita.md) | PSVITA | 34/47 (67%) | ❌ | **20 ч** | 20 | 0 |  |  |  |
+| 45 | [Battlefield Hardline](games/battlefield-hardline-ps3.md) | PS3 | 25/63 (46%) | ❌ | **20 ч** | 20 | 0 |  |  | 3/10 (single-player part) |
+| 46 | [DRAGON BALL FighterZ](games/dragon-ball-fighterz-ps4.md) | PS4 | 16/36 (44%) | ❌ | **21 ч** | 21 | 0 |  | 14 ч | 5/10 |
 | 47 | [WRC 4 FIA WORLD RALLY CHAMPIONSHIP](games/wrc-4-fia-world-rally-championship-psvita.md) | PSVITA | 22/51 (34%) | ❌ | **23 ч** | 23 | 0 |  |  |  |
 | 48 | [DOOM 2](games/doom-2-ps4.md) | PS4 | 7/20 (23%) | ❌ | **23 ч** | 23 | 0 |  |  | 10/10 per PlatPrices (Nightmare co-op) |
 | 49 | [Uncharted: Drake’s Fortune Remastered](games/uncharted-drakes-fortune-remastered-ps4.md) | PS4 | 28/54 (39%) | ❌ | **23 ч** | 23 | 0 |  |  |  |
@@ -236,8 +238,9 @@
 | 132 | [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) ⚠ | PS4 | 8/45 (14%) | ❌ | **124 ч** | 123 | 0.5 |  | 14 ч |  |
 | 133 | [The Witcher 3: Wild Hunt](games/the-witcher-3-wild-hunt-ps4.md) | PS4 | 2/79 (2%) | ❌ | **135 ч** | 135 | 0 |  | 16 ч | 5/10 (PlatPrices 7/10; Death March required) |
 | 134 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) ⚠ | PS4 | 6/52 (8%) | ❌ | **215 ч** | 147 | 67 |  | 38 ч | 6/10 |
-| 135 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
-| 136 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |
+| 135 | [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) | PS4 | 10/45 (29%) | ❌ | **? ч** | 0 | 0 |  | 0.9 ч |  |
+| 136 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
+| 137 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |
 
 ## Откуда цифры
 

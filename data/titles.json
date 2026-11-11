@@ -1,5 +1,47 @@
 [
  {
+  "npCommunicationId": "NPWR24408_00",
+  "name": "Evil Dead: The Game",
+  "platform": "PS4",
+  "npServiceName": "trophy",
+  "progress": 29,
+  "defined": {
+   "bronze": 28,
+   "silver": 15,
+   "gold": 1,
+   "platinum": 1
+  },
+  "earned": {
+   "bronze": 5,
+   "silver": 4,
+   "gold": 1,
+   "platinum": 0
+  },
+  "lastUpdated": "2026-11-09T20:52:00Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR24408_00_00FA227931E182CA15CF7C868F856DAC21BBC10C65/2CBEE77B1B7924B82D3AD1A67F54C6CB70DAF9DB.PNG"
+ },
+ {
+  "npCommunicationId": "NPWR08934_00",
+  "name": "Assassin's Creed® Syndicate",
+  "platform": "PS4",
+  "npServiceName": "trophy",
+  "progress": 68,
+  "defined": {
+   "bronze": 45,
+   "silver": 7,
+   "gold": 4,
+   "platinum": 1
+  },
+  "earned": {
+   "bronze": 29,
+   "silver": 5,
+   "gold": 3,
+   "platinum": 0
+  },
+  "lastUpdated": "2026-11-09T19:34:28Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG"
+ },
+ {
   "npCommunicationId": "NPWR24607_00",
   "name": "Evil Dead: The Game",
   "platform": "PS5",
@@ -40,27 +82,6 @@
   },
   "lastUpdated": "2026-11-07T20:20:45Z",
   "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24695_00/68b955dc-1ec1-4494-a4b7-751a9c90fe58.png"
- },
- {
-  "npCommunicationId": "NPWR08934_00",
-  "name": "Assassin's Creed® Syndicate",
-  "platform": "PS4",
-  "npServiceName": "trophy",
-  "progress": 62,
-  "defined": {
-   "bronze": 45,
-   "silver": 7,
-   "gold": 4,
-   "platinum": 1
-  },
-  "earned": {
-   "bronze": 24,
-   "silver": 5,
-   "gold": 3,
-   "platinum": 0
-  },
-  "lastUpdated": "2026-11-06T21:30:49Z",
-  "icon": "https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG"
  },
  {
   "npCommunicationId": "NPWR09412_00",

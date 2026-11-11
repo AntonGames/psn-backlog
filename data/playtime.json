@@ -1,10 +1,24 @@
 [
  {
+  "titleId": "CUSA02377_00",
+  "name": "Assassin's Creed® Syndicate",
+  "category": "ps4_game",
+  "playDuration": "PT52H4M",
+  "lastPlayed": "2026-11-10T20:50:14.520000Z"
+ },
+ {
+  "titleId": "CUSA27708_00",
+  "name": "Evil Dead: The Game",
+  "category": "ps4_game",
+  "playDuration": "PT56M48S",
+  "lastPlayed": "2026-11-10T20:00:19.840000Z"
+ },
+ {
   "titleId": "PPSA03521_00",
   "name": "Evil Dead: The Game",
   "category": "ps5_native_game",
-  "playDuration": "PT19H16M28S",
-  "lastPlayed": "2026-11-08T17:16:52.290000Z"
+  "playDuration": "PT34H12M50S",
+  "lastPlayed": "2026-11-09T08:14:28.580000Z"
  },
  {
   "titleId": "PPSA21704_00",
@@ -19,13 +33,6 @@
   "category": "ps5_native_game",
   "playDuration": "PT98H45M58S",
   "lastPlayed": "2026-11-07T20:20:44.700000Z"
- },
- {
-  "titleId": "CUSA02377_00",
-  "name": "Assassin's Creed® Syndicate",
-  "category": "ps4_game",
-  "playDuration": "PT48H45M47S",
-  "lastPlayed": "2026-11-07T10:35:54.280000Z"
  },
  {
   "titleId": "CUSA08519_00",
@@ -68,13 +75,6 @@
   "category": "ps4_game",
   "playDuration": "PT2M42S",
   "lastPlayed": "2026-10-17T11:15:42.980000Z"
- },
- {
-  "titleId": "CUSA27708_00",
-  "name": "Evil Dead: The Game",
-  "category": "ps4_game",
-  "playDuration": "PT50S",
-  "lastPlayed": "2026-10-12T16:51:46.400000Z"
  },
  {
   "titleId": "PPSA28784_00",
