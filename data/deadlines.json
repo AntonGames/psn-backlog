@@ -5,12 +5,5 @@
     "details": "Токен NPSSO живёт ~60 дней (взят 9–11 ноября 2026). Новый: playstation.com → https://ca.account.sony.com/api/v1/ssocookie → GitHub → Settings → Secrets and variables → Actions → PSN_NPSSO → Update. После замены сдвиньте эту дату в data/deadlines.json.",
     "url": "https://github.com/AntonGames/psn-backlog/settings/secrets/actions",
     "added": "2026-11-11"
-  },
-  {
-    "date": "2027-07-01",
-    "title": "PSN: PS Store на PS3 и PS Vita закрывается (июль 2027)",
-    "details": "Sony объявила 01.07.2026 закрытие PS Store на PS3/Vita: в июле 2027 во всех остальных странах (точный день не назван). Повторная загрузка купленного, по прошлым заявлениям Sony, сохранится, но лучше заранее скачать на консоли все купленные PS3/Vita-игры и DLC из бэклога (24 PS3 и 15 Vita-списков) и сохранить сейвы.",
-    "url": "https://gameinformer.com/2026/07/01/the-playstation-stores-on-playstation-3-and-vita-are-being-shut-down",
-    "added": "2026-11-11"
   }
 ]

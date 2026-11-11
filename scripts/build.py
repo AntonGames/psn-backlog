@@ -446,12 +446,12 @@ for g in games:
         names = sorted({re.sub(r"\s*\(.*$", "", str(u["dlc_required"])) for u in items})
         paid.append((g, len(items), sum(u["hours"] for u in items), names))
 if paid:
-    R += ["<details><summary>💲 Платные DLC в остатке: проверьте, что они куплены "
+    R += ["<details><summary>💲 Платные DLC в остатке (покупка на Anton_gamesTR + шаринг) "
           f"({plural(len(paid), 'игра', 'игры', 'игр')}, {plural(sum(p[1] for p in paid))}, ~{sum(p[2] for p in paid):.0f} ч)</summary>", "",
           "| Игра | Платформа | Трофеев | ~ч | DLC |", "|---|---|---:|---:|---|"]
     for g, n, h, names in sorted(paid, key=lambda p: -p[2]):
         R.append(f"| {link(g)} | {g['t']['platform']} | {n} | {hours_fmt(h)} | {esc(', '.join(names))} |")
-    R += ["", "Если DLC нет и купить нельзя, отметьте его группу в `data/overrides.json` → `unobtainable_groups`.", "", "</details>", ""]
+    R += ["", "Если DLC купить нельзя (шаринг не работает, как у The Division 2), отметьте его группу в `data/overrides.json` → `unobtainable_groups`.", "", "</details>", ""]
 
 # по платформам
 plat = {}

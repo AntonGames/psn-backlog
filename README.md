@@ -19,7 +19,6 @@
 ## ⏰ Ближайшие дедлайны
 
 - **2027-01-05** — PSN: продлить токен PSN_NPSSO ([ссылка](https://github.com/AntonGames/psn-backlog/settings/secrets/actions))
-- **2027-07-01** — PSN: PS Store на PS3 и PS Vita закрывается (июль 2027) ([ссылка](https://gameinformer.com/2026/07/01/the-playstation-stores-on-playstation-3-and-vita-are-being-shut-down))
 
 Все сроки — в календаре по подписке: `calendar/deadlines.ics` (как подключить — в разделе «Автоматика»).
 
@@ -59,7 +58,7 @@
 - [Back to the Future - Episode 1: It's About Time](games/back-to-the-future-episode-1-its-about-time-ps3.md) · PS3 — ~2 ч, осталось 8 трофеев
 - [Paranormal Activity](games/paranormal-activity-ps4.md) · PS4 — ~3 ч, осталось 11 трофеев
 
-<details><summary>💲 Платные DLC в остатке: проверьте, что они куплены (27 игр, 501 трофей, ~383 ч)</summary>
+<details><summary>💲 Платные DLC в остатке (покупка на Anton_gamesTR + шаринг) (27 игр, 501 трофей, ~383 ч)</summary>
 
 | Игра | Платформа | Трофеев | ~ч | DLC |
 |---|---|---:|---:|---|
@@ -91,7 +90,7 @@
 | [DRIVECLUB BIKES](games/driveclub-bikes-ps4.md) | PS4 | 4 | 2.1 | Suzuki bike pack |
 | [Resident Evil 4](games/resident-evil-4-ps5.md) | PS5 | 7 | 0.5 | Separate Ways |
 
-Если DLC нет и купить нельзя, отметьте его группу в `data/overrides.json` → `unobtainable_groups`.
+Если DLC купить нельзя (шаринг не работает, как у The Division 2), отметьте его группу в `data/overrides.json` → `unobtainable_groups`.
 
 </details>
 
