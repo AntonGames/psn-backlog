@@ -19,6 +19,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Install mail renderer
+        run: python3 -m pip install --quiet markdown==3.7
       - name: Send new reports
         env:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}

@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2027-01-05",
+    "title": "PSN: продлить токен PSN_NPSSO",
+    "details": "Токен NPSSO живёт ~60 дней (взят 9–11 ноября 2026). Новый: playstation.com → https://ca.account.sony.com/api/v1/ssocookie → GitHub → Settings → Secrets and variables → Actions → PSN_NPSSO → Update. После замены сдвиньте эту дату в data/deadlines.json.",
+    "url": "https://github.com/AntonGames/psn-backlog/settings/secrets/actions",
+    "added": "2026-11-11"
+  }
+]

@@ -367,7 +367,49 @@ def render_burndown(rows, path):
 
 
 render_burndown(hrows, f"{ROOT}/charts/burndown.svg")
+
+# ---------- календарь дедлайнов (подписка по ссылке) ----------
+def ics_escape(x):
+    return str(x or "").replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def ics_fold(line):
+    out, cur = [], ""
+    for ch in line:
+        if len((cur + ch).encode("utf-8")) > 74:
+            out.append(cur)
+            cur = " " + ch
+        else:
+            cur += ch
+    return "\r\n".join(out + [cur])
+
+
+deadlines = load(f"{D}/deadlines.json", []) or []
+ics = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//AntonGames//psn-backlog//RU", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
+       "X-WR-CALNAME:PSN бэклог — дедлайны", "X-WR-TIMEZONE:Europe/Vilnius",
+       "X-WR-CALDESC:Закрытие серверов · делистинг · другие сроки из трекера psn-backlog"]
+for dl in sorted(deadlines, key=lambda x: x["date"]):
+    day = datetime.date.fromisoformat(dl["date"])
+    uid = re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", dl["title"]).encode("ascii", "ignore").decode().lower()).strip("-")
+    stamp = (dl.get("added") or dl["date"]).replace("-", "") + "T000000Z"
+    ics += ["BEGIN:VEVENT", f"UID:{dl['date']}-{uid or 'deadline'}@psn-backlog", f"DTSTAMP:{stamp}",
+            f"DTSTART;VALUE=DATE:{day:%Y%m%d}", f"DTEND;VALUE=DATE:{day + datetime.timedelta(days=1):%Y%m%d}",
+            f"SUMMARY:{ics_escape(dl['title'])}", f"DESCRIPTION:{ics_escape(dl.get('details', '') + (' ' + dl['url'] if dl.get('url') else ''))}"]
+    if dl.get("url"):
+        ics.append(f"URL:{dl['url']}")
+    for trig in ("-P30D", "-P7D", "-P1D"):
+        ics += ["BEGIN:VALARM", "ACTION:DISPLAY", f"DESCRIPTION:{ics_escape(dl['title'])}", f"TRIGGER:{trig}", "END:VALARM"]
+    ics.append("END:VEVENT")
+ics.append("END:VCALENDAR")
+os.makedirs(f"{ROOT}/calendar", exist_ok=True)
+open(f"{ROOT}/calendar/deadlines.ics", "w", encoding="utf-8", newline="").write("\r\n".join(ics_fold(x) for x in ics) + "\r\n")
+upcoming = [d for d in sorted(deadlines, key=lambda x: x["date"]) if d["date"] >= today]
+
 weeks = (h_off + h_on) / PACE
+if upcoming:
+    R += ["## ⏰ Ближайшие дедлайны", ""]
+    R += [f"- **{d['date']}** — {esc(d['title'])}" + (f" ([ссылка]({d['url']}))" if d.get("url") else "") for d in upcoming[:8]]
+    R += ["", "Все сроки — в календаре по подписке: `calendar/deadlines.ics` (как подключить — в разделе «Автоматика»).", ""]
 R += ["## 📉 Динамика", "",
       f"При {PACE} ч в неделю текущий остаток — это **~{weeks:.0f} недель** (≈ {weeks / 52.18:.1f} года).", "",
       "![Осталось часов в бэклоге](charts/burndown.svg)", "",
@@ -455,7 +497,12 @@ R += ["",
       "| Синк трофеев из PSN | каждый день | Action **Update backlog** (секрет `PSN_NPSSO`); при сбое — письмо |",
       "| Проверка онлайна, серверов, делистинга, цены DLC Division 2, оценка новых игр, отчёт и план на неделю | понедельник ~08:40 (Вильнюс) | еженедельная сессия Claude по [`WEEKLY.md`](WEEKLY.md) → `reports/` |",
       "| Письма с отчётом и тревогами | при новом файле в `reports/` | Action **Email reports** (секреты `MAIL_USERNAME`, `MAIL_APP_PASSWORD`, `MAIL_TO`) |",
-      "| Дедлайны (закрытие серверов, делистинг) | по дате | Google Calendar, напоминания по почте за 30/7/1 день |",
+      "| Дедлайны (закрытие серверов, делистинг, продление токена) | по дате | `data/deadlines.json` → календарь `calendar/deadlines.ics` |",
+      "",
+      "**Подписка на календарь дедлайнов (один раз):** Google Calendar → слева «Другие календари» → «+» → «Добавить по URL» → "
+      "`https://raw.githubusercontent.com/AntonGames/psn-backlog/main/calendar/deadlines.ics`. "
+      "Затем в настройках этого календаря → «Уведомления о мероприятиях на весь день» → добавить «Эл. почта» за 4 недели, 1 неделю и 1 день. "
+      "Google обновляет такие календари раз в несколько часов.",
       ""]
 write(f"{ROOT}/README.md", "\n".join(R))
 

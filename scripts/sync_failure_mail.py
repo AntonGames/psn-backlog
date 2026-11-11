@@ -16,18 +16,23 @@ elif re.search(r"unavailable|too many|429|50[0-9]|timeout|fetch failed|econnrese
 else:
     kind, advice = "неизвестная ошибка", "Посмотрите лог по ссылке или перешлите это письмо Claude."
 
-body = f"""Ежедневная выгрузка трофеев из PSN не удалась: {kind}.
+body = f"""## Синк трофеев не прошёл: {kind}
+
 {advice}
 
-Последние строки лога:
+**Последние строки лога:**
+
+```
 {tail}
+```
 
-Лог запуска: {os.environ.get('RUN_URL', '')}
+[Открыть лог запуска]({os.environ.get('RUN_URL', '')})
 
-Как обновить токен NPSSO (живёт ~60 дней):
+### Как обновить токен NPSSO (живёт ~60 дней)
+
 1. Войти на playstation.com и открыть https://ca.account.sony.com/api/v1/ssocookie
 2. Скопировать значение npsso (лучше со второго аккаунта).
-3. GitHub → репозиторий → Settings → Secrets and variables → Actions → PSN_NPSSO → Update.
+3. GitHub → репозиторий → Settings → Secrets and variables → Actions → `PSN_NPSSO` → Update.
 4. Actions → Update backlog → Run workflow.
 """
 subprocess.run([sys.executable, "scripts/send_mail.py", f"⚠ PSN бэклог: синк не прошёл — {kind}", "-"], input=body, text=True, check=True)
