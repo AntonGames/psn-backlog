@@ -8,7 +8,7 @@
   data/overrides.json      — ручные правки: недоступные DLC, переклассификация трофеев
 Выход: README.md, ONLINE.md, UNOBTAINABLE.md, games/*.md
 """
-import json, re, glob, os, datetime, unicodedata
+import json, re, glob, os, datetime, unicodedata, math
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(ROOT, "data")
@@ -280,7 +280,7 @@ R = [
     "",
     f"Уровень **{profile.get('trophyLevel', '?')}** · 🏆 {et.get('platinum', 0)} · 🥇 {et.get('gold', 0)} · 🥈 {et.get('silver', 0)} · 🥉 {et.get('bronze', 0)}  ",
     f"Списков трофеев: **{len(titles)}**, закрыто на 100%: **{complete_count}**, в бэклоге: **{len(games)}**  ",
-    f"Данные PSN: {fetched or '?'} · страница собрана: {today}",
+    f"Данные PSN: {fetched or '?'}",
     "",
     "## Итого осталось",
     "",
@@ -296,6 +296,90 @@ R = [
 if tot["unknown"]:
     R.append(f"| ❔ Без оценки | {tot['unknown']} | — |")
 R += [f"| Всего невыбитых | {n_unearned} | |", ""]
+
+# ---------- история и график сжигания ----------
+HIST = f"{D}/history.csv"
+HCOLS = ["date", "obtainable_trophies", "offline_h", "online_h", "total_h", "unobtainable_trophies", "platinums", "level"]
+hist = {}
+if os.path.exists(HIST):
+    for line in open(HIST, encoding="utf-8").read().splitlines()[1:]:
+        if line.strip():
+            row = dict(zip(HCOLS, line.split(",")))
+            hist[row["date"]] = row
+obtainable_now = tot["offline"] + tot["online"] + tot["unknown"]
+hist[fetched or today] = {
+    "date": fetched or today, "obtainable_trophies": str(obtainable_now), "offline_h": f"{h_off:.0f}", "online_h": f"{h_on:.0f}",
+    "total_h": f"{h_off + h_on:.0f}", "unobtainable_trophies": str(tot["unobtainable_user"] + tot["unobtainable_servers"] + tot["glitched"]),
+    "platinums": str(et.get("platinum", 0)), "level": str(profile.get("trophyLevel", "")),
+}
+hrows = [hist[k] for k in sorted(hist)]
+with open(HIST, "w", encoding="utf-8") as fh:
+    fh.write(",".join(HCOLS) + "\n" + "\n".join(",".join(r[c] for c in HCOLS) for r in hrows) + "\n")
+
+PACE = 20  # часов в неделю
+
+
+def render_burndown(rows, path):
+    """Однолинейный график остатка часов + пунктир темпа PACE ч/нед. Свой фон, светлая и тёмная тема."""
+    W, H, l, r, t, b = 720, 300, 64, 92, 56, 40
+    d0 = datetime.date.fromisoformat(rows[0]["date"])
+    pts = [((datetime.date.fromisoformat(x["date"]) - d0).days, float(x["total_h"])) for x in rows]
+    span = max(pts[-1][0], 7)
+    pace = [(0, pts[0][1]), (span, pts[0][1] - PACE * span / 7)]
+    vals = [v for _, v in pts] + [v for _, v in pace]
+    lo, hi = min(vals), max(vals)
+    pad = max(10, (hi - lo) * 0.1)
+    lo, hi = lo - pad, hi + pad
+    raw = (hi - lo) / 4
+    mag = 10 ** math.floor(math.log10(raw))
+    step = next(m * mag for m in (1, 2, 2.5, 5, 10) if m * mag >= raw)
+    lo, hi = math.floor(lo / step) * step, math.ceil(hi / step) * step
+    X = lambda d: l + (W - l - r) * d / span
+    Y = lambda v: t + (H - t - b) * (hi - v) / (hi - lo)
+    ticks = [lo + step * i for i in range(int(round((hi - lo) / step)) + 1)]
+    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" '
+         f'aria-label="Осталось часов в бэклоге: {rows[-1]["total_h"]} ч на {rows[-1]["date"]}">',
+         "<style>.bg{fill:#fcfcfb}.t1{fill:#0b0b0b}.t2{fill:#52514e}.grid{stroke:#e4e3de}.pace{stroke:#8d8b84}"
+         ".ln{stroke:#2a78d6}.dot{fill:#2a78d6;stroke:#fcfcfb}"
+         "@media (prefers-color-scheme:dark){.bg{fill:#1a1a19}.t1{fill:#f0efec}.t2{fill:#c3c2b7}.grid{stroke:#3a3a37}"
+         ".pace{stroke:#8f8e86}.ln{stroke:#3987e5}.dot{fill:#3987e5;stroke:#1a1a19}}"
+         "text{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}</style>",
+         f'<rect class="bg" width="{W}" height="{H}" rx="8"/>',
+         f'<text class="t1" x="{l}" y="26" font-size="16" font-weight="600">Осталось часов в бэклоге</text>',
+         f'<text class="t2" x="{l}" y="44" font-size="12">пунктир — темп {PACE} ч в неделю от первой точки</text>']
+    for v in ticks:
+        o.append(f'<line class="grid" x1="{l}" x2="{W - r}" y1="{Y(v):.1f}" y2="{Y(v):.1f}" stroke-width="1"/>')
+        o.append(f'<text class="t2" x="{l - 8}" y="{Y(v) + 4:.1f}" font-size="11" text-anchor="end">{v:.0f}</text>')
+    for d, anchor in ((0, "start"), (span, "end")):
+        day = (d0 + datetime.timedelta(days=d)).strftime("%d.%m.%y")
+        o.append(f'<text class="t2" x="{X(d):.1f}" y="{H - 14}" font-size="11" text-anchor="{anchor}">{day}</text>')
+    o.append(f'<line class="pace" x1="{X(pace[0][0]):.1f}" y1="{Y(pace[0][1]):.1f}" x2="{X(pace[1][0]):.1f}" '
+             f'y2="{Y(pace[1][1]):.1f}" stroke-width="1.5" stroke-dasharray="5 5"/>')
+    if len(pts) > 1:
+        o.append('<polyline class="ln" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="'
+                 + " ".join(f"{X(d):.1f},{Y(v):.1f}" for d, v in pts) + '"/>')
+    o.append(f'<circle class="dot" cx="{X(pts[-1][0]):.1f}" cy="{Y(pts[-1][1]):.1f}" r="4.5" stroke-width="2"/>')
+    o.append(f'<text class="t1" x="{X(pts[-1][0]) + 10:.1f}" y="{Y(pts[-1][1]) - 8:.1f}" font-size="13" font-weight="600">'
+             f'{pts[-1][1]:.0f} ч</text>')
+    o.append("</svg>")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    open(path, "w", encoding="utf-8").write("\n".join(o) + "\n")
+
+
+render_burndown(hrows, f"{ROOT}/charts/burndown.svg")
+weeks = (h_off + h_on) / PACE
+R += ["## 📉 Динамика", "",
+      f"При {PACE} ч в неделю текущий остаток — это **~{weeks:.0f} недель** (≈ {weeks / 52.18:.1f} года).", "",
+      "![Осталось часов в бэклоге](charts/burndown.svg)", "",
+      "<details><summary>Таблица по датам</summary>", "",
+      "| Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |", "|---|---:|---:|---:|---:|---:|"]
+R += [f"| {x['date']} | {x['obtainable_trophies']} | {x['total_h']} | {x['offline_h']} | {x['online_h']} | {x['platinums']} |"
+      for x in hrows[::-1][:12]]
+R += ["", "Вся история — в [`data/history.csv`](data/history.csv).", "", "</details>", ""]
+reports = sorted(glob.glob(f"{ROOT}/reports/*/*.md"), key=os.path.basename, reverse=True)
+if reports:
+    R += ["Последние отчёты: " + " · ".join(f"[{os.path.basename(os.path.dirname(p))} {os.path.basename(p)[:-3]}]"
+                                             f"({os.path.relpath(p, ROOT)})" for p in reports[:3]), ""]
 
 done = sorted([t for t in titles.values() if all(t["earned"].get(k, 0) >= v for k, v in t["defined"].items())],
               key=lambda t: t["lastUpdated"], reverse=True)[:5]
@@ -363,6 +447,15 @@ R += ["",
       "",
       "Оценки времени и онлайна лежат в `data/estimates/` и считаются по каждому трофею: при выбивании остаток пересчитывается автоматически.",
       "Ручные правки (например, «DLC купил», «сервер на самом деле жив») — в `data/overrides.json`.",
+      "",
+      "## Автоматика",
+      "",
+      "| Что | Когда | Где |",
+      "|---|---|---|",
+      "| Синк трофеев из PSN | каждый день | Action **Update backlog** (секрет `PSN_NPSSO`); при сбое — письмо |",
+      "| Проверка онлайна, серверов, делистинга, цены DLC Division 2, оценка новых игр, отчёт и план на неделю | понедельник ~08:40 (Вильнюс) | еженедельная сессия Claude по [`WEEKLY.md`](WEEKLY.md) → `reports/` |",
+      "| Письма с отчётом и тревогами | при новом файле в `reports/` | Action **Email reports** (секреты `MAIL_USERNAME`, `MAIL_APP_PASSWORD`, `MAIL_TO`) |",
+      "| Дедлайны (закрытие серверов, делистинг) | по дате | Google Calendar, напоминания по почте за 30/7/1 день |",
       ""]
 write(f"{ROOT}/README.md", "\n".join(R))
 

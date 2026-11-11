@@ -1,0 +1,45 @@
+name: Email reports
+
+# Еженедельная сессия Claude кладёт отчёты в reports/weekly/ и тревоги в reports/alerts/.
+# Каждый новый файл уходит письмом через Gmail SMTP.
+on:
+  push:
+    branches: [main]
+    paths: ["reports/**"]
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Путь к отчёту для повторной отправки (например reports/weekly/2026-11-16.md)"
+        required: true
+
+jobs:
+  mail:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Send new reports
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          BEFORE: ${{ github.event.before }}
+          INPUT_FILE: ${{ github.event.inputs.file }}
+        run: |
+          if [ -n "$INPUT_FILE" ]; then
+            files="$INPUT_FILE"
+          elif git cat-file -e "$BEFORE" 2>/dev/null; then
+            files=$(git diff --name-only --diff-filter=A "$BEFORE" HEAD -- reports/)
+          else
+            files=$(git diff-tree --no-commit-id --name-only --diff-filter=A -r HEAD -- reports/)
+          fi
+          for f in $files; do
+            name=$(basename "$f" .md)
+            case "$f" in
+              reports/alerts/*) subj="⚠ PSN бэклог: дедлайны и риски — $name" ;;
+              reports/weekly/*) subj="PSN бэклог: неделя $name" ;;
+              *) continue ;;
+            esac
+            python3 scripts/send_mail.py "$subj" "$f"
+          done
