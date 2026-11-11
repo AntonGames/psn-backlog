@@ -242,7 +242,8 @@ for g in games:
     if est.get("missed_missables"):
         L += [f"> **Пропущенные/упускаемые:** {est['missed_missables']}", ""]
     if est.get("guide_urls"):
-        L += ["**Гайды:** " + " · ".join(f"[{re.sub(r'^https?://(www\.)?', '', u).split('/')[0]}]({u})" for u in est["guide_urls"]), ""]
+        hosts = [(re.sub(r"^https?://(www\.)?", "", u).split("/")[0], u) for u in est["guide_urls"]]
+        L += ["**Гайды:** " + " · ".join(f"[{h}]({u})" for h, u in hosts), ""]
     L += ["## Невыбитые трофеи", ""]
     for gid, gname in g["groups"].items():
         items = [u for u in g["unearned"] if u["group"] == gid]
