@@ -2,7 +2,7 @@
 
 Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-11) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
 
-**Итого:** 146 трофеев в 18 играх, ~274 ч.
+**Итого:** 181 трофей в 19 играх, ~316 ч.
 
 | Игра | Платформа | Не выбито онлайн | ~ч | Сервера |
 |---|---|---|---:|---|
@@ -21,13 +21,14 @@
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | **8**: Seductive Embrace, Rivals Welcome, Hellbent, Dreaded Opponent, Forged From Steel, Mega Good и ещё 2 | 21 | 🟢 работают |
 | [F1 2017](games/f1-2017-ps4.md) | PS4 | **2**: Competitive Streak, Another lap? | 30 | 🟢 работают |
 | [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | **17**: Knowing the Basics, Populace, Firefly, Hunter, Wharf, Capitol и ещё 11 | 39 | 🟢 работают |
+| [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) | PS4 | **35**: Savior and Destroyer, The Deadite Slayer, Just warming up, Who's laughing now?, Hand Shake, That's gotta hurt! и ещё 29 | 42 | 🟢 работают |
 | [Need for Speed](games/need-for-speed-ps4.md) | PS4 | **44**: Platinum Trophy, Early Days, Getting Noticed, Can I Get Your Autograph?, Guidance From Amy, RWB и ещё 38 | 42 | 🟢 работают |
 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) | PS3 | **35**: Have Gun Will Travel, Slow on the Draw, Hit the Trail, The Quick and Everyone Else..., How the West Was Won, Go Team! и ещё 29 | 46 | 🟢 работают |
 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) | PS4 | **17**: Breakout, Series Major, Gun For Hire, Eventful, Buckle Up, The Real Deal и ещё 11 | 67 | 🟢 работают |
 
 ## HITMAN 2 · PS4 — 1 трофей
 
-Сервера: 🟡 частично Проверено 09.11.2026: Закрыты Ghost Mode (31.08.2020) и онлайн-кооп Sniper Assassin (до выхода HITMAN 3). Основной сервер HITMAN 2 для PS4 (ps42-service.hitman.io) отвечал 09.11.2026, а все базовые трофеи, включая контракты, на Stratege собирали до 30.08.2026. Значит, контракты и их таблицы рекордов работают. (на 2020-08-31) ([источник](https://hitmanstat.us/))
+Сервера: 🟡 частично Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Закрыты Ghost Mode (31.08.2020) и онлайн-кооп Sniper Assassin (до выхода HITMAN 3). Основной сервер HITMAN 2 для PS4 (ps42-service.hitman.io) отвечал 09.11.2026, а все базовые трофеи, включая контракты, на Stratege собирали до 30.08.2026. Значит, контракты и их таблицы рекордов работают. (на 2020-08-31) ([источник](https://hitmanstat.us/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -37,7 +38,7 @@
 
 ## METAL GEAR SOLID V: THE PHANTOM PAIN · PS4 — 1 трофей
 
-Сервера: 🟡 частично Проверено 09.11.2026: Официальная страница статуса Konami (проверено 09.11.2026) показывает серверы TPP+FOB для PS4 как «работают», платины PS4 на Stratege идут до 25.10.2026 — FOB в мире жив. НО с 15.06.2026 Konami отключила онлайн MGSV для России и Беларуси на всех платформах (блок по IP; сообщают и о банах аккаунтов) — из РФ/РБ «Intruder» без смены сети не получить. (на 2026-06-15) ([источник](https://www.konami.com/mg/mgs5/tpp/jp/))
+Сервера: 🟡 частично Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Официальная страница статуса Konami (проверено 09.11.2026) показывает серверы TPP+FOB для PS4 как «работают», платины PS4 на Stratege идут до 25.10.2026 — FOB в мире жив. НО с 15.06.2026 Konami отключила онлайн MGSV для России и Беларуси на всех платформах (блок по IP; сообщают и о банах аккаунтов) — из РФ/РБ «Intruder» без смены сети не получить. (на 2026-06-15) ([источник](https://www.konami.com/mg/mgs5/tpp/jp/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -57,7 +58,7 @@
 
 ## Titanfall 2 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Проверено 09.11.2026: Официальные серверы Titanfall 2 работают: в актуальном списке закрытий EA (с записями до декабря 2026) TF2 нет, в октябре 2026 к 10-летию писали, что игра по-прежнему на своих серверах, а на Stratege платины PS4 (требуют «Free Association») получают в окт. 2026. Закрыт только первый Titanfall (2022). ([источник](https://vgtimes.com/gaming-news/172638-titanfall-2-turns-10-but-its-anniversary-rewards-are-in-apex-legends.html))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Официальные серверы Titanfall 2 работают: в актуальном списке закрытий EA (с записями до декабря 2026) TF2 нет, в октябре 2026 к 10-летию писали, что игра по-прежнему на своих серверах, а на Stratege платины PS4 (требуют «Free Association») получают в окт. 2026. Закрыт только первый Titanfall (2022). ([источник](https://vgtimes.com/gaming-news/172638-titanfall-2-turns-10-but-its-anniversary-rewards-are-in-apex-legends.html))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -67,7 +68,7 @@
 
 ## Far Cry 5 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Проверено 09.11.2026: Признаков отключения кооператива Far Cry 5 нет: в новостях о списаниях Ubisoft FC5 не фигурирует, а платины PS4 (требуют кооп-трофей «Hitting it Off») на Stratege получают вплоть до 07.11.2026. Официальный список Ubisoft проверить не удалось (сайт недоступен из этой сети); случайных напарников мало — нужен друг с игрой. ([источник](https://stratege.ru/ps4/games/far_cry_5/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Признаков отключения кооператива Far Cry 5 нет: в новостях о списаниях Ubisoft FC5 не фигурирует, а платины PS4 (требуют кооп-трофей «Hitting it Off») на Stratege получают вплоть до 07.11.2026. Официальный список Ubisoft проверить не удалось (сайт недоступен из этой сети); случайных напарников мало — нужен друг с игрой. ([источник](https://stratege.ru/ps4/games/far_cry_5/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -77,7 +78,7 @@
 
 ## Middle-earth: Shadow of War · PS4 — 2 трофея
 
-Сервера: 🟢 работают Проверено 09.11.2026: Онлайн-завоевания и вендетты работают: в сентябре 2026 игроки (в т.ч. на PS5 с PS4-версией) встречают чужие крепости в онлайне, совет на Stratege от 17.10.2025 про «Such Great Heights» через сетевые завоевания, платины PS4 до 31.10.2026. Monolith закрыта в 2025, но серверы WB работают; «Elven Conquest» требует DLC «Blade of Galadriel». ([источник](https://steamcommunity.com/app/356190/discussions/0/567045939002777415/))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Онлайн-завоевания и вендетты работают: в сентябре 2026 игроки (в т.ч. на PS5 с PS4-версией) встречают чужие крепости в онлайне, совет на Stratege от 17.10.2025 про «Such Great Heights» через сетевые завоевания, платины PS4 до 31.10.2026. Monolith закрыта в 2025, но серверы WB работают; «Elven Conquest» требует DLC «Blade of Galadriel». ([источник](https://steamcommunity.com/app/356190/discussions/0/567045939002777415/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -99,7 +100,7 @@
 
 ## Journey · PS4 — 3 трофея
 
-Сервера: 🟢 работают Проверено 09.11.2026: Journey нет в официальном списке Sony закрытых серверов (там есть flOw, но не Journey), а на Stratege 100% (требуют трофеи с компаньонами) получают 06–07.11.2026. Игроков мало: по отчёту ноября 2024 «Wonder» потребовал ~20 ч ожидания. ([источник](https://www.playstation.com/en-us/legal/gameservers/))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Journey нет в официальном списке Sony закрытых серверов (там есть flOw, но не Journey), а на Stratege 100% (требуют трофеи с компаньонами) получают 06–07.11.2026. Игроков мало: по отчёту ноября 2024 «Wonder» потребовал ~20 ч ожидания. ([источник](https://www.playstation.com/en-us/legal/gameservers/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -111,7 +112,7 @@
 
 ## Uncharted 4: A Thief’s End · PS4 — 1 трофей
 
-Сервера: 🟢 работают Проверено 09.11.2026: Мультиплеер UC4 на PS4 не закрыт: его нет в официальном списке Sony закрытых серверов (там только PS3-версии UC2/UC3/TLoU), а совет на Stratege от 04.05.2026 описывает прохождение испытаний. Испытания (Trials) — соло против ИИ, но через меню мультиплеера (нужны онлайн и PS Plus). ([источник](https://www.playstation.com/en-us/legal/gameservers/))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Мультиплеер UC4 на PS4 не закрыт: его нет в официальном списке Sony закрытых серверов (там только PS3-версии UC2/UC3/TLoU), а совет на Stratege от 04.05.2026 описывает прохождение испытаний. Испытания (Trials) — соло против ИИ, но через меню мультиплеера (нужны онлайн и PS Plus). ([источник](https://www.playstation.com/en-us/legal/gameservers/))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -121,7 +122,7 @@
 
 ## F1 2019 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Проверено 09.11.2026: F1 2019 нет в списке закрытий EA (актуален по декабрь 2026), онлайн у F1 2015+ работает. Платину на PS4, куда входит Around the World (time trial на всех трассах), получали ещё 09.06.2025, а PC-гайд, обновлённый в марте 2026, описывает работающие лиги и ранкед. ([источник](https://www.ea.com/legal/service-updates/a-h))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): F1 2019 нет в списке закрытий EA (актуален по декабрь 2026), онлайн у F1 2015+ работает. Платину на PS4, куда входит Around the World (time trial на всех трассах), получали ещё 09.06.2025, а PC-гайд, обновлённый в марте 2026, описывает работающие лиги и ранкед. ([источник](https://www.ea.com/legal/service-updates/a-h))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -131,7 +132,7 @@
 
 ## NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 · PS4 — 1 трофей
 
-Сервера: 🟢 работают Проверено 09.11.2026: Объявлений Bandai Namco о закрытии онлайна PS4-версии нет; платины PS4 на Stratege (требуют рейтинговых побед, а «Which name shall I use?» — титулов за 50 рейтинговых побед и 20 поражений) получены 16.08–07.10.2026. Онлайн почти пуст — нужен напарник для бустинга. ([источник](https://stratege.ru/ps4/games/naruto_shippuden_ultimate_ninja_storm_2/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Объявлений Bandai Namco о закрытии онлайна PS4-версии нет; платины PS4 на Stratege (требуют рейтинговых побед, а «Which name shall I use?» — титулов за 50 рейтинговых побед и 20 поражений) получены 16.08–07.10.2026. Онлайн почти пуст — нужен напарник для бустинга. ([источник](https://stratege.ru/ps4/games/naruto_shippuden_ultimate_ninja_storm_2/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -141,7 +142,7 @@
 
 ## ULTIMATE MARVEL VS. CAPCOM 3 · PS3 — 8 трофеев
 
-Сервера: 🟢 работают Проверено 09.11.2026: На PS3 ранкед до сих пор работает: платины (нужны 100 побед в Ranked Match и 30 часов онлайна) получали 01.05.2025, 17.09.2025 и 30.04.2026 (Stratege). Capcom закрытие не объявляла, но игроков почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps3/games/ultimate_marvel_vs_capcom_3/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): На PS3 ранкед до сих пор работает: платины (нужны 100 побед в Ranked Match и 30 часов онлайна) получали 01.05.2025, 17.09.2025 и 30.04.2026 (Stratege). Capcom закрытие не объявляла, но игроков почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps3/games/ultimate_marvel_vs_capcom_3/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -158,7 +159,7 @@
 
 ## ULTIMATE MARVEL VS. CAPCOM 3 · PS4 — 8 трофеев
 
-Сервера: 🟢 работают Проверено 09.11.2026: Официального закрытия нет, матчи идут P2P через PSN. Последняя платина на Stratege (нужны 100 побед в ранкеде) получена 21.03.2025, а на PC онлайн-матчи работали в мае 2026. Игроков на PS4 почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps4/games/ultimate_marvel_vs_capcom_3/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Официального закрытия нет, матчи идут P2P через PSN. Последняя платина на Stratege (нужны 100 побед в ранкеде) получена 21.03.2025, а на PC онлайн-матчи работали в мае 2026. Игроков на PS4 почти нет, нужен партнёр для буста. ([источник](https://www.stratege.ru/ps4/games/ultimate_marvel_vs_capcom_3/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -175,7 +176,7 @@
 
 ## F1 2017 · PS4 — 2 трофея
 
-Сервера: 🟢 работают Проверено 09.11.2026: F1 2017 нет в официальном списке закрытий EA: он актуален по декабрь 2026, а из F1 в нём закрыты только 2011–2014 (21.03.2024). По Википедии, самая старая F1 с работающими серверами — F1 2015. Платины с онлайн-рангом 25 и Champion Star получали до 10.09.2025. Живых лобби почти нет, нужен буст. ([источник](https://www.ea.com/legal/service-updates/a-h))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): F1 2017 нет в официальном списке закрытий EA: он актуален по декабрь 2026, а из F1 в нём закрыты только 2011–2014 (21.03.2024). По Википедии, самая старая F1 с работающими серверами — F1 2015. Платины с онлайн-рангом 25 и Champion Star получали до 10.09.2025. Живых лобби почти нет, нужен буст. ([источник](https://www.ea.com/legal/service-updates/a-h))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -186,7 +187,7 @@
 
 ## The Last of Us Remastered · PS4 — 17 трофеев
 
-Сервера: 🟢 работают Проверено 09.11.2026: Factions в TLOU Remastered (PS4) работает: в статье GameGPU от 29.04.2026 пишут, что серверы полностью работают и матчи находятся быстро. Naughty Dog закрытие не анонсировала, в обзорах отключений за август–декабрь 2026 игры нет. Закрыт был только PS3 (03.09.2019). Нужен PS Plus. ([источник](https://en.gamegpu.com/news/igry/multipleernyj-rezhim-the-last-of-us-sokhranyaet-onlajn-spustya-13-let))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Factions в TLOU Remastered (PS4) работает: в статье GameGPU от 29.04.2026 пишут, что серверы полностью работают и матчи находятся быстро. Naughty Dog закрытие не анонсировала, в обзорах отключений за август–декабрь 2026 игры нет. Закрыт был только PS3 (03.09.2019). Нужен PS Plus. ([источник](https://en.gamegpu.com/news/igry/multipleernyj-rezhim-the-last-of-us-sokhranyaet-onlajn-spustya-13-let))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -210,9 +211,53 @@
 
 [Страница игры →](games/the-last-of-us-remastered-ps4.md)
 
+## Evil Dead: The Game · PS4 — 35 трофеев
+
+Сервера: 🟢 работают Проверено 11.11.2026: снята с продажи (PS Store, 2025), но Saber обещала держать сервера «на обозримое будущее»; платина PS5 владельца получена 09.11.2026 — онлайн работает. Даты закрытия нет. ([источник](https://www.videogameschronicle.com/news/saber-confirms-its-delisting-evil-dead-the-game-but-says-it-plans-to-keep-the-servers-online))
+
+| | Трофей | Описание | Вид | ~ч |
+|---|---|---|---|---:|
+| 🏆 | Savior and Destroyer | Collect all trophies | co-op |  |
+| 🥉 | The Deadite Slayer | Kill 500 demon basic units | co-op | 0.6 |
+| 🥉 | Just warming up | Kill 50 demon elite units | co-op | 0.6 |
+| 🥉 | Who's laughing now? | Kill 10 boss units | co-op | 0.6 |
+| 🥉 | Hand Shake | Hide Ash's hand in a chest and scare a survivor who opens it | co-op | 0.6 |
+| 🥉 | That's gotta hurt! | Perform 10 special attacks | co-op | 0.6 |
+| 🥉 | Who's next, huh? | Perform 100 finishers | co-op | 0.6 |
+| 🥉 | Never leave a friend behind | Revive an incapacitated teammate 30 times | co-op | 0.6 |
+| 🥉 | Back from the dead | Resurrect 10 teammate's souls at an altar | co-op | 0.6 |
+| 🥉 | Books From Beyond | Successfully collect 20 Lost Pages | co-op | 0.6 |
+| 🥉 | Light-Bringer | Turn on 50 light sources | co-op | 0.6 |
+| 🥉 | Guiding Light | Find 300 items with the flashlight | co-op | 0.6 |
+| 🥉 | Not today, demon | Free 10 possessed teammates | co-op | 0.6 |
+| 🥉 | Roadkill | Run over 50 Deadites with a car | co-op | 0.6 |
+| 🥉 | Classic Ride | Drive the Delta while playing as Ash | co-op | 0.6 |
+| 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | co-op | 0.6 |
+| 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | co-op | 0.6 |
+| 🥉 | Medieval Mode | Finish a match with Ash (Army of Darkness), Lord Arthur and Henry the Red in your team | co-op | 0.6 |
+| 🥉 | Jacksonville, here we come! | Finish a match with Ash (Ash vs Evil Dead), Kelly and Pablo on your team | co-op | 0.6 |
+| 🥈 | Dark Thirty | Win 30 matches as a Survivor | MP | 6 |
+| 🥈 | Boss of Bosses | Kill 20 boss units | co-op | 0.6 |
+| 🥈 | Weapon of Choice | Kill 50 Deadites with a legendary weapon | co-op | 0.6 |
+| 🥉 | Puppetmaster | Possess 50 basic units | MP | 0.3 |
+| 🥉 | Control Freak | Possess 25 elite units | MP | 0.3 |
+| 🥉 | Be the boss | Possess 10 boss units | MP | 0.3 |
+| 🥉 | Join us! | Possess 10 Survivors | MP | 0.3 |
+| 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | MP | 0.5 |
+| 🥈 | Armageddon | Win 30 matches as a demon | MP | 16 |
+| 🥈 | Effortless Evil | Win a match as a demon without possessing a boss unit | MP | 0.5 |
+| 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | MP | 0.5 |
+| 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | MP | 0.5 |
+| 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | MP | 0.5 |
+| 🥈 | I may be bad, but I feel good | Fully upgrade 4 categories using Infernal Upgrade Points | MP | 1.5 |
+| 🥈 | Out of the cellar | Unlock all of a demon's unique skills | MP | 0.5 |
+| 🥈 | We shall be again | Reach the maximum level with a demon | MP | 2 |
+
+[Страница игры →](games/evil-dead-the-game-ps4.md)
+
 ## Need for Speed · PS4 — 44 трофея
 
-Сервера: 🟢 работают Проверено 09.11.2026: Серверы NFS (2015) работают: платину на PS4 получали 19.10, 22.10, 26.10 и 06.11.2026 (Stratege), а без серверов игра даже не запускается. Игры нет в списке закрытий EA, TechTimes (17.10.2026) пишет, что даты закрытия нет. Риск остаётся: Rivals EA закрыла 07.10.2025, так что платину лучше не откладывать. ([источник](https://www.stratege.ru/ps4/games/need_for_speed/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Серверы NFS (2015) работают: платину на PS4 получали 19.10, 22.10, 26.10 и 06.11.2026 (Stratege), а без серверов игра даже не запускается. Игры нет в списке закрытий EA, TechTimes (17.10.2026) пишет, что даты закрытия нет. Риск остаётся: Rivals EA закрыла 07.10.2025, так что платину лучше не откладывать. ([источник](https://www.stratege.ru/ps4/games/need_for_speed/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -265,7 +310,7 @@
 
 ## Red Dead Redemption · PS3 — 35 трофеев
 
-Сервера: 🟢 работают Проверено 09.11.2026: Мультиплеер RDR на PS3 работает: на Stratege платины (для неё нужны MP-трофеи) получали ещё 29.07, 07.09, 16.09, 03.10 и 06.10.2026, есть и видео онлайн-игры на PS3 от 10.05.2026. Rockstar о закрытии ничего не объявляла. Игроков мало, кооп и Free Roam проще делать со своей бустинг-группой. ([источник](https://www.stratege.ru/ps3/games/red_dead_redemption/trophies))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Мультиплеер RDR на PS3 работает: на Stratege платины (для неё нужны MP-трофеи) получали ещё 29.07, 07.09, 16.09, 03.10 и 06.10.2026, есть и видео онлайн-игры на PS3 от 10.05.2026. Rockstar о закрытии ничего не объявляла. Игроков мало, кооп и Free Roam проще делать со своей бустинг-группой. ([источник](https://www.stratege.ru/ps3/games/red_dead_redemption/trophies))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
@@ -309,7 +354,7 @@
 
 ## Red Dead Redemption 2 · PS4 — 17 трофеев
 
-Сервера: 🟢 работают Проверено 09.11.2026: Red Dead Online на PS4 работает: Rockstar продолжает ежемесячные события, текущее (Thanksgiving) идёт с 3 по 30 ноября 2026 (статья RockstarINTEL от 04.11.2026); о закрытии ничего не объявлено. Нужен PS Plus. ([источник](https://rockstarintel.com/?p=44013))
+Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Red Dead Online на PS4 работает: Rockstar продолжает ежемесячные события, текущее (Thanksgiving) идёт с 3 по 30 ноября 2026 (статья RockstarINTEL от 04.11.2026); о закрытии ничего не объявлено. Нужен PS Plus. ([источник](https://rockstarintel.com/?p=44013))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|

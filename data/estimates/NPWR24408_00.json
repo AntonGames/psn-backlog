@@ -1,0 +1,379 @@
+{
+  "npCommunicationId": "NPWR24408_00",
+  "game": "Evil Dead: The Game",
+  "platform": "PS4",
+  "guide_urls": [
+    "https://www.powerpyx.com/evil-dead-the-game-trophy-guide-roadmap/"
+  ],
+  "difficulty": "4/10",
+  "time_to_100_hours": "60-100",
+  "remaining_hours": {
+    "min": 28,
+    "max": 55,
+    "best": 41.7
+  },
+  "offline_hours": 0,
+  "online_hours": 41.7,
+  "unobtainable_hours": 0,
+  "needs_connection": true,
+  "trophies": [
+    {
+      "id": 0,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0,
+      "note": "все трофеи"
+    },
+    {
+      "id": 1,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 2,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 3,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 4,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 5,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 6,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 7,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 8,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 9,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 10,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 13,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 14,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 15,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 16,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "Delta за Эша"
+    },
+    {
+      "id": 19,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "нужна команда с персонажами набора"
+    },
+    {
+      "id": 20,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "нужна команда с персонажами набора"
+    },
+    {
+      "id": 21,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "нужна команда с персонажами набора"
+    },
+    {
+      "id": 22,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "нужна команда с персонажами набора"
+    },
+    {
+      "id": 24,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 6,
+      "note": "30 побед за выживших (матчи с живыми выжившими против ИИ-демона засчитываются)"
+    },
+    {
+      "id": 26,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 28,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "co-op",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.6,
+      "note": "накапливается по ходу матчей за выживших"
+    },
+    {
+      "id": 31,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.3,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 32,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.3,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 33,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.3,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 34,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.3,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 35,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 36,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 16,
+      "note": "30 побед за демона против живых выживших — самая долгая часть, игроков немного"
+    },
+    {
+      "id": 37,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 38,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 39,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 40,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 41,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 1.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 42,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 0.5,
+      "note": "накапливается по ходу матчей за демона"
+    },
+    {
+      "id": 43,
+      "cat": "online",
+      "missable": false,
+      "online_kind": "MP",
+      "server_status": "up",
+      "dlc_required": null,
+      "hours": 2,
+      "note": "накапливается по ходу матчей за демона"
+    }
+  ],
+  "servers": {
+    "status": "up",
+    "detail": "Проверено 2026-11-11: игра снята с продажи в PS Store весной 2025, но Saber обещала держать сервера; платина PS5 владельца получена 09.11.2026 — онлайн жив. Даты закрытия нет.",
+    "source": "https://www.videogameschronicle.com/news/saber-confirms-its-delisting-evil-dead-the-game-but-says-it-plans-to-keep-the-servers-online"
+  },
+  "missed_missables": "",
+  "notes_ru": "Отдельный PS4-список без автопопа с PS5 (PowerPyx): уровень переносится, счётчики — нет. Игра только онлайн; «Solo vs AI» и приватные матчи трофеи не дают — играть публичные матчи за выживших (≈30 побед) и за демона (Armageddon, 30 побед против живых игроков — самое долгое). Игра снята с продажи, серверы держатся «на обозримое будущее».",
+  "confidence": "medium"
+}

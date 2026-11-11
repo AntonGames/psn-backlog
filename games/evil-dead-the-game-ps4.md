@@ -6,14 +6,18 @@
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~? ч** |
-| Из них офлайн / онлайн | 0 ч / 0 ч |
-| Время на 100% по гайду | ? ч |
-| Сложность по гайду | ? |
-| Онлайн-сервера | —  |
+| Осталось (оценка) | **~42 ч** (разброс 28–55 ч) |
+| Из них офлайн / онлайн | 0 ч / 42 ч |
+| Время на 100% по гайду | 60-100 ч |
+| Сложность по гайду | 4/10 |
+| Онлайн-сервера | 🟢 работают Проверено 11.11.2026: снята с продажи (PS Store, 2025), но Saber обещала держать сервера «на обозримое будущее»; платина PS5 владельца получена 09.11.2026 — онлайн работает. Даты закрытия нет. |
 | Наиграно (PSN) | 0.9 ч |
-| Нужен интернет даже для соло | нет |
-| Уверенность оценки | — |
+| Нужен интернет даже для соло | да |
+| Уверенность оценки | medium |
+
+> **План:** Отдельный PS4-список без автопопа с PS5 (PowerPyx): уровень переносится, счётчики — нет. Игра только онлайн; «Solo vs AI» и приватные матчи трофеи не дают — играть публичные матчи за выживших (≈30 побед) и за демона (Armageddon, 30 побед против живых игроков — самое долгое). Игра снята с продажи, серверы держатся «на обозримое будущее».
+
+**Гайды:** [powerpyx.com](https://www.powerpyx.com/evil-dead-the-game-trophy-guide-roadmap/)
 
 ## Невыбитые трофеи
 
@@ -21,41 +25,41 @@
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
-| 🏆 | Savior and Destroyer | Collect all trophies | ❔ нет оценки |  | 0.3% |  |
-| 🥉 | The Deadite Slayer | Kill 500 demon basic units | ❔ нет оценки |  | 5.4% |  |
-| 🥉 | Just warming up | Kill 50 demon elite units | ❔ нет оценки |  | 5.6% |  |
-| 🥉 | Who's laughing now? | Kill 10 boss units | ❔ нет оценки |  | 2.5% |  |
-| 🥉 | Hand Shake | Hide Ash's hand in a chest and scare a survivor who opens it | ❔ нет оценки |  | 5.5% |  |
-| 🥉 | That's gotta hurt! | Perform 10 special attacks | ❔ нет оценки |  | 24% |  |
-| 🥉 | Who's next, huh? | Perform 100 finishers | ❔ нет оценки |  | 7.2% |  |
-| 🥉 | Never leave a friend behind | Revive an incapacitated teammate 30 times | ❔ нет оценки |  | 1.8% |  |
-| 🥉 | Back from the dead | Resurrect 10 teammate's souls at an altar | ❔ нет оценки |  | 2% |  |
-| 🥉 | Books From Beyond | Successfully collect 20 Lost Pages | ❔ нет оценки |  | 6.4% |  |
-| 🥉 | Light-Bringer | Turn on 50 light sources | ❔ нет оценки |  | 2.7% |  |
-| 🥉 | Guiding Light | Find 300 items with the flashlight | ❔ нет оценки |  | 3.9% |  |
-| 🥉 | Not today, demon | Free 10 possessed teammates | ❔ нет оценки |  | 3.9% |  |
-| 🥉 | Roadkill | Run over 50 Deadites with a car | ❔ нет оценки |  | 2.1% |  |
-| 🥉 | Classic Ride | Drive the Delta while playing as Ash | ❔ нет оценки |  | 9% |  |
-| 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | ❔ нет оценки |  | 3.8% |  |
-| 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | ❔ нет оценки |  | 1.9% |  |
-| 🥉 | Medieval Mode | Finish a match with Ash (Army of Darkness), Lord Arthur and Henry the Red in your team | ❔ нет оценки |  | 7.8% |  |
-| 🥉 | Jacksonville, here we come! | Finish a match with Ash (Ash vs Evil Dead), Kelly and Pablo on your team | ❔ нет оценки |  | 3.7% |  |
-| 🥈 | Dark Thirty | Win 30 matches as a Survivor | ❔ нет оценки |  | 2% |  |
-| 🥈 | Boss of Bosses | Kill 20 boss units | ❔ нет оценки |  | 1.5% |  |
-| 🥈 | Weapon of Choice | Kill 50 Deadites with a legendary weapon | ❔ нет оценки |  | 4.6% |  |
-| 🥉 | Puppetmaster | Possess 50 basic units | ❔ нет оценки |  | 2.1% |  |
-| 🥉 | Control Freak | Possess 25 elite units | ❔ нет оценки |  | 2% |  |
-| 🥉 | Be the boss | Possess 10 boss units | ❔ нет оценки |  | 3.4% |  |
-| 🥉 | Join us! | Possess 10 Survivors | ❔ нет оценки |  | 4.1% |  |
-| 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | ❔ нет оценки |  | 8.9% |  |
-| 🥈 | Armageddon | Win 30 matches as a demon | ❔ нет оценки |  | 0.6% |  |
-| 🥈 | Effortless Evil | Win a match as a demon without possessing a boss unit | ❔ нет оценки |  | 2% |  |
-| 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | ❔ нет оценки |  | 5.3% |  |
-| 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | ❔ нет оценки |  | 3.4% |  |
-| 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | ❔ нет оценки |  | 2.3% |  |
-| 🥈 | I may be bad, but I feel good | Fully upgrade 4 categories using Infernal Upgrade Points | ❔ нет оценки |  | 4.1% |  |
-| 🥈 | Out of the cellar | Unlock all of a demon's unique skills | ❔ нет оценки |  | 1.3% |  |
-| 🥈 | We shall be again | Reach the maximum level with a demon | ❔ нет оценки |  | 2.4% |  |
+| 🏆 | Savior and Destroyer | Collect all trophies | 🌐 онлайн |  | 0.3% | [co-op] все трофеи |
+| 🥉 | The Deadite Slayer | Kill 500 demon basic units | 🌐 онлайн | 0.6 | 5.4% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Just warming up | Kill 50 demon elite units | 🌐 онлайн | 0.6 | 5.6% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Who's laughing now? | Kill 10 boss units | 🌐 онлайн | 0.6 | 2.5% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Hand Shake | Hide Ash's hand in a chest and scare a survivor who opens it | 🌐 онлайн | 0.6 | 5.5% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | That's gotta hurt! | Perform 10 special attacks | 🌐 онлайн | 0.6 | 24% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Who's next, huh? | Perform 100 finishers | 🌐 онлайн | 0.6 | 7.2% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Never leave a friend behind | Revive an incapacitated teammate 30 times | 🌐 онлайн | 0.6 | 1.8% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Back from the dead | Resurrect 10 teammate's souls at an altar | 🌐 онлайн | 0.6 | 2% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Books From Beyond | Successfully collect 20 Lost Pages | 🌐 онлайн | 0.6 | 6.4% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Light-Bringer | Turn on 50 light sources | 🌐 онлайн | 0.6 | 2.7% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Guiding Light | Find 300 items with the flashlight | 🌐 онлайн | 0.6 | 3.9% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Not today, demon | Free 10 possessed teammates | 🌐 онлайн | 0.6 | 3.9% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Roadkill | Run over 50 Deadites with a car | 🌐 онлайн | 0.6 | 2.1% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Classic Ride | Drive the Delta while playing as Ash | 🌐 онлайн | 0.6 | 9% | [co-op] Delta за Эша |
+| 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | 🌐 онлайн | 0.6 | 3.8% | [co-op] нужна команда с персонажами набора |
+| 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | 🌐 онлайн | 0.6 | 1.9% | [co-op] нужна команда с персонажами набора |
+| 🥉 | Medieval Mode | Finish a match with Ash (Army of Darkness), Lord Arthur and Henry the Red in your team | 🌐 онлайн | 0.6 | 7.8% | [co-op] нужна команда с персонажами набора |
+| 🥉 | Jacksonville, here we come! | Finish a match with Ash (Ash vs Evil Dead), Kelly and Pablo on your team | 🌐 онлайн | 0.6 | 3.7% | [co-op] нужна команда с персонажами набора |
+| 🥈 | Dark Thirty | Win 30 matches as a Survivor | 🌐 онлайн | 6 | 2% | [MP] 30 побед за выживших (матчи с живыми выжившими против ИИ-демона засчитываются) |
+| 🥈 | Boss of Bosses | Kill 20 boss units | 🌐 онлайн | 0.6 | 1.5% | [co-op] накапливается по ходу матчей за выживших |
+| 🥈 | Weapon of Choice | Kill 50 Deadites with a legendary weapon | 🌐 онлайн | 0.6 | 4.6% | [co-op] накапливается по ходу матчей за выживших |
+| 🥉 | Puppetmaster | Possess 50 basic units | 🌐 онлайн | 0.3 | 2.1% | [MP] накапливается по ходу матчей за демона |
+| 🥉 | Control Freak | Possess 25 elite units | 🌐 онлайн | 0.3 | 2% | [MP] накапливается по ходу матчей за демона |
+| 🥉 | Be the boss | Possess 10 boss units | 🌐 онлайн | 0.3 | 3.4% | [MP] накапливается по ходу матчей за демона |
+| 🥉 | Join us! | Possess 10 Survivors | 🌐 онлайн | 0.3 | 4.1% | [MP] накапливается по ходу матчей за демона |
+| 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | 🌐 онлайн | 0.5 | 8.9% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | Armageddon | Win 30 matches as a demon | 🌐 онлайн | 16 | 0.6% | [MP] 30 побед за демона против живых выживших — самая долгая часть, игроков немного |
+| 🥈 | Effortless Evil | Win a match as a demon without possessing a boss unit | 🌐 онлайн | 0.5 | 2% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | 🌐 онлайн | 0.5 | 5.3% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | 🌐 онлайн | 0.5 | 3.4% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | 🌐 онлайн | 0.5 | 2.3% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | I may be bad, but I feel good | Fully upgrade 4 categories using Infernal Upgrade Points | 🌐 онлайн | 1.5 | 4.1% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | Out of the cellar | Unlock all of a demon's unique skills | 🌐 онлайн | 0.5 | 1.3% | [MP] накапливается по ходу матчей за демона |
+| 🥈 | We shall be again | Reach the maximum level with a demon | 🌐 онлайн | 2 | 2.4% | [MP] накапливается по ходу матчей за демона |
 
 ---
 [← к бэклогу](../README.md) · [🌐 онлайн](../ONLINE.md) · [⛔ недоступно](../UNOBTAINABLE.md)
