@@ -24,11 +24,12 @@ jobs:
         env:
           PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
         run: |
+          set -o pipefail
           if [ -z "$PSN_NPSSO" ]; then
-            echo "::error::Секрет PSN_NPSSO не задан — синк трофеев невозможен."
+            echo "Ошибка: секрет PSN_NPSSO не задан" | tee fetch.log
             exit 1
           fi
-          node scripts/fetch_psn.js
+          node scripts/fetch_psn.js 2>&1 | tee fetch.log
       - name: Build markdown
         run: python3 scripts/build.py
       - name: Commit
@@ -45,16 +46,5 @@ jobs:
           MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
           MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
-        run: |
-          python3 scripts/send_mail.py "⚠ PSN бэклог: синк трофеев не прошёл" - <<'TXT'
-          Ежедневная выгрузка трофеев из PSN не удалась.
-
-          Чаще всего причина — истёк или не задан токен NPSSO (живёт ~60 дней).
-          Что сделать:
-          1. Войти на playstation.com и открыть https://ca.account.sony.com/api/v1/ssocookie
-          2. Скопировать значение npsso (лучше со второго аккаунта).
-          3. GitHub → Settings → Secrets and variables → Actions → PSN_NPSSO → Update.
-          4. Actions → Update backlog → Run workflow.
-
-          Лог запуска: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          TXT
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: python3 scripts/sync_failure_mail.py
