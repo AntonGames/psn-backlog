@@ -189,8 +189,8 @@
    "detail": "Drive the Delta while playing as Ash",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-11T20:09:39Z",
    "rarity": 9
   },
   {
@@ -420,8 +420,8 @@
    "detail": "Win a match as a demon without possessing a boss unit",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-11T20:39:57Z",
    "rarity": 2
   },
   {

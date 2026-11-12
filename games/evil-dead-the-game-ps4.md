@@ -2,16 +2,16 @@
 
 <img src="https://image.api.playstation.com/trophy/np/NPWR24408_00_00FA227931E182CA15CF7C868F856DAC21BBC10C65/2CBEE77B1B7924B82D3AD1A67F54C6CB70DAF9DB.PNG" height="96" alt="">
 
-**Прогресс:** 10/45 (29%) `███░░░░░░░` · **Платина:** ❌
+**Прогресс:** 12/45 (34%) `███░░░░░░░` · **Платина:** ❌
 
 | Параметр | Значение |
 |---|---|
-| Осталось (оценка) | **~42 ч** (разброс 28–55 ч) |
-| Из них офлайн / онлайн | 0 ч / 42 ч |
+| Осталось (оценка) | **~41 ч** (разброс 28–55 ч) |
+| Из них офлайн / онлайн | 0 ч / 41 ч |
 | Время на 100% по гайду | 60-100 ч |
 | Сложность по гайду | 4/10 |
 | Онлайн-сервера | 🟢 работают Проверено 11.11.2026: снята с продажи (PS Store, 2025), но Saber обещала держать сервера «на обозримое будущее»; платина PS5 владельца получена 09.11.2026 — онлайн работает. Даты закрытия нет. |
-| Наиграно (PSN) | 0.9 ч |
+| Наиграно (PSN) | 9.7 ч |
 | Нужен интернет даже для соло | да |
 | Уверенность оценки | medium |
 
@@ -21,7 +21,7 @@
 
 ## Невыбитые трофеи
 
-### Основная игра — 10/45
+### Основная игра — 12/45
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
@@ -39,7 +39,6 @@
 | 🥉 | Guiding Light | Find 300 items with the flashlight | 🌐 онлайн | 0.6 | 3.9% | [co-op] накапливается по ходу матчей за выживших |
 | 🥉 | Not today, demon | Free 10 possessed teammates | 🌐 онлайн | 0.6 | 3.9% | [co-op] накапливается по ходу матчей за выживших |
 | 🥉 | Roadkill | Run over 50 Deadites with a car | 🌐 онлайн | 0.6 | 2.1% | [co-op] накапливается по ходу матчей за выживших |
-| 🥉 | Classic Ride | Drive the Delta while playing as Ash | 🌐 онлайн | 0.6 | 9% | [co-op] Delta за Эша |
 | 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | 🌐 онлайн | 0.6 | 3.8% | [co-op] нужна команда с персонажами набора |
 | 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | 🌐 онлайн | 0.6 | 1.9% | [co-op] нужна команда с персонажами набора |
 | 🥉 | Medieval Mode | Finish a match with Ash (Army of Darkness), Lord Arthur and Henry the Red in your team | 🌐 онлайн | 0.6 | 7.8% | [co-op] нужна команда с персонажами набора |
@@ -53,7 +52,6 @@
 | 🥉 | Join us! | Possess 10 Survivors | 🌐 онлайн | 0.3 | 4.1% | [MP] накапливается по ходу матчей за демона |
 | 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | 🌐 онлайн | 0.5 | 8.9% | [MP] накапливается по ходу матчей за демона |
 | 🥈 | Armageddon | Win 30 matches as a demon | 🌐 онлайн | 16 | 0.6% | [MP] 30 побед за демона против живых выживших — самая долгая часть, игроков немного |
-| 🥈 | Effortless Evil | Win a match as a demon without possessing a boss unit | 🌐 онлайн | 0.5 | 2% | [MP] накапливается по ходу матчей за демона |
 | 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | 🌐 онлайн | 0.5 | 5.3% | [MP] накапливается по ходу матчей за демона |
 | 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | 🌐 онлайн | 0.5 | 3.4% | [MP] накапливается по ходу матчей за демона |
 | 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | 🌐 онлайн | 0.5 | 2.3% | [MP] накапливается по ходу матчей за демона |

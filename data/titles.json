@@ -4,7 +4,7 @@
   "name": "Evil Dead: The Game",
   "platform": "PS4",
   "npServiceName": "trophy",
-  "progress": 29,
+  "progress": 34,
   "defined": {
    "bronze": 28,
    "silver": 15,
@@ -12,12 +12,12 @@
    "platinum": 1
   },
   "earned": {
-   "bronze": 5,
-   "silver": 4,
+   "bronze": 6,
+   "silver": 5,
    "gold": 1,
    "platinum": 0
   },
-  "lastUpdated": "2026-11-09T20:52:00Z",
+  "lastUpdated": "2026-11-11T20:40:00Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR24408_00_00FA227931E182CA15CF7C868F856DAC21BBC10C65/2CBEE77B1B7924B82D3AD1A67F54C6CB70DAF9DB.PNG"
  },
  {
