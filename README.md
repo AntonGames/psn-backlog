@@ -1,20 +1,20 @@
 # PSN бэклог · Anton_games337
 
-Уровень **558** · 🏆 215 · 🥇 1142 · 🥈 3217 · 🥉 8458  
+Уровень **558** · 🏆 215 · 🥇 1142 · 🥈 3220 · 🥉 8462  
 Списков трофеев: **370**, закрыто на 100%: **233**, в бэклоге: **137**  
-Данные PSN: 2026-11-12
+Данные PSN: 2026-11-13
 
 ## Итого осталось
 
 | | Трофеев | Время (оценка) |
 |---|---:|---:|
 | Можно выбить офлайн | 4710 | ~4597 ч |
-| [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 179 | ~314 ч |
-| **Всего выбиваемо** | **4889** | **~4912 ч** |
+| [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 172 | ~309 ч |
+| **Всего выбиваемо** | **4882** | **~4906 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
 | [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
-| Всего невыбитых | 4912 | |
+| Всего невыбитых | 4905 | |
 
 ## ⏰ Ближайшие дедлайны
 
@@ -24,7 +24,7 @@
 
 ## 📉 Динамика
 
-При 20 ч в неделю текущий остаток — это **~246 недель** (≈ 4.7 года).
+При 20 ч в неделю текущий остаток — это **~245 недель** (≈ 4.7 года).
 
 ![Осталось часов в бэклоге](charts/burndown.svg)
 
@@ -32,6 +32,7 @@
 
 | Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |
 |---|---:|---:|---:|---:|---:|
+| 2026-11-13 | 4882 | 4906 | 4597 | 309 | 215 |
 | 2026-11-12 | 4889 | 4912 | 4597 | 314 | 215 |
 | 2026-11-11 | 4891 | 4913 | 4597 | 316 | 215 |
 | 2026-11-09 | 4861 | 4876 | 4602 | 274 | 215 |
@@ -99,7 +100,7 @@
 
 | Платформа | Игр в бэклоге | Выбиваемых трофеев | ~ч |
 |---|---:|---:|---:|
-| PS4 | 82 | 3243 | 3371 |
+| PS4 | 82 | 3236 | 3365 |
 | PS3 | 24 | 809 | 796 |
 | PS Vita | 17 | 401 | 414 |
 | PS5 | 14 | 436 | 330 |
@@ -189,17 +190,17 @@
 | 77 | [Sleeping Dogs: Definitive Edition](games/sleeping-dogs-definitive-edition-ps4.md) | PS4 | 12/60 (13%) | ❌ | **34 ч** | 34 | 0 |  | 8.5 ч | 4/10 |
 | 78 | [Uncharted 2: Among Thieves Remastered](games/uncharted-2-among-thieves-remastered-ps4.md) | PS4 | 7/53 (9%) | ❌ | **34 ч** | 34 | 0 |  |  | 4/10 (plat); Brutal + <3:30 speedrun ~6/10 |
 | 79 | [Marvel Ultimate Alliance](games/marvel-ultimate-alliance-ps4.md) | PS4 | 5/59 (6%) | ❌ | **35 ч** | 35 | 0 |  |  | 4/10 (grindy, not hard) |
-| 80 | [Far Cry 2](games/far-cry-2-ps3.md) | PS3 | 15/49 (35%) | ❌ | **36 ч** | 36 | 0 |  |  |  |
-| 81 | [DRIVECLUB](games/driveclub-ps4.md) | PS4 | 27/128 (20%) | ❌ | **36 ч** | 36 | 0 |  | 67 ч |  |
-| 82 | [Far Cry 4](games/far-cry-4-ps3.md) | PS3 | 10/58 (15%) | ❌ | **36 ч** | 36 | 0 |  |  | 4/10 |
-| 83 | [Assassin's Creed III](games/assassins-creed-iii-ps3.md) | PS3 | 31/65 (51%) | ❌ | **37 ч** | 37 | 0 |  |  | 5/10 |
-| 84 | [DEAD OR ALIVE Xtreme 3 Venus](games/dead-or-alive-xtreme-3-venus-psvita.md) | PSVITA | 24/50 (38%) | ❌ | **38 ч** | 38 | 0 |  |  |  |
-| 85 | [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) ⚠ | PS4 | 7/50 (10%) | ❌ | **38 ч** | 34 | 3.6 |  |  | 4/10 |
-| 86 | [God of War](games/god-of-war-ps4.md) | PS4 | 1/37 (1%) | ❌ | **38 ч** | 38 | 0 |  | 1.7 ч | 4/10 |
-| 87 | [虚拟现实乐园](games/game-ps4.md) | PS4 | 2/22 (4%) | ❌ | **38 ч** | 38 | 0 |  |  | 6/10 (PlatPrices) |
-| 88 | [AC Brotherhood](games/ac-brotherhood-ps3.md) | PS3 | 10/61 (14%) | ❌ | **39 ч** | 39 | 0 |  |  | 3/10 |
-| 89 | [Deus Ex: Mankind Divided](games/deus-ex-mankind-divided-ps4.md) | PS4 | 18/82 (16%) | ❌ | **40 ч** | 40 | 0 |  | 19 ч | 4.5/10 |
-| 90 | [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) ⚠ | PS4 | 12/45 (34%) | ❌ | **41 ч** | 0 | 41 |  | 9.7 ч | 4/10 |
+| 80 | [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) ⚠ | PS4 | 19/45 (50%) | ❌ | **35 ч** | 0 | 35 |  | 19 ч | 4/10 |
+| 81 | [Far Cry 2](games/far-cry-2-ps3.md) | PS3 | 15/49 (35%) | ❌ | **36 ч** | 36 | 0 |  |  |  |
+| 82 | [DRIVECLUB](games/driveclub-ps4.md) | PS4 | 27/128 (20%) | ❌ | **36 ч** | 36 | 0 |  | 67 ч |  |
+| 83 | [Far Cry 4](games/far-cry-4-ps3.md) | PS3 | 10/58 (15%) | ❌ | **36 ч** | 36 | 0 |  |  | 4/10 |
+| 84 | [Assassin's Creed III](games/assassins-creed-iii-ps3.md) | PS3 | 31/65 (51%) | ❌ | **37 ч** | 37 | 0 |  |  | 5/10 |
+| 85 | [DEAD OR ALIVE Xtreme 3 Venus](games/dead-or-alive-xtreme-3-venus-psvita.md) | PSVITA | 24/50 (38%) | ❌ | **38 ч** | 38 | 0 |  |  |  |
+| 86 | [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) ⚠ | PS4 | 7/50 (10%) | ❌ | **38 ч** | 34 | 3.6 |  |  | 4/10 |
+| 87 | [God of War](games/god-of-war-ps4.md) | PS4 | 1/37 (1%) | ❌ | **38 ч** | 38 | 0 |  | 1.7 ч | 4/10 |
+| 88 | [虚拟现实乐园](games/game-ps4.md) | PS4 | 2/22 (4%) | ❌ | **38 ч** | 38 | 0 |  |  | 6/10 (PlatPrices) |
+| 89 | [AC Brotherhood](games/ac-brotherhood-ps3.md) | PS3 | 10/61 (14%) | ❌ | **39 ч** | 39 | 0 |  |  | 3/10 |
+| 90 | [Deus Ex: Mankind Divided](games/deus-ex-mankind-divided-ps4.md) | PS4 | 18/82 (16%) | ❌ | **40 ч** | 40 | 0 |  | 19 ч | 4.5/10 |
 | 91 | [F1 2019](games/f1-2019-ps4.md) ⚠ | PS4 | 20/51 (38%) | ❌ | **41 ч** | 38 | 3.1 |  | 50 ч |  |
 | 92 | [SOULCALIBURⅥ](games/soulcaliburvi-ps4.md) | PS4 | 7/49 (14%) | ❌ | **41 ч** | 41 | 0 |  |  | 5-6/10 |
 | 93 | [Need for Speed](games/need-for-speed-ps4.md) ⚠ | PS4 | 2/46 (2%) | ❌ | **42 ч** | 0 | 42 |  | 0.6 ч | 4/10 |

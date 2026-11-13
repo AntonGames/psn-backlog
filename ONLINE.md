@@ -1,8 +1,8 @@
 # 🌐 Невыбитый онлайн
 
-Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-12) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
+Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-13) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
 
-**Итого:** 179 трофеев в 19 играх, ~314 ч.
+**Итого:** 172 трофея в 19 играх, ~309 ч.
 
 | Игра | Платформа | Не выбито онлайн | ~ч | Сервера |
 |---|---|---|---:|---|
@@ -20,8 +20,8 @@
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) | PS3 | **8**: Rivals Welcome, Incredible, Crazy Good, Mega Good, Hotshot, Slam Master и ещё 2 | 11 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | **8**: Seductive Embrace, Rivals Welcome, Hellbent, Dreaded Opponent, Forged From Steel, Mega Good и ещё 2 | 21 | 🟢 работают |
 | [F1 2017](games/f1-2017-ps4.md) | PS4 | **2**: Competitive Streak, Another lap? | 30 | 🟢 работают |
+| [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) | PS4 | **26**: Savior and Destroyer, The Deadite Slayer, Hand Shake, Who's next, huh?, Never leave a friend behind, Back from the dead и ещё 20 | 35 | 🟢 работают |
 | [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | **17**: Knowing the Basics, Populace, Firefly, Hunter, Wharf, Capitol и ещё 11 | 39 | 🟢 работают |
-| [Evil Dead: The Game](games/evil-dead-the-game-ps4.md) | PS4 | **33**: Savior and Destroyer, The Deadite Slayer, Just warming up, Who's laughing now?, Hand Shake, That's gotta hurt! и ещё 27 | 41 | 🟢 работают |
 | [Need for Speed](games/need-for-speed-ps4.md) | PS4 | **44**: Platinum Trophy, Early Days, Getting Noticed, Can I Get Your Autograph?, Guidance From Amy, RWB и ещё 38 | 42 | 🟢 работают |
 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) | PS3 | **35**: Have Gun Will Travel, Slow on the Draw, Hit the Trail, The Quick and Everyone Else..., How the West Was Won, Go Team! и ещё 29 | 46 | 🟢 работают |
 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) | PS4 | **17**: Breakout, Series Major, Gun For Hire, Eventful, Buckle Up, The Real Deal и ещё 11 | 67 | 🟢 работают |
@@ -185,6 +185,41 @@
 
 [Страница игры →](games/f1-2017-ps4.md)
 
+## Evil Dead: The Game · PS4 — 26 трофеев
+
+Сервера: 🟢 работают Проверено 11.11.2026: снята с продажи (PS Store, 2025), но Saber обещала держать сервера «на обозримое будущее»; платина PS5 владельца получена 09.11.2026 — онлайн работает. Даты закрытия нет. ([источник](https://www.videogameschronicle.com/news/saber-confirms-its-delisting-evil-dead-the-game-but-says-it-plans-to-keep-the-servers-online))
+
+| | Трофей | Описание | Вид | ~ч |
+|---|---|---|---|---:|
+| 🏆 | Savior and Destroyer | Collect all trophies | co-op |  |
+| 🥉 | The Deadite Slayer | Kill 500 demon basic units | co-op | 0.6 |
+| 🥉 | Hand Shake | Hide Ash's hand in a chest and scare a survivor who opens it | co-op | 0.6 |
+| 🥉 | Who's next, huh? | Perform 100 finishers | co-op | 0.6 |
+| 🥉 | Never leave a friend behind | Revive an incapacitated teammate 30 times | co-op | 0.6 |
+| 🥉 | Back from the dead | Resurrect 10 teammate's souls at an altar | co-op | 0.6 |
+| 🥉 | Books From Beyond | Successfully collect 20 Lost Pages | co-op | 0.6 |
+| 🥉 | Light-Bringer | Turn on 50 light sources | co-op | 0.6 |
+| 🥉 | Guiding Light | Find 300 items with the flashlight | co-op | 0.6 |
+| 🥉 | Not today, demon | Free 10 possessed teammates | co-op | 0.6 |
+| 🥉 | Roadkill | Run over 50 Deadites with a car | co-op | 0.6 |
+| 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | co-op | 0.6 |
+| 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | co-op | 0.6 |
+| 🥉 | Jacksonville, here we come! | Finish a match with Ash (Ash vs Evil Dead), Kelly and Pablo on your team | co-op | 0.6 |
+| 🥈 | Dark Thirty | Win 30 matches as a Survivor | MP | 6 |
+| 🥈 | Boss of Bosses | Kill 20 boss units | co-op | 0.6 |
+| 🥉 | Puppetmaster | Possess 50 basic units | MP | 0.3 |
+| 🥉 | Control Freak | Possess 25 elite units | MP | 0.3 |
+| 🥉 | Be the boss | Possess 10 boss units | MP | 0.3 |
+| 🥉 | Join us! | Possess 10 Survivors | MP | 0.3 |
+| 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | MP | 0.5 |
+| 🥈 | Armageddon | Win 30 matches as a demon | MP | 16 |
+| 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | MP | 0.5 |
+| 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | MP | 0.5 |
+| 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | MP | 0.5 |
+| 🥈 | I may be bad, but I feel good | Fully upgrade 4 categories using Infernal Upgrade Points | MP | 1.5 |
+
+[Страница игры →](games/evil-dead-the-game-ps4.md)
+
 ## The Last of Us Remastered · PS4 — 17 трофеев
 
 Сервера: 🟢 работают Проверено 11.11.2026: новых анонсов закрытия нет. Ранее (09.11.2026): Factions в TLOU Remastered (PS4) работает: в статье GameGPU от 29.04.2026 пишут, что серверы полностью работают и матчи находятся быстро. Naughty Dog закрытие не анонсировала, в обзорах отключений за август–декабрь 2026 игры нет. Закрыт был только PS3 (03.09.2019). Нужен PS Plus. ([источник](https://en.gamegpu.com/news/igry/multipleernyj-rezhim-the-last-of-us-sokhranyaet-onlajn-spustya-13-let))
@@ -210,48 +245,6 @@
 | 🥉 | Forsaken Interrogator | Complete a game of Interrogation on Bookstore, Home Town, Suburbs or Bus Depot | MP | 0.3 |
 
 [Страница игры →](games/the-last-of-us-remastered-ps4.md)
-
-## Evil Dead: The Game · PS4 — 33 трофея
-
-Сервера: 🟢 работают Проверено 11.11.2026: снята с продажи (PS Store, 2025), но Saber обещала держать сервера «на обозримое будущее»; платина PS5 владельца получена 09.11.2026 — онлайн работает. Даты закрытия нет. ([источник](https://www.videogameschronicle.com/news/saber-confirms-its-delisting-evil-dead-the-game-but-says-it-plans-to-keep-the-servers-online))
-
-| | Трофей | Описание | Вид | ~ч |
-|---|---|---|---|---:|
-| 🏆 | Savior and Destroyer | Collect all trophies | co-op |  |
-| 🥉 | The Deadite Slayer | Kill 500 demon basic units | co-op | 0.6 |
-| 🥉 | Just warming up | Kill 50 demon elite units | co-op | 0.6 |
-| 🥉 | Who's laughing now? | Kill 10 boss units | co-op | 0.6 |
-| 🥉 | Hand Shake | Hide Ash's hand in a chest and scare a survivor who opens it | co-op | 0.6 |
-| 🥉 | That's gotta hurt! | Perform 10 special attacks | co-op | 0.6 |
-| 🥉 | Who's next, huh? | Perform 100 finishers | co-op | 0.6 |
-| 🥉 | Never leave a friend behind | Revive an incapacitated teammate 30 times | co-op | 0.6 |
-| 🥉 | Back from the dead | Resurrect 10 teammate's souls at an altar | co-op | 0.6 |
-| 🥉 | Books From Beyond | Successfully collect 20 Lost Pages | co-op | 0.6 |
-| 🥉 | Light-Bringer | Turn on 50 light sources | co-op | 0.6 |
-| 🥉 | Guiding Light | Find 300 items with the flashlight | co-op | 0.6 |
-| 🥉 | Not today, demon | Free 10 possessed teammates | co-op | 0.6 |
-| 🥉 | Roadkill | Run over 50 Deadites with a car | co-op | 0.6 |
-| 🥉 | OG Survivors | Finish a match with Ash (The Evil Dead), Cheryl and Scotty in your team | co-op | 0.6 |
-| 🥉 | Second Team | Finish a match with Ash (Evil Dead 2), Annie Knowby and Ed Getley in your team | co-op | 0.6 |
-| 🥉 | Medieval Mode | Finish a match with Ash (Army of Darkness), Lord Arthur and Henry the Red in your team | co-op | 0.6 |
-| 🥉 | Jacksonville, here we come! | Finish a match with Ash (Ash vs Evil Dead), Kelly and Pablo on your team | co-op | 0.6 |
-| 🥈 | Dark Thirty | Win 30 matches as a Survivor | MP | 6 |
-| 🥈 | Boss of Bosses | Kill 20 boss units | co-op | 0.6 |
-| 🥈 | Weapon of Choice | Kill 50 Deadites with a legendary weapon | co-op | 0.6 |
-| 🥉 | Puppetmaster | Possess 50 basic units | MP | 0.3 |
-| 🥉 | Control Freak | Possess 25 elite units | MP | 0.3 |
-| 🥉 | Be the boss | Possess 10 boss units | MP | 0.3 |
-| 🥉 | Join us! | Possess 10 Survivors | MP | 0.3 |
-| 🥉 | You can't outrun Evil | Run over a Survivor with a possessed car | MP | 0.5 |
-| 🥈 | Armageddon | Win 30 matches as a demon | MP | 16 |
-| 🥈 | Make like a tree | Possess a tree and hit two Survivors at once | MP | 0.5 |
-| 🥈 | One by one we will take you | Kill a Survivor as a possessed survivor | MP | 0.5 |
-| 🥈 | Dead By Dawn | Kill 10 Survivors as a boss unit | MP | 0.5 |
-| 🥈 | I may be bad, but I feel good | Fully upgrade 4 categories using Infernal Upgrade Points | MP | 1.5 |
-| 🥈 | Out of the cellar | Unlock all of a demon's unique skills | MP | 0.5 |
-| 🥈 | We shall be again | Reach the maximum level with a demon | MP | 2 |
-
-[Страница игры →](games/evil-dead-the-game-ps4.md)
 
 ## Need for Speed · PS4 — 44 трофея
 
