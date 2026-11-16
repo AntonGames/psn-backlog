@@ -17,8 +17,8 @@
    "detail": "Earn every other trophy.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T13:07:59Z",
    "rarity": 2.2
   },
   {
@@ -160,8 +160,8 @@
    "detail": "Kick fifty enemies off of trains.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T12:36:47Z",
    "rarity": 2.4
   },
   {
@@ -501,8 +501,8 @@
    "detail": "Perform fifty Multi-Finishers.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T12:05:56Z",
    "rarity": 17.4
   },
   {
@@ -534,8 +534,8 @@
    "detail": "Air Assassinate twenty enemies from a zipline.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T12:16:42Z",
    "rarity": 7.2
   },
   {
@@ -545,8 +545,8 @@
    "detail": "Shoot fifty enemies before they shoot at you.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T12:26:55Z",
    "rarity": 4.7
   },
   {
@@ -556,8 +556,8 @@
    "detail": "Destroy 5000 destructibles with your carriage",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T13:07:59Z",
    "rarity": 2.4
   },
   {
@@ -578,8 +578,8 @@
    "detail": "Perform 30 complete Brutal Takedowns.",
    "group": "001",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T17:02:40Z",
    "rarity": 1.9
   },
   {
@@ -589,8 +589,8 @@
    "detail": "Kill an enemy as they are calming their panicked allies.",
    "group": "001",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T15:47:58Z",
    "rarity": 2
   },
   {
@@ -600,8 +600,8 @@
    "detail": "Cause a panicked enemy to kill another enemy.",
    "group": "001",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T15:30:17Z",
    "rarity": 3.5
   },
   {
@@ -611,8 +611,8 @@
    "detail": "Scare 200 enemies.",
    "group": "001",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T19:05:44Z",
    "rarity": 1.1
   },
   {
@@ -622,8 +622,8 @@
    "detail": "Unlock 50% of the skills.",
    "group": "001",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T16:59:20Z",
    "rarity": 3.1
   },
   {

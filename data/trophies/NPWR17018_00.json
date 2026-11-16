@@ -24,8 +24,8 @@
    "detail": "Complete your first race with an F2 car in career mode",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T10:22:48Z",
    "rarity": 65.8
   },
   {
@@ -35,8 +35,8 @@
    "detail": "Finish ahead of Lukas or Devon in an F1 race",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T11:31:36Z",
    "rarity": 51
   },
   {
@@ -46,8 +46,8 @@
    "detail": "Complete the F2 feeder series and start to pursue a move to F1",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T10:49:46Z",
    "rarity": 63.4
   },
   {
@@ -57,8 +57,8 @@
    "detail": "Complete an F1 practice programme in Career Mode",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T11:00:28Z",
    "rarity": 40.2
   },
   {
@@ -68,8 +68,8 @@
    "detail": "Get on the F1 podium for the first time",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T11:31:39Z",
    "rarity": 59.5
   },
   {
@@ -145,8 +145,8 @@
    "detail": "Finish ahead of Devon and Lukas by the end of an F1 Season",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T21:48:37Z",
    "rarity": 20
   },
   {
@@ -222,8 +222,8 @@
    "detail": "Win the F1 Drivers' Championship",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T19:48:50Z",
    "rarity": 19.5
   },
   {
@@ -233,8 +233,8 @@
    "detail": "Win the F1 Constuctors' Championship",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T20:09:54Z",
    "rarity": 14.4
   },
   {
@@ -244,8 +244,8 @@
    "detail": "Get promoted to first driver",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T13:30:47Z",
    "rarity": 36.1
   },
   {
@@ -266,8 +266,8 @@
    "detail": "Set the fastest time in all 3 practice sessions, take pole position and win the Grand Prix",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T12:03:18Z",
    "rarity": 12.6
   },
   {
@@ -409,8 +409,8 @@
    "detail": "Accept a contract with McLaren or Alfa Romeo",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T10:12:27Z",
    "rarity": 27.3
   },
   {
@@ -420,8 +420,8 @@
    "detail": "Accept a contract with Williams, Racing Point, Renault, Toro Rosso or Haas",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T10:12:33Z",
    "rarity": 36.5
   },
   {
@@ -431,8 +431,8 @@
    "detail": "Accept a contract with Red Bull, Ferrari or Mercedes",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T10:12:42Z",
    "rarity": 47.2
   },
   {
@@ -508,8 +508,8 @@
    "detail": "Reach maximum sportsman rating",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T23:01:56Z",
    "rarity": 1.1
   },
   {
@@ -530,8 +530,8 @@
    "detail": "Apply all vehicle upgrades from one department",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T22:25:26Z",
    "rarity": 3.9
   },
   {
@@ -541,8 +541,8 @@
    "detail": "Complete the first weekend of an F1 season.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T11:32:00Z",
    "rarity": 58
   },
   {

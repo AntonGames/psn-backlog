@@ -37,7 +37,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-24T14:22:29Z",
-   "rarity": 76.1
+   "rarity": 76
   },
   {
    "id": 3,
@@ -178,9 +178,9 @@
    "detail": "Play all mini games.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 9.5
+   "earned": true,
+   "earnedAt": "2026-11-10T23:41:20Z",
+   "rarity": 9.4
   },
   {
    "id": 16,
@@ -189,8 +189,8 @@
    "detail": "Recover the stash from 4 homesteads.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-08T19:15:19Z",
    "rarity": 17.6
   },
   {
@@ -211,9 +211,9 @@
    "detail": "Rob or loot $250.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 34.5
+   "earned": true,
+   "earnedAt": "2026-11-14T14:34:31Z",
+   "rarity": 34.4
   },
   {
    "id": 19,
@@ -235,7 +235,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 13.7
+   "rarity": 13.6
   },
   {
    "id": 21,
@@ -299,8 +299,8 @@
    "detail": "Deliver 5 camp companion item requests.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-14T21:23:31Z",
    "rarity": 6.1
   },
   {
@@ -400,7 +400,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 32.9
+   "rarity": 32.8
   },
   {
    "id": 36,
@@ -422,7 +422,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 9.3
+   "rarity": 9.2
   },
   {
    "id": 38,
@@ -554,7 +554,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 11.6
+   "rarity": 11.5
   },
   {
    "id": 50,
@@ -576,7 +576,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 16.2
+   "rarity": 16.1
   }
  ]
 }

@@ -63,7 +63,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-11T19:26:23Z",
-   "rarity": 39.1
+   "rarity": 39.2
   },
   {
    "id": 5,
@@ -74,7 +74,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-16T16:51:59Z",
-   "rarity": 33.2
+   "rarity": 33.3
   },
   {
    "id": 6,
@@ -85,7 +85,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 26.1
+   "rarity": 26.2
   },
   {
    "id": 7,
@@ -96,7 +96,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 5.4
+   "rarity": 5.5
   },
   {
    "id": 8,
@@ -162,7 +162,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-17T13:26:52Z",
-   "rarity": 21.4
+   "rarity": 21.5
   },
   {
    "id": 14,
@@ -173,7 +173,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-13T20:44:34Z",
-   "rarity": 29.4
+   "rarity": 29.5
   },
   {
    "id": 15,
@@ -184,7 +184,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-10-17T14:31:56Z",
-   "rarity": 23.9
+   "rarity": 24
   },
   {
    "id": 16,
@@ -294,7 +294,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-13T21:12:26Z",
-   "rarity": 30.9
+   "rarity": 31
   },
   {
    "id": 26,
@@ -305,7 +305,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-25T18:16:11Z",
-   "rarity": 29.5
+   "rarity": 29.6
   },
   {
    "id": 27,
@@ -336,8 +336,8 @@
    "detail": "Shoot an enemy grenade in midair with a revolver.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T19:33:28Z",
    "rarity": 6.7
   },
   {
@@ -358,8 +358,8 @@
    "detail": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T18:46:20Z",
    "rarity": 5.5
   },
   {
@@ -393,7 +393,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-25T17:26:19Z",
-   "rarity": 19.9
+   "rarity": 20
   },
   {
    "id": 35,
@@ -402,8 +402,8 @@
    "detail": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T20:50:23Z",
    "rarity": 4.4
   },
   {
@@ -415,7 +415,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-21T19:42:46Z",
-   "rarity": 16.4
+   "rarity": 16.5
   },
   {
    "id": 37,
@@ -424,8 +424,8 @@
    "detail": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T19:52:24Z",
    "rarity": 9.1
   },
   {
@@ -435,8 +435,8 @@
    "detail": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-15T17:51:01Z",
    "rarity": 12.6
   },
   {
@@ -459,7 +459,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-18T20:55:54Z",
-   "rarity": 18.9
+   "rarity": 19
   },
   {
    "id": 41,
@@ -503,7 +503,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-10-15T14:42:48Z",
-   "rarity": 28.7
+   "rarity": 28.8
   },
   {
    "id": 45,
@@ -514,7 +514,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 3.5
+   "rarity": 3.6
   },
   {
    "id": 46,
@@ -624,7 +624,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 16.9
+   "rarity": 17
   },
   {
    "id": 56,
