@@ -43,7 +43,7 @@
 
 </details>
 
-Последние отчёты: [alerts 2026-11-11](reports/alerts/2026-11-11.md) · [weekly 2026-11-11](reports/weekly/2026-11-11.md) · [weekly 2026-11-11-start](reports/weekly/2026-11-11-start.md)
+Последние отчёты: [weekly 2026-11-16](reports/weekly/2026-11-16.md) · [weekly 2026-11-11](reports/weekly/2026-11-11.md) · [alerts 2026-11-11](reports/alerts/2026-11-11.md)
 
 ## 🏆 Недавно закрыто на 100%
 
