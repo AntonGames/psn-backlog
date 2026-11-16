@@ -17,6 +17,13 @@
 
 ## Шаги
 
+### 0. Свежий синк перед отчётом (обязательно)
+Ежедневный синк по расписанию GitHub часто запаздывает на несколько часов, поэтому к утру понедельника данные могут быть вчерашними. Перед всеми шагами:
+1. Запустить **Update backlog** вручную (`workflow_dispatch` для `.github/workflows/update.yml`, ветка `main`): GitHub MCP `actions_run_trigger` (method `run_workflow`) или `gh workflow run update.yml --ref main`.
+2. Дождаться завершения запуска (обычно 1–3 минуты; проверять раз в ~30 с, максимум ~10 минут): `actions_list` → `list_workflow_runs` для `update.yml`, нужен запуск, созданный после старта сессии.
+3. `git pull --ff-only origin main` и убедиться, что `fetchedAt` в `data/profile.json` — сегодняшний.
+4. Если запуск упал или не закончился за 10 минут — работать с тем, что есть, а в отчёте в «Риски и дедлайны» написать, что синк перед отчётом не прошёл, и дату данных.
+
 ### 1. Состояние синка
 - Сравнить `fetchedAt` в `data/profile.json` с сегодняшней датой. Старше 2 дней — **проблема**: синк не работает. Посмотреть последние запуски:
   `gh api repos/AntonGames/psn-backlog/actions/workflows/update.yml/runs?per_page=5 --jq '.workflow_runs[] | [.created_at,.conclusion] | @tsv'`
