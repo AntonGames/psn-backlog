@@ -1,10 +1,24 @@
 [
  {
+  "titleId": "CUSA02377_00",
+  "name": "Assassin's Creed® Syndicate",
+  "category": "ps4_game",
+  "playDuration": "PT65H15M18S",
+  "lastPlayed": "2026-11-17T21:20:33.320000Z"
+ },
+ {
   "titleId": "CUSA09884_00",
   "name": "SOULCALIBUR™Ⅵ",
   "category": "ps4_game",
-  "playDuration": "PT12H34M45S",
-  "lastPlayed": "2026-11-17T12:19:57.900000Z"
+  "playDuration": "PT14H23M57S",
+  "lastPlayed": "2026-11-17T17:34:16.130000Z"
+ },
+ {
+  "titleId": "CUSA08519_00",
+  "name": "Red Dead Redemption 2",
+  "category": "ps4_game",
+  "playDuration": "PT108H43M",
+  "lastPlayed": "2026-11-17T14:05:40.510000Z"
  },
  {
   "titleId": "CUSA27708_00",
@@ -26,20 +40,6 @@
   "category": "ps5_native_game",
   "playDuration": "PT104H18M3S",
   "lastPlayed": "2026-11-16T09:22:58.460000Z"
- },
- {
-  "titleId": "CUSA08519_00",
-  "name": "Red Dead Redemption 2",
-  "category": "ps4_game",
-  "playDuration": "PT108H22M34S",
-  "lastPlayed": "2026-11-16T09:16:33.410000Z"
- },
- {
-  "titleId": "CUSA02377_00",
-  "name": "Assassin's Creed® Syndicate",
-  "category": "ps4_game",
-  "playDuration": "PT62H46M43S",
-  "lastPlayed": "2026-11-15T20:32:42.750000Z"
  },
  {
   "titleId": "CUSA12596_00",

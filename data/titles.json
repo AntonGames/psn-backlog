@@ -1,10 +1,31 @@
 [
  {
+  "npCommunicationId": "NPWR08934_00",
+  "name": "Assassin's Creed® Syndicate",
+  "platform": "PS4",
+  "npServiceName": "trophy",
+  "progress": 100,
+  "defined": {
+   "bronze": 45,
+   "silver": 7,
+   "gold": 4,
+   "platinum": 1
+  },
+  "earned": {
+   "bronze": 45,
+   "silver": 7,
+   "gold": 4,
+   "platinum": 1
+  },
+  "lastUpdated": "2026-11-17T21:17:48Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG"
+ },
+ {
   "npCommunicationId": "NPWR14065_00",
   "name": "SOULCALIBUR™Ⅵ",
   "platform": "PS4",
   "npServiceName": "trophy",
-  "progress": 89,
+  "progress": 100,
   "defined": {
    "bronze": 36,
    "silver": 10,
@@ -12,12 +33,12 @@
    "platinum": 1
   },
   "earned": {
-   "bronze": 35,
+   "bronze": 36,
    "silver": 10,
-   "gold": 1,
-   "platinum": 0
+   "gold": 2,
+   "platinum": 1
   },
-  "lastUpdated": "2026-11-17T11:11:56Z",
+  "lastUpdated": "2026-11-17T17:34:53Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR14065_00_0081B13789DB6C21CD12AB090A2404C18701C3D44F/6041F0E64D6ADA00424CA5EFFCE636604D030D8B.PNG"
  },
  {
@@ -61,27 +82,6 @@
   },
   "lastUpdated": "2026-11-15T20:50:23Z",
   "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24695_00/68b955dc-1ec1-4494-a4b7-751a9c90fe58.png"
- },
- {
-  "npCommunicationId": "NPWR08934_00",
-  "name": "Assassin's Creed® Syndicate",
-  "platform": "PS4",
-  "npServiceName": "trophy",
-  "progress": 90,
-  "defined": {
-   "bronze": 45,
-   "silver": 7,
-   "gold": 4,
-   "platinum": 1
-  },
-  "earned": {
-   "bronze": 45,
-   "silver": 6,
-   "gold": 3,
-   "platinum": 1
-  },
-  "lastUpdated": "2026-11-15T19:05:47Z",
-  "icon": "https://image.api.playstation.com/trophy/np/NPWR08934_00_00E288AF3E17A5F8897811AA48E3DBE84491F57F4E/C39198C362F2E6A41CD3E5D274199D5F6E5179A7.PNG"
  },
  {
   "npCommunicationId": "NPWR09412_00",
