@@ -24,8 +24,8 @@
    "detail": "Complete the main story of Soul Chronicle.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:29:20Z",
    "rarity": 20
   },
   {
@@ -35,8 +35,8 @@
    "detail": "Complete one character's story in Soul Chronicle. (Base-game characters only.)",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T10:26:08Z",
    "rarity": 17.2
   },
   {
@@ -68,8 +68,8 @@
    "detail": "Complete the mission \"The Astral Fissure\" in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T17:05:32Z",
    "rarity": 41.6
   },
   {
@@ -79,8 +79,8 @@
    "detail": "Complete the mission \"The Man in Black\" in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T17:13:27Z",
    "rarity": 26.1
   },
   {
@@ -90,8 +90,8 @@
    "detail": "Complete the mission \"On the Road\" in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T17:42:27Z",
    "rarity": 11.5
   },
   {
@@ -101,8 +101,8 @@
    "detail": "Complete the mission \"Death or Glory\" in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T18:25:44Z",
    "rarity": 7.3
   },
   {
@@ -112,8 +112,8 @@
    "detail": "Complete the mission \"The Journey's End\" in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:18:15Z",
    "rarity": 4.7
   },
   {
@@ -123,8 +123,8 @@
    "detail": "Complete the main story of Libra of Soul with the scales tipped towards good.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:50:06Z",
    "rarity": 2.5
   },
   {
@@ -134,8 +134,8 @@
    "detail": "Complete the main story of Libra of Soul with the scales tipped towards evil.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:56:45Z",
    "rarity": 1.8
   },
   {
@@ -145,8 +145,8 @@
    "detail": "Use a mercenary in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:00:42Z",
    "rarity": 6.5
   },
   {
@@ -156,8 +156,8 @@
    "detail": "Eat some food in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:47:54Z",
    "rarity": 19.2
   },
   {
@@ -167,8 +167,8 @@
    "detail": "Complete one secondary mission in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T17:15:45Z",
    "rarity": 21.8
   },
   {
@@ -178,8 +178,8 @@
    "detail": "Complete 10 secondary missions in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T19:15:45Z",
    "rarity": 13.9
   },
   {
@@ -189,8 +189,8 @@
    "detail": "Complete the mission \"Footsteps: Fortress of Illusion\" in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T21:06:40Z",
    "rarity": 2.8
   },
   {
@@ -200,8 +200,8 @@
    "detail": "Obtain 50 weapons in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T07:59:19Z",
    "rarity": 4.4
   },
   {
@@ -211,8 +211,8 @@
    "detail": "Obtain 100 weapons in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:00:09Z",
    "rarity": 2
   },
   {
@@ -222,8 +222,8 @@
    "detail": "Upgrade a weapon in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:35:37Z",
    "rarity": 6.8
   },
   {
@@ -233,8 +233,8 @@
    "detail": "Upgrade weapons 30 times in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T05:35:08Z",
    "rarity": 0.9
   },
   {
@@ -244,8 +244,8 @@
    "detail": "Raise the level of a town by one in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T19:11:45Z",
    "rarity": 19
   },
   {
@@ -255,8 +255,8 @@
    "detail": "Raise the level of four towns in Libra of Soul to their max.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:34:26Z",
    "rarity": 2.7
   },
   {
@@ -266,8 +266,8 @@
    "detail": "Complete 30 \"Astral Fissure Sealing\" missions in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T07:58:30Z",
    "rarity": 1
   },
   {
@@ -277,8 +277,8 @@
    "detail": "Travel a total distance equal to three trips around the Earth while exploring in Libra of Soul.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T05:38:52Z",
    "rarity": 3
   },
   {
@@ -288,8 +288,8 @@
    "detail": "Reach level 50 in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:39:45Z",
    "rarity": 5.6
   },
   {
@@ -299,8 +299,8 @@
    "detail": "Defeat an Ancient in Libra of Soul.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T21:19:12Z",
    "rarity": 2.7
   },
   {
@@ -310,8 +310,8 @@
    "detail": "Use Soul Points to unlock 10 entries in the Museum.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:02:40Z",
    "rarity": 2.2
   },
   {
@@ -332,9 +332,9 @@
    "detail": "Complete Arcade mode for the first time.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 29.9
+   "earned": true,
+   "earnedAt": "2026-11-17T08:44:17Z",
+   "rarity": 30
   },
   {
    "id": 30,
@@ -343,8 +343,8 @@
    "detail": "Get a gold rating in Arcade mode.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:44:17Z",
    "rarity": 4.6
   },
   {
@@ -354,8 +354,8 @@
    "detail": "Unlock Legendary difficulty in Arcade mode.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:44:17Z",
    "rarity": 3.6
   },
   {
@@ -431,8 +431,8 @@
    "detail": "Achieve 15 perfect victories. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:11:18Z",
    "rarity": 27.1
   },
   {
@@ -442,8 +442,8 @@
    "detail": "Land 20 critical edges. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:38:24Z",
    "rarity": 41.5
   },
   {
@@ -453,8 +453,8 @@
    "detail": "Land 10 lethal hits. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T11:04:07Z",
    "rarity": 40.2
   },
   {
@@ -464,8 +464,8 @@
    "detail": "Land 20 guard impacts. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:15:08Z",
    "rarity": 22.8
   },
   {
@@ -475,8 +475,8 @@
    "detail": "Win 30 reversal edge clashes using A, B, or K. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T20:33:04Z",
    "rarity": 33.3
   },
   {
@@ -486,8 +486,8 @@
    "detail": "Perform soul charge techniques 20 times. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T19:44:44Z",
    "rarity": 20.9
   },
   {
@@ -497,8 +497,8 @@
    "detail": "Knock your opponent out of the ring 20 times. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-16T19:27:40Z",
    "rarity": 21.2
   },
   {
@@ -508,8 +508,8 @@
    "detail": "Stop five guard impacts or reversal edges with a break attack. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T08:19:47Z",
    "rarity": 25.2
   },
   {
@@ -519,8 +519,8 @@
    "detail": "Break all your opponent's equipment five times. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T10:16:56Z",
    "rarity": 18.1
   },
   {
@@ -530,8 +530,8 @@
    "detail": "Land three lethal hits with Astaroth using \"Rending Torment.\" (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T11:11:48Z",
    "rarity": 2.8
   },
   {
@@ -541,8 +541,8 @@
    "detail": "Perform \"Steed of the Night\" with Grøh 10 times. (Must be outside of Training mode.)",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-17T10:55:03Z",
    "rarity": 5.3
   }
  ]

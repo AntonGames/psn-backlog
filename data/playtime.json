@@ -1,10 +1,24 @@
 [
  {
+  "titleId": "CUSA09884_00",
+  "name": "SOULCALIBUR™Ⅵ",
+  "category": "ps4_game",
+  "playDuration": "PT12H34M45S",
+  "lastPlayed": "2026-11-17T12:19:57.900000Z"
+ },
+ {
+  "titleId": "CUSA27708_00",
+  "name": "Evil Dead: The Game",
+  "category": "ps4_game",
+  "playDuration": "PT42H1M8S",
+  "lastPlayed": "2026-11-16T21:30:53.780000Z"
+ },
+ {
   "titleId": "CUSA14392_00",
   "name": "F1® 2019",
   "category": "ps4_game",
-  "playDuration": "PT52H16M30S",
-  "lastPlayed": "2026-11-16T11:25:20.480000Z"
+  "playDuration": "PT68H15M5S",
+  "lastPlayed": "2026-11-16T14:22:56.710000Z"
  },
  {
   "titleId": "PPSA04027_00",
@@ -33,13 +47,6 @@
   "category": "ps4_game",
   "playDuration": "PT30H39M33S",
   "lastPlayed": "2026-11-15T09:18:02.570000Z"
- },
- {
-  "titleId": "CUSA27708_00",
-  "name": "Evil Dead: The Game",
-  "category": "ps4_game",
-  "playDuration": "PT40H7M55S",
-  "lastPlayed": "2026-11-15T08:51:15.590000Z"
  },
  {
   "titleId": "PPSA21704_00",
@@ -1902,13 +1909,6 @@
   "category": "ps4_game",
   "playDuration": "PT15M1S",
   "lastPlayed": "2020-02-24T18:10:57.030000Z"
- },
- {
-  "titleId": "CUSA09884_00",
-  "name": "SOULCALIBUR™Ⅵ",
-  "category": "ps4_game",
-  "playDuration": "PT2H58M55S",
-  "lastPlayed": "2020-02-22T19:37:17.540000Z"
  },
  {
   "titleId": "CUSA00470_00",

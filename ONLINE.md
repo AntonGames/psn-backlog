@@ -1,8 +1,8 @@
 # 🌐 Невыбитый онлайн
 
-Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-16) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
+Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-17) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
 
-**Итого:** 146 трофеев в 18 играх, ~274 ч.
+**Итого:** 145 трофеев в 17 играх, ~271 ч.
 
 | Игра | Платформа | Не выбито онлайн | ~ч | Сервера |
 |---|---|---|---:|---|
@@ -15,7 +15,6 @@
 | [Sniper Elite V2 Remastered](games/sniper-elite-v2-remastered-ps4.md) | PS4 | **2**: Target Eliminated!, Can Do! | 2.1 | 🟢 работают |
 | [Journey](games/journey-ps4.md) | PS4 | **3**: Crossing, Companion, Wonder | 2.5 | 🟢 работают |
 | [Uncharted 4: A Thief’s End](games/uncharted-4-a-thiefs-end-ps4.md) | PS4 | **1**: Trials by Fire | 3 | 🟢 работают |
-| [F1 2019](games/f1-2019-ps4.md) | PS4 | **1**: Around the World | 3.1 | 🟢 работают |
 | [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) | PS4 | **1**: Which name shall I use? | 3.6 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) | PS3 | **8**: Rivals Welcome, Incredible, Crazy Good, Mega Good, Hotshot, Slam Master и ещё 2 | 11 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | **8**: Seductive Embrace, Rivals Welcome, Hellbent, Dreaded Opponent, Forged From Steel, Mega Good и ещё 2 | 21 | 🟢 работают |
@@ -118,16 +117,6 @@
 | 🥉 | Trials by Fire | Complete all trials on Moderate (difficulty) in Multiplayer | MP | 3 |
 
 [Страница игры →](games/uncharted-4-a-thiefs-end-ps4.md)
-
-## F1 2019 · PS4 — 1 трофей
-
-Сервера: 🟢 работают Проверено 16.11.2026: новых анонсов закрытия нет (также 11.11). Ранее (09.11.2026): F1 2019 нет в списке закрытий EA (актуален по декабрь 2026), онлайн у F1 2015+ работает. Платину на PS4, куда входит Around the World (time trial на всех трассах), получали ещё 09.06.2025, а PC-гайд, обновлённый в марте 2026, описывает работающие лиги и ранкед. ([источник](https://www.ea.com/legal/service-updates/a-h))
-
-| | Трофей | Описание | Вид | ~ч |
-|---|---|---|---|---:|
-| 🥈 | Around the World | Register a time trial entry on every track | leaderboard | 3 |
-
-[Страница игры →](games/f1-2019-ps4.md)
 
 ## NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 · PS4 — 1 трофей
 
