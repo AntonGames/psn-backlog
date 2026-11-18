@@ -1,5 +1,26 @@
 [
  {
+  "npCommunicationId": "NPWR12583_00",
+  "name": "F1™ 2017",
+  "platform": "PS4",
+  "npServiceName": "trophy",
+  "progress": 37,
+  "defined": {
+   "bronze": 38,
+   "silver": 10,
+   "gold": 2,
+   "platinum": 1
+  },
+  "earned": {
+   "bronze": 18,
+   "silver": 4,
+   "gold": 0,
+   "platinum": 0
+  },
+  "lastUpdated": "2026-11-18T09:02:27Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR12583_00_00FF422ACFCC616B82A09632A0F4D31B4730DFCAF0/075DB9B25971282FBC85ACCD37BC94B16A8C8856.PNG"
+ },
+ {
   "npCommunicationId": "NPWR08934_00",
   "name": "Assassin's Creed® Syndicate",
   "platform": "PS4",
@@ -4786,27 +4807,6 @@
   },
   "lastUpdated": "2020-07-11T21:24:48Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR17353_00_009F8C81B85852D16116481DD0899B88990D8D9CE6/8E7339C1E83979A1D355244EDCC556B07C4FA347.PNG"
- },
- {
-  "npCommunicationId": "NPWR12583_00",
-  "name": "F1™ 2017",
-  "platform": "PS4",
-  "npServiceName": "trophy",
-  "progress": 15,
-  "defined": {
-   "bronze": 38,
-   "silver": 10,
-   "gold": 2,
-   "platinum": 1
-  },
-  "earned": {
-   "bronze": 7,
-   "silver": 2,
-   "gold": 0,
-   "platinum": 0
-  },
-  "lastUpdated": "2020-07-07T16:50:09Z",
-  "icon": "https://image.api.playstation.com/trophy/np/NPWR12583_00_00FF422ACFCC616B82A09632A0F4D31B4730DFCAF0/075DB9B25971282FBC85ACCD37BC94B16A8C8856.PNG"
  },
  {
   "npCommunicationId": "NPWR08301_00",

@@ -35,8 +35,8 @@
    "detail": "Accept a contract with McLaren or Sauber",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:43:34Z",
    "rarity": 24.2
   },
   {
@@ -46,8 +46,8 @@
    "detail": "Accept a contract with Williams, Force India, Renault, Toro Rosso or Haas",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:43:15Z",
    "rarity": 32.3
   },
   {
@@ -57,8 +57,8 @@
    "detail": "Accept a contract with Red Bull, Ferrari or Mercedes",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:43:48Z",
    "rarity": 59.4
   },
   {
@@ -79,8 +79,8 @@
    "detail": "Complete your first Practice Programme",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:50:02Z",
    "rarity": 39
   },
   {
@@ -90,8 +90,8 @@
    "detail": "Achieve a perfect result in a Practice Programme",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:50:03Z",
    "rarity": 36.2
   },
   {
@@ -156,8 +156,8 @@
    "detail": "Take your first win in any full season",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:46:16Z",
    "rarity": 43.4
   },
   {
@@ -211,8 +211,8 @@
    "detail": "Set the fastest time in all three Practice sessions, take pole position and win the Grand Prix",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:46:16Z",
    "rarity": 13.6
   },
   {
@@ -376,8 +376,8 @@
    "detail": "Accept an invite to an Invitational event",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:09:26Z",
    "rarity": 49.1
   },
   {
@@ -387,8 +387,8 @@
    "detail": "Complete an Invitational event",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:12:14Z",
    "rarity": 47.3
   },
   {
@@ -420,8 +420,8 @@
    "detail": "Take a grid drop penalty for switching an engine part",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:04:46Z",
    "rarity": 19.8
   },
   {
@@ -431,8 +431,8 @@
    "detail": "Complete a Fuel Management Practice Programme",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T07:56:53Z",
    "rarity": 25.8
   },
   {
@@ -442,8 +442,8 @@
    "detail": "Complete a Race Strategy Practice Programme",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T08:33:32Z",
    "rarity": 30.9
   },
   {
@@ -497,8 +497,8 @@
    "detail": "Switch out a worn engine part",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T09:02:24Z",
    "rarity": 38.3
   },
   {

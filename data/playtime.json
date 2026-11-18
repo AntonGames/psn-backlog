@@ -1,5 +1,12 @@
 [
  {
+  "titleId": "CUSA07557_00",
+  "name": "F1™ 2017",
+  "category": "ps4_game",
+  "playDuration": "PT37H48M52S",
+  "lastPlayed": "2026-11-18T07:42:16.540000Z"
+ },
+ {
   "titleId": "CUSA02377_00",
   "name": "Assassin's Creed® Syndicate",
   "category": "ps4_game",
@@ -1797,13 +1804,6 @@
   "category": "ps4_game",
   "playDuration": "PT11M28S",
   "lastPlayed": "2020-07-11T10:54:49.840000Z"
- },
- {
-  "titleId": "CUSA07557_00",
-  "name": "F1™ 2017",
-  "category": "ps4_game",
-  "playDuration": "PT37H47M48S",
-  "lastPlayed": "2020-07-07T16:17:58.900000Z"
  },
  {
   "titleId": "CUSA12629_00",
