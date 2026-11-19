@@ -24,8 +24,8 @@
    "detail": "Complete a race at Bahrain or Abu Dhabi in heavy rain",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:58:41Z",
    "rarity": 2.4
   },
   {
@@ -68,8 +68,8 @@
    "detail": "Complete a Full Season of 20 Races in Career or Championships",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T17:51:41Z",
    "rarity": 19.5
   },
   {
@@ -123,8 +123,8 @@
    "detail": "Spend at least 75% of your season being rated as 'Overachieving' by your team",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T17:29:03Z",
    "rarity": 13.2
   },
   {
@@ -134,8 +134,8 @@
    "detail": "Improve your performance to elevate yourself out of the 'Underachieving' zone",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T22:01:19Z",
    "rarity": 2.5
   },
   {
@@ -167,8 +167,8 @@
    "detail": "Win the Formula 1 Drivers' Championship",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T16:27:34Z",
    "rarity": 15.8
   },
   {
@@ -178,8 +178,8 @@
    "detail": "Win the Formula 1 Constructors' Championship",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T17:29:04Z",
    "rarity": 10.6
   },
   {
@@ -189,8 +189,8 @@
    "detail": "Complete any race with all assists disabled",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:48:01Z",
    "rarity": 2.7
   },
   {
@@ -200,8 +200,8 @@
    "detail": "Pit under the Safety Car onto the team's suggested strategy",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:23:46Z",
    "rarity": 23.2
   },
   {
@@ -222,8 +222,8 @@
    "detail": "Set a clean lap in any Time Trial",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:36:31Z",
    "rarity": 29.7
   },
   {
@@ -233,8 +233,8 @@
    "detail": "Set a clean lap in Time Trial at 10 circuits",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:56:01Z",
    "rarity": 3.9
   },
   {
@@ -244,8 +244,8 @@
    "detail": "Set wet times in Time Trial at 5 circuits",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:45:56Z",
    "rarity": 1.4
   },
   {
@@ -255,8 +255,8 @@
    "detail": "Create and race your own weather scenario",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:33:56Z",
    "rarity": 5.4
   },
   {
@@ -277,8 +277,8 @@
    "detail": "Resume a race using a Mid-Session Save",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:08:19Z",
    "rarity": 18.2
   },
   {
@@ -288,8 +288,8 @@
    "detail": "Use the Multi Function Display to adjust your set-up while on track",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:44:00Z",
    "rarity": 49.7
   },
   {
@@ -321,8 +321,8 @@
    "detail": "Win a 25% + distance race against 'Ultimate' AI opponents",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:33:56Z",
    "rarity": 2
   },
   {
@@ -332,8 +332,8 @@
    "detail": "Politely ask your Race Engineer to stop talking to you out on track",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:57:58Z",
    "rarity": 16.5
   },
   {
@@ -354,8 +354,8 @@
    "detail": "Research a recommended upgrade",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T22:01:36Z",
    "rarity": 47
   },
   {
@@ -409,8 +409,8 @@
    "detail": "Complete a race in a classic British car at Silverstone",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:48:00Z",
    "rarity": 4.6
   },
   {
@@ -453,8 +453,8 @@
    "detail": "Out qualify your team mate 11 times in one season",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T11:50:09Z",
    "rarity": 22.1
   },
   {
@@ -464,8 +464,8 @@
    "detail": "Receive a promotion to first driver",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T11:12:41Z",
    "rarity": 25.5
   },
   {
@@ -486,8 +486,8 @@
    "detail": "Complete a night race at Monaco",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:33:56Z",
    "rarity": 3.1
   },
   {
@@ -541,8 +541,8 @@
    "detail": "With manual gears enabled race a car with a non sequential gearbox",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T18:58:41Z",
    "rarity": 4.8
   },
   {
@@ -552,8 +552,8 @@
    "detail": "Perform a perfect pitstop with Pit Assists disabled and Rules enabled",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:33:53Z",
    "rarity": 8.7
   },
   {
@@ -563,8 +563,8 @@
    "detail": "Obtain a gold medal in a championship",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-18T20:19:28Z",
    "rarity": 5.3
   }
  ]

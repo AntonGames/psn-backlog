@@ -1,10 +1,31 @@
 [
  {
+  "npCommunicationId": "NPWR21085_00",
+  "name": "Grand Theft Auto VI",
+  "platform": "PS5",
+  "npServiceName": "trophy2",
+  "progress": 1,
+  "defined": {
+   "bronze": 46,
+   "silver": 6,
+   "gold": 2,
+   "platinum": 1
+  },
+  "earned": {
+   "bronze": 1,
+   "silver": 0,
+   "gold": 0,
+   "platinum": 0
+  },
+  "lastUpdated": "2026-11-19T12:15:23Z",
+  "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png"
+ },
+ {
   "npCommunicationId": "NPWR12583_00",
   "name": "F1™ 2017",
   "platform": "PS4",
   "npServiceName": "trophy",
-  "progress": 37,
+  "progress": 91,
   "defined": {
    "bronze": 38,
    "silver": 10,
@@ -12,12 +33,12 @@
    "platinum": 1
   },
   "earned": {
-   "bronze": 18,
-   "silver": 4,
-   "gold": 0,
+   "bronze": 36,
+   "silver": 8,
+   "gold": 2,
    "platinum": 0
   },
-  "lastUpdated": "2026-11-18T09:02:27Z",
+  "lastUpdated": "2026-11-18T22:03:08Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR12583_00_00FF422ACFCC616B82A09632A0F4D31B4730DFCAF0/075DB9B25971282FBC85ACCD37BC94B16A8C8856.PNG"
  },
  {

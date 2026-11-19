@@ -1,20 +1,21 @@
 # PSN бэклог · Anton_games337
 
-Уровень **561** · 🏆 222 · 🥇 1146 · 🥈 3247 · 🥉 8571  
-Списков трофеев: **370**, закрыто на 100%: **240**, в бэклоге: **130**  
-Данные PSN: 2026-11-18
+Уровень **561** · 🏆 222 · 🥇 1148 · 🥈 3251 · 🥉 8590  
+Списков трофеев: **371**, закрыто на 100%: **240**, в бэклоге: **131**  
+Данные PSN: 2026-11-19
 
 ## Итого осталось
 
 | | Трофеев | Время (оценка) |
 |---|---:|---:|
-| Можно выбить офлайн | 4590 | ~4475 ч |
+| Можно выбить офлайн | 4566 | ~4451 ч |
 | [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 145 | ~271 ч |
-| **Всего выбиваемо** | **4735** | **~4746 ч** |
+| **Всего выбиваемо** | **4765** | **~4722 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
 | [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
-| Всего невыбитых | 4758 | |
+| ❔ Без оценки | 54 | — |
+| Всего невыбитых | 4788 | |
 
 ## ⏰ Ближайшие дедлайны
 
@@ -24,7 +25,7 @@
 
 ## 📉 Динамика
 
-При 20 ч в неделю текущий остаток — это **~237 недель** (≈ 4.5 года).
+При 20 ч в неделю текущий остаток — это **~236 недель** (≈ 4.5 года).
 
 ![Осталось часов в бэклоге](charts/burndown.svg)
 
@@ -32,6 +33,7 @@
 
 | Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |
 |---|---:|---:|---:|---:|---:|
+| 2026-11-19 | 4765 | 4722 | 4451 | 271 | 222 |
 | 2026-11-18 | 4735 | 4746 | 4475 | 271 | 222 |
 | 2026-11-17 | 4748 | 4752 | 4481 | 271 | 222 |
 | 2026-11-16 | 4807 | 4815 | 4541 | 274 | 220 |
@@ -46,7 +48,7 @@
 
 </details>
 
-Последние отчёты: [weekly 2026-11-16](reports/weekly/2026-11-16.md) · [weekly 2026-11-16-2](reports/weekly/2026-11-16-2.md) · [alerts 2026-11-11](reports/alerts/2026-11-11.md)
+Последние отчёты: [weekly 2026-11-16](reports/weekly/2026-11-16.md) · [weekly 2026-11-16-2](reports/weekly/2026-11-16-2.md) · [weekly 2026-11-11](reports/weekly/2026-11-11.md)
 
 ## 🏆 Недавно закрыто на 100%
 
@@ -102,10 +104,10 @@
 
 | Платформа | Игр в бэклоге | Выбиваемых трофеев | ~ч |
 |---|---:|---:|---:|
-| PS4 | 77 | 3098 | 3223 |
+| PS4 | 77 | 3074 | 3199 |
 | PS3 | 23 | 807 | 796 |
 | PS Vita | 16 | 399 | 399 |
-| PS5 | 14 | 431 | 328 |
+| PS5 | 15 | 485 | 328 |
 
 ## Все игры бэклога
 
@@ -117,7 +119,7 @@
 | 2 | [Call of Duty: Black Ops II](games/call-of-duty-black-ops-ii-ps4.md) | PS4 | 54/91 (58%) | ❌ | **2 ч** 🔁 | 2 | 0 |  | 235 ч | 7-8/10 (full list); campaign part ~5/10 |
 | 3 | [Back to the Future - Episode 1: It's About Time](games/back-to-the-future-episode-1-its-about-time-ps3.md) | PS3 | 4/12 (23%) | — | **2 ч** | 2 | 0 |  |  |  |
 | 4 | [Paranormal Activity](games/paranormal-activity-ps4.md) | PS4 | 1/12 (9%) | ❌ | **3 ч** | 3 | 0 |  |  | 4.75/10 (Stratege votes) |
-| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  |  | 5/10 |
+| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  | 2.1 ч | 5/10 |
 | 6 | [Call of Duty Modern Warfare II](games/call-of-duty-modern-warfare-ii-ps5-npwr50314_00.md) | PS5 | 12/25 (51%) | ❌ | **4.5 ч** | 4.5 | 0 |  | 15 ч | 5/10 |
 | 7 | [Journey](games/journey-ps4.md) ⚠ | PS4 | 2/14 (9%) | — | **6.4 ч** | 3.9 | 2.5 |  | 3.9 ч |  |
 | 8 | [Battlefield 3](games/battlefield-3-ps3.md) | PS3 | 43/64 (73%) | ❌ | **9 ч** | 9 | 0 |  |  | 3/10 (remaining campaign part) |
@@ -198,34 +200,34 @@
 | 83 | [虚拟现实乐园](games/game-ps4.md) | PS4 | 2/22 (4%) | ❌ | **38 ч** | 38 | 0 |  |  | 6/10 (PlatPrices) |
 | 84 | [AC Brotherhood](games/ac-brotherhood-ps3.md) | PS3 | 10/61 (14%) | ❌ | **39 ч** | 39 | 0 |  |  | 3/10 |
 | 85 | [Deus Ex: Mankind Divided](games/deus-ex-mankind-divided-ps4.md) | PS4 | 18/82 (16%) | ❌ | **40 ч** | 40 | 0 |  | 19 ч | 4.5/10 |
-| 86 | [Need for Speed](games/need-for-speed-ps4.md) ⚠ | PS4 | 2/46 (2%) | ❌ | **42 ч** | 0 | 42 |  | 0.6 ч | 4/10 |
-| 87 | [Assassin's Creed Chronicles](games/assassins-creed-chronicles-psvita.md) | PSVITA | 1/55 (1%) | ❌ | **42 ч** | 42 | 0 |  |  | 6/10 |
-| 88 | [Tom Clancy's Splinter Cell Blacklist](games/tom-clancys-splinter-cell-blacklist-ps3.md) | PS3 | 15/48 (34%) | ❌ | **43 ч** | 43 | 0 |  |  |  |
-| 89 | [Assassin's Creed IV Black Flag](games/assassins-creed-iv-black-flag-ps4.md) | PS4 | 27/61 (34%) | ❌ | **43 ч** | 43 | 0 |  | 95 ч | 4/10 |
-| 90 | [Saints Row IV: Re-elected](games/saints-row-iv-re-elected-ps4.md) | PS4 | 5/71 (5%) | ❌ | **43 ч** | 43 | 0 |  | 3.2 ч | 3/10 |
-| 91 | [FREEDOM WARS](games/freedom-wars-psvita.md) | PSVITA | 25/43 (42%) | ❌ | **44 ч** | 44 | 0 |  |  |  |
-| 92 | [MARVEL VS. CAPCOM 3](games/marvel-vs-capcom-3-ps3.md) | PS3 | 18/47 (31%) | ❌ | **44 ч** | 44 | 0 |  |  |  |
-| 93 | [Cyberpunk 2077](games/cyberpunk-2077-ps5.md) | PS5 | 34/58 (54%) | ❌ | **45 ч** | 45 | 0 |  | 104 ч | 3/10 (base), 2/10 (Phantom Liberty) |
-| 94 | [Marvel's Spider-Man](games/marvels-spider-man-ps4.md) | PS4 | 12/74 (10%) | ❌ | **47 ч** | 47 | 0 |  | 15 ч | 2.5/10 |
-| 95 | [Assassin's Creed IV Black Flag](games/assassins-creed-iv-black-flag-ps3.md) | PS3 | 15/61 (20%) | ❌ | **48 ч** | 48 | 0 |  |  | 4/10 |
-| 96 | [Silent Hill: Book of Memories](games/silent-hill-book-of-memories-psvita.md) | PSVITA | 21/62 (26%) | ❌ | **48 ч** | 48 | 0 |  |  | 4/10 (estimate; grindy) |
-| 97 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) ⚠ | PS3 | 17/47 (29%) | ❌ | **48 ч** | 37 | 11 |  |  | 8/10 (PlatPrices lists 10/10) |
-| 98 | [Dying Light](games/dying-light-ps4.md) | PS4 | 32/69 (44%) | ❌ | **50 ч** | 50 | 0 |  | 42 ч | 5/10 |
-| 99 | [Dishonored Definitive Edition](games/dishonored-definitive-edition-ps4.md) | PS4 | 2/81 (1%) | ❌ | **50 ч** | 50 | 0 |  | 18 ч | 5/10 (base); Dunwall City Trials ~7/10 |
-| 100 | [Resident Evil 7: Biohazard](games/resident-evil-7-biohazard-ps4.md) | PS4 | 1/59 (1%) | ❌ | **50 ч** | 50 | 0 |  | 11 ч | 4/10 base (DLC harder, ~6-7/10) |
-| 101 | [WATCH_DOGS](games/watch-dogs-ps4.md) | PS4 | 8/50 (14%) | ❌ | **52 ч** | 52 | 0 |  | 15 ч | 4/10 |
-| 102 | [Ghostwire: Tokyo](games/ghostwire-tokyo-ps5.md) | PS5 | 8/67 (9%) | ❌ | **52 ч** | 52 | 0 |  | 16 ч | 3/10 |
-| 103 | [WATCH_DOGS](games/watch-dogs-ps3.md) | PS3 | 8/50 (14%) | ❌ | **54 ч** | 54 | 0 |  |  | 4/10 |
-| 104 | [Grand Theft Auto V](games/grand-theft-auto-v-ps4.md) | PS4 | 42/78 (53%) | ❌ | **54 ч** | 54 | 0 |  |  | 5/10 |
-| 105 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) ⚠ | PS4 | 21/47 (34%) | ❌ | **54 ч** | 34 | 21 |  | 45 ч | 8/10 (PlatPrices lists 10/10) |
-| 106 | [Far Cry 5](games/far-cry-5-ps4.md) ⚠ | PS4 | 6/73 (6%) | ❌ | **55 ч** | 54 | 1 |  | 6.5 ч | 2/10 (DLC 2-5/10) |
-| 107 | [DARK SOULS III](games/dark-souls-iii-ps4.md) | PS4 | 7/43 (10%) | ❌ | **58 ч** | 58 | 0 |  |  |  |
-| 108 | [Middle-earth: Shadow of War](games/middle-earth-shadow-of-war-ps4.md) ⚠ | PS4 | 9/73 (10%) | ❌ | **59 ч** | 58 | 1 |  |  | 3.5/10 |
-| 109 | [ELDEN RING](games/elden-ring-ps5.md) | PS5 | 7/42 (11%) | ❌ | **60 ч** | 60 | 0 |  | 51 ч | 6-7/10 |
-| 110 | [WIPEOUT OMEGA COLLECTION](games/wipeout-omega-collection-ps4.md) | PS4 | 5/35 (8%) | ❌ | **63 ч** | 63 | 0 |  |  | 9/10 |
-| 111 | [Hogwarts Legacy](games/hogwarts-legacy-ps4.md) | PS4 | 6/46 (8%) | ❌ | **64 ч** | 64 | 0 |  | 28 ч | 3/10 |
-| 112 | [DARK SOULS Ⅱ: Scholar of the First Sin](games/dark-souls-ii-scholar-of-the-first-sin-ps4.md) | PS4 | 4/38 (5%) | ❌ | **65 ч** | 65 | 0 |  |  | 6/10 (community 5-7/10) |
-| 113 | [F1 2017](games/f1-2017-ps4.md) ⚠ | PS4 | 22/51 (37%) | ❌ | **66 ч** | 36 | 30 |  |  | 2/10 (offline; online level grind is the bottleneck) |
+| 86 | [F1 2017](games/f1-2017-ps4.md) ⚠ | PS4 | 46/51 (91%) | ❌ | **42 ч** | 12 | 30 |  |  | 2/10 (offline; online level grind is the bottleneck) |
+| 87 | [Need for Speed](games/need-for-speed-ps4.md) ⚠ | PS4 | 2/46 (2%) | ❌ | **42 ч** | 0 | 42 |  | 0.6 ч | 4/10 |
+| 88 | [Assassin's Creed Chronicles](games/assassins-creed-chronicles-psvita.md) | PSVITA | 1/55 (1%) | ❌ | **42 ч** | 42 | 0 |  |  | 6/10 |
+| 89 | [Tom Clancy's Splinter Cell Blacklist](games/tom-clancys-splinter-cell-blacklist-ps3.md) | PS3 | 15/48 (34%) | ❌ | **43 ч** | 43 | 0 |  |  |  |
+| 90 | [Assassin's Creed IV Black Flag](games/assassins-creed-iv-black-flag-ps4.md) | PS4 | 27/61 (34%) | ❌ | **43 ч** | 43 | 0 |  | 95 ч | 4/10 |
+| 91 | [Saints Row IV: Re-elected](games/saints-row-iv-re-elected-ps4.md) | PS4 | 5/71 (5%) | ❌ | **43 ч** | 43 | 0 |  | 3.2 ч | 3/10 |
+| 92 | [FREEDOM WARS](games/freedom-wars-psvita.md) | PSVITA | 25/43 (42%) | ❌ | **44 ч** | 44 | 0 |  |  |  |
+| 93 | [MARVEL VS. CAPCOM 3](games/marvel-vs-capcom-3-ps3.md) | PS3 | 18/47 (31%) | ❌ | **44 ч** | 44 | 0 |  |  |  |
+| 94 | [Cyberpunk 2077](games/cyberpunk-2077-ps5.md) | PS5 | 34/58 (54%) | ❌ | **45 ч** | 45 | 0 |  | 104 ч | 3/10 (base), 2/10 (Phantom Liberty) |
+| 95 | [Marvel's Spider-Man](games/marvels-spider-man-ps4.md) | PS4 | 12/74 (10%) | ❌ | **47 ч** | 47 | 0 |  | 15 ч | 2.5/10 |
+| 96 | [Assassin's Creed IV Black Flag](games/assassins-creed-iv-black-flag-ps3.md) | PS3 | 15/61 (20%) | ❌ | **48 ч** | 48 | 0 |  |  | 4/10 |
+| 97 | [Silent Hill: Book of Memories](games/silent-hill-book-of-memories-psvita.md) | PSVITA | 21/62 (26%) | ❌ | **48 ч** | 48 | 0 |  |  | 4/10 (estimate; grindy) |
+| 98 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) ⚠ | PS3 | 17/47 (29%) | ❌ | **48 ч** | 37 | 11 |  |  | 8/10 (PlatPrices lists 10/10) |
+| 99 | [Dying Light](games/dying-light-ps4.md) | PS4 | 32/69 (44%) | ❌ | **50 ч** | 50 | 0 |  | 42 ч | 5/10 |
+| 100 | [Dishonored Definitive Edition](games/dishonored-definitive-edition-ps4.md) | PS4 | 2/81 (1%) | ❌ | **50 ч** | 50 | 0 |  | 18 ч | 5/10 (base); Dunwall City Trials ~7/10 |
+| 101 | [Resident Evil 7: Biohazard](games/resident-evil-7-biohazard-ps4.md) | PS4 | 1/59 (1%) | ❌ | **50 ч** | 50 | 0 |  | 11 ч | 4/10 base (DLC harder, ~6-7/10) |
+| 102 | [WATCH_DOGS](games/watch-dogs-ps4.md) | PS4 | 8/50 (14%) | ❌ | **52 ч** | 52 | 0 |  | 15 ч | 4/10 |
+| 103 | [Ghostwire: Tokyo](games/ghostwire-tokyo-ps5.md) | PS5 | 8/67 (9%) | ❌ | **52 ч** | 52 | 0 |  | 16 ч | 3/10 |
+| 104 | [WATCH_DOGS](games/watch-dogs-ps3.md) | PS3 | 8/50 (14%) | ❌ | **54 ч** | 54 | 0 |  |  | 4/10 |
+| 105 | [Grand Theft Auto V](games/grand-theft-auto-v-ps4.md) | PS4 | 42/78 (53%) | ❌ | **54 ч** | 54 | 0 |  |  | 5/10 |
+| 106 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) ⚠ | PS4 | 21/47 (34%) | ❌ | **54 ч** | 34 | 21 |  | 45 ч | 8/10 (PlatPrices lists 10/10) |
+| 107 | [Far Cry 5](games/far-cry-5-ps4.md) ⚠ | PS4 | 6/73 (6%) | ❌ | **55 ч** | 54 | 1 |  | 6.5 ч | 2/10 (DLC 2-5/10) |
+| 108 | [DARK SOULS III](games/dark-souls-iii-ps4.md) | PS4 | 7/43 (10%) | ❌ | **58 ч** | 58 | 0 |  |  |  |
+| 109 | [Middle-earth: Shadow of War](games/middle-earth-shadow-of-war-ps4.md) ⚠ | PS4 | 9/73 (10%) | ❌ | **59 ч** | 58 | 1 |  |  | 3.5/10 |
+| 110 | [ELDEN RING](games/elden-ring-ps5.md) | PS5 | 7/42 (11%) | ❌ | **60 ч** | 60 | 0 |  | 51 ч | 6-7/10 |
+| 111 | [WIPEOUT OMEGA COLLECTION](games/wipeout-omega-collection-ps4.md) | PS4 | 5/35 (8%) | ❌ | **63 ч** | 63 | 0 |  |  | 9/10 |
+| 112 | [Hogwarts Legacy](games/hogwarts-legacy-ps4.md) | PS4 | 6/46 (8%) | ❌ | **64 ч** | 64 | 0 |  | 28 ч | 3/10 |
+| 113 | [DARK SOULS Ⅱ: Scholar of the First Sin](games/dark-souls-ii-scholar-of-the-first-sin-ps4.md) | PS4 | 4/38 (5%) | ❌ | **65 ч** | 65 | 0 |  |  | 6/10 (community 5-7/10) |
 | 114 | [The Evil Within](games/the-evil-within-ps4.md) | PS4 | 9/72 (10%) | ❌ | **68 ч** | 68 | 0 |  | 23 ч | 9/10 |
 | 115 | [Jump Force](games/jump-force-ps4.md) | PS4 | 6/50 (10%) | ❌ | **70 ч** | 70 | 0 |  | 16 ч | 5/10 |
 | 116 | [DEAD OR ALIVE Xtreme 3 Fortune](games/dead-or-alive-xtreme-3-fortune-ps4.md) | PS4 | 4/56 (5%) | ❌ | **70 ч** | 70 | 0 |  | 3.6 ч |  |
@@ -241,8 +243,9 @@
 | 126 | [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) ⚠ | PS4 | 8/45 (14%) | ❌ | **124 ч** | 123 | 0.5 |  | 14 ч |  |
 | 127 | [The Witcher 3: Wild Hunt](games/the-witcher-3-wild-hunt-ps4.md) | PS4 | 2/79 (2%) | ❌ | **135 ч** | 135 | 0 |  | 16 ч | 5/10 (PlatPrices 7/10; Death March required) |
 | 128 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) ⚠ | PS4 | 10/52 (14%) | ❌ | **213 ч** | 145 | 67 |  | 109 ч | 6/10 |
-| 129 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
-| 130 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |
+| 129 | [Grand Theft Auto VI](games/grand-theft-auto-vi-ps5.md) | PS5 | 1/55 (1%) | ❌ | **? ч** | 0 | 0 |  | 2.1 ч |  |
+| 130 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
+| 131 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |
 
 ## Откуда цифры
 

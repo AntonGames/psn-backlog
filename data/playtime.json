@@ -1,10 +1,31 @@
 [
  {
+  "titleId": "PPSA01547_00",
+  "name": "Grand Theft Auto VI",
+  "category": "ps5_native_game",
+  "playDuration": "PT2H4M55S",
+  "lastPlayed": "2026-11-19T10:20:58.340000Z"
+ },
+ {
   "titleId": "CUSA07557_00",
   "name": "F1™ 2017",
   "category": "ps4_game",
-  "playDuration": "PT37H48M52S",
-  "lastPlayed": "2026-11-18T07:42:16.540000Z"
+  "playDuration": "PT43H56M1S",
+  "lastPlayed": "2026-11-18T22:02:14.770000Z"
+ },
+ {
+  "titleId": "PPSA07950_00",
+  "name": "Call of Duty®",
+  "category": "ps5_native_game",
+  "playDuration": "PT295H53S",
+  "lastPlayed": "2026-11-18T21:00:01.210000Z"
+ },
+ {
+  "titleId": "CUSA08519_00",
+  "name": "Red Dead Redemption 2",
+  "category": "ps4_game",
+  "playDuration": "PT108H43M7S",
+  "lastPlayed": "2026-11-18T17:23:57.080000Z"
  },
  {
   "titleId": "CUSA02377_00",
@@ -19,13 +40,6 @@
   "category": "ps4_game",
   "playDuration": "PT14H23M57S",
   "lastPlayed": "2026-11-17T17:34:16.130000Z"
- },
- {
-  "titleId": "CUSA08519_00",
-  "name": "Red Dead Redemption 2",
-  "category": "ps4_game",
-  "playDuration": "PT108H43M",
-  "lastPlayed": "2026-11-17T14:05:40.510000Z"
  },
  {
   "titleId": "CUSA27708_00",
@@ -68,13 +82,6 @@
   "category": "ps5_native_game",
   "playDuration": "PT34H12M50S",
   "lastPlayed": "2026-11-09T08:14:28.580000Z"
- },
- {
-  "titleId": "PPSA07950_00",
-  "name": "Call of Duty®",
-  "category": "ps5_native_game",
-  "playDuration": "PT294H27M2S",
-  "lastPlayed": "2026-11-06T19:42:53.330000Z"
  },
  {
   "titleId": "CUSA00265_00",
