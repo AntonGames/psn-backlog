@@ -26,7 +26,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-18T22:06:41Z",
-   "rarity": 93.2
+   "rarity": 97.4
   },
   {
    "id": 2,
@@ -37,7 +37,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.8
+   "rarity": 11.9
   },
   {
    "id": 3,
@@ -48,7 +48,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 2.2
   },
   {
    "id": 4,
@@ -92,7 +92,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 5
   },
   {
    "id": 8,
@@ -222,9 +222,9 @@
    "detail": "Beat Cal in a fishing challenge.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 1.4
+   "earned": true,
+   "earnedAt": "2026-11-19T14:52:32Z",
+   "rarity": 6
   },
   {
    "id": 20,
@@ -367,7 +367,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.3
   },
   {
    "id": 33,
@@ -389,7 +389,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.8
   },
   {
    "id": 35,
@@ -510,7 +510,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 1.1
   },
   {
    "id": 46,
@@ -554,7 +554,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.5
   },
   {
    "id": 50,
