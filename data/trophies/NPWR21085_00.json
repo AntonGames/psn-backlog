@@ -26,7 +26,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-18T22:06:41Z",
-   "rarity": 97.4
+   "rarity": 98.1
   },
   {
    "id": 2,
@@ -35,9 +35,9 @@
    "detail": "Complete Chapter 1.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 11.9
+   "earned": true,
+   "earnedAt": "2026-11-20T19:59:44Z",
+   "rarity": 24.3
   },
   {
    "id": 3,
@@ -48,7 +48,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 2.2
+   "rarity": 8.5
   },
   {
    "id": 4,
@@ -59,7 +59,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 5,
@@ -92,7 +92,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 5
+   "rarity": 14.3
   },
   {
    "id": 8,
@@ -103,7 +103,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 9,
@@ -224,7 +224,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-11-19T14:52:32Z",
-   "rarity": 6
+   "rarity": 9.5
   },
   {
    "id": 20,
@@ -235,7 +235,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.3
   },
   {
    "id": 21,
@@ -367,7 +367,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.3
+   "rarity": 1.6
   },
   {
    "id": 33,
@@ -389,7 +389,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.8
+   "rarity": 4.8
   },
   {
    "id": 35,
@@ -411,7 +411,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 37,
@@ -433,7 +433,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 39,
@@ -510,7 +510,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 1.1
+   "rarity": 3.8
   },
   {
    "id": 46,
@@ -554,7 +554,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.5
+   "rarity": 1.7
   },
   {
    "id": 50,
@@ -587,7 +587,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.6
   },
   {
    "id": 53,

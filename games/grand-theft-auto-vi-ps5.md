@@ -2,7 +2,7 @@
 
 <img src="https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png" height="96" alt="">
 
-**Прогресс:** 2/55 (2%) `░░░░░░░░░░` · **Платина:** ❌
+**Прогресс:** 3/55 (4%) `░░░░░░░░░░` · **Платина:** ❌
 
 | Параметр | Значение |
 |---|---|
@@ -11,24 +11,23 @@
 | Время на 100% по гайду | ? ч |
 | Сложность по гайду | ? |
 | Онлайн-сервера | —  |
-| Наиграно (PSN) | 12 ч |
+| Наиграно (PSN) | 15 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | — |
 
 ## Невыбитые трофеи
 
-### Основная игра — 2/55
+### Основная игра — 3/55
 
 | | Трофей | Описание | Категория | ~ч | Редкость | Заметка |
 |---|---|---|---|---|---|---|
 | 🏆 | Vice Got a Price! | Congratulations! You're a Leonida Legend. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Paradise Lost | Complete Chapter 1. | ❔ нет оценки |  | 11.9% |  |
-| 🥉 | T**s Ass Drug Money | Complete Chapter 2. | ❔ нет оценки |  | 2.2% |  |
-| 🥉 | Vice City, Baby! | Complete Chapter 3. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | T**s Ass Drug Money | Complete Chapter 2. | ❔ нет оценки |  | 8.5% |  |
+| 🥉 | Vice City, Baby! | Complete Chapter 3. | ❔ нет оценки |  | 0.2% |  |
 | 🥉 | Top Of The World, Ma | Complete Chapter 4. | ❔ нет оценки |  | 0.1% |  |
 | 🥇 | You Gotta Know When to Get Off | Complete the final mission. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Trust | Complete Breakfast Run. | ❔ нет оценки |  | 5% |  |
-| 🥉 | Break the Bank | Complete The Cartel Heist. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | Trust | Complete Breakfast Run. | ❔ нет оценки |  | 14.3% |  |
+| 🥉 | Break the Bank | Complete The Cartel Heist. | ❔ нет оценки |  | 0.2% |  |
 | 🥉 | Family Matters | Complete Child's Play. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | DWNFALL | Complete Headliners. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Hi-Jacked | Complete VCIA Takedown. | ❔ нет оценки |  | 0.1% |  |
@@ -39,7 +38,7 @@
 | 🥈 | The Shootist | Earn a gold medal in all Shooting Range challenges. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Top Fun | Win a Top Fun Drone Race at every location. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Earn Cash, Not Kudos | Win 20 different races. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Stick Fiddler | Complete an arcade game. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | Stick Fiddler | Complete an arcade game. | ❔ нет оценки |  | 0.3% |  |
 | 🥉 | Road to Rehabilitation | Complete the final mission for Andy. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | This Was No Boat Accident | Complete the final mission for Kenton. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | The Lone Rider | Complete the final mission for Billy. | ❔ нет оценки |  | 0.1% |  |
@@ -51,27 +50,27 @@
 | 🥈 | Don't Touch My Deck | Complete 3 Collectible Card sets. | ❔ нет оценки |  | 0.1% |  |
 | 🥈 | You WAiNKer! | WAiNK It at 100 locations. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | One Last Thing | Complete 50 Challenges. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Hot Together | Lose a 4 star Wanted Level with your partner and escape the heat. | ❔ нет оценки |  | 0.3% |  |
+| 🥉 | Hot Together | Lose a 4 star Wanted Level with your partner and escape the heat. | ❔ нет оценки |  | 1.6% |  |
 | 🥉 | Retail Therapy | Rob 3 shops back-to-back with your partner without losing your Wanted Level. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Whip It Good | Discover 100 vehicles. | ❔ нет оценки |  | 0.8% |  |
+| 🥉 | Whip It Good | Discover 100 vehicles. | ❔ нет оценки |  | 4.8% |  |
 | 🥉 | Gunslinger | Take down 5 enemies in a single use of Combat Focus. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Catch Me If You Can | Make an unscheduled departure at VCIA. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | Catch Me If You Can | Make an unscheduled departure at VCIA. | ❔ нет оценки |  | 0.2% |  |
 | 🥉 | Challenging Tank | Kinda hot in these Rhinos. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Sneakthief | Rob a jewelry store without being detected. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | Sneakthief | Rob a jewelry store without being detected. | ❔ нет оценки |  | 0.2% |  |
 | 🥈 | Maximum Withdrawal | Rob 5 Bank Vaults and escape. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | A Classic Blitz Play | Rob an Armored Truck and escape. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | The Goodtime State | Explore all of Leonida. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Pest Control | Rob an Illegal Operation belonging to each gang. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | In The Beginning… | Enjoy a cocktail with a view on Ocean Beach. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Capital Offense | Smash your way out of a vehicle showroom in classic style. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Let’s Go Bowling | Follow-through at the Kolt & Associates' bowling alley. | ❔ нет оценки |  | 1.1% |  |
+| 🥉 | Let’s Go Bowling | Follow-through at the Kolt & Associates' bowling alley. | ❔ нет оценки |  | 3.8% |  |
 | 🥉 | Personal Best | A partnership with mass appeal. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Actions Speak Louder | Choices made (for better or worse). | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Bad Luck, I Guess | Second time's the charm. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | The Truth Is Out There | What the hell just happened? | ❔ нет оценки |  | 0.5% |  |
+| 🥉 | The Truth Is Out There | What the hell just happened? | ❔ нет оценки |  | 1.7% |  |
 | 🥉 | Ten Pin | Bowl 'em over with a melee drive-by. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | Dime on the Dollar | Earn $250,000 laundering Marked Bills through your contacts. | ❔ нет оценки |  | 0.1% |  |
-| 🥉 | Treat Yo Self | Spend $100,000 across all shops. | ❔ нет оценки |  | 0.1% |  |
+| 🥉 | Treat Yo Self | Spend $100,000 across all shops. | ❔ нет оценки |  | 0.6% |  |
 | 🥉 | Little Boxes | Purchase all garage properties. | ❔ нет оценки |  | 0.1% |  |
 | 🥉 | On the Spot | Register 10 vehicles to the Scooter Bros app. | ❔ нет оценки |  | 0.1% |  |
 
