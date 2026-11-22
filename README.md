@@ -1,8 +1,8 @@
 # PSN бэклог · Anton_games337
 
-Уровень **561** · 🏆 222 · 🥇 1148 · 🥈 3251 · 🥉 8592  
+Уровень **561** · 🏆 222 · 🥇 1148 · 🥈 3251 · 🥉 8593  
 Списков трофеев: **371**, закрыто на 100%: **240**, в бэклоге: **131**  
-Данные PSN: 2026-11-21
+Данные PSN: 2026-11-22
 
 ## Итого осталось
 
@@ -10,12 +10,12 @@
 |---|---:|---:|
 | Можно выбить офлайн | 4566 | ~4451 ч |
 | [🌐 Невыбитый онлайн (сервера живы)](ONLINE.md) | 145 | ~271 ч |
-| **Всего выбиваемо** | **4763** | **~4722 ч** |
+| **Всего выбиваемо** | **4762** | **~4722 ч** |
 | [⛔ Недоступно сейчас (DLC: The Division 2, Astro's Playroom)](UNOBTAINABLE.md#недоступно-сейчас) | 23 | ~21 ч |
 | [💀 Сервера закрыты](UNOBTAINABLE.md#сервера-закрыты) | 0 | — |
 | [🐞 Глючные](UNOBTAINABLE.md#глючные-трофеи) | 0 | — |
-| ❔ Без оценки | 52 | — |
-| Всего невыбитых | 4786 | |
+| ❔ Без оценки | 51 | — |
+| Всего невыбитых | 4785 | |
 
 ## ⏰ Ближайшие дедлайны
 
@@ -33,6 +33,7 @@
 
 | Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |
 |---|---:|---:|---:|---:|---:|
+| 2026-11-22 | 4762 | 4722 | 4451 | 271 | 222 |
 | 2026-11-21 | 4763 | 4722 | 4451 | 271 | 222 |
 | 2026-11-20 | 4764 | 4722 | 4451 | 271 | 222 |
 | 2026-11-19 | 4765 | 4722 | 4451 | 271 | 222 |
@@ -44,13 +45,12 @@
 | 2026-11-13 | 4882 | 4906 | 4597 | 309 | 215 |
 | 2026-11-12 | 4889 | 4912 | 4597 | 314 | 215 |
 | 2026-11-11 | 4891 | 4913 | 4597 | 316 | 215 |
-| 2026-11-09 | 4861 | 4876 | 4602 | 274 | 215 |
 
 Вся история — в [`data/history.csv`](data/history.csv).
 
 </details>
 
-Последние отчёты: [weekly 2026-11-16](reports/weekly/2026-11-16.md) · [weekly 2026-11-16-2](reports/weekly/2026-11-16-2.md) · [alerts 2026-11-11](reports/alerts/2026-11-11.md)
+Последние отчёты: [weekly 2026-11-16](reports/weekly/2026-11-16.md) · [weekly 2026-11-16-2](reports/weekly/2026-11-16-2.md) · [weekly 2026-11-11](reports/weekly/2026-11-11.md)
 
 ## 🏆 Недавно закрыто на 100%
 
@@ -109,7 +109,7 @@
 | PS4 | 77 | 3074 | 3199 |
 | PS3 | 23 | 807 | 796 |
 | PS Vita | 16 | 399 | 399 |
-| PS5 | 15 | 483 | 328 |
+| PS5 | 15 | 482 | 328 |
 
 ## Все игры бэклога
 
@@ -121,7 +121,7 @@
 | 2 | [Call of Duty: Black Ops II](games/call-of-duty-black-ops-ii-ps4.md) | PS4 | 54/91 (58%) | ❌ | **2 ч** 🔁 | 2 | 0 |  | 235 ч | 7-8/10 (full list); campaign part ~5/10 |
 | 3 | [Back to the Future - Episode 1: It's About Time](games/back-to-the-future-episode-1-its-about-time-ps3.md) | PS3 | 4/12 (23%) | — | **2 ч** | 2 | 0 |  |  |  |
 | 4 | [Paranormal Activity](games/paranormal-activity-ps4.md) | PS4 | 1/12 (9%) | ❌ | **3 ч** | 3 | 0 |  |  | 4.75/10 (Stratege votes) |
-| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  | 15 ч | 5/10 |
+| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  | 26 ч | 5/10 |
 | 6 | [Call of Duty Modern Warfare II](games/call-of-duty-modern-warfare-ii-ps5-npwr50314_00.md) | PS5 | 12/25 (51%) | ❌ | **4.5 ч** | 4.5 | 0 |  | 15 ч | 5/10 |
 | 7 | [Journey](games/journey-ps4.md) ⚠ | PS4 | 2/14 (9%) | — | **6.4 ч** | 3.9 | 2.5 |  | 3.9 ч |  |
 | 8 | [Battlefield 3](games/battlefield-3-ps3.md) | PS3 | 43/64 (73%) | ❌ | **9 ч** | 9 | 0 |  |  | 3/10 (remaining campaign part) |
@@ -245,7 +245,7 @@
 | 126 | [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) ⚠ | PS4 | 8/45 (14%) | ❌ | **124 ч** | 123 | 0.5 |  | 14 ч |  |
 | 127 | [The Witcher 3: Wild Hunt](games/the-witcher-3-wild-hunt-ps4.md) | PS4 | 2/79 (2%) | ❌ | **135 ч** | 135 | 0 |  | 16 ч | 5/10 (PlatPrices 7/10; Death March required) |
 | 128 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) ⚠ | PS4 | 10/52 (14%) | ❌ | **213 ч** | 145 | 67 |  | 109 ч | 6/10 |
-| 129 | [Grand Theft Auto VI](games/grand-theft-auto-vi-ps5.md) | PS5 | 3/55 (4%) | ❌ | **? ч** | 0 | 0 |  | 15 ч |  |
+| 129 | [Grand Theft Auto VI](games/grand-theft-auto-vi-ps5.md) | PS5 | 4/55 (5%) | ❌ | **? ч** | 0 | 0 |  | 26 ч |  |
 | 130 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
 | 131 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |
 

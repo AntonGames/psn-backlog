@@ -26,7 +26,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-18T22:06:41Z",
-   "rarity": 98.1
+   "rarity": 98.2
   },
   {
    "id": 2,
@@ -37,7 +37,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-20T19:59:44Z",
-   "rarity": 24.3
+   "rarity": 34.4
   },
   {
    "id": 3,
@@ -48,7 +48,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 8.5
+   "rarity": 15.9
   },
   {
    "id": 4,
@@ -59,7 +59,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.2
+   "rarity": 1.1
   },
   {
    "id": 5,
@@ -90,9 +90,9 @@
    "detail": "Complete Breakfast Run.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 14.3
+   "earned": true,
+   "earnedAt": "2026-11-21T19:35:31Z",
+   "rarity": 23.5
   },
   {
    "id": 8,
@@ -103,7 +103,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.2
+   "rarity": 1.1
   },
   {
    "id": 9,
@@ -114,7 +114,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 10,
@@ -224,7 +224,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-11-19T14:52:32Z",
-   "rarity": 9.5
+   "rarity": 11.9
   },
   {
    "id": 20,
@@ -246,7 +246,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 22,
@@ -257,7 +257,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.5
   },
   {
    "id": 23,
@@ -367,7 +367,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 1.6
+   "rarity": 3.5
   },
   {
    "id": 33,
@@ -389,7 +389,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 4.8
+   "rarity": 10.8
   },
   {
    "id": 35,
@@ -400,7 +400,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 36,
@@ -411,7 +411,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.2
+   "rarity": 0.3
   },
   {
    "id": 37,
@@ -433,7 +433,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.2
+   "rarity": 0.5
   },
   {
    "id": 39,
@@ -510,7 +510,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 3.8
+   "rarity": 6.9
   },
   {
    "id": 46,
@@ -521,7 +521,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.3
   },
   {
    "id": 47,
@@ -554,7 +554,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 1.7
+   "rarity": 3.1
   },
   {
    "id": 50,
@@ -587,7 +587,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.6
+   "rarity": 2.2
   },
   {
    "id": 53,
