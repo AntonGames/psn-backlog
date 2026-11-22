@@ -37,7 +37,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-20T19:59:44Z",
-   "rarity": 34.4
+   "rarity": 36.9
   },
   {
    "id": 3,
@@ -48,7 +48,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 15.9
+   "rarity": 17.9
   },
   {
    "id": 4,
@@ -59,7 +59,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 1.1
+   "rarity": 1.4
   },
   {
    "id": 5,
@@ -92,7 +92,7 @@
    "hidden": true,
    "earned": true,
    "earnedAt": "2026-11-21T19:35:31Z",
-   "rarity": 23.5
+   "rarity": 26
   },
   {
    "id": 8,
@@ -103,7 +103,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 1.1
+   "rarity": 1.4
   },
   {
    "id": 9,
@@ -224,7 +224,7 @@
    "hidden": false,
    "earned": true,
    "earnedAt": "2026-11-19T14:52:32Z",
-   "rarity": 11.9
+   "rarity": 12.5
   },
   {
    "id": 20,
@@ -235,7 +235,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.3
+   "rarity": 0.4
   },
   {
    "id": 21,
@@ -246,7 +246,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.2
+   "rarity": 0.3
   },
   {
    "id": 22,
@@ -257,7 +257,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.5
+   "rarity": 0.6
   },
   {
    "id": 23,
@@ -268,7 +268,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.1
+   "rarity": 0.2
   },
   {
    "id": 24,
@@ -367,7 +367,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 3.5
+   "rarity": 4.2
   },
   {
    "id": 33,
@@ -376,9 +376,9 @@
    "detail": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 0.1
+   "earned": true,
+   "earnedAt": "2026-11-22T17:21:59Z",
+   "rarity": 0.2
   },
   {
    "id": 34,
@@ -387,9 +387,9 @@
    "detail": "Discover 100 vehicles.",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 10.8
+   "earned": true,
+   "earnedAt": "2026-11-22T18:41:26Z",
+   "rarity": 12.9
   },
   {
    "id": 35,
@@ -433,7 +433,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.5
+   "rarity": 0.7
   },
   {
    "id": 39,
@@ -486,8 +486,8 @@
    "detail": "Enjoy a cocktail with a view on Ocean Beach.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-22T16:26:14Z",
    "rarity": 0.1
   },
   {
@@ -510,7 +510,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 6.9
+   "rarity": 7.8
   },
   {
    "id": 46,
@@ -521,7 +521,7 @@
    "hidden": true,
    "earned": false,
    "earnedAt": null,
-   "rarity": 0.3
+   "rarity": 0.4
   },
   {
    "id": 47,
@@ -552,9 +552,9 @@
    "detail": "What the hell just happened?",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
-   "rarity": 3.1
+   "earned": true,
+   "earnedAt": "2026-11-22T17:03:09Z",
+   "rarity": 3.5
   },
   {
    "id": 50,
@@ -563,8 +563,8 @@
    "detail": "Bowl 'em over with a melee drive-by.",
    "group": "default",
    "hidden": true,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-22T16:35:05Z",
    "rarity": 0.1
   },
   {
@@ -587,7 +587,7 @@
    "hidden": false,
    "earned": false,
    "earnedAt": null,
-   "rarity": 2.2
+   "rarity": 2.8
   },
   {
    "id": 53,
