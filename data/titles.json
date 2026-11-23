@@ -4,7 +4,7 @@
   "name": "Grand Theft Auto VI",
   "platform": "PS5",
   "npServiceName": "trophy2",
-  "progress": 12,
+  "progress": 14,
   "defined": {
    "bronze": 46,
    "silver": 6,
@@ -12,12 +12,12 @@
    "platinum": 1
   },
   "earned": {
-   "bronze": 9,
+   "bronze": 10,
    "silver": 0,
    "gold": 0,
    "platinum": 0
   },
-  "lastUpdated": "2026-11-22T18:43:07Z",
+  "lastUpdated": "2026-11-22T21:31:05Z",
   "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png"
  },
  {
