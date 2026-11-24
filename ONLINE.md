@@ -1,8 +1,8 @@
 # 🌐 Невыбитый онлайн
 
-Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-23) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
+Только трофеи, которые **ещё не получены** (данные PSN от 2026-11-24) и требуют онлайна: другие игроки, онлайн-режимы, кооп, онлайн-рейтинг или таблицы рекордов. Уже выбитый онлайн сюда не попадает. Трофеи, онлайн которых закрыт, вынесены в [⛔ Недоступно](UNOBTAINABLE.md#сервера-закрыты).
 
-**Итого:** 145 трофеев в 17 играх, ~271 ч.
+**Итого:** 144 трофея в 17 играх, ~263 ч.
 
 | Игра | Платформа | Не выбито онлайн | ~ч | Сервера |
 |---|---|---|---:|---|
@@ -18,7 +18,7 @@
 | [NARUTO SHIPPUDEN: Ultimate Ninja STORM 2](games/naruto-shippuden-ultimate-ninja-storm-2-ps4.md) | PS4 | **1**: Which name shall I use? | 3.6 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps3.md) | PS3 | **8**: Rivals Welcome, Incredible, Crazy Good, Mega Good, Hotshot, Slam Master и ещё 2 | 11 | 🟢 работают |
 | [ULTIMATE MARVEL VS. CAPCOM 3](games/ultimate-marvel-vs-capcom-3-ps4.md) | PS4 | **8**: Seductive Embrace, Rivals Welcome, Hellbent, Dreaded Opponent, Forged From Steel, Mega Good и ещё 2 | 21 | 🟢 работают |
-| [F1 2017](games/f1-2017-ps4.md) | PS4 | **2**: Competitive Streak, Another lap? | 30 | 🟢 работают |
+| [F1 2017](games/f1-2017-ps4.md) | PS4 | **1**: Another lap? | 22 | 🟢 работают |
 | [The Last of Us Remastered](games/the-last-of-us-remastered-ps4.md) | PS4 | **17**: Knowing the Basics, Populace, Firefly, Hunter, Wharf, Capitol и ещё 11 | 39 | 🟢 работают |
 | [Need for Speed](games/need-for-speed-ps4.md) | PS4 | **44**: Platinum Trophy, Early Days, Getting Noticed, Can I Get Your Autograph?, Guidance From Amy, RWB и ещё 38 | 42 | 🟢 работают |
 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) | PS3 | **35**: Have Gun Will Travel, Slow on the Draw, Hit the Trail, The Quick and Everyone Else..., How the West Was Won, Go Team! и ещё 29 | 46 | 🟢 работают |
@@ -162,13 +162,12 @@
 
 [Страница игры →](games/ultimate-marvel-vs-capcom-3-ps4.md)
 
-## F1 2017 · PS4 — 2 трофея
+## F1 2017 · PS4 — 1 трофей
 
 Сервера: 🟢 работают Проверено 23.11.2026: новых анонсов закрытия нет (также 16.11 и 11.11). Ранее (09.11.2026): F1 2017 нет в официальном списке закрытий EA: он актуален по декабрь 2026, а из F1 в нём закрыты только 2011–2014 (21.03.2024). По Википедии, самая старая F1 с работающими серверами — F1 2015. Платины с онлайн-рангом 25 и Champion Star получали до 10.09.2025. Живых лобби почти нет, нужен буст. ([источник](https://www.ea.com/legal/service-updates/a-h))
 
 | | Трофей | Описание | Вид | ~ч |
 |---|---|---|---|---:|
-| 🥉 | Competitive Streak | Obtain a rank of 25 Online | MP | 8 |
 | 🥈 | Another lap? | Obtain a champion star Online | MP | 22 |
 
 [Страница игры →](games/f1-2017-ps4.md)

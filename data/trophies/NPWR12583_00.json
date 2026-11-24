@@ -519,8 +519,8 @@
    "detail": "Obtain a rank of 25 Online",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-24T08:35:23Z",
    "rarity": 2
   },
   {
