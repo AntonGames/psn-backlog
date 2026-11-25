@@ -3,15 +3,22 @@
   "titleId": "CUSA07557_00",
   "name": "F1™ 2017",
   "category": "ps4_game",
-  "playDuration": "PT43H56M1S",
-  "lastPlayed": "2026-11-24T07:10:13.460000Z"
+  "playDuration": "PT44H26M2S",
+  "lastPlayed": "2026-11-25T10:01:46.270000Z"
  },
  {
   "titleId": "PPSA01547_00",
   "name": "Grand Theft Auto VI",
   "category": "ps5_native_game",
-  "playDuration": "PT36H32M4S",
-  "lastPlayed": "2026-11-24T06:47:41.060000Z"
+  "playDuration": "PT38H56M26S",
+  "lastPlayed": "2026-11-25T09:36:16.260000Z"
+ },
+ {
+  "titleId": "CUSA14909_00",
+  "name": "SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated",
+  "category": "ps4_game",
+  "playDuration": "PT30H38M22S",
+  "lastPlayed": "2026-11-25T09:32:04.440000Z"
  },
  {
   "titleId": "PPSA07950_00",
@@ -901,13 +908,6 @@
   "category": "ps4_game",
   "playDuration": "PT29H1M44S",
   "lastPlayed": "2023-05-01T11:37:23.310000Z"
- },
- {
-  "titleId": "CUSA14909_00",
-  "name": "SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated",
-  "category": "ps4_game",
-  "playDuration": "PT30H37M47S",
-  "lastPlayed": "2023-04-30T11:21:10.200000Z"
  },
  {
   "titleId": "CUSA00002_00",
