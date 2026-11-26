@@ -2,7 +2,7 @@
 
 Уровень **561** · 🏆 222 · 🥇 1148 · 🥈 3251 · 🥉 8601  
 Списков трофеев: **371**, закрыто на 100%: **240**, в бэклоге: **131**  
-Данные PSN: 2026-11-25
+Данные PSN: 2026-11-26
 
 ## Итого осталось
 
@@ -32,6 +32,7 @@
 
 | Дата | Выбиваемых трофеев | Осталось ч | Офлайн ч | Онлайн ч | Платин |
 |---|---:|---:|---:|---:|---:|
+| 2026-11-26 | 4754 | 4873 | 4610 | 263 | 222 |
 | 2026-11-25 | 4754 | 4873 | 4610 | 263 | 222 |
 | 2026-11-24 | 4755 | 4874 | 4611 | 263 | 222 |
 | 2026-11-23 | 4756 | 4882 | 4611 | 271 | 222 |
@@ -43,7 +44,6 @@
 | 2026-11-17 | 4748 | 4752 | 4481 | 271 | 222 |
 | 2026-11-16 | 4807 | 4815 | 4541 | 274 | 220 |
 | 2026-11-15 | 4843 | 4850 | 4576 | 274 | 219 |
-| 2026-11-14 | 4882 | 4906 | 4597 | 309 | 215 |
 
 Вся история — в [`data/history.csv`](data/history.csv).
 
@@ -120,7 +120,7 @@
 | 2 | [Call of Duty: Black Ops II](games/call-of-duty-black-ops-ii-ps4.md) | PS4 | 54/91 (58%) | ❌ | **2 ч** 🔁 | 2 | 0 |  | 235 ч | 7-8/10 (full list); campaign part ~5/10 |
 | 3 | [Back to the Future - Episode 1: It's About Time](games/back-to-the-future-episode-1-its-about-time-ps3.md) | PS3 | 4/12 (23%) | — | **2 ч** | 2 | 0 |  |  |  |
 | 4 | [Paranormal Activity](games/paranormal-activity-ps4.md) | PS4 | 1/12 (9%) | ❌ | **3 ч** | 3 | 0 |  |  | 4.75/10 (Stratege votes) |
-| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  | 39 ч | 5/10 |
+| 5 | [Grand Theft Auto V](games/grand-theft-auto-v-ps5.md) | PS5 | 39/78 (50%) | ❌ | **4.4 ч** 🔁 | 4.4 | 0 |  | 40 ч | 5/10 |
 | 6 | [Call of Duty Modern Warfare II](games/call-of-duty-modern-warfare-ii-ps5-npwr50314_00.md) | PS5 | 12/25 (51%) | ❌ | **4.5 ч** | 4.5 | 0 |  | 15 ч | 5/10 |
 | 7 | [Journey](games/journey-ps4.md) ⚠ | PS4 | 2/14 (9%) | — | **6.4 ч** | 3.9 | 2.5 |  | 3.9 ч |  |
 | 8 | [Battlefield 3](games/battlefield-3-ps3.md) | PS3 | 43/64 (73%) | ❌ | **9 ч** | 9 | 0 |  |  | 3/10 (remaining campaign part) |
@@ -243,7 +243,7 @@
 | 125 | [Red Dead Redemption](games/red-dead-redemption-ps3.md) ⚠ | PS3 | 4/91 (4%) | ❌ | **109 ч** | 64 | 46 |  |  | 5/10 (est.; PowerPyx rates the offline-only remaster 4/10) |
 | 126 | [PROJECT CARS PERFECT EDITION](games/project-cars-perfect-edition-ps4.md) ⚠ | PS4 | 8/45 (14%) | ❌ | **124 ч** | 123 | 0.5 |  | 14 ч |  |
 | 127 | [The Witcher 3: Wild Hunt](games/the-witcher-3-wild-hunt-ps4.md) | PS4 | 2/79 (2%) | ❌ | **135 ч** | 135 | 0 |  | 16 ч | 5/10 (PlatPrices 7/10; Death March required) |
-| 128 | [Grand Theft Auto VI](games/grand-theft-auto-vi-ps5.md) | PS5 | 11/55 (15%) | ❌ | **158 ч** | 158 | 0 |  | 39 ч | 4/10 |
+| 128 | [Grand Theft Auto VI](games/grand-theft-auto-vi-ps5.md) | PS5 | 11/55 (15%) | ❌ | **158 ч** | 158 | 0 |  | 40 ч | 4/10 |
 | 129 | [Red Dead Redemption 2](games/red-dead-redemption-2-ps4.md) ⚠ | PS4 | 10/52 (14%) | ❌ | **213 ч** | 145 | 67 |  | 109 ч | 6/10 |
 | 130 | [ASTRO’s PLAYROOM](games/astros-playroom-ps5.md) | PS5 | 46/51 (93%) | ✅ | **⛔** | 0 | 0 | 5 | 9.3 ч | 1/10 |
 | 131 | [Tom Clancy’s The Division2](games/tom-clancys-the-division2-ps4.md) | PS4 | 61/79 (78%) | ✅ | **⛔** | 0 | 0 | 18 | 40 ч | 3/10 (DLC groups) |

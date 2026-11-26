@@ -11,7 +11,7 @@
 | Время на 100% по гайду | 150+ (50-60 Story Mode, 100+ GTA Online) - online part already done ч |
 | Сложность по гайду | 5/10 |
 | Онлайн-сервера | — All GTA Online trophies (Heists, Doomsday and online base trophies) already earned; remaining are Story Mode + Rockstar Editor only. GTA Online PS4/PS5 still running in 2026. |
-| Наиграно (PSN) | 39 ч |
+| Наиграно (PSN) | 40 ч |
 | Нужен интернет даже для соло | нет |
 | Уверенность оценки | medium |
 
