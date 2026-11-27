@@ -530,8 +530,8 @@
    "detail": "Obtain a champion star Online",
    "group": "default",
    "hidden": false,
-   "earned": false,
-   "earnedAt": null,
+   "earned": true,
+   "earnedAt": "2026-11-27T06:17:15Z",
    "rarity": 0.9
   },
   {
